@@ -1,0 +1,39 @@
+rules:
+  - name: rule1
+    label: Founder
+    type: basic
+    priority: 1
+    pattern: |
+      (?<Anderson>[]) <nsubj (founder >nmod_of [] >compound (?<Interface>[]))
+    
+  # - name: rule2
+  #   label: Node2
+  #   type: event
+  #   priority: 1
+  #   pattern: |
+  #     trigger = founder
+  
+      
+  #     Anderson <nsubj (?<dummy>[]) (>cop (?<test>[])) 
+  
+  # (?<founder>[tag=/N.*/]) <nsubj founder >nmod_of (?<company>[tag=/N.*/]) (>compound (?<company2> [tag=/N.*/]))*
+  # - name: rule2
+  #   label: Persontest
+  #   type: event
+  #   pattern: |
+  #     trigger = founder
+  #     entity = >nmod_of (?<entity>[tag=/N.*/])
+  #     person = >nsubj (?<entity>[tag=/N.*/])
+  # - name: base_rule
+  #   label: Circadian
+  #   type: basic
+  #   pattern: |
+  #     circadian (?<subgfytucu> [tag = /N.*/])+
+
+
+  # - name: base_rule
+  #   label: Circadian
+  #   type: basic
+  #   pattern: |
+  #     [] <nsubjpass educated >nmod []
+  

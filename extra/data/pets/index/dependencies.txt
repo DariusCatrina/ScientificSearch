@@ -1,0 +1,11 @@
+8nsubj
+A0
+dobj
+A1
+punct
+nmod:tmod
+AM-TMP
+det
+acl
+xcomp
+Ax

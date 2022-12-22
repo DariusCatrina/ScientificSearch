@@ -14,3 +14,4 @@ libraryDependencies ++= {
   )
 
 }
+connectInput in run := true

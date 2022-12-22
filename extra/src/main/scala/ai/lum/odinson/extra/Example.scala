@@ -37,7 +37,6 @@ case class ArgInfo(role: String, tokens: Seq[String]) {
 object ArgInfo { implicit val rw: ReadWriter[ArgInfo] = macroRW }
 
 object Example extends App with LazyLogging {
-
   // Specify paths and settings in the local config file
   val config = ConfigFactory.load()
   val outputFile = config.apply[File]("odinson.extra.outputFile")

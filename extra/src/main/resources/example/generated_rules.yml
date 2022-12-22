@@ -1,0 +1,7 @@
+rules:
+  - name: rule1
+    label: Person
+    type: basic
+    priority: 1
+    pattern: |
+      (?<node1>[]) <nsubj founder >nmod_of (?<node8>[]) >compound (?<node7>[])

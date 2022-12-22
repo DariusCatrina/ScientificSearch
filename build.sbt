@@ -133,3 +133,4 @@ ThisBuild / developers := List(
 // tasks
 addCommandAlias("dockerize", ";clean;compile;test;docker:publishLocal")
 addCommandAlias("dockerizeAndPublish", ";clean;compile;test;docker:publish")
+connectInput in run := true

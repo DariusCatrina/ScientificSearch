@@ -38,14 +38,27 @@ trait OdinsonHighlighter {
     if (captures.nonEmpty) {
       // highlight args
       for (capture <- captures) {
-        val start = capture.capturedMatch.start
-        val end = capture.capturedMatch.end - 1
+        if (capture.label == Option[String]("anchor")) {
+          val anchorOpenTag: String = Console.BLACK + Console.BLUE_B
+          val start = capture.capturedMatch.start
+          val end = capture.capturedMatch.end - 1
 
-        val startTok = tokens(start)
-        tokens(start) = s"$argOpenTag$startTok"
+          val startTok = tokens(start)
+          tokens(start) = s"$anchorOpenTag$startTok"
 
-        val endTok = tokens(end)
-        tokens(end) = s"$endTok$closeTag"
+          val endTok = tokens(end)
+          tokens(end) = s"$endTok$closeTag"
+        } else {
+          val start = capture.capturedMatch.start
+          val end = capture.capturedMatch.end - 1
+
+          val startTok = tokens(start)
+          tokens(start) = s"$argOpenTag$startTok"
+
+          val endTok = tokens(end)
+          tokens(end) = s"$endTok$closeTag"
+        }
+
       }
 
 //      // mark start and end of mention

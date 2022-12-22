@@ -1,0 +1,22 @@
+digraph G{
+edge [dir=forward]
+node [shape=plaintext]
+
+0 [label="0 (None)"]
+0 -> 3 [label="root"]
+1 [label="1 (Anderson)"]
+2 [label="2 (is)"]
+3 [label="3 (founder)"]
+3 -> 1 [label="nsubj"]
+3 -> 2 [label="cop"]
+3 -> 5 [label="conj"]
+3 -> 8 [label="nmod"]
+4 [label="4 (and)"]
+5 [label="5 (chairman)"]
+5 -> 4 [label="cc"]
+6 [label="6 (of)"]
+7 [label="7 (Interface)"]
+8 [label="8 (Inc.)"]
+8 -> 6 [label="case"]
+8 -> 7 [label="compound"]
+}
