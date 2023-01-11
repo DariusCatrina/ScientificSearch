@@ -35,3 +35,6 @@ docs/.jekyll-cache/
 docs/.sass-cache/
 docs/_site/
 
+# ds_store
+**/.DS_Store
+

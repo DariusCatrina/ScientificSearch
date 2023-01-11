@@ -2,6 +2,7 @@ package ai.lum.odinson.extra
 
 import java.io.File
 
+import scala.util.control.Breaks._
 import scala.util.control.NonFatal
 import ai.lum.common.ConfigFactory
 import ai.lum.common.ConfigUtils._
@@ -36,16 +37,17 @@ object ScientificSearchEngine extends App with LazyLogging {
   // raw scala service designed to interact with py code
   // Specify paths and settings in the local config file
   val debug = false
+  val print_query=true
   val config = ConfigFactory.load()
   val outputFile = config.apply[File]("odinson.extra.outputFile")
   val rulesFile = config.apply[String]("odinson.extra.rulesFile")
   val displayField = config.apply[String]("odinson.displayField")
 
   // Initialize the extractor engine, using the index specified in the config
-  val extractorEngine = ExtractorEngine.fromConfig()
-  // val proc: Processor = new CoreNLPProcessor()
-  val processorType = config.apply[String]("odinson.extra.processorType")
 
+  val extractorEngine = ExtractorEngine.fromConfig()
+  // val proc: Processor = new FastNLPProcessor()
+  val processorType = config.apply[String]("odinson.extra.processorType")
   val proc: Processor = getProcessor(processorType)
   proc.annotate("Warm up")
 
@@ -97,7 +99,7 @@ object ScientificSearchEngine extends App with LazyLogging {
               val longestPath = getLongestPath(queryGraph)
               val queryString =
                 getQueryString(longestPath, queryEdges, anchors, queryCaptures, rawToken)
-              if (debug) {
+              if (print_query) {
                 print("Query String: ")
                 println(queryString)
               }
@@ -398,18 +400,25 @@ object ScientificSearchEngine extends App with LazyLogging {
           // find all edges that match the current edge
           for (((resStart, resEnd), resLabel) <- resEdges) {
             // found a match
-            if ((resStart == matchedMapping(start)) && label == resLabel) {
-              // match and recurse
-              val nextUnmatchedEdges = unmatchedEdges.clone()
-              nextUnmatchedEdges.remove((start, end))
-              val nextMatchedMapping = matchedMapping.clone()
-              nextMatchedMapping(end) = resEnd
-              val (newMapping, found) = completeMatching(
-                nextUnmatchedEdges,
-                nextMatchedMapping
-              )
-              if (found) {
-                return (newMapping, true)
+            breakable{
+              if ((resStart == matchedMapping(start)) && label == resLabel) {
+                // if is anchor, check if match the exact word
+                if (anchors.contains(end) && resTokens(resEnd).toLowerCase() != tokens(end).toLowerCase()){
+                  break
+                }
+
+                // match and recurse
+                val nextUnmatchedEdges = unmatchedEdges.clone()
+                nextUnmatchedEdges.remove((start, end))
+                val nextMatchedMapping = matchedMapping.clone()
+                nextMatchedMapping(end) = resEnd
+                val (newMapping, found) = completeMatching(
+                  nextUnmatchedEdges,
+                  nextMatchedMapping
+                )
+                if (found) {
+                  return (newMapping, true)
+                }
               }
             }
           }
