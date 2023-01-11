@@ -37,7 +37,7 @@ object ScientificSearchEngine extends App with LazyLogging {
   // raw scala service designed to interact with py code
   // Specify paths and settings in the local config file
   val debug = false
-  val print_query=true
+  val print_query = true
   val config = ConfigFactory.load()
   val outputFile = config.apply[File]("odinson.extra.outputFile")
   val rulesFile = config.apply[String]("odinson.extra.rulesFile")
@@ -58,7 +58,7 @@ object ScientificSearchEngine extends App with LazyLogging {
     var running = true
     while (running) {
       try {
-        breakable{
+        breakable {
           println("Enter command:")
           val line = readLine()
           if (line == null) {
@@ -66,7 +66,7 @@ object ScientificSearchEngine extends App with LazyLogging {
             running = false
           } else {
             line.trim match {
-              case ":search" =>
+              case "search" =>
                 println("Enter Query String:")
                 val querySentence: String = readLine()
                 val doc: Document = proc.annotate(querySentence)
@@ -87,7 +87,7 @@ object ScientificSearchEngine extends App with LazyLogging {
                   idx += 1
                 }
                 // sanity check
-                if (anchors.length + queryCaptures.length == 0){
+                if (anchors.length + queryCaptures.length == 0) {
                   println("Empty Query!")
                   break
                 }
@@ -127,56 +127,69 @@ object ScientificSearchEngine extends App with LazyLogging {
                 val filtered_result = ArrayBuffer[OdinsonScoreDoc]()
                 println("Printing Matches: ")
                 var matchID: Int = 1
-                for (hit <- results.scoreDocs) {
-                  val doc = extractorEngine.doc(hit.doc)
-                  val docID = doc.getField("docId").stringValue
-                  val spans = hit.matches.toVector
-                  val captures = hit.matches.flatMap(_.namedCaptures).toVector
-                  val resultString = extractorEngine.index.doc(hit.doc).getField("raw").stringValue
-                  val (matchedMapping, isValid) = validateResult(
-                    resultString,
-                    captures,
-                    queryGraph,
-                    queryEdges,
-                    queryCaptures,
-                    anchors,
-                    rawToken
-                  )
-                  if (isValid || anchors.length + queryCaptures.length == 1) {
-                    println("Match #" + matchID + ":")
-                    matchID += 1
-                    println(s"Doc $docID (lucene doc = ${hit.doc}  score = ${hit.score})")
-                    var newCaptures = Vector[NamedCapture]()
-                    for ((queryId, destId) <- matchedMapping) {
-                      val capturedMatch = StateMatch(destId, destId + 1, Array[NamedCapture]())
-                      if (anchors.contains(queryId)) {
-                        newCaptures = newCaptures :+ NamedCapture(
-                          rawToken(queryId),
-                          label = Option[String]("anchor"),
-                          capturedMatch
-                        )
-                      } else if (queryCaptures.contains(queryId)) {
-                        newCaptures = newCaptures :+ NamedCapture(
-                          rawToken(queryId),
-                          None,
-                          capturedMatch
-                        )
-                      }
-                    }
-                    val res = ConsoleHighlighter.highlight(
-                      index = extractorEngine.index,
-                      docId = hit.doc,
-                      field = displayField,
-                      spans = spans,
-                      captures = newCaptures
+                breakable {
+                  for (hit <- results.scoreDocs) {
+                    val doc = extractorEngine.doc(hit.doc)
+                    val docID = doc.getField("docId").stringValue
+                    val spans = hit.matches.toVector
+                    val captures = hit.matches.flatMap(_.namedCaptures).toVector
+                    val resultString =
+                      extractorEngine.index.doc(hit.doc).getField("raw").stringValue
+                    val (matchedMapping, isValid) = validateResult(
+                      resultString,
+                      captures,
+                      queryGraph,
+                      queryEdges,
+                      queryCaptures,
+                      anchors,
+                      rawToken
                     )
-
-                    println(res)
-                    println()
+                    if (isValid || anchors.length + queryCaptures.length == 1) {
+                      if (matchID % 50 == 1 & matchID > 1) {
+                        println("Printed 50 results. Continue? y/n")
+                        if (readLine().toLowerCase() != "y") {
+                          break
+                        }
+                      }
+                      println("Match #" + matchID + ":")
+                      matchID += 1
+                      println(s"Doc $docID (lucene doc = ${hit.doc}  score = ${hit.score})")
+                      var newCaptures = Vector[NamedCapture]()
+                      for ((queryId, destId) <- matchedMapping) {
+                        val capturedMatch = StateMatch(destId, destId + 1, Array[NamedCapture]())
+                        if (anchors.contains(queryId)) {
+                          newCaptures = newCaptures :+ NamedCapture(
+                            rawToken(queryId),
+                            label = Option[String]("anchor"),
+                            capturedMatch
+                          )
+                        } else if (queryCaptures.contains(queryId)) {
+                          newCaptures = newCaptures :+ NamedCapture(
+                            rawToken(queryId),
+                            None,
+                            capturedMatch
+                          )
+                        }
+                      }
+                      val res = ConsoleHighlighter.highlight(
+                        index = extractorEngine.index,
+                        docId = hit.doc,
+                        field = displayField,
+                        spans = spans,
+                        captures = newCaptures
+                      )
+                      println(res)
+                      println()
+                    }
                   }
+
                 }
                 println("All Matches Printed!")
-              case ":exit" => running = false
+              case "exit" => running = false
+              case input =>
+                println(input + " is not a command. Supported commands are:")
+                println("search: begin search")
+                println("exit: exit program")
             }
           }
         }
@@ -288,7 +301,7 @@ object ScientificSearchEngine extends App with LazyLogging {
     return (queryGraph, queryEdges)
   }
 
-  // function thawt gets query sentence
+  // function that gets query sentence
   def getLongestPath(queryGraph: HashMap[Int, HashSet[Int]]): ArrayBuffer[Int] = {
     var longestPath = ArrayBuffer[Int]()
     def getPath(cur: Int, parent: HashMap[Int, Int]): ArrayBuffer[Int] = {
@@ -330,7 +343,7 @@ object ScientificSearchEngine extends App with LazyLogging {
     captures: ArrayBuffer[Int],
     tokens: HashMap[Int, String]
   ): String = {
-    if (anchors.length + captures.length == 1){
+    if (anchors.length + captures.length == 1) {
       val cur = anchors(0)
       if (tokens(cur).charAt(tokens(cur).length - 1) != '.') {
         return "(?<node" + cur + ">[norm=" + tokens(cur) + "])"
@@ -423,10 +436,14 @@ object ScientificSearchEngine extends App with LazyLogging {
           // find all edges that match the current edge
           for (((resStart, resEnd), resLabel) <- resEdges) {
             // found a match
-            breakable{
+            breakable {
               if ((resStart == matchedMapping(start)) && label == resLabel) {
                 // if is anchor, check if match the exact word
-                if (anchors.contains(end) && resTokens(resEnd).toLowerCase() != tokens(end).toLowerCase()){
+                if (
+                  anchors.contains(end) && resTokens(resEnd).toLowerCase() != tokens(
+                    end
+                  ).toLowerCase()
+                ) {
                   break
                 }
 
