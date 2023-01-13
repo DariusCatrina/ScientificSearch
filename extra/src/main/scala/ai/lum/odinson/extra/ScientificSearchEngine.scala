@@ -129,6 +129,7 @@ object ScientificSearchEngine extends App with LazyLogging {
                 var matchID: Int = 1
                 breakable {
                   for (hit <- results.scoreDocs) {
+                    print("hit")
                     val doc = extractorEngine.doc(hit.doc)
                     val docID = doc.getField("docId").stringValue
                     val spans = hit.matches.toVector

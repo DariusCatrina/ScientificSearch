@@ -36,7 +36,7 @@ object ProcessorsUtils {
     processorType match {
       case "FastNLPProcessor" => {
         // Jan 3, Daniel Gui: commented out to have processor work on Apple Silicon
-        //dynet.Utils.initializeDyNet(autoBatch = false, mem = "1024,1024,1024,1024")
+        dynet.Utils.initializeDyNet(autoBatch = false, mem = "1024,1024,1024,1024")
         new FastNLPProcessor
       }
       case "CluProcessor" => {
