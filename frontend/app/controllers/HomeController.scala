@@ -1,4 +1,8 @@
-package ai.lum.odinson.extra
+package controllers
+
+import javax.inject._
+import play.api._
+import play.api.mvc._
 
 import java.io.File
 
@@ -29,9 +33,14 @@ import ai.lum.odinson._
 import ai.lum.odinson.lucene.search._
 import ai.lum.common.DisplayUtils._
 import ai.lum.odinson.lucene._
-import ai.lum.odinson.lucene.search.highlight.ConsoleHighlighter
+import ai.lum.odinson.lucene.search.highlight.HtmlHighlighter
 
-object ScientificSearchEngine extends App with LazyLogging {
+/** This controller creates an `Action` to handle HTTP requests to the
+  * application's home page.
+  */
+@Singleton
+class HomeController @Inject() (val controllerComponents: ControllerComponents)
+    extends BaseController {
 
   println("Warming up Engine, please wait...")
   // raw scala service designed to interact with py code
@@ -42,6 +51,8 @@ object ScientificSearchEngine extends App with LazyLogging {
   val outputFile = config.apply[File]("odinson.extra.outputFile")
   val rulesFile = config.apply[String]("odinson.extra.rulesFile")
   val displayField = config.apply[String]("odinson.displayField")
+  println(outputFile)
+  println(System.getProperty("user.dir"))
 
   // Initialize the extractor engine, using the index specified in the config
 
@@ -53,155 +64,137 @@ object ScientificSearchEngine extends App with LazyLogging {
 
   println("Initialization Complete. Ready for execution.")
 
-  try {
-    // run the shell
-    var running = true
-    while (running) {
-      try {
-        println(System.getProperty("user.dir"))
-        breakable {
-          println("Enter command:")
-          val line = readLine()
-          if (line == null) {
-            println(":exit")
-            running = false
-          } else {
-            line.trim match {
-              case "search" =>
-                println("Enter Query String:")
-                val querySentence: String = readLine()
-                val doc: Document = proc.annotate(querySentence)
-                val words = ArrayBuffer[String]();
-                var idx: Int = 0;
-                val queryCaptures = ArrayBuffer[Int]()
-                val anchors = ArrayBuffer[Int]()
-                for (word <- querySentence.split(" ")) {
-                  if (word.charAt(0) == ':') {
-                    queryCaptures += idx
-                    words += word.substring(1)
-                  } else if (word.charAt(0) == '$') {
-                    anchors += idx
-                    words += word.substring(1)
-                  } else {
-                    words += word
-                  }
-                  idx += 1
-                }
-                // sanity check
-                if (anchors.length + queryCaptures.length == 0) {
-                  println("Empty Query!")
-                  break
-                }
-                if (anchors.length + queryCaptures.length == 1) {
-                  if (queryCaptures.length == 1) {
-                    println("Invalid query. You cannot have only one capture and no anchor.")
-                    break
-                  }
-                }
-                if (debug) {
-                  println("Raw sentence ")
-                  println(words.mkString(" "))
-                }
-                val (rawToken, rawEdgeLabel, rawGraph) = convertSentenceToGraph(words.mkString(" "))
-                if (debug) {
-                  print("Raw Graph: ")
-                  println(rawGraph)
-                }
-                val (queryGraph, queryEdges) =
-                  buildQueryGraph(anchors, queryCaptures, rawEdgeLabel, rawGraph)
-                val longestPath = getLongestPath(queryGraph)
-                val queryString =
-                  getQueryString(longestPath, queryEdges, anchors, queryCaptures, rawToken)
-                if (print_query) {
-                  print("Query String: ")
-                  println(queryString)
-                }
-                var after: OdinsonScoreDoc = null
-                val start = System.currentTimeMillis()
-                val q = extractorEngine.compiler.mkQuery(queryString)
-                val results = extractorEngine.query(q)
-                val duration = (System.currentTimeMillis() - start) / 1000f
-                after = results.scoreDocs.lastOption.getOrElse(null)
-                val totalHits = results.totalHits
+  /** Create an Action to render an HTML page.
+    *
+    * The configuration in the `routes` file means that this method
+    * will be called when the application receives a `GET` request with
+    * a path of `/`.
+    */
+  def index() = Action { implicit request: Request[AnyContent] =>
+    Ok(views.html.search())
+  }
 
-                val end = start + results.scoreDocs.length - 1
-                val filtered_result = ArrayBuffer[OdinsonScoreDoc]()
-                println("Printing Matches: ")
-                var matchID: Int = 1
-                breakable {
-                  for (hit <- results.scoreDocs) {
-                    print("hit")
-                    val doc = extractorEngine.doc(hit.doc)
-                    val docID = doc.getField("docId").stringValue
-                    val spans = hit.matches.toVector
-                    val captures = hit.matches.flatMap(_.namedCaptures).toVector
-                    val resultString =
-                      extractorEngine.index.doc(hit.doc).getField("raw").stringValue
-                    val (matchedMapping, isValid) = validateResult(
-                      resultString,
-                      captures,
-                      queryGraph,
-                      queryEdges,
-                      queryCaptures,
-                      anchors,
-                      rawToken
-                    )
-                    if (isValid || anchors.length + queryCaptures.length == 1) {
-                      if (matchID % 50 == 1 & matchID > 1) {
-                        println("Printed 50 results. Continue? y/n")
-                        if (readLine().toLowerCase() != "y") {
-                          break
-                        }
-                      }
-                      println("Match #" + matchID + ":")
-                      matchID += 1
-                      println(s"Doc $docID (lucene doc = ${hit.doc}  score = ${hit.score})")
-                      var newCaptures = Vector[NamedCapture]()
-                      for ((queryId, destId) <- matchedMapping) {
-                        val capturedMatch = StateMatch(destId, destId + 1, Array[NamedCapture]())
-                        if (anchors.contains(queryId)) {
-                          newCaptures = newCaptures :+ NamedCapture(
-                            rawToken(queryId),
-                            label = Option[String]("anchor"),
-                            capturedMatch
-                          )
-                        } else if (queryCaptures.contains(queryId)) {
-                          newCaptures = newCaptures :+ NamedCapture(
-                            rawToken(queryId),
-                            None,
-                            capturedMatch
-                          )
-                        }
-                      }
-                      val res = ConsoleHighlighter.highlight(
-                        index = extractorEngine.index,
-                        docId = hit.doc,
-                        field = displayField,
-                        spans = spans,
-                        captures = newCaptures
-                      )
-                      println(res)
-                      println()
-                    }
-                  }
+  /** Action to process and get results * */
+  def results(query: String) = Action { implicit request: Request[AnyContent] =>
+    try {
+      val querySentence: String = query
+      val doc: Document = proc.annotate(querySentence)
+      val words = ArrayBuffer[String]();
+      var idx: Int = 0;
+      val queryCaptures = ArrayBuffer[Int]()
+      val anchors = ArrayBuffer[Int]()
+      for (word <- querySentence.split(" ")) {
+        if (word.charAt(0) == ':') {
+          queryCaptures += idx
+          words += word.substring(1)
+        } else if (word.charAt(0) == '$') {
+          anchors += idx
+          words += word.substring(1)
+        } else {
+          words += word
+        }
+        idx += 1
+      }
+      // sanity check
+      if (anchors.length + queryCaptures.length == 0) {
+        println("Empty Query!")
+        Ok(views.html.search())
+      }
+      if (anchors.length + queryCaptures.length == 1) {
+        if (queryCaptures.length == 1) {
+          println("Invalid query. You cannot have only one capture and no anchor.")
+          Ok(views.html.search())
+        }
+      }
+      if (debug) {
+        println("Raw sentence ")
+        println(words.mkString(" "))
+      }
+      val (rawToken, rawEdgeLabel, rawGraph) = convertSentenceToGraph(words.mkString(" "))
+      if (debug) {
+        print("Raw Graph: ")
+        println(rawGraph)
+      }
+      val (queryGraph, queryEdges) =
+        buildQueryGraph(anchors, queryCaptures, rawEdgeLabel, rawGraph)
+      val longestPath = getLongestPath(queryGraph)
+      val queryString =
+        getQueryString(longestPath, queryEdges, anchors, queryCaptures, rawToken)
+      if (print_query) {
+        print("Query String: ")
+        println(queryString)
+      }
+      var after: OdinsonScoreDoc = null
+      val start = System.currentTimeMillis()
+      val q = extractorEngine.compiler.mkQuery(queryString)
+      val results = extractorEngine.query(q)
+      val duration = (System.currentTimeMillis() - start) / 1000f
+      after = results.scoreDocs.lastOption.getOrElse(null)
+      val totalHits = results.totalHits
 
-                }
-                println("All Matches Printed!")
-              case "exit" => running = false
-              case input =>
-                println(input + " is not a command. Supported commands are:")
-                println("search: begin search")
-                println("exit: exit program")
+      val end = start + results.scoreDocs.length - 1
+      val filtered_result = ArrayBuffer[OdinsonScoreDoc]()
+      var matchID: Int = 1
+      var resultText = ListBuffer[String]()
+      var resultDoc = ListBuffer[String]()
+      breakable {
+        for (hit <- results.scoreDocs) {
+          print("hit")
+          val doc = extractorEngine.doc(hit.doc)
+          val docID = doc.getField("docId").stringValue
+          val spans = hit.matches.toVector
+          val captures = hit.matches.flatMap(_.namedCaptures).toVector
+          val resultString =
+            extractorEngine.index.doc(hit.doc).getField("raw").stringValue
+          val (matchedMapping, isValid) = validateResult(
+            resultString,
+            captures,
+            queryGraph,
+            queryEdges,
+            queryCaptures,
+            anchors,
+            rawToken
+          )
+          if (isValid || anchors.length + queryCaptures.length == 1) {
+            if (matchID % 10 == 1 & matchID > 1) {
+              break
             }
+            matchID += 1
+            var newCaptures = Vector[NamedCapture]()
+            for ((queryId, destId) <- matchedMapping) {
+              val capturedMatch = StateMatch(destId, destId + 1, Array[NamedCapture]())
+              if (anchors.contains(queryId)) {
+                newCaptures = newCaptures :+ NamedCapture(
+                  rawToken(queryId),
+                  label = Option[String]("anchor"),
+                  capturedMatch
+                )
+              } else if (queryCaptures.contains(queryId)) {
+                newCaptures = newCaptures :+ NamedCapture(
+                  rawToken(queryId),
+                  None,
+                  capturedMatch
+                )
+              }
+            }
+            val res = HtmlHighlighter.highlight(
+              index = extractorEngine.index,
+              docId = hit.doc,
+              field = displayField,
+              spans = spans,
+              captures = newCaptures
+            )
+            resultText += res
+            resultDoc += docID
           }
         }
-      } catch {
-        // if the exception is non-fatal then display it and keep going
-        case NonFatal(e) => (e.printStackTrace())
       }
+      println("All Matches Printed!")
+      Ok(views.html.result(resultText.toList, resultDoc.toList, query))
+    } catch {
+      // if the exception is non-fatal then display it and keep going
+      case NonFatal(e) => (Ok(views.html.search()))
     }
-  } finally {
-    // manual terminal cleanup
   }
 
   // function to annotate sentence and convert to graph

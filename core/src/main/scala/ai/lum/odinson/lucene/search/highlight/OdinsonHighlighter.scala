@@ -39,7 +39,8 @@ trait OdinsonHighlighter {
       // highlight args
       for (capture <- captures) {
         if (capture.label == Option[String]("anchor")) {
-          val anchorOpenTag: String = Console.BLACK + Console.BLUE_B
+          //val anchorOpenTag: String = Console.BLACK + Console.BLUE_B
+          val anchorOpenTag: String = "<mark class=\"odin-mention\">"
           val start = capture.capturedMatch.start
           val end = capture.capturedMatch.end - 1
 

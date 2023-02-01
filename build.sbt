@@ -11,13 +11,13 @@ ThisBuild / fork := true
  */
 lazy val documentationSettings = Seq(
   // see https://www.scala-sbt.org/1.x/docs/Howto-Scaladoc.html#Enable+automatic+linking+to+the+external+Scaladoc+of+managed+dependencies
-  autoAPIMappings := true,
+  autoAPIMappings := true
 )
 
 lazy val commonSettings = Seq(
   // show test duration
   Test / testOptions += Tests.Argument("-oD"),
-  excludeDependencies += "commons-logging" % "commons-logging",
+  excludeDependencies += "commons-logging" % "commons-logging"
 )
 
 lazy val core = project
@@ -40,8 +40,8 @@ lazy val core = project
       "gitHeadCommit" -> { git.gitHeadCommit.value.getOrElse("") },
       "gitHeadCommitDate" -> { git.gitHeadCommitDate.value.getOrElse("") },
       "gitUncommittedChanges" -> { git.gitUncommittedChanges.value }
-      )
     )
+  )
 
 lazy val extra = project
   .aggregate(core)
@@ -56,8 +56,29 @@ lazy val extra = project
     //dockerChmodType := DockerChmodType.UserGroupWriteExecute
     Universal / javaOptions ++= Seq(
       "-J-Xmx6G"
-      )
     )
+  )
+
+// lazy val extra1 = project
+//   .aggregate(extra)
+//   .dependsOn(extra)
+//   .settings(commonSettings)
+//   .enablePlugins(JavaAppPackaging, DockerPlugin)
+//   .settings(generalDockerSettings)
+//   .settings(
+//     Docker / packageName := "odinson-extras",
+//     //mainClass in Compile := Some("ai.lum.odinson.extra.IndexDocuments"),
+//     //dockerRepository := Some("index.docker.io"),
+//     //dockerChmodType := DockerChmodType.UserGroupWriteExecute
+//     Universal / javaOptions ++= Seq(
+//       "-J-Xmx6G"
+//     )
+//   )
+
+// frontend info
+lazy val frontend = project
+  .dependsOn(extra)
+  .enablePlugins(PlayScala)
 
 // Docker settings
 val gitDockerTag = settingKey[String]("Git commit-based tag for docker")
@@ -77,13 +98,13 @@ lazy val generalDockerSettings = {
     dockerAliases ++= Seq(
       dockerAlias.value.withTag(Option("latest")),
       dockerAlias.value.withTag(Option(gitDockerTag.value))
-      ),
+    ),
     Docker / maintainer := "Gus Hahn-Powell <ghp@lum.ai>",
     dockerBaseImage := "adoptopenjdk/openjdk11",
     Universal / javaOptions ++= Seq(
       "-Dodinson.dataDir=/app/data/odinson"
-      )
     )
+  )
 }
 
 // Release steps
@@ -100,7 +121,7 @@ releaseProcess := Seq[ReleaseStep](
   setNextVersion,
   commitNextVersion,
   pushChanges
-  )
+)
 
 // Publishing settings
 
@@ -118,8 +139,8 @@ ThisBuild / scmInfo := Some(
   ScmInfo(
     url("https://github.com/lum-ai/odinson"),
     "scm:git@github.com:lum-ai/odinson.git"
-    )
   )
+)
 
 ThisBuild / developers := List(
   Developer(
@@ -127,8 +148,8 @@ ThisBuild / developers := List(
     name = "Marco Antonio Valenzuela Escárcega",
     email = "marco@lum.ai",
     url = url("https://lum.ai")
-    )
   )
+)
 
 // tasks
 addCommandAlias("dockerize", ";clean;compile;test;docker:publishLocal")
