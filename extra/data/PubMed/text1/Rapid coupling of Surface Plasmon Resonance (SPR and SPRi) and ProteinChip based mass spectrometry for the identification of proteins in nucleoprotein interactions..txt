@@ -1,1 +1,0 @@
-We compared coupling approaches of SPR to LC-MS and ProteinChip-based mass spectrometry (SELDI) as a means of identifying proteins captured on DNA surfaces. The approach we outline has the potential to allow multiple, quantitative analysis of macromolecular interactions followed by rapid mass spectrometry identification of retained material.
