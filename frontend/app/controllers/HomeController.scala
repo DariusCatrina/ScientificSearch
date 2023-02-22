@@ -87,11 +87,13 @@ class HomeController @Inject() (
     val query: Query = new Query(queryString)
     query.preProcess(proc)
     query.search(proc, extractorEngine)
-    val (resultText, resultDoc) = query.generateResult(10, extractorEngine, proc, displayField)
+    val (resultText, resultDoc, resultTitle) =
+      query.generateResult(10, extractorEngine, proc, displayField)
     cache.set("RunningQuery", query)
     cache.set("ResultText", resultText)
     cache.set("ResultDoc", resultDoc)
-    Ok(views.html.result(resultText.toList, resultDoc.toList, queryString))
+    cache.set("ResultTitle", resultTitle)
+    Ok(views.html.result(resultText.toList, resultDoc.toList, resultTitle.toList, queryString))
     // } catch {
     //   // if the exception is non-fatal then display it and keep going
     //   case NonFatal(e) => (Ok(views.html.search()))
@@ -105,17 +107,27 @@ class HomeController @Inject() (
     val queryOption = cache.get[Query]("RunningQuery")
     val resultTextOption = cache.get[ListBuffer[String]]("ResultText")
     val resultDocOption = cache.get[ListBuffer[String]]("ResultDoc")
-    if (queryOption.nonEmpty && resultTextOption.nonEmpty && resultDocOption.nonEmpty) {
+    val resultTitleOption = cache.get[ListBuffer[String]]("ResultTitle")
+    if (
+      queryOption.nonEmpty && resultTextOption.nonEmpty && resultDocOption.nonEmpty && resultTitleOption.nonEmpty
+    ) {
       val query = queryOption.get
       var resultText = resultTextOption.get
       var resultDoc = resultDocOption.get
-      val (nextText, nextDoc) =
+      var resultTitle = resultTitleOption.get
+      val (nextText, nextDoc, nextTitle) =
         query.generateResult(10, extractorEngine, proc, displayField)
       resultText ++= nextText
       resultDoc ++= nextDoc
+      resultTitle ++= nextTitle
       cache.set("RunningQuery", query)
       print(resultText.length)
-      Ok(views.html.result(resultText.toList, resultDoc.toList, query.querySentence))
+      Ok(views.html.result(
+        resultText.toList,
+        resultDoc.toList,
+        resultTitle.toList,
+        query.querySentence
+      ))
     } else {
       Ok(views.html.search())
     }

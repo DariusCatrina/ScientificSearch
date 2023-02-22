@@ -24,6 +24,7 @@ import org.clulab.processors.{ Document, Processor }
 import ai.lum.odinson.extra.utils.{ ExtraFileUtils, ProcessorsUtils }
 import ai.lum.odinson.extra.utils.ProcessorsUtils.getProcessor
 import scala.collection.mutable._
+import java.sql.{ Connection, DriverManager, ResultSet }
 
 import ai.lum.odinson._
 import ai.lum.odinson.lucene.search._
@@ -105,13 +106,36 @@ class Query(val querySentence: String, var debug: Boolean = false, var printQuer
     scoreDocs = results.scoreDocs
   }
 
+  def getDocTitles(docIDs: ListBuffer[String]): ListBuffer[String] = {
+    classOf[org.postgresql.Driver]
+    val con_str = "jdbc:postgresql://localhost:5432/postgres?user=postgres&password=gui0721"
+    val conn = DriverManager.getConnection(con_str)
+    val resTitles = ListBuffer[String]()
+    for (docID <- docIDs) {
+      try {
+        val stm = conn.createStatement(ResultSet.TYPE_FORWARD_ONLY, ResultSet.CONCUR_READ_ONLY)
+        val rs = stm.executeQuery("SELECT * from pubmed where id = " + docID)
+        if (rs.next) {
+          resTitles += rs.getString("title")
+        } else {
+          resTitles += docID
+        }
+      } catch {
+        case _: Throwable => resTitles += docID
+      }
+    }
+    conn.close()
+    assert(docIDs.length == resTitles.length)
+    return resTitles
+  }
+
   /** get next numToDisplay results * */
   def generateResult(
     numToDisplay: Int,
     extractorEngine: ExtractorEngine,
     proc: Processor,
     displayField: String
-  ): (ListBuffer[String], ListBuffer[String]) = {
+  ): (ListBuffer[String], ListBuffer[String], ListBuffer[String]) = {
     val resultText = ListBuffer[String]()
     val resultDoc = ListBuffer[String]()
     var matchID: Int = 1
@@ -125,9 +149,10 @@ class Query(val querySentence: String, var debug: Boolean = false, var printQuer
         extractorEngine.index.doc(hit.doc).getField("raw").stringValue
       if (longestPath.length == queryGraph.size) {
         if (matchID % numToDisplay == 1 & matchID > 1) {
-          return (resultText, resultDoc)
+          return (resultText, resultDoc, getDocTitles(resultDoc))
         }
         matchID += 1
+        var newCaptures = Vector[NamedCapture]()
         val res = HtmlHighlighter.highlight(
           index = extractorEngine.index,
           docId = hit.doc,
@@ -162,7 +187,7 @@ class Query(val querySentence: String, var debug: Boolean = false, var printQuer
           print(matchID)
           if (matchID % numToDisplay == 1 & matchID > 1) {
             print("hERE")
-            return (resultText, resultDoc)
+            return (resultText, resultDoc, getDocTitles(resultDoc))
           }
           matchID += 1
           var newCaptures = Vector[NamedCapture]()
@@ -208,7 +233,7 @@ class Query(val querySentence: String, var debug: Boolean = false, var printQuer
       }
       curID += 1
     }
-    return (resultText, resultDoc)
+    return (resultText, resultDoc, getDocTitles(resultDoc))
   }
 
   /** helper function to validate result * */

@@ -48,6 +48,7 @@ object ScientificSearchEngine extends App with LazyLogging {
   val extractorEngine = ExtractorEngine.fromConfig()
   // val proc: Processor = new FastNLPProcessor()
   val processorType = config.apply[String]("odinson.extra.processorType")
+  print(processorType)
   val proc: Processor = getProcessor(processorType)
   proc.annotate("Warm up")
 

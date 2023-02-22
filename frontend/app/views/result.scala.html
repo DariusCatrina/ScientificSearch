@@ -4,7 +4,7 @@
 * two arguments, a `String` for the title of the page and an `Html`
 * object to insert into the body of the page.
 *@
-@(resultText: List[String], resultDoc: List[String], query: String)
+@(resultText: List[String], resultDoc: List[String], resultTitle: List[String], query: String)
 
 <!DOCTYPE html>
 <html lang="en">
@@ -45,7 +45,7 @@
                     <div class="row">
                         <a href="https://pubmed.ncbi.nlm.nih.gov/@resultDoc(index)/">
                             <div class="col-xs-6 col-sm-9 col-md-9 col-lg-10 title">
-                                <h3>@Html(resultDoc(index))</h3>
+                                <h5>@Html(resultTitle(index))</h5>
                                 <p>@Html(resultText(index))</p>
                             </div>
                         </a>
@@ -119,6 +119,10 @@
     </div>
     </div>
     <style type="text/css">
+        a {
+            text-decoration: none;
+        }
+
         body {
             background: #eee;
 

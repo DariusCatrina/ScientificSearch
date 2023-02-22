@@ -7,6 +7,7 @@ resolvers += ("Artifactory" at "http://artifactory.cs.arizona.edu:8081/artifacto
 libraryDependencies += guice
 libraryDependencies += ehcache
 libraryDependencies += "org.scalatestplus.play" %% "scalatestplus-play" % "5.0.0" % Test
+libraryDependencies += "org.postgresql"          % "postgresql"         % "9.3-1102-jdbc41"
 
 // Adds additional packages into Twirl
 //TwirlKeys.templateImports += "com.cs.duke.controllers._"
