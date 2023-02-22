@@ -5,6 +5,7 @@ resolvers += ("Artifactory" at "http://artifactory.cs.arizona.edu:8081/artifacto
 )
 
 libraryDependencies += guice
+libraryDependencies += ehcache
 libraryDependencies += "org.scalatestplus.play" %% "scalatestplus-play" % "5.0.0" % Test
 
 // Adds additional packages into Twirl
