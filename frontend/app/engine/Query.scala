@@ -135,9 +135,15 @@ class Query(val querySentence: String, var debug: Boolean = false, var printQuer
     extractorEngine: ExtractorEngine,
     proc: Processor,
     displayField: String
-  ): (ListBuffer[String], ListBuffer[String], ListBuffer[String]) = {
+  ): (
+    ListBuffer[String],
+    ListBuffer[String],
+    ListBuffer[String],
+    HashMap[(String, String), Int]
+  ) = {
     val resultText = ListBuffer[String]()
     val resultDoc = ListBuffer[String]()
+    val captureCounts = HashMap[(String, String), Int]()
     var matchID: Int = 1
     while (curID < scoreDocs.length) {
       val hit = scoreDocs(curID)
@@ -147,21 +153,40 @@ class Query(val querySentence: String, var debug: Boolean = false, var printQuer
       val captures = hit.matches.flatMap(_.namedCaptures).toVector
       val resultString =
         extractorEngine.index.doc(hit.doc).getField("raw").stringValue
+      val resultTokens = resultString.split(" ")
+
+      var newCaptures = Vector[NamedCapture]()
       if (longestPath.length == queryGraph.size) {
         if (matchID % numToDisplay == 1 & matchID > 1) {
           return (resultText, resultDoc, getDocTitles(resultDoc))
         }
         matchID += 1
-        var newCaptures = Vector[NamedCapture]()
+        // filter out those not in capture
+        for (c <- captures) {
+          val nodeID = c.name.substring(c.name.length - 1).toInt
+          if (anchors.contains(nodeID)) {
+            newCaptures = newCaptures :+ NamedCapture(
+              rawToken[nodeID],
+              Option[String]("anchor"),
+              c.capturedMatch
+            )
+          } else if (queryCaptures.contains(nodeID)) {
+            newCaptures = newCaptures :+ NamedCapture(
+              rawToken[nodeID],
+              None,
+              c.capturedMatch
+            )
+          }
+        }
+
         val res = HtmlHighlighter.highlight(
           index = extractorEngine.index,
           docId = hit.doc,
           field = displayField,
           spans = spans,
-          captures = captures
+          captures = newCaptures
         )
         var prevText: String = ""
-        print(hit.doc + 1)
         try {
           prevText = extractorEngine.index.doc(hit.doc - 1).getField("raw").stringValue
         } catch {
@@ -190,7 +215,7 @@ class Query(val querySentence: String, var debug: Boolean = false, var printQuer
             return (resultText, resultDoc, getDocTitles(resultDoc))
           }
           matchID += 1
-          var newCaptures = Vector[NamedCapture]()
+
           for ((queryId, destId) <- matchedMapping) {
             val capturedMatch = StateMatch(destId, destId + 1, Array[NamedCapture]())
             if (anchors.contains(queryId)) {
@@ -229,6 +254,22 @@ class Query(val querySentence: String, var debug: Boolean = false, var printQuer
 
           resultText += "..." + prevText + " " + res + " " + nextText + "..."
           resultDoc += docID
+        }
+      }
+      // add to the count
+      for (c <- newCaptures) {
+        if (c.label == None) {
+          val word = c.name
+          val capWordsBuilder = ArrayBuffer[String]()
+          for (i <- c.capturedMatch.start until c.capturedMatch.end) {
+            capWords.append(resultTokens(i))
+          }
+          val capWords = capWordsBuilder.mkString(" ")
+          if (captureCounts.contains((word, capWords))) {
+            captureCounts((word, capWords)) += 1
+          } else {
+            captureCounts((word, capWords)) = 1
+          }
         }
       }
       curID += 1

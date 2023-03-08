@@ -87,13 +87,20 @@ class HomeController @Inject() (
     val query: Query = new Query(queryString)
     query.preProcess(proc)
     query.search(proc, extractorEngine)
-    val (resultText, resultDoc, resultTitle) =
+    val (resultText, resultDoc, resultTitle, resultCount) =
       query.generateResult(10, extractorEngine, proc, displayField)
     cache.set("RunningQuery", query)
     cache.set("ResultText", resultText)
     cache.set("ResultDoc", resultDoc)
     cache.set("ResultTitle", resultTitle)
-    Ok(views.html.result(resultText.toList, resultDoc.toList, resultTitle.toList, queryString))
+    cache.set("ResultCount", resultCount)
+    Ok(views.html.result(
+      resultText.toList,
+      resultDoc.toList,
+      resultTitle.toList,
+      resultCount.toMap,
+      queryString
+    ))
     // } catch {
     //   // if the exception is non-fatal then display it and keep going
     //   case NonFatal(e) => (Ok(views.html.search()))
