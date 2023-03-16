@@ -89,6 +89,7 @@ class HomeController @Inject() (
     query.search(proc, extractorEngine)
     val (resultText, resultDoc, resultTitle, resultCount) =
       query.generateResult(10, extractorEngine, proc, displayField)
+    print(resultCount)
     cache.set("RunningQuery", query)
     cache.set("ResultText", resultText)
     cache.set("ResultDoc", resultDoc)
@@ -115,6 +116,7 @@ class HomeController @Inject() (
     val resultTextOption = cache.get[ListBuffer[String]]("ResultText")
     val resultDocOption = cache.get[ListBuffer[String]]("ResultDoc")
     val resultTitleOption = cache.get[ListBuffer[String]]("ResultTitle")
+    val resultCountOption = cache.get[HashMap[(String, String), Int]]("ResultCount")
     if (
       queryOption.nonEmpty && resultTextOption.nonEmpty && resultDocOption.nonEmpty && resultTitleOption.nonEmpty
     ) {
@@ -122,17 +124,27 @@ class HomeController @Inject() (
       var resultText = resultTextOption.get
       var resultDoc = resultDocOption.get
       var resultTitle = resultTitleOption.get
-      val (nextText, nextDoc, nextTitle) =
+      var resultCount = resultCountOption.get
+      val (nextText, nextDoc, nextTitle, nextCount) =
         query.generateResult(10, extractorEngine, proc, displayField)
+
       resultText ++= nextText
       resultDoc ++= nextDoc
       resultTitle ++= nextTitle
-      cache.set("RunningQuery", query)
-      print(resultText.length)
+
+      // merge count
+      for ((k, v) <- nextCount) {
+        if (resultCount.contains(k)) {
+          resultCount(k) += v
+        } else {
+          resultCount(k) = v
+        }
+      }
       Ok(views.html.result(
         resultText.toList,
         resultDoc.toList,
         resultTitle.toList,
+        resultCount.toMap,
         query.querySentence
       ))
     } else {

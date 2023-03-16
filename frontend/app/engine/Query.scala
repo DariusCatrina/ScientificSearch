@@ -31,6 +31,11 @@ import ai.lum.odinson.lucene.search._
 import ai.lum.common.DisplayUtils._
 import ai.lum.odinson.lucene._
 import ai.lum.odinson.lucene.search.highlight.HtmlHighlighter
+import org.apache.lucene.document.{ Document => LuceneDocument }
+import ai.lum.odinson.{ Document => OdinsonDocument }
+import ai.lum.odinson.GraphField
+
+import scala.collection.JavaConversions._
 
 object QueryExceptions {
   class EmptyQueryException extends RuntimeException
@@ -53,6 +58,10 @@ class Query(val querySentence: String, var debug: Boolean = false, var printQuer
   var searchReady = false
   var scoreDocs = Array[OdinsonScoreDoc]()
   var curID: Int = 0
+
+  var config = ConfigFactory.load()
+
+  val docsDir = config.apply[File]("odinson.docsDir")
 
   var idx: Int = 0
 
@@ -145,6 +154,15 @@ class Query(val querySentence: String, var debug: Boolean = false, var printQuer
     val resultDoc = ListBuffer[String]()
     val captureCounts = HashMap[(String, String), Int]()
     var matchID: Int = 1
+
+    // template to store count
+    val capturesBuilder = ListBuffer[String]()
+    val capturesIds = ListBuffer[String]()
+    for (i <- queryCaptures) {
+      capturesBuilder.append(rawToken(i))
+      capturesIds.append(i.toString)
+    }
+    val capturesString = capturesBuilder.mkString(" ")
     while (curID < scoreDocs.length) {
       val hit = scoreDocs(curID)
       val doc = extractorEngine.doc(hit.doc)
@@ -158,7 +176,7 @@ class Query(val querySentence: String, var debug: Boolean = false, var printQuer
       var newCaptures = Vector[NamedCapture]()
       if (longestPath.length == queryGraph.size) {
         if (matchID % numToDisplay == 1 & matchID > 1) {
-          return (resultText, resultDoc, getDocTitles(resultDoc))
+          return (resultText, resultDoc, getDocTitles(resultDoc), captureCounts)
         }
         matchID += 1
         // filter out those not in capture
@@ -166,13 +184,13 @@ class Query(val querySentence: String, var debug: Boolean = false, var printQuer
           val nodeID = c.name.substring(c.name.length - 1).toInt
           if (anchors.contains(nodeID)) {
             newCaptures = newCaptures :+ NamedCapture(
-              rawToken[nodeID],
+              nodeID.toString,
               Option[String]("anchor"),
               c.capturedMatch
             )
           } else if (queryCaptures.contains(nodeID)) {
             newCaptures = newCaptures :+ NamedCapture(
-              rawToken[nodeID],
+              nodeID.toString,
               None,
               c.capturedMatch
             )
@@ -204,6 +222,7 @@ class Query(val querySentence: String, var debug: Boolean = false, var printQuer
       } else {
         val (matchedMapping, isValid) = validateResult(
           proc,
+          extractorEngine.index.doc(hit.doc),
           resultString,
           captures
         )
@@ -212,7 +231,7 @@ class Query(val querySentence: String, var debug: Boolean = false, var printQuer
           print(matchID)
           if (matchID % numToDisplay == 1 & matchID > 1) {
             print("hERE")
-            return (resultText, resultDoc, getDocTitles(resultDoc))
+            return (resultText, resultDoc, getDocTitles(resultDoc), captureCounts)
           }
           matchID += 1
 
@@ -220,13 +239,13 @@ class Query(val querySentence: String, var debug: Boolean = false, var printQuer
             val capturedMatch = StateMatch(destId, destId + 1, Array[NamedCapture]())
             if (anchors.contains(queryId)) {
               newCaptures = newCaptures :+ NamedCapture(
-                rawToken(queryId),
+                queryId.toString,
                 label = Option[String]("anchor"),
                 capturedMatch
               )
             } else if (queryCaptures.contains(queryId)) {
               newCaptures = newCaptures :+ NamedCapture(
-                rawToken(queryId),
+                queryId.toString,
                 None,
                 capturedMatch
               )
@@ -257,34 +276,75 @@ class Query(val querySentence: String, var debug: Boolean = false, var printQuer
         }
       }
       // add to the count
+      val capWordsBuilder = ListBuffer[String]()
+      var finish = true
+      for (_ <- capturesIds) {
+        capWordsBuilder.append("")
+      }
       for (c <- newCaptures) {
+        // we only care about captures
         if (c.label == None) {
-          val word = c.name
-          val capWordsBuilder = ArrayBuffer[String]()
+          val id = c.name
+
+          // build single capture word
+          val singleCapWordBuilder = ArrayBuffer[String]()
           for (i <- c.capturedMatch.start until c.capturedMatch.end) {
-            capWords.append(resultTokens(i))
+            singleCapWordBuilder.append(resultTokens(i))
           }
-          val capWords = capWordsBuilder.mkString(" ")
-          if (captureCounts.contains((word, capWords))) {
-            captureCounts((word, capWords)) += 1
-          } else {
-            captureCounts((word, capWords)) = 1
+          val singleCapWord = singleCapWordBuilder.mkString(" ")
+
+          // add to list of capture
+          for ((capId, i) <- capturesIds.view.zipWithIndex) {
+            if (id == capId) {
+              capWordsBuilder(i) = singleCapWord
+            }
           }
+          finish = true
+          // check if finish
+          for (w <- capWordsBuilder) {
+            if (w == "") {
+              finish = false
+            }
+          }
+          // if finish, add to count
+          if (finish) {
+            val capWordsString = capWordsBuilder.mkString("$")
+            val itemToAdd = (capturesString, capWordsString)
+            // re-initialize
+            for (i <- 0 until capturesIds.length) {
+              capWordsBuilder(i) = ""
+            }
+            // add to count
+            if (captureCounts.contains(itemToAdd)) {
+              captureCounts(itemToAdd) += 1
+            } else {
+              captureCounts(itemToAdd) = 1
+            }
+
+          }
+
         }
       }
       curID += 1
     }
-    return (resultText, resultDoc, getDocTitles(resultDoc))
+    return (resultText, resultDoc, getDocTitles(resultDoc), captureCounts)
   }
 
   /** helper function to validate result * */
   def validateResult(
     proc: Processor,
+    matchDoc: LuceneDocument,
     matchSentence: String,
     resCaptures: Vector[NamedCapture]
   ): (HashMap[Int, Int], Boolean) = {
     // convert matched sentence to graph
-    val (resTokens, resEdges, resGraph) = convertSentenceToGraph(proc, matchSentence)
+    var start = System.currentTimeMillis()
+    val (resTokens, resEdges, resGraph) =
+      convertSentenceForValidation(matchSentence, matchDoc)
+    var duration = (System.currentTimeMillis() - start) / 1000f
+    print("Time for conversion: ")
+    println(duration)
+    start = System.currentTimeMillis()
     // build mapping: maps from query graph nodes to matched nodes
     val matchedMapping = new HashMap[Int, Int]()
     for (cap <- resCaptures) {
@@ -355,7 +415,11 @@ class Query(val querySentence: String, var debug: Boolean = false, var printQuer
       }
       return (HashMap[Int, Int](), false)
     }
-    return completeMatching(unmatchedEdges, matchedMapping)
+    val res = completeMatching(unmatchedEdges, matchedMapping)
+    duration = (System.currentTimeMillis() - start) / 1000f
+    print("Time for subgraph matching: ")
+    println(duration)
+    return res
 
   }
 
@@ -399,6 +463,45 @@ class Query(val querySentence: String, var debug: Boolean = false, var printQuer
           edge2label((dep._2, dep._1)) = '<' + dep._3
         }
       }
+    }
+    return (idx2token, edge2label, graph)
+  }
+
+  /** helper function * */
+  def convertSentenceForValidation(
+    querySentence: String,
+    doc: LuceneDocument
+  ): (HashMap[Int, String], HashMap[(Int, Int), String], HashMap[Int, HashSet[Int]]) = {
+    // maps idx to token
+    var idx2token = new HashMap[Int, String]()
+    // maps edges to edge label
+    var edge2label = new HashMap[(Int, Int), String]()
+    // undirected (bi-directional) graph
+    var graph = new HashMap[Int, HashSet[Int]]()
+
+    // record token id
+    for ((token, idx) <- querySentence.split(" ").zipWithIndex) {
+      idx2token += (idx -> token)
+    }
+    // convert graph to a uunderstandable form
+    val docId = doc.getField("docId").stringValue
+    val sentId = doc.getField("sentId").stringValue.toInt
+
+    val documentFile = new File(docsDir, docId + ".json.gz")
+    val documentOdin = OdinsonDocument.fromJson(documentFile)
+
+    val odinGraphs = documentOdin.sentences(sentId).fields.collect { case g: GraphField => g }
+    for ((src, dst, label) <- odinGraphs(0).edges) {
+      if (!graph.contains(src)) {
+        graph(src) = new HashSet[Int]()
+      }
+      if (!graph.contains(dst)) {
+        graph(dst) = new HashSet[Int]()
+      }
+      graph(src) += dst
+      graph(dst) += src
+      edge2label((src, dst)) = '>' + label
+      edge2label((dst, src)) = '<' + label
     }
     return (idx2token, edge2label, graph)
   }
