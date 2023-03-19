@@ -30,6 +30,7 @@ import org.clulab.processors.{ Document, Processor }
 import ai.lum.odinson.extra.utils.{ ExtraFileUtils, ProcessorsUtils }
 import ai.lum.odinson.extra.utils.ProcessorsUtils.getProcessor
 import scala.collection.mutable._
+import scala.collection.immutable.{ Map, ListMap }
 
 import ai.lum.odinson._
 import ai.lum.odinson.lucene.search._
@@ -88,8 +89,7 @@ class HomeController @Inject() (
     query.preProcess(proc)
     query.search(proc, extractorEngine)
     val (resultText, resultDoc, resultTitle, resultCount) =
-      query.generateResult(10, extractorEngine, proc, displayField)
-    print(resultCount)
+      query.generateResult(200, extractorEngine, proc, displayField)
     cache.set("RunningQuery", query)
     cache.set("ResultText", resultText)
     cache.set("ResultDoc", resultDoc)
@@ -99,7 +99,7 @@ class HomeController @Inject() (
       resultText.toList,
       resultDoc.toList,
       resultTitle.toList,
-      resultCount.toMap,
+      ListMap(resultCount.toSeq.sortWith(_._2 > _._2): _*),
       queryString
     ))
     // } catch {
@@ -144,7 +144,7 @@ class HomeController @Inject() (
         resultText.toList,
         resultDoc.toList,
         resultTitle.toList,
-        resultCount.toMap,
+        ListMap(resultCount.toSeq.sortWith(_._2 > _._2): _*),
         query.querySentence
       ))
     } else {

@@ -34,7 +34,6 @@ trait OdinsonHighlighter {
     val sentenceText = doc.getField(field).stringValue
     val ts: TokenStream = TokenSources.getTokenStream(field, tvs, sentenceText, analyzer, -1)
     val tokens: Array[String] = TokenStreamUtils.getTokens(ts)
-    print(captures)
     if (captures.nonEmpty) {
       // highlight args
       for (capture <- captures) {

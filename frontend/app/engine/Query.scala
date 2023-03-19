@@ -162,7 +162,7 @@ class Query(val querySentence: String, var debug: Boolean = false, var printQuer
       capturesBuilder.append(rawToken(i))
       capturesIds.append(i.toString)
     }
-    val capturesString = capturesBuilder.mkString(" ")
+    val capturesString = capturesBuilder.mkString("$")
     while (curID < scoreDocs.length) {
       val hit = scoreDocs(curID)
       val doc = extractorEngine.doc(hit.doc)
