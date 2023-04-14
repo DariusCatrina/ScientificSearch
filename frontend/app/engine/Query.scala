@@ -173,7 +173,7 @@ class Query(val querySentence: String, var debug: Boolean = false, var printQuer
         extractorEngine.index.doc(hit.doc).getField("raw").stringValue
       val resultTokens = resultString.split(" ")
 
-      var newCaptures = Vector[NamedCapture]()
+      var newCaptures = ListBuffer[NamedCapture]()
       if (longestPath.length == queryGraph.size) {
         if (matchID % numToDisplay == 1 & matchID > 1) {
           return (resultText, resultDoc, getDocTitles(resultDoc), captureCounts)
@@ -196,29 +196,29 @@ class Query(val querySentence: String, var debug: Boolean = false, var printQuer
             )
           }
         }
+        // // FIXME: need to highlight more
+        // val res = HtmlHighlighter.highlight(
+        //   index = extractorEngine.index,
+        //   docId = hit.doc,
+        //   field = displayField,
+        //   spans = spans,
+        //   captures = newCaptures
+        // )
+        // var prevText: String = ""
+        // try {
+        //   prevText = extractorEngine.index.doc(hit.doc - 1).getField("raw").stringValue
+        // } catch {
+        //   case e => prevText = ""
+        // }
+        // var nextText: String = ""
+        // try {
+        //   nextText = extractorEngine.index.doc(hit.doc + 1).getField("raw").stringValue
+        // } catch {
+        //   case e => nextText = ""
+        // }
 
-        val res = HtmlHighlighter.highlight(
-          index = extractorEngine.index,
-          docId = hit.doc,
-          field = displayField,
-          spans = spans,
-          captures = newCaptures
-        )
-        var prevText: String = ""
-        try {
-          prevText = extractorEngine.index.doc(hit.doc - 1).getField("raw").stringValue
-        } catch {
-          case e => prevText = ""
-        }
-        var nextText: String = ""
-        try {
-          nextText = extractorEngine.index.doc(hit.doc + 1).getField("raw").stringValue
-        } catch {
-          case e => nextText = ""
-        }
-
-        resultText += "..." + prevText + " " + res + " " + nextText + "..."
-        resultDoc += docID
+        // resultText += "..." + prevText + " " + res + " " + nextText + "..."
+        // resultDoc += docID
       } else {
         val (matchedMapping, isValid) = validateResult(
           proc,
@@ -251,37 +251,73 @@ class Query(val querySentence: String, var debug: Boolean = false, var printQuer
               )
             }
           }
-          val res = HtmlHighlighter.highlight(
-            index = extractorEngine.index,
-            docId = hit.doc,
-            field = displayField,
-            spans = spans,
-            captures = newCaptures
-          )
-          var prevText: String = ""
-          try {
-            prevText = extractorEngine.index.doc(hit.doc - 1).getField("raw").stringValue
-          } catch {
-            case e => prevText = ""
-          }
-          var nextText: String = ""
-          try {
-            nextText = extractorEngine.index.doc(hit.doc + 1).getField("raw").stringValue
-          } catch {
-            case e => nextText = ""
-          }
+          // // fixme: needs to highlight more
+          // val res = HtmlHighlighter.highlight(
+          //   index = extractorEngine.index,
+          //   docId = hit.doc,
+          //   field = displayField,
+          //   spans = spans,
+          //   captures = newCaptures
+          // )
+          // var prevText: String = ""
+          // try {
+          //   prevText = extractorEngine.index.doc(hit.doc - 1).getField("raw").stringValue
+          // } catch {
+          //   case e => prevText = ""
+          // }
+          // var nextText: String = ""
+          // try {
+          //   nextText = extractorEngine.index.doc(hit.doc + 1).getField("raw").stringValue
+          // } catch {
+          //   case e => nextText = ""
+          // }
 
-          resultText += "..." + prevText + " " + res + " " + nextText + "..."
-          resultDoc += docID
+          // resultText += "..." + prevText + " " + res + " " + nextText + "..."
+          // resultDoc += docID
         }
       }
+      val chunkedCapture = ListBuffer[NamedCapture]()
+      // add parameter here to enable / disable chunking
+      if (true) {
+        for (cap <- newCaptures) {
+          if (cap.label == None) {
+            chunkedCapture += getChunk(extractorEngine.index.doc(hit.doc), cap)
+          } else {
+            chunkedCapture += cap
+          }
+        }
+      }
+      // display results
+      val res = HtmlHighlighter.highlight(
+        index = extractorEngine.index,
+        docId = hit.doc,
+        field = displayField,
+        spans = spans,
+        captures = chunkedCapture
+      )
+
+      var prevText: String = ""
+      try {
+        prevText = extractorEngine.index.doc(hit.doc - 1).getField("raw").stringValue
+      } catch {
+        case e => prevText = ""
+      }
+      var nextText: String = ""
+      try {
+        nextText = extractorEngine.index.doc(hit.doc + 1).getField("raw").stringValue
+      } catch {
+        case e => nextText = ""
+      }
+
+      resultText += "..." + prevText + " " + res + " " + nextText + "..."
+      resultDoc += docID
       // add to the count
       val capWordsBuilder = ListBuffer[String]()
       var finish = true
       for (_ <- capturesIds) {
         capWordsBuilder.append("")
       }
-      for (c <- newCaptures) {
+      for (c <- chunkedCapture) {
         // we only care about captures
         if (c.label == None) {
           val id = c.name
@@ -328,6 +364,38 @@ class Query(val querySentence: String, var debug: Boolean = false, var printQuer
       curID += 1
     }
     return (resultText, resultDoc, getDocTitles(resultDoc), captureCounts)
+  }
+
+  /** convert the match to the chunk it belongs to * */
+  def getChunk(doc: LuceneDocument, cap: NamedCapture): NamedCapture = {
+    // get document
+    // convert graph to a uunderstandable form
+    val docId = doc.getField("docId").stringValue
+    val sentId = doc.getField("sentId").stringValue.toInt
+    val documentFile = new File(docsDir, docId + ".json.gz")
+    val documentOdin = OdinsonDocument.fromJson(documentFile)
+    val odinGraphs = documentOdin.sentences(sentId).fields.collect { case g: TokensField => g }
+    // ASSUME we have single word in result
+    val chunks = odinGraphs(5).tokens
+    val startChunk = chunks(cap.capturedMatch.start)
+    // find start and end chunk
+    val startn = cap.capturedMatch.start
+    val endn = cap.capturedMatch.end
+    var start = startn
+    var end = endn
+    if (startChunk != "O") {
+
+      // find start of chunk
+      while (chunks(start).split("-")(0) != "B") {
+        start -= 1
+      }
+      // find end of chunk
+      while (end < chunks.length && chunks(end).split("-")(0) != "B" && chunks(end) != "O") {
+        end += 1
+      }
+    }
+    return NamedCapture(cap.name, cap.label, StateMatch(start, end, Array[NamedCapture]()))
+
   }
 
   /** helper function to validate result * */
