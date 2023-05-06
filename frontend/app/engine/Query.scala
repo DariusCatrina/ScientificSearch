@@ -44,7 +44,7 @@ object QueryExceptions {
 }
 
 class Query(val querySentence: String, var debug: Boolean = false, var printQuery: Boolean = true) {
-
+  print(querySentence)
   var words = ArrayBuffer[String]();
   var queryCaptures = ArrayBuffer[Int]()
   var anchors = ArrayBuffer[Int]()
@@ -58,6 +58,8 @@ class Query(val querySentence: String, var debug: Boolean = false, var printQuer
   var searchReady = false
   var scoreDocs = Array[OdinsonScoreDoc]()
   var curID: Int = 0
+
+  val getContext = false
 
   var config = ConfigFactory.load()
 
@@ -148,9 +150,11 @@ class Query(val querySentence: String, var debug: Boolean = false, var printQuer
     ListBuffer[String],
     ListBuffer[String],
     ListBuffer[String],
-    HashMap[(String, String), Int]
+    HashMap[(String, String), Int],
+    ListBuffer[(String, String)]
   ) = {
     val resultText = ListBuffer[String]()
+    val resultCaptures = ListBuffer[(String, String)]()
     val resultDoc = ListBuffer[String]()
     val captureCounts = HashMap[(String, String), Int]()
     var matchID: Int = 1
@@ -175,8 +179,8 @@ class Query(val querySentence: String, var debug: Boolean = false, var printQuer
 
       var newCaptures = ListBuffer[NamedCapture]()
       if (longestPath.length == queryGraph.size) {
-        if (matchID % numToDisplay == 1 & matchID > 1) {
-          return (resultText, resultDoc, getDocTitles(resultDoc), captureCounts)
+        if (matchID % numToDisplay == 1 & matchID > 1 & numToDisplay != -1) {
+          return (resultText, resultDoc, getDocTitles(resultDoc), captureCounts, resultCaptures)
         }
         matchID += 1
         // filter out those not in capture
@@ -196,29 +200,6 @@ class Query(val querySentence: String, var debug: Boolean = false, var printQuer
             )
           }
         }
-        // // FIXME: need to highlight more
-        // val res = HtmlHighlighter.highlight(
-        //   index = extractorEngine.index,
-        //   docId = hit.doc,
-        //   field = displayField,
-        //   spans = spans,
-        //   captures = newCaptures
-        // )
-        // var prevText: String = ""
-        // try {
-        //   prevText = extractorEngine.index.doc(hit.doc - 1).getField("raw").stringValue
-        // } catch {
-        //   case e => prevText = ""
-        // }
-        // var nextText: String = ""
-        // try {
-        //   nextText = extractorEngine.index.doc(hit.doc + 1).getField("raw").stringValue
-        // } catch {
-        //   case e => nextText = ""
-        // }
-
-        // resultText += "..." + prevText + " " + res + " " + nextText + "..."
-        // resultDoc += docID
       } else {
         val (matchedMapping, isValid) = validateResult(
           proc,
@@ -229,9 +210,9 @@ class Query(val querySentence: String, var debug: Boolean = false, var printQuer
         if (isValid || anchors.length + queryCaptures.length == 1) {
           print("Algorithm")
           print(matchID)
-          if (matchID % numToDisplay == 1 & matchID > 1) {
+          if (matchID % numToDisplay == 1 & matchID > 1 & numToDisplay != -1) {
             print("hERE")
-            return (resultText, resultDoc, getDocTitles(resultDoc), captureCounts)
+            return (resultText, resultDoc, getDocTitles(resultDoc), captureCounts, resultCaptures)
           }
           matchID += 1
 
@@ -251,29 +232,6 @@ class Query(val querySentence: String, var debug: Boolean = false, var printQuer
               )
             }
           }
-          // // fixme: needs to highlight more
-          // val res = HtmlHighlighter.highlight(
-          //   index = extractorEngine.index,
-          //   docId = hit.doc,
-          //   field = displayField,
-          //   spans = spans,
-          //   captures = newCaptures
-          // )
-          // var prevText: String = ""
-          // try {
-          //   prevText = extractorEngine.index.doc(hit.doc - 1).getField("raw").stringValue
-          // } catch {
-          //   case e => prevText = ""
-          // }
-          // var nextText: String = ""
-          // try {
-          //   nextText = extractorEngine.index.doc(hit.doc + 1).getField("raw").stringValue
-          // } catch {
-          //   case e => nextText = ""
-          // }
-
-          // resultText += "..." + prevText + " " + res + " " + nextText + "..."
-          // resultDoc += docID
         }
       }
       val chunkedCapture = ListBuffer[NamedCapture]()
@@ -297,20 +255,25 @@ class Query(val querySentence: String, var debug: Boolean = false, var printQuer
       )
 
       var prevText: String = ""
-      try {
-        prevText = extractorEngine.index.doc(hit.doc - 1).getField("raw").stringValue
-      } catch {
-        case e => prevText = ""
-      }
-      var nextText: String = ""
-      try {
-        nextText = extractorEngine.index.doc(hit.doc + 1).getField("raw").stringValue
-      } catch {
-        case e => nextText = ""
-      }
+      if (getContext == true) {
+        try {
+          prevText = extractorEngine.index.doc(hit.doc - 1).getField("raw").stringValue
+        } catch {
+          case e => prevText = ""
+        }
+        var nextText: String = ""
+        try {
+          nextText = extractorEngine.index.doc(hit.doc + 1).getField("raw").stringValue
+        } catch {
+          case e => nextText = ""
+        }
 
-      resultText += "..." + prevText + " " + res + " " + nextText + "..."
-      resultDoc += docID
+        resultText += "..." + prevText + " " + res + " " + nextText + "..."
+        resultDoc += docID
+      } else {
+        resultText += res
+        resultDoc += docID
+      }
       // add to the count
       val capWordsBuilder = ListBuffer[String]()
       var finish = true
@@ -356,14 +319,14 @@ class Query(val querySentence: String, var debug: Boolean = false, var printQuer
             } else {
               captureCounts(itemToAdd) = 1
             }
-
+            resultCaptures += itemToAdd
           }
 
         }
       }
       curID += 1
     }
-    return (resultText, resultDoc, getDocTitles(resultDoc), captureCounts)
+    return (resultText, resultDoc, getDocTitles(resultDoc), captureCounts, resultCaptures)
   }
 
   /** convert the match to the chunk it belongs to * */

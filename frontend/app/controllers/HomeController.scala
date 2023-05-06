@@ -88,7 +88,7 @@ class HomeController @Inject() (
     val query: Query = new Query(queryString)
     query.preProcess(proc)
     query.search(proc, extractorEngine)
-    val (resultText, resultDoc, resultTitle, resultCount) =
+    val (resultText, resultDoc, resultTitle, resultCount, resultCap) =
       query.generateResult(200, extractorEngine, proc, displayField)
     cache.set("RunningQuery", query)
     cache.set("ResultText", resultText)
@@ -125,7 +125,7 @@ class HomeController @Inject() (
       var resultDoc = resultDocOption.get
       var resultTitle = resultTitleOption.get
       var resultCount = resultCountOption.get
-      val (nextText, nextDoc, nextTitle, nextCount) =
+      val (nextText, nextDoc, nextTitle, nextCount, nextCap) =
         query.generateResult(10, extractorEngine, proc, displayField)
 
       resultText ++= nextText
