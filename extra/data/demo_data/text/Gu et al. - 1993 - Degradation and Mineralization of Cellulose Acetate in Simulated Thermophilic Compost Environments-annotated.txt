@@ -1,0 +1,611 @@
+Journal of Environmental Polymer Degradation, Vot. t, No. 4, 1993 
+Degradation and Mineralization of Cellulose Acetate in 
+Simulated Thermophilic Compost Environments* 
+Ji-Dong Gu, I'2 I). Eberiel, 3 S. P. McCarthy, 4 and R. A. Gross ~'s 
+Residual cellulose acetate (CA) films with initial degree of substitution (DS) values of 1.7 and 
+2.5 (CA DS-1.7 and DS-2.5) were recovered from a simulated thermophilic compost exposure 
+and characterized by gel permeation chromatography (GPC), proton nuclear magnetic resonance 
+(~H NMR), and scanning electron microscopy (SEM) to determine changes in polymer molecular 
+weight and DS and to study microbial colonization and surface morphology, respectively, During 
+the aerobic degradation of CA DS-1.7 and CA DS-2.5 films exposed for 7 and I8 days, respec- 
+tively, the number-average molecular weight (M~) of residual polymer decreased by 30.4% on 
+day 5 and 20.3% on day 16, respectively. Furthermore, a decrease in the degree of substitution 
+from 1.69 to 1.27 (4-day exposure) and from 2.51 to 2.18 (12-day exposure) was observed ~br 
+the respective CA samples. In contrast, CA films (DS-I.7 and DS-2.5) which were exposed to 
+abiotic control vessels for identicaI time periods showed no significant changes in M~ and DS. 
+SEM photographs of CA (DS-I.7 and DS-2.5) film surfaces after compost exposures revealed 
+severe erosion and corresponding microbial colonization. Similar exposure times for CA films in 
+abiotic control vessels resulted in only minor changes in surface characteristics by SEM obser- 
+vations. The conversion of CA DS-I.7 and DS-2.5 to CO~ was monitored by respirometry. In 
+these studies, powdered CA was placed in a predigested compost matrix which was maintab~ed 
+at 53°C and 60% moisture content throughout the incubation period. A lag phase of 10- and 25- 
+day duration for CA DS-1.7 and DS-2.5, respectively, was observed, after which the rate of 
+degradation increased rapidly. Mineralization of exposed CA DS-I.7 and DS-2.5 powders re- 
+ported as the percentage theoretical CO2 recovered reached 72.4 and 77.6% in 24 and 60 days, 
+respectively. The results of this study demonstrated that microbial degradation of CA films ex- 
+posed to aerobic thermophilic laboratory-scale compost reactors not only results in film weight 
+loss but also causes severe film pitting and a corresponding decrease in chain M n and degree of 
+substitution for the residual material. Furthermore, conversions to greater than 70% of the theo- 
+retical recovered CO2 for CA (DS 1.7 and 2.5) substrates indicate high degrees of CA minerat.- 
+ization. 
+KEY WORDS: Cellulose acetate; degree of substitution; polymer degradation; polymer mineraIization; r~m- 
+nicipal solid waste; surface colonization; respirometry; biodegradation testing; molecular weight. 
+*Guest Editor: Dr. Graham Swift, Rohm & Haas. 
+! Biodegradable Polymer Research Center, Department of Chemistry, 
+University of Massachusetts Lowell, Lowell, Massachusetts 
+01854. 
+2Present address: Laboratory of Microbial Ecology, Division of Ap- 
+plied Sciences, Harvard University, Cambridge, Massachusetts 
+02138. 
+3Biodegradable Polymer Research Center, Department of Biology, University of Massachusetts Lowell Lowell, Massachusetts 
+01854. 
+~Biodegradable Polymer Research Center, Department of Plastics En- 
+gineering, University of Massachusetts Lowell, Lowell, Massachu- 
+setts 01854. 
+5To whom correspondence should be addressed at Department of 
+Chemistry, University of Massachusetts Lowell, One University Av- 
+enue, Lowell, Massachusetts 01854. 
+281 
+I064-7564/93/1000-028I$07,00/0 © 1993 Piermm Pubiishir, g Corporation 
+
+282 Gu, Eberiel, McCarthy, and Gross 
+INTRODUCTION 
+Polysaccharide esters represent an exciting broad 
+class of materials derived from nature. The polysac- 
+charide component may be obtained directly from agri- 
+cultural products such as corn (starch) and wood (cel- 
+lulose). Alternatively, agricultural materials may be used 
+in polysaccharide production by microbial fermentation 
+or enzyme catalyzed conversion [1, 21]. The ester com- 
+ponent of polysaccharide esters can have a highly vari- 
+able structure and degree of substitution (DS). Of 
+course, this variability in polysaccharide and side-chain 
+ester structure and substitution allows the polymer sci- 
+entist to tailor the corresponding material properties of 
+polysaccharide esters for a number of applications. Cel- 
+lulose esters, most notably cellulose acetates (CA), rep- 
+resent a subset of polysaccharide esters that are used for 
+textile fibers, plastics, film, sheeting, membrane, and 
+lacquers [3]. A description of the relationship among 
+cellulose ester molecular weight, DSI and structure of 
+the side-chain esters to the use of the corresponding ma- 
+terials for specific applications was presented elsewhere 
+[31. 
+Early work which describes investigations of CA 
+biodegradability was carried out by Reese [4], who noted 
+that approximately half of the cellulolytic organisms in- 
+vestigated utilized cellobiose octaacetate as a carbon 
+source, but only a few were capable of liberating de- 
+tectable amounts of enzymes. Interestingly, the enzyme 
+responsible for cellobiose octaacetate deacetylation (cel- 
+lobiose octaacetylesterase) not only was produced when 
+using cellobiose octaacetate as the substrate, but also 
+was formed on water-soluble CA with a DS of 0.76 [4]. 
+One fungal species, Pestalotiopsis westerdijkii QM 381 
+(formerly Pestalotia palmarum), was particularly useful 
+for the formation of an exocellular cellobiose octaace- 
+tatease [4]. This microorganism was also found to pro- 
+duce this enzyme on water-soluble CA (DS 0.76) and 
+the enzyme was less active than on cellobiose octaace- 
+rate [4]. Many years later, Downing et al. used P. wes- 
+terdijkii to predigest water-soluble CA forming reducing 
+sugars and acetate prior to converting these intermediate 
+products to ethanol [5]. Reese [4] also exposed cellulose 
+triacetate (the exact DS was not reported by the author) 
+to a number of microorganisms which degraded both 
+celtobiose octaacetate and water-soluble CA and found 
+no growth over a 4-week incubation period. It should 
+be noted that in this work, no effort was made to isolate 
+microorganisms that were capable of degrading CA with 
+a DS value higher than 0.76. Furthermore, it was not 
+clear whether deacetylation occurred prior to, concur- 
+rently with, or after water-soluble CA main chain cleav- age events. However, the work by Reese, carried out 36 
+years prior to this publication, surely must be consid- 
+ered a pioneering effort that evoked a number of ques- 
+tions which were not addressed until recently. 
+Interestingly, in birchwood xylan approximately 
+70% of the xylose units are acetylated [6]. Therefore, 
+in nature there exists a substantially acetylated biode- 
+gradable polysaccharide ester. Luthi et al, [7] obtained 
+an acetylxylan esterase from Caldocellum sacchardyti- 
+cum expressed in Escherichia coli strain RR28 that 
+showed no activity on xylan and cleaved acetate from 
+acetylated xylan. Unfortunately, these workers did not 
+determine the degree of substitution of the acetylated 
+xylan which was used in their study. Work by Lee et at. 
+[8] showed that the yeast Rhodotorula mucilaginosa 
+produced an acetyl xylan esterase as an exocellular 
+product when induced by triacetin. Furthermore, R. mu- 
+citaginosa did not produce a xylan-degrading enzyme 
+and, thus, was free of xylanotytic activity. The ace- 
+tylxylan esterase from R. mucilaginosa did not degrade 
+a water-insoluble CA substrate where, once again, the 
+DS of the CA was not reported. In contrast to R. mu- 
+cilaginosa, the fungus Trichoderma reesi can produce 
+two specific and several nonspecific xylanases as well 
+as at least two acetyl esterases [9]. This fungus actively 
+degrades acetylxylan polymer chains which contain 
+10%, by weight, acetyl groups, to produce xylose, ar- 
+abinose, xylobiose, and acetate [9]. 
+Work in our laboratory has been carried out to in- 
+vestigate the biodegradability of CA films with DS val- 
+ues of 1.7 and 2.5 (CA DS-1.7 and DS-2.5) when ex- 
+posed to biologically active in-laboratory composting 
+test vessels maintained at approximately 53 °C [10-14]. 
+It was found that the CA DS-1.7 and DS-2.5 films 
+(thickness values, - 0.013 to 0.025 and 0.051 ram, re- 
+spectively) had completely disappeared (were not vi- 
+sually observed in the test waste mixture) by the end of 
+7- and 18-day exposure time periods, respectively. Con- 
+trol poisoned reactors showed little CA weight loss over 
+similar exposure time periods so that it may be con- 
+cluded that film erosion during the composting expo- 
+sures was due, at least in part, to biologically mediated 
+degradative mechanisms. A 30-day exposure of CA DS- 
+1.7 film samples (0.013- to 0.025-ram thickness) to an 
+anaerobic methanogenic microcosm developed from a 
+sludge inoculum resulted in almost-complete weight loss 
+of the film, while exposure of these same films in poi- 
+soned control vessels resulted in negligible film weight 
+loss [t0]. Once again, it appears that CA DS-1.7 is de- 
+graded by a process which is biologically mediated. 
+Furthermore, we have isolated a number of CA degrad- 
+ing pseudomonads [11, 14] and funga! strains [15]. 
+
+Cellulose Acetate Biodegradation 283 
+Recently, Buchanan et aI. [16] investigated the 
+biodegradation potential of CA using an enrichment cul- 
+ture that was initiated with an activated sludge inocu- 
+lum. Exposure of CA films and fibers (DS-1.7 and DS- 
+2.5) to this enrichment culture resulted in extensive deg- 
+radation. Recovered CA DS 2.5 fibers showed a de- 
+crease in DS from an initial value of approximately 2.5 
+to approximately 2.0 as well as a narrowing of the mo- 
+lecular weight distribution Mw/M,. The biodegradability 
+of CA DS-1.7 and DS-2.5 was further demonstrated 
+using an aerated wastewater treatment basin exposure. 
+Moreover, the biodegradability of CA DS-1.6 and DS- 
+1.85 by the sludge-derived enrichment culture was in- 
+vestigated by exposure of samples which contain ~4C- 
+labeled acetyl substituents. Sixty-eight percent recovery 
+of the acetyl substituents in the form of CQ was re- 
+ported using this approach. The latter experiment is, of 
+course, excellent evidence that CA with a DS of 1.85 is 
+indeed mineralizable. 
+In this paper, changes in the molecular weight, DS, 
+and surface colonization of CA DS-1.7 and DS-2.5 films 
+which were exposed to laboratory-scale aerobic ther- 
+mophilic composting bioreactors are reported. Further- 
+more, predigested compost derived from a synthetic 
+municipal solid waste mixture without prior exposure to 
+polymer was used as a support of microbial growth on 
+CA substrates to determine the rate of CO 2 evolution. 
+Thus, respirometric studies on CA were carried out by 
+placing powdered CA in contact with predigested com- 
+post which was maintained at 60% moisture and 53°C. 
+The temperature, percentage moisture, and solid sup- 
+port used in this study was intended to simulate some 
+features of a thermophilic composting system. Thus, CA 
+was exposed to thermophitic aerobic simulated compost 
+environments to investigate the biodegradation potential 
+of this family of polymers. 
+MATERIALS AND METHODS 
+Degradation Testing in Laboratory-Scale Compost 
+Reactors 
+CA DS-1.7 films were made by solution casting 
+onto Teflon from either acetone-H20 (1 : 1 ratio, v/v; 
+17% CA DS-I.7, wt/v) or acetone (15% CA DS-2.5, 
+w/v). Powdered CA DS-2.5 and granule (about 2 mm 
+in diameter) CA DS-1.7 (Eastman Kodak Company, 
+Kingsport, TN) were used to prepare the polymer so- 
+lutions. After removal of residual solvent in a vacuum 
+oven, the films were aged for at least 2 weeks prior use. 
+A simulated in-laboratory compost procedure was 
+developed and used to study the degradability of shaped polymeric materials [10]. In this procedure, a synthetic 
+municipal solid waste mixture was used that contains 
+important components present in the municipal solid 
+waste stream and an appropriate chemical composition 
+so that an active microbial population proliferates [10]o 
+All bioreactors were maintained at 53°C and a 60% 
+moisture content and aerated at 100 ml/min. Abiotic m- 
+actors were initiated simultaneously to assess whether 
+chemical degradation of the polymeric materials occurs 
+under the test conditions. A detailed description of the 
+bioreactor configuration and the operational procedure 
+has been published elsewhere [10]. During the degra- 
+dation testing, residual polymer films were recovered 
+from the composting and abiotic test vessels at desired 
+sampling time intervals. The recovered materials were 
+cleaned by immersion in deionized water to remove the 
+coarse particles on film surface and gentle blotting with 
+70% isopropylalcohot-moistened Kimwipes EX-L 
+(Kimberly-Clark, Fisher Scientific, PA), dried in a vac- 
+uum oven at 30°C and reduced pressure, and then 
+weighed. These films were analyzed for changes in their 
+molecular weight, their degree of substitution, and the 
+microbial colonization on the polymer surface. 
+Characterization of Partially Degraded Polymer 
+Films 
+Molecular Weight. The molecular weights of CA 
+DS-I.7 and DS-2.5 films prior to and after exposure in 
+bioreactor and abiotic test vessels were measured by gel 
+permeation chromatography (GPC) on a chromato- 
+graphic system consisting of a Waters Model 510 pump, 
+a Waters Model 410 refractive index detector, and a 
+Waters Model 730 data module. Three KD gel columns 
+(300 × 8.0 mm, Shodex, Showa Denko, Shoko, Co., 
+Japan; particle size, 5 mm; pore size~ 105 and t03 A) 
+were placed in series and operated at a flow rate of i.0 
+mt/min. The sample concentration was t0 mg/ml and 
+the injection volume was 50 ~1. The analysis was per- 
+formed using dimethylformamide (DMF; Aldrich Co., 
+Milwaukee, WI) containing 0.1% (w/v) LiBr as the 
+eluant. Molecular weights were calculated relative to 
+polystyrene standards without further corrections. 
+Proton Nuclear Magnetic Resonance (Nr'~R) 
+The ~H NMR spectra of residual and unexposed 
+samples were recorded on a Broker WP-270 SY spec- 
+trometer at 270 MHz to determine the polymer DS val- 
+ues. The parameters employed were as follows: 1-1.5% 
+(w/w.) polymer in d6-DMSO (Aldrich Co.); tempera- 
+ture, 80°C; pulse width, 0.5 #s; receiver delay, 2 s; and 
+
+284 Gu, Eberiei, McCarthy, and Gross 
+transients, 600-800. The degree of acetylation was de- 
+termined according to the procedure of Goodlett et al. 
+[17]. Free hydroxyl groups were first completely ace- 
+tylated by reaction with d3-acetytchloride at room tem- 
+perature for 72 h. The degree of acetylation was ob- 
+tained by spectral integration by comparing the ratio of 
+the acetyl 1H NMR signals at approximately 2 ppm to 
+the multiple backbone signals at between 3.6 and 5.3 
+ppm. 
+Scanning Electron Microscopy (SEM) 
+SEM of the polymer films was performed without 
+coating the films or any other surface treatment using an 
+ISIIC-130 SEM. 
+Respirometry Setup 
+The respirometric system used in assessing the min- 
+eralization of polymer carbon to CO2 consisted of an air 
+pump, which served as an air source; an air pretreatment 
+system to sterilize, remove CO2, and control the flow 
+rate; test vessels which contained predigested compost; 
+and post test vessel trapping of the CO 2 produced. The 
+predigested compost was obtained by a 42-day matura- 
+tion period of a defined synthetic waste mixture [10] and 
+was used to supply the indigenous microbial population 
+and also to serve as a physiological and nutritional sup- 
+port. For each polymer sample analyzed a total of six 
+vessels were set up where three vessels were amended 
+with 1.0 g of the polymer powder (particle size was be- 
+tween 300 and 400 ~m using mesh screens) and the other 
+three served as background controls to measure the basal 
+CO2 production from the indigenous microbial popula- 
+tion. The test vessels were maintained at 53°C and 60% 
+moisture throughout the analysis. The difference in CO2 
+production between the test vessels with and those with- 
+out the polymer sample was attributed to the degrada- 
+tion of the polymer sample. Produced CO2 was trapped 
+by reaction with a NaOH solution. The amount of NaOH 
+left unreacted was quantitated by titration with HC1 to 
+pH 9.0 using a Mettter DL 12 (Mettler Instrument Co., 
+Hightstown, NJ). A more detailed description of the 
+methodology has been published elsewhere [18]. 
+RESULTS AND DISCUSSION 
+Characterization of Degraded Films 
+Extensive erosion at the surface of CA DS-1.7 films 
+was observed by SEM after exposure times of 5 days in the composting reactors. Figure 1 shows SEM photo- 
+graphs of CA DS-1.7 after a 5-day compost exposure 
+(Fig. la), after a 5-day incubation in an abiotic control 
+reactor (Fig. lb) and of an unexposed film (Fig. lc). In 
+all of these cases (including the unexposed film) the re- 
+covered films were cleaned by immersion in deionized 
+water and isopropylalcohol-moistened Kimwipes (see 
+Materials and Methods) to remove the adhered particles, 
+microbes, and other substances. The comparatively large 
+changes in surface morphology seen in Fig. la relative 
+to Figs. lb and c are supportive evidence that the deg- 
+radation of CA DS-1.7 in composting test vessels is due 
+in large part to biomediated processes. This is also in 
+agreement with the determination that CA DS-I.7 
+showed comparatively little weight loss after an expo- 
+sure time of up to 7 days in the abiotic control vessels 
+[10]. A similar SEM investigation was conducted for 
+exposed and control CA DS-2.5 films. Figure 2 shows 
+SEM photographs of CA DS-2.5 after a 15-day compost 
+exposure (Fig. 2a) and after a 15-day incubation in an 
+abiotic control reactor (Fig. 2b) and of an unexposed 
+film (Fig. 2c). These films also were cleaned as above 
+to remove microbial and other attachments. Figure 2a 
+shows severe surface erosion, whereas Figs. 2b and c 
+appear relatively unchanged. This is once again support- 
+ive evidence that CA DS-2.5 film erosion and associated 
+weight loss [10] observed after compost test exposures 
+occur due to biomediated mechanisms. 
+SEM photographs were also taken without cleaning 
+the surface of CA DS-1.7 and DS-2.5 films after 5- and 
+15-day exposure times in the composting test reactors 
+(see Figs. ld and 2d, respectively). In this way, micro- 
+bial colonization onto the respective film surfaces was 
+also observed. The predominant microorganisms colo- 
+nized on the CA DS-1.7 film surfaces resemble most 
+closely the filamentous actinomyce or hyphal fungus (see 
+Fig. ld). In contrast, the most pervasive microorgan- 
+isms on the CA DS-2.5 exposed films are most likely 
+bacterial species. This suggests that a wide array of mi- 
+croorganisms are capable of functioning either alone or 
+in combination with other microbes to effect CA bio- 
+degradation. Indeed, a number of bacteria and fungi 
+species have been isolated in this laboratory for their 
+ability to use CA as a sole carbon and energy source 
+[14, 15]. 
+GPC analyses was carried out on CA samples re- 
+covered from composting exposures to determine effects 
+on polymer molecular weight (see Materials and Meth- 
+ods). Since the molecular weights were determined by 
+GPC on CA samples with nonidentical repeat unit com- 
+position (see Table I), without correction for polymer 
+
+Cellulose Acetate Biodegradation 285 
+Fig. 1. SEM photographs of CA DS-I,7 films (a) not exposed, (b) after a 5-day exposure in a 
+biologically active test vessel with cleaning of the residual film surface, (c) after a 7Lday exposure 
+in an abio|ic reactor with cleaning of the residual film surface, and (d) after a 5-day exposure in a 
+biological active test vessel without cleaning of the recovered film surface. (a) × 1620, (b) × 1640, 
+and (c, d) x I650. 
+
+286 Gu, Eberiel, McCarthy, and Gross 
+Fig. 1. Continued. 
+hydrodynamic volume effects, definitive conclusions as 
+to molecular weight changes cannot be made herein and 
+are considered apparent changes for the present discus- 
+sion. The GPC results shown in Table I indicate that the 
+M, and M w values for both CA DS-t.7 and CA DS-2.5 decreased significantly for extended composting expo- 
+sure times. In contrast, exposures of both CA DS-1.7 
+and CA DS-2.5 in poisoned reactors showed no mea- 
+surable events of chain cleavage (see Table I). There- 
+fore, the CA chain glycosidic linkages show a good sta- 
+
+Cellulose Acetate Biodegradation 287 
+Fig. 2. SEM photographs of CA DS-2,5 films (a) not exposed, (b) alter a 15-day exposure in a 
+biologically ~ctive composting bioreactor with cleaning of the residual fihn surface, (c) after an 
+18-day exposure in an abiotic reactor with cleaning of the recovered film surface, and (d) alter ;~ 
+15-day exposure in a biological active bioreactor without cleaning of' the residua~ fi~m surface. 
+× 3400. 
+
+288 Gu, Eberiel, McCarthy, and Gross 
+Fig. 2. Continued. 
+bility to chemical hydrolysis so that the apparent de- 
+creases in CA molecular weight are likely due to 
+biocatalyzed processes. Molecular weight loss attribut- 
+able to bioactivity was also reported by Buchanan et al. 
+[16] for exposures of CA DS-2.5 fiber and ground pow- der to an enrichment culture containing a mixed micro- 
+bial population. It is also of interest to note that Mw/M n 
+values changed little for CA samples which were exten- 
+sively eroded. This is explained by the occurrence of 
+random endo-cleavage events and/or the production of 
+
+Cellulose Acetate Biodegradation 289 
+Exposed 
+CA 
+sample Table I. Effect of Compost Exposures on Film Weight Loss, Residual CA Molecular Weight, and Degree of Substitution 
+u 
+Exposure 
+Test time Weight loss Recovered ti'/, M.~ 
+vessel (days) (%)" film DS b ( x lOS) ` ( × lOS) ` MUM." 
+DS-1.7 a 0 -- 1.69 1.48 2.03 1.37 
+DS-1.7 Active 4 35.1 _+ 2.7 1.27 1,25 1.66 1.33 
+DS-1.7 Active 5 49.8 _+ 3.4 n.d." 1.03 1.38 1.34 
+DS-1.7 Poisoned ./ 7 0.8 -± 2.9 1.67 1,46 2.07 1.42 
+DS-2.5 _a 0 -- 2.51 2.36 3.35 1.42 
+DS-2.5 Active 12 39.8 +_ 4.0 2.18 2.21 3.29 lA9 
+DS-2.5 Active 16 45.8 + 5.1 n.d. 1.88 2.58 1,37 
+DS-2.5 Poisoned; 20 0.9 _+ 2.4 2.50 2.35 3.46 1.47 
+i ,i ul 
+~'Data taken from Ref. 10. 
+t'Determined by tH NMR spectroscopy (see Materials and Methods). 
+'Determined by GPC measurements (see Materials and Methods). 
+'tNot exposed. 
+e Not determined, 
+/Bioactivity was suppressed by the addition of KCN (see Ref. 10). 
+low molecular weight degradation products by chain- 
+end-cleavage mechanisms that rapidly diffuse away from 
+the residual materials. Such low molecular weight prod- 
+ucts diffusing from the film are likely rapidly assimi- 
+lated by colonizing microorganisms. The DS values ob- 
+tained from tH NMR analyses (see Materials and 
+Methods) for CA DS-1.7 and DS-2.5 samples which 
+were not exposed, exposed to the composting environ- 
+ment, and exposed in abiotic control test vessels are 
+shown in Table I. It was observed that the DS of re- 
+covered CA DS-1.7 and DS-2.5 samples was signifi- 
+cantly decreased upon exposures in composting reactors 
+(see Table I). However, the measured DS values of the 
+CA samples that were exposed for comparatively longer 
+time periods in abiotic control test vessels remained 
+identical to that of the unexposed samples. This result, 
+in combination with the molecular weight measure- 
+ments recorded for CA exposed in composting and 
+abiotic test vessels, indicates that biological degradation 
+of CA is not initiated by initial chemical deacetylation 
+or glycosidic bond cleavage. In other words, biological 
+mechanisms are responsible for the observed weight loss 
+in the composting exposures. 
+Mineralization of Cellulose Acetates 
+Mineralization of a polymeric material by micro- 
+organisms under aerobic conditions produces CO2, H20, 
+microbial biomass, and humus. Therefore, a respiro- 
+metric technique was used to quantitate the evolved CO2 
+due to polymer biodegradation. The method was sum- 
+marized above (see Materials and Methods) and was de- 
+scribed in detail elsewhere [18]. The low basal level of CO2 production in test vessels which did not contain the 
+polymer substrate (approximately 12-15 mg CO2-C per 
+day) was found to be linear as a function of time [18] 
+and was subtracted from that produced in polymer 
+amended vessels to obtain the total CO2 and the corre- 
+sponding percentage of the theoretical CO2 formed as a 
+result of substrate mineralization (see Figs. 3 and 4). 
+Figure 3 shows that exposure of CA DS-1.7 to the pre- 
+digested compost matrix produced 72.4% of its theoret- 
+ical carbon as CO2 after a total incubation period of 24 
+days. In comparison, the total time required for CA DS- 
+2.5 to roach the plateau value of 77.6% substrate carbon 
+conversion to CO 2 was 60 days (see Fig. 4). Of addi- 
+tional interest, the rate of CA DS-1.7 mineralization in- 
+creased rapidly after only a 10-day lag period, whereas 
+the tag period prior to rapid CA DS-2.5 mineralization 
+was considerably longer (approximately 25 days). ]n 
+agreement with these results, both the lag period prior 
+to film weight loss and the total time for film disap- 
+pearance were notably longer for CA DS-2.5 relative to 
+CA DS-I.7 (see Ref, 10 and above). Indeed, it is not at 
+all surprising that CA of a relatively higher degree of 
+substitution shows relatively slower rates of biodegra- 
+dation (see discussion below). However, most impor- 
+tantly, the results shown in Fig. 4 suggest that CA with 
+a degree of acetylation of up to 2.5 is mineralized to a 
+high degree under the appropriate environmental expo- 
+sure conditions. 
+CA Biodegradation Mechanistic Considerations 
+Cellulose is the most abundant organic material on 
+Earth and its biodegradation has been the subject of nu- 
+
+290 Gu, Eberiel, McCarthy, and Gross 
+400 80 
+E 
+v 
+o 
+i 
+O L~ 
+z 300 
+200 
+100 q 
+L 
+q -~CA(1.7 d,s,)-I 
+~CA(1.7 d,s.)-2 
+0 10 20 
+Time(days) 60 z © 
+< 
+_..1 
+4o ~ uJ 
+Z y~ 
+-- 20 
+30 
+Fig, 3, Respirometric mineralization of powdered CA DS-1.7 in a matured synthetic MSW compost 
+matrix under aerobic thermophilic conditions. 
+400 .... 80 
+300 
+E 
+¢_3 
+dJ 200 
+O 
+o 
+z 
+100 ~-CA(d.s. 2.5) 
+/ 
+// 
+':)-~ r I T .... ] ........ T I r .... [-- ~ 
+0 10 20 30 40 50 
+Time(days) / 
+3 ........ 
+60 70 60 z 
+O 
+t-- < 
+N 
+._.1 
+iii 
+Z 
+20 
+Fig, 4, Respirometric mineralization of powdered CA DS 2.5 in a matured synthetic MSW com- 
+post matrix under aerobic thermophilic conditions. 
+
+Cellulose Acetate Biodegradation 291 
+merous studies [19]. Xylan is also highly abundant in 
+nature and is described as a fi-1,4-1inked D-xylose het- 
+eropolymer which can be highly substituted with arabi- 
+nosyl, acetyl, uronyl, and arabinose side groups [20]. It 
+is well-known that the complete mineralization of cel- 
+lulose and naturally acetylated xylan requires the pres- 
+ence of multiple enzymes which act in a cooperative 
+manner [ 19, 201. 
+in the biodegradation of xylan containing side-chain 
+acetyl groups, it has been discussed above that deacetyl 
+esterases have been identified which function to remove 
+side-chain acetyl groups from the polymer chain [20]. 
+Furthermore, it has been shown by a number of workers 
+that CA polymers which have DS values of more than 
+0.76 are not degraded by cellulase enzyme systems [4]. 
+From the above, it is highly likely that the biodegrada- 
+tion of CA with a DS greater than approximately 0.8 
+requires the presence of both deacetylase and cellulase 
+enzyme systems. Therefore, it is hypothesized that de- 
+acetylase enzymes are required to provide chains or 
+chain segments with DS values of less than approxi- 
+mately 0.7. Once this critical degree of deacetylation is 
+reached, cellulase enzymes cause events of chain cleav- 
+age which are accelerated by further chain deacetyla- 
+tion. A schematic of this is shown in Figure 5. It should 
+be noted that the critical value of deacetylation required 
+~br glycosidic bond cleavage by cellulase enzymes has 
+not as yet been firmly established for a range of cellulase 
+enzyme systems. 
+Cellulose Acetate Chains (higher DS) 
+\ 
+deacetytase Acetate 
+Cellulose Acetate Chains (lower DS) 
+celhtlase ~A 
+deacetytase cetate 
+Microbial biomass, H20 , CO 2 
+Fig, 5. Proposed scheme for CA biodegradation. Work is in progress in our laboratory using CA de- 
+grading microbial isolates to obtain detailed information 
+on the mechanistic features of CA biodegradation. 
+ACKNOWLEDGMENTS 
+We are grateful for the financial support of this re- 
+search by the 3M Company Department of Environ- 
+mental Engineering and Pollution Control and the Army 
+Research Office, Biological Sciences Division (Grant 
+DAAL03-90-G-0111). In addition, we also thank Dr. 
+Satish K. Pulapura for his assistance in GPC and *H 
+NMR analyses and Mr, Joe Westerman for his guidance 
+during SEM studies, 
+REFERENCES 
+1. C. S. Gong, L. F. Chen, M, C. Fiickinger, and S. Tsao, Adv. 
+Biochem. Eng. 20, 93 (198l). 
+2. E. K. Yu and J. N, Saddler, Trends Biotechnol. 3, 100 (1985). 
+3. R. T. Bogan and R. T. Brewer, Encyclop. Polym. Sci. Eng. 3, 
+158 (1988), 
+4. E. T. Reese, Indust. Eng. Chem. 49, 89 (1957). 
+5. K. M. Downing, C. S. Ho, and D. W. Zabriskie, Biote&noL 
+Bioeng. 29, 1086 (1987). 
+6. T. E. Timell, WoodScL Technol. 1, 45 (t967). 
+7. E. Luthi, N~ B, Jasmat, and P. L. Berquist, Appl. MicrobioL 
+Technol. 34, 214 (1990). 
+8. H. Lee, R. J. B, To, R. K. Latta, P. Biely, and H. Schneider, 
+appl. Environ. MicrobioL 53, 2831 (1987). 
+9. K. Poutanen and J. Pits, in Plant Cell Wall Po&mers--Bioge- 
+nesis and Biodegradation, N. G. Lewis and M. G. Paice, eds. 
+(American Chemical Society, Washington, DC, 1989), p. 629- 
+640. 
+10. J.-D. Ou, D. EberieL S. P. McCarthy, and R. A. Gross, J. E~- 
+viron. Polym. Degr. 1, 143 (1993). 
+1 I. R. A~ Gross, J.-D. Gu, D. T. Eberiel, M. Nelson, and S. P. 
+McCarthy, in Biodegradable Polymers and Packaging, C. Ching, 
+D. Kaplan, and E. Thomas, eds. (Technomic, Lancaster, PA, 
+1993), p. 257-279. 
+12. J.-D. Gu, S. P. McCarthy, O. P. Smith, D. Ebefiet, and R. A. 
+Gross, Polym. Mater'. ScL Eng. 67, 230 (1992). 
+13. J.-D. Gu, M. Gad& G. Kharas, D. EberieI, S. P. McCarthy, and 
+R. A. Gross, Polym. Mater. Sci. Eng. 67, 351 (1992). 
+14. M. Nelson, S. P. McCarthy, and R. A. Gross, Potym. Mater. 
+Sci. Eng. 67; 351 (1992). 
+15. M. Nelson, S. P. McCarthy, and R. A. Gross, in preparation. 
+16. C. M. Buchanan, R. M. Gardner, and R. J. Komarek, J. AppL 
+Polym. ScL 47, 1709 (I993). 
+17. V. W, Goodtett, J. T. Dougherty, and H. W. Patton, J. Polym. 
+Sci. (PartA-1) 9, 155 (1971). 
+18. J.-D. Gu, S. Coulter, D. Ebefiel, S. P. McCarthy, and R. A. 
+Gross, J. Environ. Polym. Degr. 1, 30I (1993). 
+19. P. Biely, C. R. MacKenzie, J. Puls, and H. Schneider, Bio/Teeh- 
+nology 4, 731 (1986). 
+20. K. K. Y. Wong, L. U. L. Tan, and J. N. Saddler. MierobioL 
+Rev. 52, 305 (1988). 
+

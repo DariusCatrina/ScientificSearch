@@ -1,0 +1,963 @@
+Adv Polym Sci (2012) 245: 137–172
+DOI: 10.1007/12_2011_153
+#Springer-Verlag Berlin Heidelberg 2011
+Published online: 3 November 2011
+Biodegradability of Poly(vinyl acetate)
+and Related Polymers
+Manfred Amann and Oliver Minge
+Abstract This chapter deals with the biodegradability of vinyl ester-based
+polymers with a special emphasis on poly(vinyl acetate) and poly(vinyl alcohol).A proper discussion of the importance of the biodegradability of a certain polymerclass cannot be made without understanding the impact that polymer class has onthe environment. Therefore, apart from discussing the actual biodegradationmechanisms, other issues will be addressed. These include, but are not limited to,
+how long the class of vinyl ester-based polymers has been known and produced on
+an industrial scale, what quantities are produced and released into the environmenteach year, and what applications are addressed with this polymer class. We will alsolook at the general physical and chemical properties of this polymer class and howthese properties can inﬂuence biodegradability. After a discussion of what “biode-gradability” actually means – and what not – the mechanisms for the biodegrada-tion of poly(vinyl ester)s will be discussed in more detail and a summary given ofthe biological systems able to process poly(vinyl ester)s.
+Keywords Biodegradation /C1Poly(vinyl acetate) /C1Poly(vinyl alcohol)
+Contents
+1 Introduction to Poly(vinyl ester)s .. ........................................................ 138
+1.1 History ................................................................................. 138
+2 Basic Materials, Production and Producers ................................................ 139
+2.1 Raw Materials ......................................................................... 139
+2.2 Polymer Production . .................................................................. 140
+2.3 Polymer Composition ... .............................................................. 141
+2.4 Derivatives of PVAc .................................................................. 142
+M. Amann ( *) and O. Minge
+WACKER Consortium f €ur elektrochemische Industrie, Zielstattstrasse 20, 81379 Munich,
+Germanye-mail: manfred.amann@wacker.com ;oliver.minge@wacker.com
+2.5 Manufacturers ......................................................................... 143
+2.6 Applications .. ......................................................................... 143
+3 Aspects of Degradability .................................................................... 145
+3.1 Chemical Motifs ...................................................................... 145
+3.2 Physical Properties .................................................................... 145
+3.3 Solubility in Water . ................................................................... 149
+3.4 Molecular Weight ..................................................................... 150
+3.5 Extracellular Polymer ... .............................................................. 150
+3.6 Intracellular Polymer ... .............................................................. 151
+3.7 Saponiﬁcation ......................................................................... 152
+3.8 Stereoregularity ....................................................................... 152
+4 PVA Polymer Products ..................................................................... 152
+4.1 Blends and Additives ................................................................. 1524.2 Vinyl Alcohol Block Copolymers .................................................... 154
+4.3 PVA Biodegradation ... ............................................................... 155
+5 Microbial Systems .......................................................................... 156
+5.1 Organisms and Communities ......................................................... 156
+5.2 Aqueous Systems and Composting Sites ............................................. 158
+6 Biochemical Systems ....................................................................... 159
+6.1 Enzymes ............................................................................... 160
+6.2 Genes and Genomic Organisation .................................................... 165
+7 Conclusion ................................................................................... 167
+References ....................................................................................... 168
+1 Introduction to Poly(vinyl ester)s
+1.1 History
+Poly(vinyl acetate) (PVAc) and its corresponding polymers poly(vinyl alcohol)
+(PVA) and poly(vinyl butyral) (PVB) have long been known and their historiesof discovery and development are as closely linked as their chemistries, which arecharacterised by an all-carbon polymer backbone and by 1,3-diol structures or theirderivatives (see Fig. 1).
+In fact, the ﬁrst description of a polymeric vinyl ester dates back to 1912 when
+Klatte [ 1] managed to polymerise vinyl chloroacetate to obtain a solid resin.
+However, the potential of these materials was not seen at that time [ 2]. Additionally
+the polymerisation reaction faced severe practical problems leading to products
+OAc OAc
+nOH OH
+nO O
+n
+C3H7
+poly(vinyl acetate) poly(vinyl alcohol) poly(vinyl butyral)
+Fig. 1 Repeating units of poly(vinyl acetate), poly(vinyl alcohol) and poly(vinyl butyral)138 M. Amann and O. Minge
+with low molecular masses and mediocre physical properties (please note that the
+concepts of polymerisation and macromolecules were not introduced before 1917by Staudinger [ 3,4]).
+Soon afterwards, however, Wacker Chemie developed methods for the large
+scale production of vinyl acetate monomer (VAM) and also overcame syntheticlimitations in the production of PVAc from VAM [ 5,6]. The resulting polymer
+PVAc was soon found to be suitable for use both as a binder and as a majorcomponent in adhesives.
+The chemistry of PVAc was explored further in the following years: In 1924,
+PVA, the hydrolysis product of PVAc, was discovered by Hermann and Haehnel atWacker Chemie in Germany [ 7,8]. At the same time Staudinger independently
+discovered PVA [ 9]. After the saponiﬁcation process for PVAc had been optimised,
+PVA was inter alia the material to be processed into the ﬁrst fully synthetic ﬁbre
+(Synthoﬁl, 1931) [ 10]. PVA also was the ﬁrst fully synthetic stabiliser for colloidal
+systems [ 11].
+In 1928, PVB, an polyacetal of PVA and butyric aldehyde, was shown to be
+suitable for the production of laminated safety glasses [ 12], for which it is still used
+today.
+In the following decades, homo-, co- and terpolymers of VAM with other vinyl
+esters, (meth)acrylates, and ethylene were developed to give thermoplastic
+materials with tailored properties that are nowadays produced as solid resins,aqueous dispersions and dispersible powders.
+As one can see, PVAc and its related polymers are nothing new and the materials
+have been around for almost 100 years. Practical applications of polymers based onVAM have been known for over 80 years and products containing VAc-basedpolymers have been spreading into the environment for just as long.
+2 Basic Materials, Production and Producers
+2.1 Raw Materials
+The synthesis route to vinyl ester-based polymers starting from ethylene is shown in
+Fig. 2. The basic monomer for PVAc and its related polymers is VAM. The
+worldwide production capacity for VAM was estimated to be close to 5,900 ktonsin 2009 with an actual production of around 5,500 ktons [ 13]. About 50% of the
+VAM is converted to PVAc and VAc-containing polymers, and around 30% is
+converted to PVA. The remaining 20% is converted in other ways, including the
+production of PVB [ 13]. As can be seen from Fig. 2, basically only ethylene and air
+are needed for the production of PVAc and its polymer analogous products PVAand PVB.Biodegradability of Poly(vinyl acetate) and Related Polymers 139
+VAM can be produced starting from ethylene, which is converted to acetic acid
+via acetaldehyde by two sequential oxidation steps (reactions 1 and 2 in Fig. 2), the
+ﬁrst step being the famous Wacker process (reaction 1 in Fig. 2)[14].
+Another way to produce acetic acid is based on a carbonylation of methanol in
+the so called Monsanto process, which is the dominant technology for the produc-tion of acetic acid today [ 15]. Acetic acid then is converted to VAM by addition of
+ethylene to acetic acid in the gas phase using heterogeneous catalysts usually basedon palladium, cadmium, gold and its alloys (vinylation reaction 3 in Fig. 2)[16]
+supported on silica structures.
+It should be pointed out that the raw materials for VAM and its related polymers
+(i.e. ethylene and acetic acid) are produced from fossil resources, mainly crude oil.
+It is possible to completely substitute the feedstock for these raw materials and
+switch to ethanol, which can be produced from renewable resources like sugar cane,corn, or preferably straw and other non-food parts of plants. Having that in mind,the whole production of PVAc, that nowadays is based on traditional fossilresources, could be switched to a renewable, sustainable and CO
+2-neutral produc-
+tion process based on bioethanol, as shown in Fig. 3. If the “vinyl acetate” circle can
+be closed by the important steps of biodegradation or hydrolysis and biodegradationof vinyl ester-based polymers back to carbon dioxide, then a truly sustainable
+material circle can be established.
+2.2 Polymer Production
+The polymerisation of VAM (reaction 4 in Fig. 2) can be carried out using different
+kinds of standard polymerisation techniques, the technically most important ofO O
+O On
+OH OHn
+O OnO
+O
+C3H7
+C3H7O
+NaOH / MeOHVAM
+PVAc PVA PVBOOH
+ethylene acetic acidethylene air/oxygenO2 O2
+air/oxygen
+OH
+acetaldehyde[1] [2] [3]
+[4]
+[5] [6]
+Fig. 2 Pathway to vinyl ester-based polymers starting from ethylene140 M. Amann and O. Minge
+them being emulsion-, suspension- and solution-polymerisation yielding either
+aqueous dispersions or solid resins [ 17]. Depending on the polymerisation method
+employed, the PVAc obtained differs in molecular weight and molecular weight
+distribution but also in the amount of branching by side reactions. These propertiesare of considerable importance when it comes to biodegradation. As a rule ofthumb, the molecular weight of emulsion-polymerised systems is very high whilesuspension- and solution-polymerised systems usually show relatively low molec-ular masses.
+2.3 Polymer Composition
+VAM is used to produce a homopolymer and, together with a wide array of differentmonomers, a number of copolymers. Copolymers with ethylene are one of the mostimportant classes of copolymers known and, depending on the ratio of ethylene andvinyl acetate, are abbreviated as EVA (high ethylene and low vinyl acetate content)or VAE (high vinyl acetate and low ethylene content) [ 18] polymers.carbon dioxide
+CO2
+biomass
+C6H12O6
+bioethanol
+C2H5OH
+acetic acid
+C2H4O2viny lacetate
+monomer
+C4H6O2PVAc
+(C4H6O2)nPVA
+(C2H4O)n
+ethylene
+C2H4photosynthesis
+refining
+dehydration
+oxidationvinylationpolymerizationhydrolysisbiodegradation
+the vinyl acetate circle
+Fig. 3 Vision of the “vinyl acetate circle” wholly based on ethanol as a raw material sourceBiodegradability of Poly(vinyl acetate) and Related Polymers 141
+Copolymers with acrylates (vinyl acrylics) or other vinyl esters are also com-
+monly produced, mostly as aqueous dispersions. They are, independent of thenature of the comonomer, often referred to as “copolymers” or “terpolymers”.
+The presence of comonomers of course heavily inﬂuences a number of physical
+properties like the glass transition temperature and melting point, water solubilityor ﬂexibility, to name just a few.
+2.4 Derivatives of PVAc
+To obtain PVA, PVAc is saponiﬁed in a polymer analogous reaction usingmethanolic sodium hydroxide. The reaction 5 in Fig. 2, which is better described
+as a transesteriﬁcation rather than a simple basic hydrolysis, leads to PVAs withdifferent degrees of saponiﬁcation (see Fig. 4).
+O
+On
+PVAc
+PVAc-co-PVA
+O
+OmNaOHMeOH +
+OHn-mOO
+Me n-m
+soluble in cold water
+soluble in cold water
+OHnPVAn-m
+MeOHm
+Fig. 4 Transesteriﬁcation of
+PVAc with methanol (oftenregarded as saponiﬁcation) to
+completely hydrolysed PVA
+via partially hydrolysedPVAc- co-PVA142 M. Amann and O. Minge
+It is important to note, that neighbouring group effects affect the alkaline
+hydrolysis rate of the individual acetate groups. Acetate groups adjacent to alcoholgroups are more readily hydrolysed than acetate groups having only other acetate
+groups in close proximity. As a consequence, partially hydrolysed PVA exhibits a
+block-like structure rather than a random structure and is best described as a (multi)block PVAc- co-PVA.
+The degree of hydrolysis (DH) can be adjusted by the reaction time. Many
+common PVA resins have a DH of about 88 mol%. These resins are soluble incold water. Higher DH lead to a reduced water solubility. A totally hydrolysed PVAis almost insoluble in cold water and can only be dissolved by boiling in water foran extended period of time. The insolubility is caused by the build-up of intramo-
+lecular hydrogen bonds, leading to a high degree of crystallisation not achieved by
+only partly hydrolysed PVA grades.
+PVA subsequently can be acetalised (reaction 6 in Fig. 2) with aldehydes, the
+most important of them being butyric aldehyde, leading to PVB. However, sincePVB only plays a minor role, both according to the total volume produced and thenumber of applications that make use of PVB, it will not be discussed in much detailin this chapter.
+2.5 Manufacturers
+The worldwide production of PVAc and its copolymers containing more than 50 wt%of VAM reached about 2,300 ktons by 2007, with an annual growth of about 3.4%[19]. Another major part of the VAM produced is converted to PVA. The major
+production regions are the USA, Western Europe, China and Japan.
+The major producers of VAM and VAM-based polymers include, but are not
+limited to, BP of the UK and Wacker Chemie of Germany. Celanese Chemicals,
+Dow Chemical Corp., DuPont and Millenium are important USA-based producers.In Asia, Kuraray, Nippon Gohsei and Showa Denko of Japan; Dairen Chemical andAsian Acetyls of Taiwan; and Shanghai Petrochemical and Sichuan Vinylon Worksof China produce VAM and their polymers. These regions are also the majormarkets for the different products obtained from PVAc and its derivatives.
+2.6 Applications
+PVAc, PVA and PVB are used in a vast number of different applications [ 19]. The
+most common use of PVAc-based dispersions and dispersible polymer powders isin the construction and adhesives industry. The polymeric binders are used asBiodegradability of Poly(vinyl acetate) and Related Polymers 143
+additives to enhance the properties of e.g. tile adhesives, mortars and self-levelling
+compounds. PVAc dispersions are also used in many other adhesive formulations.Wood glues (white glue) are often based on PVAc. It is also commonly used as a
+binder in the paper industry and as a binder in latex paints, although binders based
+on acrylics are far more common in paint technology. Almost one third of the PVAcproduced goes into binder and adhesive applications.
+Because PVAc is approved by the FDA it has also several uses in the food
+industry. PVAc can also be found in just about every chewing gum. It is a majorcomponent in the so called gumbase, a mixture of different polymers that incombination with sugar, sweeteners, ﬂavours, and other additives make up achewing gum.
+EVA is a copolymer of ethylene with minor amounts (ca. 10–40%) of vinyl
+acetate. EVA has many uses as a foam rubber in everyday goods (like shoes etc.), ascable insulation and as encapsulation material in photovoltaic cells.
+VAE, a copolymer of vinyl acetate with minor amounts of ethylene is used as an
+adhesive for paper, plastics and leather and as a binder for different paints. Shoes,tubes, toys and other articles of daily use also contain VAE polymers. The hydro-lysis product of VAE polymers, EVOH, is a thermoplast and can therefore beprocessed by extrusion and injection moulding and is used as barrier polymer for
+O
+2and CO 2(e.g. in packaging applications).
+PVA is used for example as a water soluble dispersing agent for many different
+polymer dispersions used in the construction industry. An important property ofPVA is the ability to redisperse polymer dispersions that have been dried topowders.
+PVB, apart from its importance in laminated safety glasses, is also used as an
+additive for various printing ink and lacquer formulations because of its ability toform tough and transparent coatings while being compatible with solvents often
+used in the printing industry.
+As pointed out above, PVAc is frequently not used as a hompolymer but rather
+as the major component of a copolymer (VAE, terpolymers, vinylacrylics, etc.).Additionally, in the applications mentioned above PVAc and the related polymersare usually not used alone but as a part of a more or less complex mixture with othercomponents. These components can be, for example, ﬁllers, plasticisers, impactmodiﬁers, compatibilisers, or other polymers. These components need to be takeninto account when discussing biodegradability. They inﬂuence the biodegradability
+of the mixture as a whole but they may in particular inﬂuence the biodegradability
+of the PVAc moiety by altering the physical circumstances under which degrada-tion reactions can take place.
+As mentioned, vinyl ester polymers are used in every part of the world for a vast
+number of different applications. They can be found basically everywhere ineveryday life, from housing to personal effects and in goods as well as in food.The environmental fate of poly(vinyl ester)s is therefore of great importance.144 M. Amann and O. Minge
+3 Aspects of Degradability
+3.1 Chemical Motifs
+PVAc, PVA and PVB homopolymers as well as the different copolymers men-
+tioned above all have a similar chemical motif in common. They exhibit an all
+carbon–carbon single bond backbone, which needs to be broken at some point in a
+potential biodegradation mechanism. With respect to the backbone, poly(vinylester)s are closely related to poly(oleﬁn)s, poly(styrene)s and poly(acrylate)s.These three are known not to be biodegradable. Instead, they usually decomposeby the impact of UV radiation, oxidation and hydrolysis reactions, which are notconsidered to be biological degradation.
+Apart from the all-carbon backbone, poly(vi nyl ester)s also exhibit a unique 1,3-diol
+structure (see Fig. 1). This structure is a common motif in many natural materials,
+e.g. carbohydrates. A number of oxidative or reductive electron transfer processes
+catalysed by natural redox systems are imaginable for this motif. The 1,3-diolstructure is unique for a synthetic polymer and cannot be found in any othersynthetic polymer class of signiﬁcance. This explains the unusual biodegradationproperties discussed below.
+3.2 Physical Properties
+Growing public interest in the conservation of an intact environment can beobserved. A general consensus on the fundamental limits in the magnitude andaccessibility of many crucial natural resources is developing in many areasconcerning industrial production. Fewer raw materials and less energy must beused in a future economy.
+In the area of chemically synthesised polymers, two approaches can be distin-
+guished for reducing their impact on the environment: (1) use of durable materials
+that are resistant to attack and can perform for a long period of use, or (2) use ofmaterials that after their projected lifetime easily disintegrate into small molecularcomponents that are compatible with our living environment. Thus, degradability isan aspect of very great concern for all polymeric materials that might ﬁnally end upin the environment.
+The classiﬁcation of a polymer as a degradable compound has a very positive
+impact on public perception of this chemical, which can still be exceeded by a
+classiﬁcation as biodegradable. Not surprisingly there exists a huge variety of ways,
+procedures and test protocols to evaluate this aspect of polymer behaviour. Orien-tation in this diversity of methods and related classiﬁcations is not easy and cannotbe fully discussed in this chapter [ 20,21]. The aspects that come into consideration
+when dealing with degradability or biodegradation are quite diverse. At the end ofall the different test procedures there is always a classifying attribute given to theBiodegradability of Poly(vinyl acetate) and Related Polymers 145
+particular polymer. To obtain the right conclusions from this labelling, the speciﬁc
+background and context of the evaluations must carefully be kept in mind.
+The landscape of testing methods is quite heterogeneous. In discussing the fate
+of a polymer like PVA there are different ways of looking at the substance, which
+can be found in different test protocols.
+The alteration of polymer identity can be followed directly, but other methods
+try to look at derivatives originating from the polymer, at oligomeric cleavageproducts, or at small molecules derived therefrom down to CO
+2, the ﬁnal product of
+mineralisation.
+Changes in the speciﬁc properties of the polymer can also be taken as a hint of
+some form of degradation. Properties examined include different aspects of physi-
+cal behaviour of the polymer, different microscopic images, or changes in simple
+parameters such as the total weight of the polymer in the test or an altered molecularmass of the polymer under evaluation.
+Changes in the neighbourhood of the polymer under the speciﬁc test conditions
+are also accessible parameters that indicate potential degradation processes. Com-mon tests are monitoring of the oxygen consumption or evaluation of the impact onmicrobial growth. The time period of testing is quite crucial. Some methods are runfor only two weeks, but other procedures involve monitoring for many months.
+Many different standardised methods (ASTM, OECD, ISO) dealing with
+oxygen consumption or biological oxygen demand are compiled in Part I of Eubeleret al. [ 20].
+The biological tests offer a wide ﬁeld of parameters that cannot be easily
+reproduced. Many microbial strains, microbial communities and biotopes can beused to run speciﬁc tests. Some are well adapted to the polymer under consider-ation, like speciﬁcally engineered microbial strains or indigenous sewage sludgefrom production sites. Other test systems use microbial communities that are not yet
+prepared for these compounds, like sludge in municipal sewage treatments. Aerobic
+or anaerobic conditions can be maintained, but intermediate or changingoxygenation situations may occur without being monitored. Soil as a degradationmatrix is very complex and not evenly distributed around the Earth. Even identicalsoils differ in their degradation performances quite substantial just by changing thewater content. Water sediments are extremely important, but reproducible handlingis difﬁcult. Much testing is done in compost, which is rich in microbial life, butgreat differences are seen between a backyard heap and artiﬁcial or commercial
+systems.
+This sophisticated picture is reﬂected by the many test procedures dealing with
+degradation or biodegradation that are published by different national, interna-tional, or industry-driven organisations (e.g. ISO, ASTM). The aim of all theseefforts is to obtain comparable data on the behaviour of the polymer under consid-eration, but a driving force is also the marketing need to present an attractiveclassiﬁcation and labelling for the polymer product.
+In this chapter, we aim to summarise current knowledge on the biodegradability
+of PVA. It is necessary to distinguished precisely between biological mechanisms
+and non-biological routes, even if they are intrinsically intimately entangled.146 M. Amann and O. Minge
+Abiotic forces will not be in the focus of the discussion, but it is obvious that a
+polymeric material like PVAc or PVA exposed to outdoor conditions will undergodifferent alterations at the macroscopic and microscopic scales. Depending on its
+interaction with mechanical forces, thermal stress, radiation or chemical attack, the
+polymer properties might be changed in a way that is relevant for its interactionwith biological systems.
+Mechanical forces like shear or compression in synergy with temperature can
+have strong inﬂuence on the material structure upon approaching the glass transi-tion temperature or melting point of the polymer. Irradiation by light might be ofconcern if the surface is amenable, but chemical interactions can hardly be avoidedas all materials display interfaces to different solids, to different solvents like water,
+or to atmospheric gases.
+Many experimental ﬁndings can at ﬁrst glance be interpreted as some form of
+polymer degradation. But, scientiﬁcally valid data must try to make up the balanceof the polymer and its degradation products to avoid false interpretation due toadsorption phenomena, inappropriate analytical tools or detection limits, orchanges in its chemical identity.
+Biological mechanisms comprising some kind of disintegration of the polymeric
+starting material, its fragmentation (possibly down to mineralisation), and assimi-
+lation of polymer-derived substructures into the living organism can be summarised
+as a complete biodegradation process [ 22]. In this general sequence organisms act
+on polymer substrates not only via classical biological tools like small or largebiogenic molecules to attack the polymer. The living cells or organisms create aliving interface to the polymer that imparts a new physico-chemical environmentfor the polymer degradation. The living nature of the degraders or the complexmicrobial consortia cooperating in degradation results in an intimate link-age ofbiogenic and abiotic factors often working in a synergistic way.
+Biodeterioration at the beginning of the biodegradation process works on the
+accessible surface of the polymeric material, inﬁltrating porous structures andaltering the macroscopic structure of the polymer. In addition to this physicalprocess, the chemical biodeterioration is a powerful mechanism. Many compoundsproduced by microbial systems are active substances that weaken the polymericstructure. Mineral acids like nitrous acid and sulphuric acid or organic acids likeoxalic, citric or glutaric acid are just a few examples of a huge list of acids producedby different microorganisms operating in this process, often via complexation of
+metal cations. Biosurfactants are a further category of supporting agents that
+facilitate the interaction of hydrophilic and hydrophobic areas. Microbial extracel-lular polymers stabilise a water coating on the polymeric materials, causing effectslike polymer swelling or hydrolysis.
+Microbial vulnerability of polymers is often ascribed to enzyme activity,
+enzymes being crucial players in the biological biodeterioration process. Asenzymes are macromolecular polymers, their attack on the polymer is usuallyonly possible via superﬁcially exposed polymer structures readily accessible via a
+microporous structure. Alternatively, the enzymatic attack works indirectly viaBiodegradability of Poly(vinyl acetate) and Related Polymers 147
+small active mediating molecules like radicals or other active mediators [ 23] that
+are generated by appropriate enzyme systems.
+Enzymes are the main actors in breaking down the polymers into oligomeric
+structures, monomers or other small metabolites. This biofragmentation is a neces-
+sary event in the degradation process because the polymer is usually unable to crossthe cell wall or any cytoplasmic membrane of the degrading organisms. Thus,scission of chemical bonds via biological means must be accomplished by thedegraders, if no abiotic involvement has already succeeded.
+The biological aim of biodegradation is not to eliminate man-made polymers
+from the biosphere but to mobilise densely packed organic material as nutrient formicrobial or higher life forms. This implies that the integration of polymer-derived
+atoms into the microbial biomass has to be the last step in true biodegradation. This
+assimilation step can ﬁnally end in the observation of cell growth or even acomplete mineralisation via metabolism these intermediates to CO
+2. This assimila-
+tion can only occur if the polymer can be absorbed in some way by the degrader orcan be broken down to molecules that can be transported via the cell wall andmembrane. In both cases, a metabolically compatible form of the polymer-derivedstructures must be obtained to channel these molecules into the metabolic pathwaysof the degrading organisms. The energy for these vital activities is generated by the
+different ways in which organisms are able to gain energy by their catabolic
+pathways using different electron transport chains. Reviewing the huge diversityof aerobic or anaerobic life and the many microbes utilising fermentative processes,it is not surprising that degrading organisms are found in quite different biotopes allover the planet.
+Biodegradation is a complex natural process covering many parameters that are
+often interdependent. The sequence or the simultaneous action of the differentdegrading forces is often highly relevant, which makes it difﬁcult to get reproduc-
+ible results. But, it is exactly this complexity that makes it fascinating to illuminate
+the interplay of nature with our man-made polymers.
+Discussed here is the fate of PVAc and PVA polymers with respect to the
+biodegradation events described above. In technical applications and products,additives are used to improve the performance in different processing steps, andblending with other polymers is used to tailor the application proﬁles to thedemands of customers or the needs of the producers. These wanted contaminationsmake it difﬁcult when biodegradation of PVAc- and PVA-containing products must
+be used exclusively to evaluate the degradation process. It is obvious that
+processing aids, blending partners and other components in an intimate composi-tion containing PVAc and PVA play some role in the multistep biodegradationprocess, either as supporting components or as substances that may slow downbiodegradation or make it even impossible.
+Wherever possible we will therefore focus on degradation studies with pure
+polymers. The degree of biodegradation of PVAc and PVA depends oncharacteristics that are intrinsically related to the physical and chemical properties
+of the polymer. As many of these factors can differ to some extent depending on the148 M. Amann and O. Minge
+synthesis and processing of the polymer, a range of polymer products can be
+obtained that behave slightly different in biodegradation trials.
+3.3 Solubility in Water
+Solubility behaviour in aqueous solutions is a crucial factor in many aspects ofbiodegradation because almost all living organisms are dependent on the availabil-ity of sufﬁcient water phase. A low molecular weight PVA molecule shows a good
+solubility in water, be it only in molecular amounts or in bulk quantities.
+To date, PVA is only accessibly via removal of the acetyl groups from the
+precursor polymer PVAc. The highly acetylated polymer is not soluble in water. Bygenerating OH groups via removal of the acetyl residues from the polymer back-bone, the interaction with water solvent molecules becomes more favourable andthe tendency to dissolve in water increases.
+Upon further increasing the DH many hydrophilic hydroxyl groups are exposed,
+which can additionally form strong intermolecular hydrogen bonding between
+different polymer molecules. These attractive interactions lower the water solubil-
+ity of the polymer and give rise to a more crystalline structure of the polymerdomains. Because the glass transition temperature and hardness concomitantlyincrease, degradability becomes more difﬁcult at very high DH.
+Due to the neighbourhood of secondary alcohol groups and remaining hydro-
+phobic acetyl groups in a not fully hydrolysed polymer, a balanced situation resultsthat dictates the overall water solubility. Temperature plays an important role inthat interplay between the intermolecular attracting forces and the polymer water
+interaction. An optimum in cold water solubility can be observed with a DH of
+87–89 mol% for molecular weights between 25,000 and 100,000 Da (degree ofpolymerisation, DP, 600–2,400).
+In evaluation the biodegradability of PVA, it is necessary to discriminate
+between two fundamentally different environmental situations. The fate of PVAcan be analysed by looking at a fully dissolved aqueous PVA found in activatedsludge of an adapted sewage plant or by following PVA molecules in a solid statecompost environment, offering many stabilising interactions with other surfaces of
+different origin. High levels of biodegradation of dissolved PVA via microbial
+communities can be observed (Tang 2010). Only moderate or marginal biodegra-dation is reported from soil and compost biotopes [ 24].
+PVAc is not water soluble, which should be a major obstacle for a potential
+biodegradation mechanism. However, PVAc resins show a certain amount ofswelling when exposed to water. This swelling facilitates the degradation bybiologically active substances by making the resin more hydrophilic. Furtherabiotic release of acetic acid residues generates the 1,3 cis-diol motifs in the
+polymer backbone, which are relevant as entry points for biodegradation as outlined
+further below in Sect. 6.1.Biodegradability of Poly(vinyl acetate) and Related Polymers 149
+3.4 Molecular Weight
+The biodegradation of macromolecules generally comprises a number of steps that
+can proceed at different sites from the perspective of the active microorganism. Themacromolecule can be taken up into the cell, where it is cut down and furthermetabolised. Alternatively, the splitting of the macromolecule can be done outsidethe cell, and the small degradation products then transported into the cell.
+The cellular uptake of high molecular weight compounds can be accomplished
+by engulﬁng those molecules, a mechanism called endocytosis that is widely
+distributed because large polar molecules cannot pass through the hydrophobic
+environment of a plasma or cell membrane. Alternatively, a speciﬁc cellular uptakemachinery called a superchannel [ 25] is described in a Sphingomonas strain for
+polysaccharide macromolecules (27 kDa) like alginate. This kind of transport ismediated by a pit-dependent ATP-binding cassette (ABC) transporter. The functionof the transporter is dependent on a pit, a mouth-like organ formed on the cellsurface only when cells are compelled to assimilate this speciﬁc macromolecule.The system allows direct import of intact macromolecules into the cellular cyto-
+plasm. Experimental results showing the import of high molecular weight PVA into
+microbial cells have not yet been published, but a Sphingomonas strain
+(Sphingomonas sp. OT3 [ 26]) is one of the few PVA-degrading microorganisms.
+The molecular weight aspects can be discussed for different sites of the degra-
+dation topology: the situation outside the cell, at the interface, or inside thecytoplasm of a degrading organism. Two classes can be discriminated in the spatialorganisation of the PVA degradation pathway. Some organisms begin with anextracellular enzymatic depolymerisation via oxidation and hydrolysis, others use
+their periplasmatic compartment. This compartment can also be regarded as an
+extracellular site, separated by the inner membrane from the cytoplasm, but is bettercontrollable by the organism.
+3.5 Extracellular Polymer
+Molecular weight and water solubility are related in the case of large PVAmolecules. Perfectly comparable results are not easily available because the DHusually differs to some extent. The fully hydrolysed high molecular weight PVAshows a marginal propensity to biodegrade in soil environments. Many possibilitiesare given to explain that behaviour. The overall rare distribution of degrading
+organism is cited but other physical and chemical factors make the degrading
+situation very unfavourable. High crystallinity and the strong complexinginteractions of the many hydroxyls with polar mineral components hinder microbialor enzymatic accessibility to the PVA surface [ 27].
+Aqueous systems are favourable for the degradation of PVA. Kinetic monitoring
+of the molecular weight distribution in liquid cultures of mixed microbial150 M. Amann and O. Minge
+populations showed a progressive disappearance of the higher molecular weight
+fraction irrespective of the DH (72–98%). In water, fully dissolved polymer iscompletely biodegradable.
+As a general mechanism, the degradation of PVA starts outside the cells via
+enzymatic attack on the polymer. The resulting products are a mixture of acetoxyhydroxy and hydroxy fatty acids. Upon intracellular enzymatic deacetylation,hydroxy fatty acids are generated that can be further metabolised via the classicalb-oxidation pathway and TCA cycle.
+The extracellular enzymatic attack on the 1,3-diol repeating unit in the polymer
+proceeds via oxidative enzymes, introducing structures in the PVA backbone thatcan serve as breaking points for subsequently acting enzymes. The enzymatically
+introduced 1,3-diketone moieties or b-hydroxy ketone structures are split by
+speciﬁc hydrolases or aldolase enzymes. The resulting polymer fragments showthat this enzymatic endocleavage of the polymer is a random process. The reactionis not much affected by the molecular weight of the PVA (DH >80%). This
+basic cleavage mechanism is common to all PVA-utilising microorganisms so farstudied [ 28].
+3.6 Intracellular Polymer
+Organisms of different systematic classiﬁcation are described as PVA degraders.
+All candidates show different types of cell walls or membrane systems covering thecytoplasm. The organisms include prokaryotic Gram negative (Periplasm) andGram positive bacteria but also some eukaryotic fungal degraders [ 29]. The mech-
+anism of transfer of modiﬁed PVA and PVA-derived fragments across the cyto-
+plasm membrane is not clear.
+As a result of external extracellular or periplasmic fragmentation, small PVA
+oligomers exhibiting residual acetylation (PVA-PVAc) enter the cell. A pro-nounced effect of molecular weight on the fate of these PVA pieces was found.Speciﬁc esterases catalyse the intracellular hydrolysis of residual acetyl groups onnot fully hydrolysed PVA [ 30]. Lower molecular weight species of PVA-PVAc
+structures are preferentially accepted as substrates for this activity located in the
+cytoplasm and the cytoplasm membrane. The decreasing chain length during PVA
+degradation reaches a point where very short segments predominate. Some authorshave discussed a mechanism whereby the residual PVA molecules are degradedstarting from the terminal hydroxyls, in analogy to the b-oxidation of fatty acids.
+Those pathways would not necessitate a PVA-speciﬁc biochemical repertoire or aninduction/adaption period for the microorganisms [ 31–33]. It can be concluded that
+biodegradation of water-soluble PVA in the extracellular compartment works in abroad molecular weight range of 530–90,000 Da (DP 12–2,000) [ 34]. Inside the
+microbial cell smaller fragments are further deacetylated and funnelled into the
+standard biochemical degradation pathways.Biodegradability of Poly(vinyl acetate) and Related Polymers 151
+3.7 Saponiﬁcation
+The DH of technical grade PVA varies in the 70–98% range. What the number does
+not tell is the distribution of these acetyl groups along the polymer backbone.A uniform statistical distribution or a clustered partitioning on the polymer givesrise not only to changes of the melting behaviour, surface tension or colloidalproperties of the polymer but also to its degradability properties. For good biodeg-radation an intermediate degree of acetylation is necessary, meaning that very highor very low acetylation is unfavourable. Samples with comparable DP differing in
+their vinyl acetate monomeric units were synthesised by acetylation of fully
+hydrolysed PVA. Biodegradation tests in different media were performed. In solidmedia like soil or compost, a high recalcitrance of fully hydrolysed PVA withrespect to mineralisation was recorded. The same behaviour was monitored withPVA samples with a very low DH, very similar to PVAc. Good biodegradation(50–60%) in soil can be found with a balanced PVA hydrophobicity at DH of24–73 mol%. In aqueous aerobic environments, biodegradation runs parallel withwater solubility [ 35]. Surprisingly, microbial strains showing external esterase
+activity were not identiﬁed as superior degraders; esterase was only found as
+intracellular activity [ 36,37].
+3.8 Stereoregularity
+PVA generated from PVAc shows a certain ratio of tacticities distributed over the
+polymer backbone. Dominating atactic areas are mixed with isotactic and
+syndiotactic segments. Interestingly, the stereo conﬁguration of the vicinalhydroxyls inﬂuences the degradability. Degradation was preferentially observedwith isotactic and syndiotactic moieties, increasing the relative amount of atacticregions [ 31]. The esterases involved in degradation can neither distinguish the
+stereoregularity of the polymer nor change it [ 29].
+4 PVA Polymer Products
+4.1 Blends and Additives
+Growing discussion about the limited availability of cheap fossil basic materials,
+and customers paying more and more attention to product life cycles, brings aspectsof the biodegradability of polymer products again to the focus of attention. Thereplacement of synthetic polymer products with biopolymers is attractive butlimited because the properties of natural polymers do not always ﬁt the demandsof processability and ﬁnal product performance. PVA with its beneﬁcial rheological152 M. Amann and O. Minge
+and ﬁlm-forming properties has been widely used to improve this shortcoming by
+the preparation of blends. Several natural polymers of plant or animal origin havebeen used as partner polymers, like the polysaccharides cellulose, starch and chitin;
+the proteins silk and gelatine; or the polyaromatic lignin. A broad compilation
+covering blends and copolymers is given in [ 38].
+The polar PVA shows a perfect dispersibility of cellulose owing to the many
+hydrogen bonds that are possible between these two polymers. With high cellulosecontents ( >70%) no crystallinity of PVA could be detected. Cellulose nanoﬁbers
+can be used for the production of promising PVA blends but there are no data aboutbiodegradation available yet [ 39]. Polymer blends in the farming and food produc-
+tion industry are highly attractive when cheap and readily available materials can be
+used. Lignocellulose materials are ideal candidates, as structural properties like
+their ﬁbre elements can be incorporated into the polymer matrix. A favourableeffect on biodegradation was not found. Lignin seems to inﬂuence the kinetics ofthe overall degradation scenario but shows no overall positive impact [ 40].
+Although lignin is generally regarded as very recalcitrant to biodegradation, theopposite is true for starch. Starch is a polyglucose polysaccharide that has evolvedas a widely distributed biological storage compound that can be easilydepolymerised to generate glucose that is channelled into energy metabolism. Its
+poor mechanical properties as a technical material have led to a high number of
+blends, amongst others with PVA [ 41]. Polymer compatibility of natural starch and
+synthetic PVA is not as good as might be expected between these two highly polarpolymers. Microscopic analysis of the morphology of the composites shows a phaseseparation between a continuous PVA phase with immersed starch islands. Polymerbehaviour and characteristics of PVA starch are described, but the biodegradationbehaviour was not the focus of the published data. The presence of starch cannot beregarded as a positive input to improve PVA biodegradation. In contrast, such
+starch blends degrade more slowly than controls without starch, PVA even
+inhibited the degradation of the starch from the blend [ 42].
+Adding a solid inorganic phase (e.g., particles of Montmorillonite) to such
+blends causes biodegradability to become even worse [ 43]. The ﬁndings support a
+model of PVA biodegradation that works well in a dissolved state, but isdowngraded upon introducing too many interacting and possibly stabilising forcesfor the PVA polymer into the system.
+PVA as an attractive blending partner is used for almost all biopolymers that have
+to be tailored in their material properties for special applications. The most abundant
+cell wall polymer in the animal kingdom is chitin, a poly( N-acetyl-
+D-glucosamine)
+polysaccharide commonly found in exoskeletons of arthropods. Chitin has manyuseful properties, such as nontoxicity, lack of odour, biocompatibility and biode-gradability. For solubility reasons it is not chitin but its derivatives that ﬁnd use inmany technical, biomedical or food applications. Chitosan is the most prominentderivative and is produced via deacetylation of chitin. With many otherbiopolymers, many blends were made with different technologies, starting with
+simple solution casting techniques [ 44] up to elaborate electrospinning technologiesBiodegradability of Poly(vinyl acetate) and Related Polymers 153
+[45]. No clear data are given to indicate that these blending partner polymers have a
+supporting effect on the PVA biodegradability in the resulting composite material.
+Good melting and ﬁlm-forming properties are attractive parameters that make
+protein polymers attractive blending partners in many PVA applications. Some
+proteins are available in sufﬁcient amounts for technical applications. Gelatine, aproduct made from animal connective tissue, has found entry in different ﬁeldsranging from high value pharmaceutical medical applications, via food to highvolume technical products.
+By mixing of aqueous gelatine and PVA solutions, ﬁlms can be obtained that are
+usually stabilised by chemical crosslinking. However, microscopy shows the lim-ited compatibility of these two components. Degradation trials with blends
+containing different ratios of gelatine and PVA showed no improvement of PVA
+biodegradability by the presence of the readily biodegradable protein, but someinhibition of the protein degradation by PVA. Latter could be explained by strongphysical adsorption of PVA on the protein microdomains.
+A similar effect is seen in the behaviour of PVA blends with soy protein. This
+plant-derived protein is used in many applications that range from food to uses asemulsiﬁers and texturising agents in resins, paints or ﬁbres. Aerobic biodegradationtrials of soy protein/PVA ﬁlms in soil proved that the PVA part imposes negative
+effects on biodegradation of these ﬁlms, prolonging their decomposing time. It is
+suggested that addition of PVA decreased the ability of soy protein molecules toabsorb water [ 46], thus lowering biodegradability.
+The inhibitory effects of PVA can also be found in degradation studies of
+polycaprolactones (PCLs). These polyesters can be readily split by lipase enzymesbinding to hydrophobic domains of that linear substrate. PVA/PCL ﬁlms in contrastare not biodegradable by PCL-degrading microorganisms. It can be assumed thatthe surface properties of PCL change upon interaction with PVA in a manner that
+enzymatic accessibility of the hydrolysable PCL backbone motifs is decreased.
+4.2 Vinyl Alcohol Block Copolymers
+Water-soluble polymers are highly attractive candidate molecules in manyapplications. Many of these polymers are not easily biodegradable. Good examples
+are polycarboxylates that are widely used as dispersing agents to avoid particleaggregation and to improve the ﬂow characteristics of suspensions. As PVA isknown to be a polymeric chain that can principally be degraded by biologicalmeans, it is quite obvious to introduce PVA sequences into those polymerbackbones. Functional vinyl monomers were copolymerised with vinyl acetatefollowed by saponiﬁcation to obtain poly(carboxylate- co-vinyl alcohol)
+copolymers. Using selected PVA-degrading microorganisms, an average block
+length of about 5–6 vinyl alcohol units was found to be necessary to obtain
+enzymatic cleavage of the copolymer backbone [ 47]. Experiments with pure154 M. Amann and O. Minge
+enzymes showed a minimum vinyl alcohol length of 3 diol units, with a preference
+for isotactic stereochemistry rather than atactic stereochemistry.
+A similar strategy was followed to impart biodegradability to polyacrylates, a
+group of polymers we cannot imagine being without in our daily life. The polymer’s
+application as superabsorber not only helps diaper management but also aids waterretention in the root area of plantations to retain and deliver limited water resources,especially in arid agricultural areas. PVA was functionalised, copolymerised andcrosslinked with acrylic acid or its partially neutralised form to give crosslinkedpolyacrylates that could swell in water. The three-dimensional acrylic acid vinylalcohol graft copolymer network still retained its swelling properties. Enzymaticdegradation could be easily monitored by the loss of its water-absorbing properties
+in vitro [ 48].
+Copolymers of ethylene with vinyl alcohol are high volume technical polymer
+products. Poly(ethylene- co-vinyl alcohol) (EVOH) is synthesised by hydrolysis of
+poly(ethylene- co-vinyl acetate) with an ethylene content of 40–45 mol%. This high
+value makes the EVOH almost insoluble in water. In data sheets, EVOH productsare categorised as biologically inert and not biodegradable (e.g. [ 49]). Many efforts
+have been made to show biodegradation of EVOH in different biotopes or byapplying enzyme mixtures. Convincing results showing biodegradation of pure
+EVOH using radiolabelled [
+14C]EVOH samples have not yet been presented, but
+hints on some degrading activity in noncrystalline regions are published [ 50].
+Blending with a biodegradable biopolymer to readjust such a nonbiodegradablematerial to a bioplastic product classiﬁed as biodegradable has been applied. Thethermoplastic starch blend (e.g. starch/EVOH 60:40; trademark Mater-Bi,Novamont) is a successful example of that strategy. A waterproof bioplastic isobtained by an extrusion process whereby the hydrophilic disperse starch phase isintimately compounded in a continuous hydrophobic EVOH phase. Structural
+characteristics of the blends are described in great detail and show that all starches
+were destructurised upon the EVOH compounding to generate new interfaces forenzyme-etching treatments. Data on the fate of these mixed phases in the biodegra-dation process have not been disclosed [ 51]. It is not expected that crystalline
+EVOH phase residues can be rendered biodegradable by this process. The productshows acceptable biodegradation behaviour for marketing [ 52,53].
+4.3 PVA Biodegradation
+There is broad consensus that PVA is among the few vinyl polymers that are
+principally biodegradable. As already outlined, this rating of PVA is only correct
+if certain requirements in structural features are met. Besides the intrinsic polymerparameters, biodegradation is strongly dependent on the surrounding conditionsthat PVA encounters on being released into the environment. Availability ofwater plays a crucial role, as well as the occurrence of biotic or abiotic structuresthan can interact with the polymer surface. In the end, the determining factor forBiodegradability of Poly(vinyl acetate) and Related Polymers 155
+biodegradation is the existence of microbial organisms that have the repertoire to
+modify, hydrolyse, metabolise and ﬁnally assimilate the PVA molecule.
+Comprehensive reviews of many aspects of PVA biodegradation are given by
+Chiellini [ 37] and Matsumura [ 54] . A more biochemical focus is compiled in a
+recent detailed review by Kawai and Hu [ 28]. Here, we will try to give an updated
+survey to make orientation in that biological area easier.
+5 Microbial Systems
+5.1 Organisms and Communities
+The search for biodegrading microorganisms does not necessarily have to start in
+areas with massive exposure to the polymer compounds. The hunt for microbes can
+often very successfully be done in any municipal sewage sludge or backyardcompost heap, as many potent strains that break down polluting substances canbe found all over the planet. However, in contrast to many other polymer-degradingorganisms, the strains that are able to deal with PVA are not easily isolated frombiotopes that have no PVA exposition history. Many examples are available in theliterature that describe successful isolation of those species from PVA pollutedenvironments [ 55]. This general ﬁnding for PVA degraders might be explained
+from an evolutionary point of view. PVA as a synthetic polymer entered natural
+environments at a late stage of evolution. Microorganisms are not yet prepared touse such resources as a standard carbon source as they do with many other polymersthat show more similarity to naturally occurring counterparts.
+A broad taxonomic survey of PVA degraders is not very fruitful as the organisms
+known until now that are able to productively deal with PVA cover just a fewfamilies. Among the degrading strains, many species can be found in the genusPseudomonas and Sphingomonas [ 56]. Other genera include Alcaligenes and
+Bacillus . Examples of the microbes involved in PVA biodegradation are given in
+Table 1.
+Besides their occurrence in bacteria, there are also some publications describing
+PVA degradation by organisms belonging to the kingdom of fungi. Among them,yeasts represent a prominent group as well as some lignolytic basidiomycetes likePhanerochaete that are known for their capacities in wood rotting and breaking
+down of potentially harmful chemicals.
+Surveying the PVA-degrading microbial candidates, a broad range from
+specialists to generalists is described, which is not uncommon with many other
+compounds. The single degraders, microorganisms that can exclusively grow withPVA as carbon source, can be screened quite easily by applying selective enrich-ment conditions. Those candidates were ﬁrst indentiﬁed. Quite interesting is asecond group of degraders, the biodegradation community. A lot of examples areknown where two or even more strains work together to make the PVA source156 M. Amann and O. Minge
+accessible and usable as a nutrient (see Table 1and references therein). Symbiotic
+pairs can be identiﬁed where each single partner cannot utilise PVA, but coopera-tively they perform well using the PVA polymer for their metabolism.
+Different cooperation models are described, but not in all cases are the individ-
+ual roles and the molecular factors that each partner contributes or demands clear.In some cases, the partners work together by providing different sets of PVA-degrading enzymes that work both extracellularly and cell-associated on large and
+small PVA molecules [ 66]. The predominating symbiotic communities were com-
+posed of strains owning a PVA-degrading system and others supplying an essentialcofactor (being themselves unable to grow on PVA). This factor could in somecases be unequivocally identiﬁed as pyrroloquinoline quinone (PQQ), a redoxcofactor that plays an essential role in electron transfer capabilities of enzymesand redox chains similar to the widely distributed nicotinamide and ﬂavin systems.In other communities, the mutual dependencies that might possibly also be a cross-feeding system, are not yet fully understood.
+Microbial communities dealing with different substrates are stable and success-
+ful systems, as they are able to react to different availability of resources. Data onthe further integration of PVA-degrading symbiotic communities in such networksinvolving also PVA blended components and other substrates have not yet beendescribed in detail.
+A third group of organisms was studied that are usually regarded as very potent
+degraders [ 67]. Wood-rotting fungi have to deal with the most recalcitrant natural
+material on the planet and are good candidates for investigation. Though degrada-
+tion could be shown by a Phanerochaete fungi using preoxidised PVA [ 68],Table 1 Examples of single cultures and microbial communities (mixed cultures) that show PVA
+degradation
+Microorganisms Reference
+Single cultures
+Pseudomona s sp. A41 Fukae et al. [ 57]
+Pseudomonas 113P3 ( Sphingopyxis sp. 113P3) Hatanaka et al. [ 58]
+Achromobacter cholinophagum SB98 Lee et al. [ 59]
+Alcaligenes faecalis KK314 Matsumura et al. [ 31]
+Penicillium sp. ASH02-21 Qian et al. [ 60]
+Brevibacillus laterosporus Lim et al. [ 61]
+Streptomyces venezuelae GY1 Zhang et al. [ 62]
+Geobacillus tepidamans Kim et al. [ 51]
+Microbial communities
+Pseudomonas sp. VM15C, Pseudomonas putida
+sp. VM15A (PQQ delivery)Shimao et al. [ 63]
+Bacillus megaterium BX1/unknown bacteria PN19 Mori et al. [ 64]
+Sphingomonas sp./Rhodococcus erythropolis (PQQ delivery) Vaclavkova et al. [ 25]
+Sphingomonas sp. SA3/ Sphingomonas sp. SA2 (PQQ delivery) Kim et al. [ 65]
+Brevibacillus brevis ,Brevibacillus limnophilus Kim et al. [ 51]
+Cultivation is usually described using PVA as a single carbon source. PQQ could be identiﬁed as
+the molecule sine qua non in some communities with an auxotrophic partnerBiodegradability of Poly(vinyl acetate) and Related Polymers 157
+a substantial role of those fungi as natural degraders is questionable. The sites
+where PVA predominantly enters the environment is not densely colonised bywhite-rot fungi. Thus, PVA degradation by these lignolytic strains should be
+discussed as an interesting mechanism in an artiﬁcial experimental array and as a
+coincidental effect of the natural fungal enzymatic repertoire.
+5.2 Aqueous Systems and Composting Sites
+Most of the species shown in Table 1were isolated from aqueous sites. Locations
+rich in water are exactly those points with extensive PVA release into the environ-ment. Production sites of textile and paper manufacturers were identiﬁed as hotspots of PVA entry into the environment.
+Successful biodegradation of dissolved PVA is usually described for aqueous
+conditions on sites with a common PVA load. Under aerobic conditions, degrada-
+tion rates of PVA and PVA blown ﬁlms comparable to cellulose could be obtained;however, incubation time in adapted sewage sludge was considerably longer [ 69]. It
+must be mentioned that microbial degradability is not only a characteristic or aproperty of the organic compound, but also a matter of the conditions encounteredin a speciﬁc degradation environment like a sewage plant. In many cases, thesystem with its requirements determines whether an organic chemical like PVAdegrades or not and how fast the processes proceed. PVA is an outstanding example
+showing that terms and conditions are crucial. Quantitative degradation can be seen
+in a system of biological wastewater treatment plant and activated sludge with anadapted microbial population, with a low food to microorganism ratio (F/M),constant inﬂux and temperatures above 18
+/C14C. In contrast, PVA passes through
+the same system largely unchanged given only temporary inﬂux, low input concen-tration (making adaption impossible), a high F/M ratio and temperatures below10
+/C14C[70]
+Anaerobic trials generally showed poor biodegradation. A preferential degrada-
+tion of low molecular weight PVA specimens was found [ 71]. Anaerobic and
+aerobic degradation are thought to proceed in very similar biochemical way.Anyway, an anaerobic PVA-degrading microorganism has yet to be isolated.
+According to composting and soil trials, biodegradation rates of PVA are worse
+for solid PVA products like blown ﬁlms. PVA-based blown ﬁlms were evaluated incompost from urban waste by measuring the percentage of polymer that isconverted to CO
+2. Even for long incubation periods, only a very moderate biodeg-
+radation was monitored and did not exceed 7%. PVA with a DH of 88% performed
+only marginally better than almost complete deacetylated PVA (DH 98%).
+PVA ﬁlms buried in soil were tested after 120 days and showed only very limited
+signs of biodegradation, and even ﬁeld tests with PVA sheets buried for 2 years indifferent natural soil sites showed only limited (10%) weight loss. No traces ofcolonising microorganisms were detected on the incubated material. Degradablepolymers like poly(hydroxy butyrate), PCL or starch are usually extensively158 M. Amann and O. Minge
+covered by degrading microorganisms in such experiments. The low propensity
+towards biodegradation can be explained by the general scarcity of microbialdegraders in average soil and the stabilising interaction of different hydrolysed
+PVA with soil components like minerals [ 27] or humic acids [ 72].
+6 Biochemical Systems
+To break up the polymeric structure of PVA, i.e. to disintegrate the large polymer to
+more comfortable small sized oligomers that can be transported through the cellularmembranes, and ﬁnally to channel those components into the primary metabolismis the task to be done to complete the biodegradation process. The main tools
+available for the degrading organisms are enzymatically active proteins that work
+outside and inside of the membrane-enclosed cell. Depending on the structuralorganisation of the species under consideration, additional cell walls andmembranes can complicate this basic situation.
+In the literature of PVA biodegradation, the orientation with respect to the
+enzymatic activities that are described is not clear-cut and sometimes evenperplexing. This originates in the historical development of the ﬁeld that gaverise to the nomenclature used today. Table 2aims to give a clear denomination of
+the enzymes that are directly involved in the biodegradation of PVA, and that are
+cited in the literature so far. As an unambiguous denomination for enzyme activity,the Enzyme Commission number (EC number) is used. Every EC number is
+Table 2 List of enzymes involved in the biodegradation of poly(vinyl alcohol)
+EC numberaName (recommended) Synonyms (found in literature) Geneb
+1.1.3.30 Poly(vinyl alcohol)
+oxidasePVA oxidase, poly(vinyl alcohol)
+oxidoreductase, poly(vinyl alcohol)dehydrogenase–
+1.1.3.18 Secondary-alcohol
+oxidoreductasePolyvinyl alcohol oxidase, PVA
+oxidase, SAO–
+1.1.1.x
+(no entry)Secondary-alcohol
+dehydrogenaseSADH (NAD) [ 73]–
+1.1.2.6 Polyvinyl alcohol
+dehydrogenase(cytochrome)Poly(vinyl alcohol) dehydrogenase, PVA
+dehydrogenase, PVADH, PVADH-S,PQQ dependent PVA-DH, EC 1.1.99.23(from 2010), apoenzyme acts on
+oxiPVA as speciﬁc aldolase [ 74]pvaA ,
+cytC
+3.7.1.7. Beta-diketone hydrolase Oxidised poly(vinyl alcohol) hydrolase,
+oxiPVA hydrolase, OPH, OPH
+hydrolase, BDHpvaB ,
+bdh,
+oph
+3.1.1.1 Acetylesterase (PVA) Poly (vinylalcohol- co-vinylacetat) esterase,
+P(VA- co-VAc) esterase–
+aSADH as well as the speciﬁc acetylesterases are not yet ﬁnally classiﬁed in the databases
+bThe corresponding list of genes is not complete yetBiodegradability of Poly(vinyl acetate) and Related Polymers 159
+associated with a recommended name for the respective enzyme. The enzymes can
+be easily found in databases. To get a good overview covering the relevant litera-ture linked with the enzymes, updated databases are a valuable tool. Two examples
+are BRENDA, The Comprehensive Enzyme Information System, which compiles a
+collection of almost all relevant publications for every enzyme given in Table 2,
+and the Universal Protein Database, UniProt http://www.uniprot.org .
+6.1 Enzymes
+Surveying our present knowledge about the enzyme activities in PVA biodegrada-
+tion, a trend toward increasing integration can be seen. There are free enzymesworking in the extracellular space of the cells, including also the periplasmaticvolume, and there are membrane-associated enzymes that are presumably linked to
+the cellular cytochrome-based electron transport chains.
+Highly speciﬁc enzymes are described as acting on the PVA polymer. The
+primary degradation products, after breakage of the polymeric backbone, aresubstrates for enzymes with differing stringencies with respect to the speciﬁcPVA-derived substrate. Finally, cellular enzymes take over, that do not discrimi-nate between the PVA metabolites and similar molecules in the metabolicpathways. In contrast to the PVA-speciﬁc enzymes are those activities that can besummarised as unspeciﬁc degradation enzymes or enzyme mixtures. Those systems
+have evolved to break up highly reluctant biological composite materials developed
+for stability and longevity and might do a good job in PVA degradation, but are notyet evolutionarily ﬁne-tuned for that target molecule.
+The degradation of PVA in bacteria proceeds in basically two steps. The 1,3-diol
+moieties in the C–C linked PVA main chain are ﬁrst transformed at many sites bydehydrogenases or oxidase enzymes into a backbone structure containing b-
+hydroxy ketone structures or vicinal 1,3-diketone elements. Subsequent chainopening proceeds via speciﬁc hydrolases or aldolase-like enzymes that generate
+shorter segments. Acetyl groups still present on the PVA oligomers are removed by
+intracellular acetyl esterases delivering acetic acid into the cellular metabolism.The residual molecule can be funnelled into the standard b-oxidation pathway
+and serve as building material or is used as an energy source and ﬁnally oxidisedto CO
+2.
+The speciﬁc oxidative enzymes working on PVA introduce a b-hydroxy ketone
+structure into the PVA backbone. Oxygen serves as an electron-accepting moleculethat is reduced on the active site of the oxidase to hydrogen peroxide. These
+oxidases are not described in much detail. PVA oxidase (EC 1.1.3.30) and the
+secondary-alcohol oxidoreductase (SAO; EC 1.1.3.18) acting on PVA are describedin the databases. In contrast, a secondary-alcohol dehydrogenase (SADH) activityacting on PVA is described that differs in its electron-accepting partner molecule.The dehydrogenase uses NAD as electron acceptor, which is concomitantlytransformed to its reduced state NADH
+2. Besides O 2and NAD, a third electron160 M. Amann and O. Minge
+acceptor is known among the enzymes described for oxidising the PVA backbone.
+This molecule was identiﬁed as pyrroloquinoline quinone (PQQ), a small (molecu-lar weight 330 Da) molecule with two adjacent ketogroups in its structure that can
+undergo an appropriate redox cycle. PQQ (also known as methoxatin) is a recently
+discovered organic molecule and considered by most to be a vitamin because thehuman body cannot produce it on its own. Enzymes using this compound as redoxcofactor are called quinoproteins. A PVA dehydrogenase (PVADH) was found insome bacterial strains ( Pseudomonas ), which could grow on PVA but were deﬁ-
+cient in PVA oxidase. The enzyme with its recommended name polyvinyl alcoholdehydrogenase (cytochrome) owns a binding site for PQQ. The PVADH is classi-ﬁed as EC 1.1.2.6., the former classiﬁcation as EC 1.1.99.23 was recently cancelled.
+The PVADH is also designated with the systematic name polyvinyl alcohol:
+ferricytochrome- coxidoreductase, which reﬂects the observation that the enzy-
+matic oxidation of PVA is coupled to the respiratory chain of the microbe via theheme-containing redoxprotein cytochrome c.Such a coupling could not be
+observed with PVA oxidases. Although PVADH could be successfully clonedand heterologously expressed [ 75], a non-quino-hemoprotein PVA oxidase has
+not yet been cloned [ 76].
+The initial oxidative enzymatic transformation of PVA by the enzymes
+described above (PVA oxidase, SAO, SADH and PVADH) gives rise to a PVA
+backbone with a series of b-hydroxy ketone groups; direct introduction of a vicinal
+diketone structure is also described with a different enzyme, PVADH-S [ 54]. The
+generation of diketone elements in the PVA chain is catalysed by the same enzymesthat started the oxidative attack. Depending on the organism, the SAO, SADH orPVADH, or combinations thereof, oxidise the b-hydroxy ketone to 1,3-diketone
+moieties, which are the breaking points for further degradation (Fig. 5). Besides this
+speciﬁc enzymatic transformation via the PVA-speciﬁc oxidase or dehydrogenase
+enzymes, a nonspeciﬁc oxidative attack on PVA polymers is also possible.
+Oxidative degradation mechanisms with low substrate speciﬁcity are described
+for many recalcitrant naturally occurring polymeric substrates. The most difﬁcultsubstrates are found among the lignocellulose composite materials, representing thedominant biomass component on the planet. The two main components, celluloseand lignin, are intimately linked by different kinds of noncovalent and covalentbonds. Both partners are by themselves strong materials requiring specialisedenzyme systems for degradation. Cellulose exists in the form of highly crystalline
+phase. In this respect, it shows some similarity with extensively deacetylated PVA.
+The activation of cellulose proceeds via specialised enzymes that speciﬁcally bindvia their binding domains to the surface of the cellulose polymer, which is notsoluble in water. Local enzymatic endohydrolysis of single polymer chains bycellulases opens the macroscopic polymer, thereby facilitating further degradationby other specialised enzymes. In addition, fundamentally different mechanisms toattack the crystalline cellulosic structure exist using oxidative enzymes. Oxidativeenzymes are the active species in the degradation of lignin. This polymer has
+evolved as a matrix polymer, which imparts durability and strength to the cells.
+Thus, it is not surprising that its enzymatic degradation needs a sophisticatedBiodegradability of Poly(vinyl acetate) and Related Polymers 161
+toolbox. Again, Nature uses oxidases with low substrate speciﬁcity like lignin
+peroxidase, manganese peroxidase or laccase to weaken the lignin structures beforeattacking the macromolecule with more speciﬁc enzyme activities.
+Such unspeciﬁc oxidative attack is also discussed as a possible route in the
+biodegradation fate of PVA. Oxidation of PVA should be possible, as very aggres-sive oxidative species can be generated by the extracellular enzyme mixtures ofwood-rotting fungi. Unspeciﬁc oxidative incidents are to be expected when stronglyoxidising low molecular mediators react with PVA, a mechanism that is described
+as the indirect action of laccase enzymes [ 77]. Reports about the beneﬁcialOAc OH OH OH OH OH OAc OH OH
+OAc OH OH OO H OH OAc OH OH
+OAc OH OH OO OH OAc OH OH1,3-diol
+ß-hydroxy-ketone
+ß-diketonePQQ
+PQQH 2
+PQQPQQH
+2NAD
+NADH 2
+NADNADH
+2O2
+H2O2
+O2
+H2O22
+Fig. 5 Enzymatic oxidation of highly hydrolysed PVA proceeds in two steps: 1,3-diol elements in
+PVA are oxidised via the b-OH-ketone to form a diketone moiety. Three enzyme systems using
+different electron acceptors as cofactors/cosubstrates are shown162 M. Amann and O. Minge
+inﬂuence of oxidation on biodegradability of PVA are published [ 78]. Scarce data
+are available that show speciﬁc changes in the PVA structure upon contact withwhite-rot fungi like Phanerochaete chrysosporium [79]. A substantial biodegrada-
+tion of PVA by wood-rotting fungi has not yet been described.
+Chain degradation proceeds at the oxidised sites, where two different routes can
+be discerned. One way uses the b-hydroxy ketone functionalities introduced by the
+initial enzymatic attack as direct substrates in an aldolase-like scission reaction.The other way proceeds via further oxidation of this structure to a 1,3-diketone,which serves as a target structure for a hydrolase-type splitting enzyme.
+The ﬁrst route was found in an Alcaligenes faecalis KK314 strain. The enzyme
+that split the PVA on the b-hydroxy ketone element, like an aldolase, was surpris-
+ingly found to be identical with the PVADH apoenzyme of the same strain (Apo
+PVADH). The identical protein is capable of oxidising (with bound PQQ) andsplitting (without bound PQQ) the PVA chain, depending on its binding state [ 68].
+A homologous PVADH enzyme from Pseudomonas did not show this bifunctional
+activity of its PQQ-free apoform. As a product of the enzymatic polymer splitting, amethyl ketone-terminated PVA moiety is formed together with an aldehyde-terminated PVA piece that can be easily oxidised to a terminal carbonic acid.
+The preferred route for reducing the molecular weight of PVA involves chain
+scission at the 1,3-diketone site (see Fig. 6). As the diketone element is chemically
+not very stable, a spontaneous degradation of oxidised PVA was also discussed[80]. Nevertheless, the preferred degradation pathway is most likely the biochemi-
+cal process because enzymes were identiﬁed that showed high activity withdiketone substrates [ 81], especially with oxidised PVA. The b-diketone hydrolase
+(BDH; EC 3.7.1.7) hydrolyses aliphatic b-diketones to form methyl ketones and
+carboxylic acids in equimolar amounts [ 82]. The enzymatic cleavage of C–C bonds
+inb-diketones is not well studied [ 83]. BDH enzymes could be isolated from
+different PVA-degrading strains, puriﬁed, characterised and cloned [ 84].
+As enzymatic oxidative transformation of the PVA polymer can act as a multiple
+simultaneous event on the polymer with concurrent chain ﬁssion by the appropriateenzymes, the polymer can be broken down into small oligomers that can bechannelled into the primary metabolism. This picture is not complete becausePVA is usually more or less acetylated. The DH is a pivotal factor in almostevery aspect of PVA application. Surprisingly there are very few data dealingwith the enzymes involved in the deacetylation of not fully hydrolysed PVA
+polymer. In technical processes, esterase enzymes are widely applied to deal with
+PVAc structures. A good example is from the pulp and paper industry [ 85], where
+PVAc, a component of “stickies”, is hydrolysed to the less sticky PVA. Esterasesfrom natural sources are known to accept the acetyl residues on the polymer assubstrate but little detailed knowledge exists about the identity of acetyl esterases inthe PVA degradative environment [ 86].
+Attempts to identify extracellular esterase activity in PVA-contaminated sites
+with proven microbial degradation activity showed no substantial results. The
+breakdown of the polymer proceeds without concomitantly high extracellular
+esterase activities [ 36]. These ﬁndings suggest that intracellular esterases are theBiodegradability of Poly(vinyl acetate) and Related Polymers 163
+dominant players in ﬁnally removing the acetate groups, which can easily be
+funnelled into the microbial metabolism. Esterases were detected in the cytoplasmof different PVA-degrading organisms, but their activities and speciﬁcities remainto be studied in more detail [ 61]. A clear picture has not yet been presented coveringOAc OH OH O OH OH OAc OH
+OAc OH OH O OH
+OAc OH OH O OH
+OAc OH OH O OHOH
+O OH OAc OH
+O OH OAc OH
+O OH OAc OHß-hydroxy-ketone
+ß-diketone+
++
+HOaldolase
+BDH
+Fig. 6 Enzymatic splitting of the oxidised polymer backbone proceeds by two different enzymes
+depending on the target moiety in the oxidised polymer backbone. Above : theb-OH-ketone can be
+opened by an aldolase activity (apoenzyme of PVADH). Below : the diketone element is cleaved by
+a speciﬁc b-diketone hydrolase (BDH). A non-enzymatic mechanism is also possible164 M. Amann and O. Minge
+the interplay of the different activities, but progress especially in the molecular
+biology of the PVA degradation pathway will hopefully make one available in thenear future.
+6.2 Genes and Genomic Organisation
+The availability of advanced methods in molecular biology suggests an easyapproach to any genetic or biochemical question. This statement might be true in
+the mainstream of biological research but in the narrow side streets scientiﬁc
+progress is demanding and not so fast. Cloning of the enzymatic activities identiﬁedin PVA degradation is highly desirable because DNA sequence information explic-itly alleviates the interpretation of much biochemical data. By comparing thegenetic information of different enzymes one can easily group them in a non-ambiguous system (e.g. by EC classiﬁcation), a task that still has to be completedfor the PVA degradation activities. Sequence analysis can identify homologies ofthe enzymes involved, show the relationships with other known enzymes and give
+hints on still unrecognised properties with respect to the single protein or its
+possibly coordinated regulation in the interplay with neighbouring activities.
+Although PVA degraders do not densely populate all niches of the biosphere, a
+few organisms have been isolated from contaminated sites. Enzymes from twoorganisms are described in detail down to the molecular genetic level. Someworkers have analysed PVA degradation genes in Pseudomonas sp. strain
+VM15C and another group focused on a different strain, Pseudomonas sp. 113P3,
+which was later newly identiﬁed as a Sphingopyxis sp. strain 113P3, again later
+reclassiﬁed as a Sphingomonas sp. strain 113P3. Two genes from the degradation
+pathway in Pseudomonas sp. strain VM15C could be identiﬁed (see Fig. 7). The
+pvaA gene codes for the PVA dehydrogenase, and the pvaB gene encodes for the
+oxidised polyvinyl alcohol hydrolase of this strain.
+Sphingopyxis sp. strain 113P3 bdh
+(1140 bp) pvaA
+(1920 bp) 
+oph
+(1095 bp) pvaA
+(1965 bp) cytC
+(390 bp) transcription
+starttranscription
+terminatorPseudomonas sp. VM15C
+Fig. 7 Genes coding for PVA degradations are organised in an operon structure. The scheme
+(simpliﬁed from Kawai [ 70]) shows the situation in two well-studied PVA-degrading strains
+(Pseudomonas and Sphingopyxis ). The genetic organisation in other strains has not yet been
+examined in such detailBiodegradability of Poly(vinyl acetate) and Related Polymers 165
+The pvaA gene (coding for a 68 kDa protein, PVADH) shows, besides a signal
+sequence, two sites for the binding of redox-active partner molecules, as expectedfrom the biochemical behaviour [ 87]. A PQQ binding area was identiﬁed as well as
+a sequence with high homology to known cytochrome cbinding domains. This
+latter ﬁnding could unequivocally be demonstrated experimentally by in vitrostudies with recombinant protein (cloning in Escherichia coli ) showing cytochrome
+creduction in the presence of PQQ and PVA [ 88]. Upstream of the pvaA gene, the
+pvaB gene could be localised encoding oxidised PVA hydrolase [ 89]. This ﬁnding
+indicated that pvaA andpvaB constitute an operon in the order pvaBA . The pvaB
+gene (encoding for a 41 kDa protein, BDH) shows a lipoprotein signal sequence anda lipase consensus sequence characteristic of the active-site region in serine
+hydrolases.
+Similar results are published from PVA degradation with Sphingomonas sp.
+strain 113P3. In the periplasm of this microorganism, a constitutively expressedoxidised polyvinyl alcohol hydrolase (OPH) and polyvinyl alcohol dehydrogenasewere found [ 76]. Sequence analysis of the ophgene (cloning in E. coli ; 330 amino
+acid residues, homodimer with 35 kDa subunits) showed a signal sequence (34amino acid residues) and a serine hydrolase motif similar to those in the pvaB
+described above. The two enzymes (from strains 113P3 and VM15C) show a high
+degree of homology (63%) but also some minor similarity with polyhydroxy
+butyrate depolymerases from different organisms.
+Further downstream of the ophgene, a periplasmic PVADH ( pvaA ) was cloned
+[69]. The deduced amino acid sequence of the PVADH again showed some
+homology with PVADH from Pseudomonas sp. strain VM15C especially with
+regard to their conserved superbarrel domain (presumably bearing the PQQ bindingdomain) and their heme binding site. Interestingly, the quinohaemoprotein alcoholdehydrogenase strongly resembles the PVADH, giving rise to speculations about
+natural ancestor proteins that have gained changed substrate speciﬁcity by inverting
+their domains. This ﬁnding additionally supports the observation of a redox chainthat transfers electrons from PVA via PQQ and cytochrome cin a highly organised
+molecular arrangement on the PVADH protein into the respiratory chain. Notsurprisingly, the gene for cytochrome c(a monomeric protein of 16.5 kDa) in
+Sphingopyxis sp. strain 113P3 was cloned ( cytC) in proximity to the oph and
+pvaA genes [ 90].
+The three genes (oph, pvaA, cytC) encoding oxidised PVA hydrolase, PVADH
+and cytochrome care expressed constitutively and form an operon. Operon
+organisation of speciﬁc pathways is a standard feature of many organisms andenables them to fulﬁl the speciﬁc metabolic challenge in an economic way. Theoperon structure allows coordinated regulation, balanced expression and spatialorganisation with respect to the speciﬁc task, as shown for PVA degradation. Suchgene bundling makes it also possible to transfer the enzymatic set for the completepathway to other organisms, given that a genetic transfer system is available.Mobile genetic elements are one element of the standard repertoire of cells that
+contribute to a horizontal gene transfer.166 M. Amann and O. Minge
+Sphingomonads have a high capacity to adapt to a new environment and to
+degrade wide range of xenobiotics, including synthetic polymers. This high capac-ity is considered to be conferred by a plasmid-borne mechanism, and many
+sphingomonads contain large plasmids responsible for xenobiotics like polyethyl-
+ene glycol (PEG). Sphingopyxis sp. strain 113P3 was shown to carry megaplasmids
+including the pvaoperon [ 91]. Thus, PVA degradation capability can be transferred
+to other organisms and can be dispersed in the environment given that appropriateconditions are on hand.
+The cloning and study of the genes involved in PVA degradation in these two
+strains have very much promoted our understanding of the fate of PVA in theenvironment. However, it must be stated that relevant aspects of the PVA biodeg-
+radation metabolism still wait to be resolved with respect to a more detailed
+investigation of these two strains and also in the analysis of the many differentorganisms capable of catabolically dealing with PVA. The corresponding genes ofmany enzymes known to be involved have not yet been cloned, like the non-PQQenzymes or the esterases. The genetic analysis could be very helpful in discriminat-ing between the membrane-bound activities and the enzymes working in theextracellular space or the intracellular cell lumen. It is not clear which apparatusis involved in the transport of PVA across the different cell wall or membrane
+barriers in the different organisms. The genetic regulation is an open question, both
+regarding natural or artiﬁcial triggering molecules [ 92] and regarding the trans-
+ducing and sensing structures. Constitutive expression and inducible activities havenot yet been studied on a satisfying level.
+7 Conclusion
+PVA can generally be regarded as a biologically degradable synthetic polymer.However, real life makes this deﬁnite statement a bit more complicated, as purePVA is in many cases not encountered in its ﬁnal form of application. First, PVA is
+generated from the precursor polymer PVAc, a process in which different amounts
+and distribution patterns of acetyl groups still remain on the polymer backbone,triggering polymer crystallinity and affecting interaction with water, which isindispensible for biodegradation. Second, PVA is mostly used in blends withdifferent polymeric or low molecular weight partners. Depending on each case,supporting or retarding effects on biodegradation are described or must beexpected. These aspects make it very difﬁcult to compare biodegradation rates ofdifferent PVA products with other polymers classiﬁed as biodegradable [ 93].
+PVA is an outstanding example showing that conditions are crucial for biodeg-
+radation. Quantitative degradation is described in wastewater treatment plants runwith an activated sludge containing an adapted microbial population; however, thebiodegradation rate decreases signiﬁcantly in systems lacking such a preparedmicrobial population. This must be kept in mind because degrading organisms orcommunities are not evenly distributed in all biotopes.Biodegradability of Poly(vinyl acetate) and Related Polymers 167
+Beyond the biological fate of the PVA polymer, the PVA motif is highly
+attractive as a polymer degradation insert. PVA blocks in copolymers representpotentially cleavable moieties that can impart breaking points in otherwise highly
+reluctant polymeric species.
+In contrast to many other polymers classiﬁed as biodegradable, PVA exhibits a
+backbone solely made up of carbon. The presence of a heteroatom like O or N in themain chain is deﬁnitely not a prerequisite for Nature to handle a polymeric structurethat does not exist in nature. PVA degradation starts with random oxidations of thepolymer backbone in the extracellular or periplasmic space of some microbes.Speciﬁc enzymes able to detect such sites of ﬁrst attack continue in a hydrolyticway, yielding ever smaller polymer fragments that ﬁnally can be metabolised by the
+microbe or the microbial community.
+Central key steps are described in the depolymerisation of PVA on the biochem-
+ical and genetic level, but further efforts are necessary to completely understand theinterrelated steps in PVA degradation.
+References
+1. Klatte F (1912) “Verfahren zur Herstellung technisch wertvoller Produkte aus organischen
+Vinylestern”, German Patent DP271381
+2. Finch CA (1973) Polyvinyl alcohol. Wiley Interscience, New York3. Staudinger H (1919) €Uber hochpolymere Verbindungen. Schweiz Chem Z 3:1–5, 28–33,
+60–64
+4. Staudinger H (1920) €Uber hochpolymere Verbindungen. Ber Dtsch Chem Ges 53:1073
+5. Herrmann WO (1963) Vom Ringen mit den Molek €ulen. Econ-Verlag, Dusseldorf
+6. Herrmann WO, Haehnel W (1925) “Polymerisation von Vinylestern”, German Patent
+DE490041
+7. Hermann WO, Haehnel W (1924) “Verfahren zur Herstellung von polymerem Vinylalkohol”,
+German Patent DE450286
+8. Hermann WO, Haehnel W (1926) “Alcohol Production”, Canadian Patent 265172
+9. Staudinger H (1926) €Uber hochpolymere Verbindungen. Chem Ber 59:3019
+10. Halle F, Hofmann W (1935) Faserdiagramme von Polyvinylalkohol. Naturwissens 23:77011. Kim N, Sudol ED, Friedel P, El-Aasser MS (2003) Poly(vinyl alcohol) stabilization of acrylic
+emulsion polymers using the miniemulsion approach. Macromolecules 36:5573–5579
+12. Nichols RT, Sowers RM (2009) Laminated materials, glass. Kirk-Othmer encyclopedia of
+chemical technology, Wiley, Weinheim, 1–17. doi: 10.1002/0471238961.1201130914090308
+13. Tecnon OrbiChem (2007) S/Db-CHEM: acetic acid & vinyl acetate. Tecnon OrbiChem,
+London
+14. Baerns M, Behr A, Brehm A, Gmehling J, Hofmann H, Onken U, Renken A (2006) Technische
+Chemie 1, Wiley-VCH, 573
+15. Malveda M, Funada C (2010) Acetic acid. Chemical economics handbook report. SRI Con-
+sulting, Englewood
+16. Weissermel K, Arpe HJ (1997) Industrial organic chemistry, 3rd edn. VCH, Weinheim, p 22817. Nuyken O, Kricheldorf HR, Swift G (eds) (2005) Handbook of polymer synthesis. Marcel
+Dekker, New York
+18. Henderson AM (1993) Ethylene-vinyl acetate (EVA) copolymers: a general review. Electrical
+Insulation Magazine 9:30–38168 M. Amann and O. Minge
+19. Chin H, K €alin T, Yokose K (2008) Polyvinyl acetate. Chemical economics handbook report.
+SRI Consulting, Englewood
+20. Eubeler JP, Bernhard M, Zok S, Knepper TN (2009) Environmental biodegradation of
+synthetic polymers I. Test methodologies and procedures. Trends Anal Chem 28:1057–1072
+21. Eubeler JP, Bernhard M, Zok S, Knepper TN (2010) Environmental biodegradation of
+synthetic polymers II. Biodegradation of different polymer groups. Trends Anal Chem29:84–99
+22. Lucas N, Bienaime C, Belloy C, Queneudec M, Silvestre F, Nava-Saucedo JE (2008) Polymer
+biodegradation: mechanisms and estimation techniques. Chemosphere 73:429–442
+23. Giardina P, Faraco V, Pezzella V, Piscitelli A, Vanhulle S, Sannia G (2010) Laccases: a never-
+ending story. Cell Mol Life Sci 67:369–385
+24. Endres HJ, Siebert-Raths A (2009) Polyvinylalkohole. In: Technische Biopolymere. Hanser,
+M€unchen, pp 176–182
+25. Aso J, Miyamoto Y, Harada KM et al (2006) Engineered membrane superchannel improves
+bioremediation potential of dioxin-degrading bacteria. Nature Biotechnology 24:188–189
+26. Vaclavkova J, Ruzicka J, Julinova M, Vicha R, Koutny M (2007) Novel aspects of symbiotic
+poly(vinyl alcohol) biodegradation. Appl Microbiol Biotechnol 76:911–917
+27. Chiellini E, Corti A, Politi B, Solaro R (2000) Adsorption/desorption of polyvinyl alcohol on
+solid substrates and relevant biodegradation. J Polym Environ 8:67–79
+28. Solaro R, Corti A, Chiellini E (2000) Biodegradation of poly(vinyl alcohol) with different
+molecular weights and degree of hydrolysis. Polym Adv Technol 11:873–878
+29. Kawai F, Hu X (2009) Biochemistry of microbial polyvinyl alcohol degradation. Appl
+Microbiol Biotechnol 84:227–237
+30. Sakai K, Fukuba M et al (1998) Puriﬁcation and characterization of an esterase involved in
+poly(vinyl alcohol) degradation by Pseudomonas vesicularis PD. Biosci Biotechnol Biochem62:2000–2007
+31. Haschke H, Tomka I, Keilbach A (1998) Systematische Untersuchungen zur biologischen
+Abbaubarkeit von Verpackungsmaterial, 2.Mitt. Zur biologischen Abbaubarkeit von aufPolyvinylalkohol basierenden Verpackungsfolien. Monatsh Chem 129:365–386
+32. Haschke H, Tomka I, Keilbach A (1998) Systematische Untersuchungen zur biologischen
+Abbaubarkeit von Verpackungsmaterial, 1.Mitt Zur tats €achlichen biologischen Abbaubarkeit
+von sogenannten bioabbaubaren Kunststofffolien. Monatsh Chem 129:253–279
+33. Haschke H, Tomka I, Keilbach A (1998) Systematische Untersuchungen zur biologischen
+Abbaubarkeit von Verpackungsmaterial, 3.Mitt Neue Polyvinylalokohol-St €arke-Acetal-
+Folien. Monatsh Chem129:487–507
+34. Matsumura S, Shimura Y, Terayama K, Kiyohara T (1994) Effects of molecular weight and
+stereo regularity on biodegradation of poly(vinyl alcohol) by Alcaligenes faecalis. Biotechnol
+Lett 16:1205–1210
+35. Chiellini E, Corti A, Del Sarto G, D’Antone S (2006) Oxo-biodegradable polymers – effect of
+hydrolysis degree o biodegradation behaviour of poly(vinyl alcohol). Polym Degrad Stab91:3397–3406
+36. Zhang Y, Du G, Fan X, Chen J (2008) Effects and statistical optimization of fermentation
+conditions on growth and poly(vinyl alcohol) – degrading enzyme production of Streptomycesvenezuelae GY1. Biocatal Biotransform 26:430–436
+37. Corti A, Solaro R, Chiellini E (2002) Biodegradation of poly(vinyl alcohol) in selected mixed
+microbial culture and relevant culture ﬁltrate. Polym Degrad Stab 75:447–458
+38. Chiellini E, Corti AD’Antone S, Solaro R (2003) Biodegradation of poly(vinyl alcohol) based
+materials. Prog Polym Sci 28:963–1014
+39. Cheng Q (2010) Green nanocomposites reinforced with cellulosic crystals isolated from
+juvenile poplar. In: Proceedings International Convention of Society of Wood Science andTechnology and United Nations Economic Commission for Europe – Timber CommitteeOctober 11–14, Geneva, Switzerland, Paper NT-6 1Biodegradability of Poly(vinyl acetate) and Related Polymers 169
+40. Julinova M, Kupec J et al (2010) Lignin and starch as potential inductors for biodegradation of
+ﬁlms based on poly(vinyl alcohol) and protein hydrolysate. Polym Degrad Stab 95:225–233
+41. Das K, Ray D et al (2010) Preparation and characterization of cross-linked starch/poly(vinyl
+alcohol) green ﬁlms with low moisture absorption. Ind Eng Chem Res 49:2176–2185
+42. Russo M, O’Sullivan C et al (2009) The anaerobic degradability of thermoplastic starch:
+Polyvinyl alcohol blends: Potential biodegradable food packaging materials. BioresourTechnol 100:1705–1710
+43. Taghizadeh M, Abbasi Z (2010) Enzymatic degradation of starch/PVA composite ﬁlm
+containing Montmorillonite nanoparticles. In: Proceedings 13th Asia Paciﬁc Confederationof APCChE 2010 Chemical Engineering Congress October 5–8, Taipei
+44. Peesan M, Rujiravanit R, Supaphol P (2003) Characterisation of beta-chitin/poly(vinyl alco-
+hol) blend ﬁlms. Polym Test 22:381–387
+45. Kang YO, Yoon IS et al (2010) Chitosan-coated poly(vinyl alcohol) nanoﬁbers for wound
+dressings. J Biomed Mater Res Part B: Appl Biomater 92B:568–576
+46. Sua J-F, Yuanb XY et al (2010) Properties stability and biodegradation behaviors of soy
+protein isolate/poly(vinyl alcohol) blend ﬁlms. Polym Degrad Stab 95:1226–1237
+47. Matsumura S, Ii S, Shigeno H, Tanaka T, Okuda F, Shimura Y, Toshima K (1993) Molecular
+design of biodegradable functional polymers, 3. Biodegradability and functionality of poly
+[(sodium acrylate)-co-(vinyl alcohol)]. Die Makromolekulare Chemie 194:3237–3246
+48. Argade A, Peppas N (1998) Poly(acrylic acid)–poly(vinyl alcohol) copolymers with superab-
+sorbent properties. J Appl Polym Sci 70:817–829
+49. Polinas (2003) EVOH-based barrier ﬁlm, Polibarr (Tradename). Material safety data sheeet
+(91/155/EEC) MSDS No C2003/003. Available at http://www.polinas.com/graﬁk/File/msds/
+evoheng.pdf. Last accessed 16 Aug 2011
+50. Arboleda C, Mejia AI, Lopez O (2004) Poly(vinylalcohol-co-ethylene) biodegradation on
+semi solid fermentation by Phanerochaete chrysosporium. Acta Farm Bonaerense 23
+(2):123–128
+51. Simmons S, Thomas EL (1995) Structural characteristics of biodegradable thermoplastic
+starch/poly(ethylene–vinyl alcohol) blends. J Appl Polym Sci 58:2259–2285
+52. Bastioli C (1998) Properties and applications of Mater-Bi starch-based materials. Polym
+Degrad Stab 59:263–272
+53. Arau ´jo MA, Cunha AM, Mota M (2010) Changes on surface morphology of corn starch blend
+ﬁlms. J Biomed Mater Res A 94A:720–729
+54. Matsumura S (2003) Biodegradation of poly(vinylalcohol) and its copolymers. In: Matsumura
+S, Steib €uchel A (eds) Biopolymers, vol 9. Wiley VCH, Weinheim, pp 331–368
+55. Kim MN, Yoona MG (2010) Isolation of strains degrading poly(vinyl alcohol) at high
+temperatures and their biodegradation ability. Polym Degrad Stab 95:89–93
+56. Yamatsu A, Matsumi R, Atomi H, Imanaka T (2006) Isolation and characterization of a novel
+poly(vinylalcohol)-degrading bacterium, Sphingopyxis sp. PVA3. Appl Microbiol Biotechnol72:804–811
+57. Fukae R, Fujii T et al (1994) Biodegradation of poly(vinyl alcohol) with high isotacticity.
+Polym J 26:1381–1386
+58. Hatanaka T, Kawahara T, Asahi N, Tsuji M (1995) Effects of the structure of poly(vinyl
+alcohol) on the dehydrogenation reaction by poly(vinyl alcohol) dehydrogenase from Pseudo-
+monas sp. 113P3 T. Biosci Biotechnol Biochem 59:1229–1231
+59. Lee J-A, Kim M-N (2003) Isolation of new and potent poly(vinyl alcohol)-degrading strains
+and their degradation activity. Polym Degrad Stab 81:303–308
+60. Qian D, Du G, Chen J (2004) Isolation and culture characterization of a new polyvinyl alcohol-
+degrading strain Penicillium sp. WSH02-21. World J Microbiol Biotechnol 20:587–591
+61. Lim JG, Park DH (2001) Degradation of polyvinyl alcohol by Brevibacillus laterosporus.
+J Microbiol Biotechnol 11:928–933
+62. Zhang Y, Li Y (2006) A new strain, Streptomyces venezuelae GY1, producing a poly(vinyl
+alcohol)-degrading enzyme. World J Microbiol Biotechnol 22:625–628170 M. Amann and O. Minge
+63. Shimao M, Fukuta I et al (1984) Mixed continuous cultures of polyvinyl alcohol-utilizing
+symbionts Pseudomonas putida VM15A and Pseudomonas sp. strain VM15C. Appl EnvironMicrobiol 48:751–754
+64. Mori T, Sakimoto M et al (1996) Isolation and characterization of a strain of Bacillus
+megaterium that degrades poly(vinyl alcohol). Biosci Biotechnol Biochem 60:330–332
+65. Kim BC, Sohn CK, Lim SK et al (2003) Degradation of polyvinyl alcohol by Sphingomonas
+sp. SA3 and its symbiote. J Microbiol Biotechnol 30:70–74
+66. Chen J, Zhang Y et al (2007) Biodegradation of polyvinyl alcohol by a mixed microbial
+culture. Enzyme Microb Technol 40:1686–1691
+67. Pointing SB (2001) Feasibility of bioremediation by white-rot fungi. Appl Microbiol
+Biotechnol 57:20–33
+68. Huang MH, Shih YP, Liu SM (2002) Biodegradation of polyvinyl alcohol by Phanerochaete
+chrysosporium after pretreatment with Fenton’s reagent. J Environ Sci Health A Tox HazardSubst Environ Eng 37:29–41
+69. Chiellini E, Corti A, Solero R (1999) Biodegradation of poly(vinyl alcohol) based blown ﬁlms
+under different environmental conditions. Polym Degrad Stab 64(2):305–312
+70. Schonberger H, Baumann A, Keller W, Pogopetris P (1997) Study of microbial degradation of
+polyvinyl alcohol (PVA) in wastewater treatment plants. American Dyestuff Reporter August
+1997:9-18. Available at http://www.p2pays.org/ref/02/01722.pdf. Last accessed 16 Aug 2011
+71. Matsumura S, Kurita H, Shimokobe H (1993) Anaerobic biodegradability of polyvinyl alco-
+hol. Biotechnol Lett 15:749–754
+72. Ilcim M et al (2010) FT-IR study of gamma-radiation induced degradation of polyvinylalcohol
+(PVA) and PVA/humic acids blends. J Radioanal Nucl Chem 283:9–13
+73. Mori T, Sakimoto M et al (1998) Secondary alcohol dehydrogenase from a vinyl alcohol
+oligomer-degrading Geotrichum fermentans; stabilization with Triton X-100 and activitytoward polymers with polymerization degrees less than 20. World J Microbiol Biotechnol
+14:349–356
+74. Matsumura S, Tomizawa N et al. (1999) Novel poly(vinyl alcohol)-degrading enzyme and the
+degradation mechanism. Macromolecules 32:7753–7761
+75. Hirota-Mamoto R, Nagai R, Tachibana S, Yasuda M, Tani A, Kimbara K, Kawai F (2006)
+Cloning and expression of the gene for periplasmic poly(vinyl alcohol) dehydrogenase from
+Sphingomonas sp. strain 113P3, a novel-type quinohaemoprotein alcohol dehydrogenase.
+Microbiology 152:1941–1949
+76. Kawai F (2010) The biochemistry and molecular biology of xenobiotic polymer degradation
+by microorganisms. Biosci Biotechnol Biochem 74:1743–1759
+77. Morozova OV, Shumakovich GP et al (2007) Laccase–mediator systems and their
+applications: a review. Appl Biochem Microbiol 43:523–535
+78. Oh S-Y, Kim H-W, Park J-M, Park H-S, Yoon C (2009) Oxidation of polyvinyl alcohol by
+persulfate activated with heat, Fe2+, and zero-valent iron. J Hazard Mater 168:346–351
+79. Lopez BL et al (1999) Biodegradability of poly(vinyl alcohol). Polym Eng Sci 39:1346–135280. Sakai K, Hamada N, Watanabe Y (1984) Non-enzymatic degradation of secondary alcohol
+oxidase-oxidized poly(vinyl alcohol). Agric Biol Chem 48:1093–1095
+81. Kawagoshi Y, Fujita M (1998) Puriﬁcation and properties of the polyvinyl alcohol-degrading
+enzyme 2,4-pentanedione hydrolase obtained from Pseudomonas vesicularis var.
+povalolyticus PH. World J Microbiol Biotechnol 14:95–100
+82. Sakai K, Hamada N, Watanabe Y (1986) Degradation mechanism of poly(vinyl alcohol) by
+successive reactions of secondary alcohol oxidase and b-diketone hydrolase from Pseudomo-
+nas sp. Agric Biol Chem 50:989–996
+83. Grogan G (2005) Emergent mechanistic diversity of enzyme- catalyzed beta-diketone cleav-
+age. Biochem J 388:721–730
+84. Klomklang W, Tani A et al (2005) Biochemical and molecular characterization of a periplas-
+mic hydrolase for oxidized polyvinyl alcohol from Sphingomonas sp. strain 113P3. Microbi-
+ology 151:1255–1262Biodegradability of Poly(vinyl acetate) and Related Polymers 171
+85. Skals PB, Krabek A, Nielsen PH, Wenzel H (2008) Environmental assessment of enzyme
+assisted processing in pulp and paper industry. Int J LCA 13:124–132
+86. Ronkvist M, Lu W, Feder D, Gross R (2009) Cutinase-catalyzed deacetylation of poly(vinyl
+acetate). Macromolecules 42:6086–6097
+87. Shimao M, Onishi S, Kato N, Sakazawa C (1989) Pyrroloquinoline quinone-dependent
+cytochrome reduction in polyvinyl alcohol-degrading Pseudomonas sp. strain VM15C. ApplEnviron Microbiol 55:275–278
+88. Shimao M, Tamogami T, Nishi K, Harayama S (1996) Cloning and characterization of the
+gene encoding pyrroloquinoline quinone-dependent poly(vinyl alcohol) dehydrogenase ofPseudomonas sp. strain VM15C. Biosci Biotechnol Biochem 60:1056–1062
+89. Shimao M, Tamogami T, Kishida S, Harayama S (2000) The gene pvaB encodes oxidized
+polyvinyl alcohol hydrolase of Pseudomonas sp. strain VM15C and forms an operon with the
+poly-vinyl alcohol dehydrogenase gene pvaA. Microbiology 146:649–657
+90. Mamoto R, Hu X, Chiue H, Fujioka Y, Kawai F (2008) Cloning and expression of soluble
+cytochrome c and its role in poly-vinyl alcohol degradation by polyvinyl alcohol-utilizing
+Sphingopyxis sp. strain 113P3. J Biosci Bioeng 105:147–151
+91. Hu X, Mamoto R, Fujioka Y, Tani A, Kimbara K, Kawai F (2008) The pva operon is located on
+the megaplasmid of Sphingopyxis sp. strain 113P3 and is constitutively expressed, although
+expression is enhanced by PVA. Appl Microbiol Biotechnol 78:685–893
+92. Tang B, Liaoa X et al (2010) Enhanced production of poly(vinyl alcohol)-degrading enzymes
+by mixed microbial culture using 1,4-butanediol and designed fermentation strategies. PolymDegrad Stab 95:557–563
+93. Ishigaki T, Sugano W, Nakanishi A, Tateda M, Ike M, Fujita M (2004) The degradability of
+biodegradable plastics in aerobic and anaerobic waste landﬁll model reactors. Chemosphere54:225–233172 M. Amann and O. Minge

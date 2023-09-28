@@ -1,0 +1,585 @@
+RESEA RCH ARTICL E
+Docking studies and molecular dynamics
+simulations ofthebinding characteristics of
+waldiomycin and itsmethyl ester analog to
+Staphylococcus aureus histidine kinase
+Awwad Radwan ID
+1,2*,Gamal M.Mahrous1
+1Kayyali Chair, College ofPharmac y,King Saud University ,Riyadh, Saudi Arabia, 2Department of
+Pharma ceutical Organic Chem istry, Faculty ofPharmacy, Assiut University, Assiut, Egypt
+*dhna_2 001@hotmai l.com
+Abstract
+Bacterial histidine kinases (HKs) areconsidered attractive drug targets because oftheir abil-
+itytogovern adaptive responses coupled withtheir ubiquity. There areseveral classes of
+HKinhibitors; however, theysuffer from drug resistance, poor bioavailability, andalackof
+selectivity. The3Dstructure ofStaphylococcus aureus HKwasnotisolated inhigh-resolu-
+tioncoordinates, precluding further disclosure ofstructure-depen dent binding tothespecific
+antibiotics. Toelucidate structure-depen dent binding, the3Dstructure ofthecatalytic
+domain WalK ofS.aureus HKwasconstructed using homology modeling toinvestigate the
+WalK–ligand binding mechanisms through molecular docking studies andmolecular dynam-
+icssimulations. Thebinding freeenergies ofthewaldiomycin anditsmethyl ester analog
+were calculated using molecular mechanics/ generalized born surface area scoring. Thekey
+residues forprotein–ligand binding were postulated. Thestructural divergence responsible
+forthe7.4-fold higher potency ofwaldiomycin than thatofitsester analog wasclearly
+observed. Theoptimized 3Dmacromolecule –ligand binding modes shed lightontheS.
+aureus HK/WalK–ligand interactions thatafford ameans toassess binding affinity todesign
+newHK/WalK inhibitors.
+Introduction
+Protein kinases (PKs) catalyze thephosphorylation ofother proteins and thus play crucial
+roles notonly incellregulation butalso insignal transduction. Cell dysregulation isoften asso-
+ciated with adisease. Thus, PKs areconsidered asimportant targets indrug discovery pro-
+grams that seek toalter their function [1,2]. Particularly, histidine kinases (HKs) are
+responsible forsensing conditions that allow microbes toadopt apathogenic lifestyle through
+theexpression ofvirulence factors. Thus, theinhibition offactors that aredistinctly unique to
+thebacterial celland express virulence ofpathogenic bacteria offers achance forspecific inter-
+ference from thehost biochemical processes. Nowadays, itisclear that virulence isanadaptive
+genetic response involving thegenes encoding theinduction ofvirulence factors [3,4]. This
+PLOS ONE
+PLOS ONE |https://doi.or g/10.137 1/journal.po ne.02342 15June 5,2020 1/16a1111111111
+a1111111111
+a1111111111
+a1111111111
+a1111111111
+OPEN ACCESS
+Citation: Radwan A,Mahrous GM(2020) Docking
+studies andmolecular dynamic ssimulation softhe
+binding characte ristics ofwaldiomyc inandits
+methyl ester analog toStaphylococ cusaureus
+histidine kinase. PLoS ONE15(6): e0234215.
+https://do i.org/10.1371/j ournal.pone .0234215
+Editor: Concepcio ´nGonzalez- Bello, Universida dde
+Santiago deCompostel a,SPAIN
+Received: March 1,2020
+Accepted: May20,2020
+Published: June 5,2020
+Peer Review History: PLOS recognize sthe
+benefits oftranspar ency inthepeer review
+process; therefore, weenable thepublication of
+allofthecontent ofpeer review andauthor
+response salongside final, published articles. The
+editorial history ofthisarticle isavailable here:
+https://doi.o rg/10.1371/jo urnal.pone.0 234215
+Copyright: ©2020 Radwan, Mahrous. Thisisan
+open access article distributed under theterms of
+theCreative Commons Attributio nLicense, which
+permits unrestricte duse,distribu tion,and
+reproduction inanymedium, provided theoriginal
+author andsource arecredited.
+Data Availabilit yStatement: Allrelevant dataare
+within thepaper anditsSupport ingInformation
+files.
+response implies that pathogenic microbes cansense when itisinaninvasion state. Sensing of
+environmental stimuli occurs through two-component signaling (TCS) systems that appears
+almost ubiquitously inbacteria. Bacteria respond toextracellular changes through TCS path-
+ways, which aremediated byHKs and areabsent inhumans [5].The adaptive and response
+ability ofbacteria isvital forsurvival insevere environments that they encounter [6].
+TheStaphylococcus aureus bacteria TCS system comprises HKprotein, containing amem-
+brane-bound sensor histidine kinase (WalK), and aresponse regulator (RR) protein, contain-
+ingaconserved DNA-binding domain (WalR) [7].WalK isamembrane-linked HKthat
+consists oftwodomains. One domain isacatalytic orATP-binding domain and thesecond is
+adimerization domain that includes aconserved phosphorylated histidine residue.
+HKs areactivated asaresult oftheinteraction ofexternal stimuli with itsextracellular sig-
+naling domain. The activated HKs bind ATP atitscatalytic domain WalK, which catalyzes the
+transfer ofthea-phosphate group ofATP toaconserved histidine residue ontheHKdimeriza-
+tion and histidine phosphotransfer (DHp) domain. The phosphoryl group transfers from the
+conserved phosphorylated histidine onaHKtoaspartic acid conserved inanRRdomain pro-
+tein, theHK’s associated signaling partner. The RRproteins harbor both theRRdomain and
+theDNA-binding domain. The phosphorylation ofRRresults initsactivation and subse-
+quently triggers ittobind toDNA and stimulate gene transcription, producing aresponse to
+theextracellular stimulus (Fig 1)[5,8]. Antibacterial activity canbeafforded byinhibiting the
+microbial HKusing ATP competitive inhibitors [9,10].
+The TCS-WalK/WalR system that isunique togram-positive bacteria, including S.aureus
+[11],Bacillussubtilis [12], andEnterococcus faecalis [13], iscrucial forsurvival and isattracting
+growing interest asanovel target ofantibacterial agents [14]. Representative inhibitors, RWJ-
+49815, closantel, and tetrachlorosalicylanilide, have been reported asactive inhibitors against
+several bacterial TCS transduction systems [15–17]. Unfortunately, fewTCS inhibitors have
+been reported againstS.aureus, amajor pathogen with ahigh virulence factor. The amino acid
+sequence oftheWalK/WalR TCS transduction histidine protein kinase ofS.aureus (strain
+Mu50/ATCC 700699) ARLS_STAAM (Q7A2R7) [18] iswell defined; however, the3Dstruc-
+ture isunavailable intheprotein databank (PDB) (https://www.rcsb.org/).
+Forcase inwhich theatomic structures ofenzyme macromolecules areabsent, homology
+modeling isapowerful tool tounderstand thegeneral fold oftheenzyme, catalytic site, and
+conserved residues, inaddition tothesubstrate and inhibitor binding sites. This information
+iscrucial forstructure-based drug design approaches forthedevelopment ofpotential enzyme
+inhibitors fortherapeutic application [19]. Inaddition, waldiomycin and itsmethyl ester ana-
+log,produced byStreptomyces sp.,were reported asinhibitors ofS.aureus HKwith IC50values
+of10.2 and 75.8μM, respectively, and areeffective asantibacterial agents againstS.aureus spe-
+cies[20]. This information isalso helpful fortheligand-based drug discovery ofnovel lead
+compounds with potential activity againstS.aureus bacteria.
+Inthisstudy, weperformed insilico modeling toexplore themode ofinhibition oftheS.
+aureus HK/WalK enzyme bywaldiomycin and itsmethyl ester analog. The study includes
+homology modeling, molecular docking, molecular dynamics (MD) simulations, and molecu-
+larmechanics/generalized born surface area (MM/GBSA) calculations. The calculations were
+performed ontheS.aureus kinase structure (WalK catalytic domain) toinvestigate themacro-
+molecule–ligand complex and predict the3Dstructure ofS.aureus HK/WalK. TheS.aureus
+HK/WalK conformation changes persuaded intheMD simulations and theligand binding
+free energies ofwaldiomycin and itsester analog, ascalculated using theMM/GBSA method,
+confirm thedependencies ofsiteactivity ontheligands’ electrostatic and hydrophobic proper-
+ties. Lys100 wasfound tobeacrucial residue forthe7.4-fold higher potency ofwaldiomycin
+than that ofitsester analog againstS.aureus HK/WalK.
+PLOS ONEDocking studies andmolecular dynamics simulation s
+PLOS ONE |https://doi.or g/10.137 1/journal.po ne.02342 15June 5,2020 2/16Funding: AARadwan. RG-1435- 080.Deansh ipof
+theScientific Researc hatKing Saud University .
+dsrs.ksu.ed u.sa/en Thefunders hadnorolein
+study design, datacollection andanalysis, decision
+topublish, orpreparation ofthemanuscript.
+Competing interests :Theauthors have declared
+thatnocompeting interests exist.
+Methods
+Overall workflow
+The schematic representations oftheoverall study workflow areillustrated inFig2.Firstly, the
+S.aureus kinase protein sequence wasused forsearching inthePDB. The BLAST [21] pro-
+gram wasutilized toselect atemplate protein possessing thehighest similarity. AninitialS.
+Fig1.Two-Compo nent Signali ng(TCS) system pathway. HK(blue), histidine kinase; RR(beige), response
+regulator; H,conserve dhistidine residue; D,conserved aspartic acid residue.
+https://d oi.org/10.1371/j ournal.pon e.0234215.g0 01
+Fig2.Sketch representa tion oftheoverall workflow.
+https://d oi.org/10.1371/j ournal.pon e.0234215.g0 02
+PLOS ONEDocking studies andmolecular dynamics simulation s
+PLOS ONE |https://doi.or g/10.137 1/journal.po ne.02342 15June 5,2020 3/16
+aureus kinase 3Dstructure wasbuilt bymeans ofhomology modeling followed bystructure
+optimization using anMD simulation. The optimized macromolecule structure wasthen used
+fordocking analyses. Because oftheir almost similar structures and thelarge difference in
+their potencies asS.aureus HK/WalK inhibitors, waldiomycin and itsester analog [20] were
+selected and their 3Dstructures were also built, optimized, and then docked into thehomol-
+ogy-built and optimized S.aureus HK/WalK structure. TheS.aureus HK/WalK–ligand com-
+plexes were further subjected tooptimization viaMD simulations. Lately, theMD simulation
+trajectories were used asinputs fortheMM/GBSA calculation ofbinding free energies ofthe
+ligands and investigation oftheir binding mechanism.
+Homology modeling
+The homology modeling ofS.aureus HK/WalK secondary structure wasperformed todevelop
+theinitial structure needed fortheMD simulation study. Briefly, theBLAST sequence database
+search module wasutilized toobtain theX-ray structures similar tothetarget sequence Q7A2R7
+[22] andsort them according tosimilarity percent. Using theMODELLER program, thetop-
+scoring PDB entry wassuggested asatemplate foralignment ofthetarget Q7A2R7 tobuild the
+homolog model. During themodeling process, theposition ofthecrystallized ligand waskept in
+itsoriginal position forrebuilding thebinding cavity. The obtained homology model was
+checked formissing atoms and/or residues using thePROCHECK program [23]. Gaps andmiss-
+ingcoordinates were repaired using theMODELLER program [24] andtheresulting structure
+wasused astheinitial structure inthenext MD simulation optimization process.
+Protein preparation
+The AMBER18 program [25] wasutilized toperform thestructural minimization and MD
+simulations using theff14SB force field amino acid parameters. The tleap module ofAmber-
+Tools18 wasused toaddthecomplementary hydrogen atoms that could notbedetected byX-
+raycrystallography. The protein molecule wasexplicitly solvated with water molecules and
+sodium counter-ions were also added toobtain aneutral system. Awater boxwith 10Åthick-
+ness wascreated using theTIP3P water solvent model tocompletely surround theprotein mol-
+ecule. Simulation wasperformed using aperiodic boundary condition. Long-range
+electrostatic interactions were processed using theparticle–mesh Ewald protocol [26] and a
+cut-off value of8Åwasused fornon-bonding interactions. Initial minimization ofthewater
+molecules and counter-ions wasperformed using 1000-cycle minimizations; subsequently, the
+whole system wasminimized using 1000-cycle minimizations. Then, asystem temperature
+increase to298.15 Kwasperformed and MD simulations at298.15 Kwere executed with the
+fixed protein coordinates. The equilibrations were performed under theconstant normal tem-
+perature and pressure (NPT) ensemble for170ps.Inthefirst 20ps,thewaters and counter-
+ions were equilibrated, while thesolutes were restrained. Inthenext 50ps,theside chains of
+theprotein amino acids were relaxed, then alltherestraints were removed inthelast100ps.
+Lastly, MD simulations of10nswere processed at1atm and 298.15 Kunder theNPT ensem-
+blewith atime step oftwofemtoseconds (fs). The covalent bonds with hydrogen atoms were
+constrained bytheuseoftheSHAKE algorithm [27] and Langevin dynamics were used tocon-
+trolthesystem temperature. Throughout theMD simulations, alloftheatom coordinates of
+thesystem were saved every 1ps.
+Ligand preparation
+Waldiomycin and itsmethyl ester 1,2were reported asinhibitors ofS.aureus HKwith IC50
+values of10.2 and 75.8μM, respectively [20]. The chemical structures and compound names
+PLOS ONEDocking studies andmolecular dynamics simulation s
+PLOS ONE |https://doi.or g/10.137 1/journal.po ne.02342 15June 5,2020 4/16
+aregiven inFig3.The antechamber module [28,29] intheAmberTools18 program wasused
+togenerate theforce field parameters oftheligands. The general AMBER force field was
+applied totheligands, and theLeap program wasused togenerate thetopology and parameter
+files.
+Docking study
+The docking procedure wasperformed using theDock6.4 program [30] onanubunto
+14.2-supported Dell 5000 workstation (Processor: Intel(R) Core(TM)i7-5500U CPU @
+2.40GHz with a64-bit operating system,×64-based processor, memory of7.7GiB). The dock-
+ingmethod wasvalidated using 5C93 proteins and co-crystalized ligand ACP using thedefault
+parameters, except with asphere of10Ådiameter around thebinding sitecenter. The co-crys-
+tallized ligand ACP wasdocked intheoriginal binding pocket oftheprotein structure. The
+docking protocol wasvalidated according totheroot-mean-square deviation (RMSD) ofthe
+docking pose relative totheACP X-ray structure.
+The refined tertiary structures ofS.aureus HK/WalK and HK/WalK inhibitor compounds
+1,2were prepared intheir physiological protonation states. Compounds 1and 2were docked
+using thesame settings forthevalidation process ofthedocking program. The resulting solu-
+tions were clustered based ontheheavy atom RMSD values (1Å).Finally, thetop-scoring
+binding pose wastaken into consideration forligand–receptor interactions and wasselected
+forfurther refinement using MD simulations.
+MD simulations ofcomplexes
+MD simulations were performed fortheHK–ligand complexes obtained viadocking using the
+same procedure explained intheMD optimization described above, including system minimi-
+zation, heating, and equilibration. MD simulations were performed foratime period of35ns
+foreach macromolecule–ligand complex. The atom coordinates inthecomplex system were
+saved at1-ps time intervals throughout thesimulations. Using theinitial structures oftheMD
+simulation asthereference structures, theCPPTRAJ module ofAmberTools18 wasused for
+determining RMSDs tovalidate theconvergence oftheMD simulation processes. Structural
+flexibilities oftheprotein were estimated bycalculating root-mean-square fluctuations
+(RMSFs). The trajectories during last20nsofequilibration MD simulations were used forcal-
+culating theRMSF values, whereas theaverage structures ofthefinal 20nstrajectories were
+used asthereference structures.
+Hydrogen bond analysis. The CPPTRAJ module inAmber18 wasused toanalyze hydro-
+genbonding between theligand and thesurrounding amino acid residues. Hydrogen bonds
+with high occupancy were observed during thelast8.0nsofthesimulations forthetwoligand
+complex systems.
+Pairwise per-residue free energy decomposition. Molecular mechanics Poisson–Boltz-
+mann surface area (MM/PBSA) pairwise decomposition wasused tocalculate theinteraction
+energy oftheresidues involved inhigh-occupancy hydrogen bonding totheligand during the
+last8nsofthesimulation.
+Binding free energy calculation
+The MM/GBSA method [31] wasused tocalculate thebinding free energy (ΔGbinding), Eq
+(1)forreceptor–binder complex systems. One thousand snapshots were taken at20–30 ns
+time intervals throughout theMD simulation trajectory tocompute theMM/GBSA free
+energy difference. Foreach snapshot, Eq(1)wasused tocalculate thebinding free energy of
+PLOS ONEDocking studies andmolecular dynamics simulation s
+PLOS ONE |https://doi.or g/10.137 1/journal.po ne.02342 15June 5,2020 5/16
+thecomplex system.
+DGbinding¼Gcomplex ðGproteinþGligandÞ; ð1Þ
+DG¼DGgasþDGsolv TDS; ð2Þ
+DGgas¼DEelectrostaticþDEvdw; ð3Þ
+DGsolv¼DGGBþDGSA; ð4Þ
+DGSA¼g�SASAþb; ð5Þ
+where Gcomplex ,Gprotein ,and Gligand arethefree energies ofthecomplex, protein, and ligand,
+respectively; ΔG gasisthegas-phase molecular mechanics free energy, including electrostatic
+(ΔE electrostatic )and vanderWaals (ΔE vdw)contributions; and ΔG solvisthesolvation free energy,
+which includes polar (ΔG GB)and nonpolar (ΔG SA)contributions.
+ΔG GBisthepolar contribution that wasestimated using themodified GBmodel reported
+byOnufriev etal.[32] using εw=80and εp=1.0,while thesolvent-accessible surface area
+(SASA) iscalculated using linear combinations ofpairwise overlaps [33]. The surface tension
+Fig3.Chemical structures ofS.aureus HK/WalK inhibitors. (1)Waldiomy cin(IC 5010.2μM) and (2)waldiomycin
+methyl ester (IC 5075.8μM).
+https://d oi.org/10.1371/j ournal.pon e.0234215.g0 03
+PLOS ONEDocking studies andmolecular dynamics simulation s
+PLOS ONE |https://doi.or g/10.137 1/journal.po ne.02342 15June 5,2020 6/16
+proportionality constant (γ)wassetto0.0072 kcal mol–1Å–2while thenonpolar solvation free
+energy forapoint solute (b)wassetto0.00 kcal mol–1.The SASA wascalculated using aprobe
+sphere radius setto1.4Å.The calculated free energies were used forcomparisons between the
+waldiomycin and waldiomycin methyl esters asS.aureus kinase enzyme binders. The final
+binding free energy forthetwobinders wascalculated astheaverage value from 1000 snap-
+shots inthelast10nsoftheMD simulations.
+Results anddiscussion
+Structure optimization
+With anidentity of36%, thesequence ofS.aureus UID-Q7A2R7 [18] hasthehighest-ranked
+homology intheBLAST search forE.colihistidine kinase, 5C93 [34], onproteins inthePDB.
+Generally, itisassumed that twoproteins topologies areusually similar once their sequences
+share about 30% identity [35]. Moreover, Dimitrii etal.[36] developed structures ofaverage
+quality (RMSD<4.0Å)based ontarget-template sequence identity�20%. The crystal struc-
+ture of5C93 wasrecently obtained ataresolution of2.52Å[34]. Therefore, the3Dstructure
+ofS.aureus HK, built through ahomology model tothe5C93 template structure, should be
+appropriate formodeling S.aureus HKprotein binding data. The initial alignment ofQ7A2R7
+with thetemplate sequence 5C93 wasobtained using ClustalW. The final alignment (36%
+identity) used inthehomology modeling and inthesecondary structure prediction isshown
+inFig4.The initial homology models ofS.aureus HKwere built using MODELLER and used
+forfurther optimization.
+MD simulation isusually practiced toimprove homology models [37]. Using MD simula-
+tion, theinitial 3Dstructure ofS.aureus HK/WalK, obtained from homology modeling, was
+optimized inasolvent tosimulate therealphysiological environments. During theMD simula-
+tion, thestability ofthestructure wascalculated byitsdeviance from thestarting conformation
+inRMSD terms. Fig5Ashows theRMSD values ofS.aureus HK/WalK protein structure
+through thewhole MD simulation trajectory. After 7ns,the3Dstructures ofHK/WalK
+reached astable state where theRMSDs oftheprotein backbone atoms and ofallatoms con-
+verged to1.25Åand 2.25Å,respectively. Fig5Bshows thecalculated RMSFs oftheS.aureus
+HK/WalK structure generated during theMD simulation, which characterizes themobility of
+individual residues. The Ramachandran plot oftheoptimized S.aureus HK/WalK structure
+showed that 100% ofresidues were located intheallowable regions (S1Fig), higher than that
+oftheinitial homology modeled 3DS.aureus HK(S2Fig), which showed 93.4% ofresidues in
+theallowed region, indicating thehigher stability oftheoptimized S.aureus HKstructure.
+Binding modes generated bymolecular docking
+Redocking oftheACP X-ray structure initsoriginal binding siteresulted inasolution pose
+with 0.704Åand RMSD value S3Fig.
+Toshed light onthepossible binding modes ofcompounds 1and 2,alarge boxwasdefined
+toinclude allpotential binding sites. Hence, thetwoligands adopted themost favorable bind-
+ingposes that were searched and ranked according totheir docking scores. The conformation
+with thelowermost score, suggesting themost probable binding mode ofaligand, wassug-
+gested foradditional analysis.
+The twobinders were efficiently docked inside thebinding siteoftheHK/WalK structure.
+The binding poses ofthetwobinders showed similar V-shaped orientations inside abinding
+sitedelineated with theside chains ofresidues Lys63, Lys100, Leu102, Hie103, Pro104, Leu131,
+Ile132, Asp135, Ile138, Lys139, Arg183, Val184, Asp185, and Asn195. The hydrophobic part of
+PLOS ONEDocking studies andmolecular dynamics simulation s
+PLOS ONE |https://doi.or g/10.137 1/journal.po ne.02342 15June 5,2020 7/16
+thebinders fitsinside onebinding pocket near Val184, while thecarboxyl and ester groups of
+thetwocompounds fitinside asecond binding pocket near Lys100 (Fig 6Aand 6B).
+The 10top-scoring conformations ofthewaldiomycin and waldiomycin ester areshown in
+S4Figand S5Figmol2 files, respectively. The docking score and hydrogen bond information
+Fig4.Staphylococcus aureus Q7A2R7 sequence (target) alignment result with template sequence (5c93). The obtained
+secondary structure isshown, where Hrepresents thehelix; Erepresents thestrand; and “-”represents theloop. Identical
+residues arehighlighted.
+https://doi.o rg/10.1371/j ournal.pone .0234215.g004
+PLOS ONEDocking studies andmolecular dynamics simulation s
+PLOS ONE |https://doi.or g/10.137 1/journal.po ne.02342 15June 5,2020 8/16
+ofthese 10conformations arealso listed inS1and S2Files, respectively. The Grid score of
+these binding poses isintherange of–63.629486 to–62.780089 kcal mol–1forwaldiomycin
+and –66.089516 to–64.42131 kcal mol–1forwaldiomycin methyl ester, which isincomparable
+Fig5.Molecular Dynamics (MD) profiles oftheS.aureus HK 3Dstructure optimizati on.a)Root-mean-squ are
+deviatio n(RMSD) values (y-axis) along thetime frame (x-axis) foratoms oftheprotein backbone (red lines) and all
+protein atoms (black line), and b)root-me an-square fluctuation (RMSF) values (y-axis) intheMD simulation for
+individual residues (x-axis) .
+https://d oi.org/10.1371/j ournal.pon e.0234215.g0 05
+PLOS ONEDocking studies andmolecular dynamics simulation s
+PLOS ONE |https://doi.or g/10.137 1/journal.po ne.02342 15June 5,2020 9/16
+with thedifference intheir experimental inhibition ofS.aureus HK/WalK, with IC50values of
+10.2 and 75.8μM, respectively. The top-scoring binding poses ofthetwobinders were selected
+forfurther investigations using MD simulation.
+Although docking studies have been successfully used incalculating thebinding poses of
+ligands formany proteins, they failed inassessing ligand binding affinity [38]. The treatment
+ofproteins as“rigid” molecules does notconsider their conformational changes during the
+docking ofsome ligands [39]. Conformational changes during protein–ligand interactions
+could bestudied during MD simulations. The conformation changes inprotein–ligand inter-
+actions have been broadly studied through MD simulation methods [40]. Considering both
+protein structure flexibility and protein–ligand electrostatic interactions, MD simulations
+Fig6.Docking results ofhomol ogmodeling. Binding conformatio nsofwaldiomycin (a)and waldio mycin methyl ester (b)atthebinding siteof
+thehomolo gmodel ofS.aureus HK/WalK.
+https://doi.o rg/10.1371/j ournal.pone .0234215.g006
+Fig7.Root-Mean -Square Deviation (RMSD) inMolecular Dynamics (MD) simulatio ns.(a)RMSD ofprotein backbones (black lines) and
+waldio mycin (red lines). (b)RMSD ofprotein backbone s(inblack lines) and ofwaldiomyci nmethyl ester (insimilar color) with thefour orientati onsof
+waldio mycin methyl ester through theMD simulatio ntime intervals. 0–11 ns(beige color), 11–14 ns(cyan color), 14–14.5 ns(pink color), and 14.5–35
+ns(green color).
+https:// doi.org/10.1371 /journal.pone. 0234215.g007
+PLOS ONEDocking studies andmolecular dynamics simulation s
+PLOS ONE |https://doi.or g/10.137 1/journal.po ne.02342 15June 5,2020 10/16
+were deemed necessary tojustify the7.4-fold potency difference inanti-S.aureus HK/WalK
+activity between waldiomycin and itsester analog and torefine theunderstanding ofwaldio-
+mycin (ester)-HK/WalK binding modes obtained from molecular docking. Ligand (waldiomy-
+cinoritsmethyl ester) conformation changes were observed through alltheMD simulation
+time frames. MD simulation wasinitiated from thedocked minimized complex and continued
+forover 35ns.Using RMSD changes during theMD simulations, thedynamic stabilities ofthe
+twocomplex systems were calculated and areplotted inFig7Aand 7B.
+Forthecomplexes ofS.aureus HK/WalK bound with waldiomycin, Fig7A,both thewal-
+diomycin and theprotein structures were equilibrated with unobvious RMSD fluctuations
+through the35nstime frames. Interestingly, trajectory analysis revealed that thecarboxyl
+group ofwaldiomycin isengaged instable hydrogen bond with Lys100. The presence ofa
+hydrogen bond between theLys100 residue ofHK/WalK and waldiomycin (active anti-HK)
+and itsabsence with thewaldiomycin methyl ester (inactive anti-HK) suggests that Lys100 isa
+crucial residue forS.aureus HKactivity.
+The complexes ofS.aureus HK/WalK bound with waldiomycin methyl ester (Fig 7B)
+showed unobvious RMSD fluctuations over thefirst 11ns,then agradual increase from 11–14
+ns,followed byarapid increase from 14to14.5 ns,and convergence from 14.5 to35ns.The
+large RMSD fluctuations suggest alarge conformational change and repositioning ofthewal-
+diomycin ester inside thebinding siteresulting infour conformational changes (Fig 7B;beige
+color): holds for0–11 ns,(7b; cyan color), holds during the11–14 ns,(Fig 7B;pink color),
+holds during the14–14.5 ns(Fig 7B;green color), and continues over thelast14.5–35 ns.
+Remarkably, trajectory analysis revealed that theester group ofthewaldiomycin methyl ester
+exited thebinding pocket after 14.5 ns;thisconformational instability during MD simulation
+isunsurprising since aweak binding affinity wasreported forthisbinder.
+The superimposition ofbinding conformation from thefinal snapshots oftheMD simula-
+tions isshown inFig8(waldiomycin: gray; waldiomycin methyl ester: cyan) and reveals differ-
+entligand binding conformations, though theMD simulations started from docking poses
+with similar orientations.
+The CPPTRAJ hydrogen bond analyses arelisted inTable 1and show thehydrogen bonds
+with high occupancy forthetwosimulation systems. The table shows twodifferent hydrogen
+bond setsforthetwocomplex systems. Forthewaldiomycin-HK/WalK complex, theamino
+acid residues Lys63, Ser98, Lys100, Gln128, Asp135, Lys139, and Val184 showed ahydrogen
+bond with theligand. Forthewaldiomycin ester-HK/WalK complex, theamino acid residues,
+Lys63, Leu102, and His103 showed ahydrogen bond with theligand. The hydrogen bond pat-
+tern difference between thetwosimulation systems isanindication ofthetwodifferent bind-
+ingconformations ofwaldiomycin and itsester analog (Fig 8).
+The MM/PBSA-pairwise decomposition [41] ofresidue interaction energies developed an
+insight into theinteractions between thebinders and their binding sites forHK/WalK. The
+results demonstrated that theamino acid residues Lys100, Asp135, Lys139, and Val140 play a
+crucial role ineffective binding interactions with waldiomycin and showed absolute decom-
+posed energy intherange of–2.722 to–4.371 kcal mol-1(Table 1).
+Although theMM/GBSA approach does notconsider theentropy associated with thebind-
+ing, itisanefficient and powerful tool forthecorrect ranking ofligands. Although theinclu-
+sion oftheconformational entropy iscrucial forcalculating theabsolute free energies of
+binding, itisnotnecessary forranking thebinding affinities ofsimilar inhibitors [42].
+The binding free energies ofthetwoligands were calculated using MM/GBSA methods
+according totheMD simulation trajectories from 25to35ns.The total binding free energy
+ΔG MM/GBSA and therelated energy terms determined using theMM/GBSA method arepro-
+vided inTable 2.Asitwasused indirect comparisons with ΔG MM-GBSA ,theexperimental
+PLOS ONEDocking studies andmolecular dynamics simulation s
+PLOS ONE |https://doi.or g/10.137 1/journal.po ne.02342 15June 5,2020 11/16
+binding affinity (ΔG expt)wasestimated from binding affinity data using theequation ΔG expt
+�–RTlnIC 50[43] (Table 2).Interestingly, thebinding free energy ΔG MM/GBSA (waldiomycin, –
+43.73; waldiomycin ester, –27.75 kcal mol-1)wasinaccordance with theexperimental binding
+affinity, ΔG expt(waldiomycin, –26.47 kcal mol-1;waldiomycin ester, –21.85 kcal mol-1)esti-
+mated from theIC50values (waldiomycin, 10.2μM; waldiomycin methyl ester, 75.8μM). Ana-
+lyzing thecomponents intheMM/GBSA binding free energies revealed that electrostatic
+energy wasthemajor contributor tothetwobinders. Forexample, ΔG electrostatic was–17.631
+kcal mol–1forwaldiomycin containing carboxyl group, whereas ΔG electrostatic was–10.093 kcal
+mol–1forthewaldiomycin containing methyl ester. The strong hydrogen bond formation
+Fig8.The final snapshots (35ns)ofligand–pr otein complexes intheMolecular Dynamics (MD) simulatio ns.The
+ligands arerepresente dassticks (gray: waldiomyci n;cyan: waldiomycin methyl ester). The proteins arerepresente das
+wires ofconstant colors.
+https://d oi.org/10.1371/j ournal.pon e.0234215.g0 08
+Table 1.Results ofpairwise energy decomp osition analysi softhehigh-occupan cyhydrogen bonding ofresidues totheligands (kcal mol-1).
+Hk/WalK residues Lys63 Ser98 Lys100 Leu102 Hie103 Gln128 Asp135 Lys139 Val184
+Waldiomyc in –1.093 –0.04 –4.371 –0.043 –0.836 –0.111 –2.722 –3.29 –4.136
+Waldiomyc inester –1.575 –0.088 –0.096 –0.025 –0.092 –1.064 –1.497 –2.536 –1.345
+https://do i.org/10.1371/j ournal.pone .0234215.t001
+PLOS ONEDocking studies andmolecular dynamics simulation s
+PLOS ONE |https://doi.or g/10.137 1/journal.po ne.02342 15June 5,2020 12/16
+between waldiomycin and thekeyresidue Lys100 wasrecognized and postulated tobetherea-
+sonforthe7.4-fold higher potency ofwaldiomycin than that ofitsester analog.
+Conclusions
+Inarecent study, aninhibitors ofS.aureus HK/WalK enzyme, waldiomycin, wasreported to
+have 7.4-fold higher potency than itsother inhibitor, waldiomycin ester. The twoinhibitors
+have thesame structures butdiffer with regard toonly onepharmacophore. Knowledge ofthe
+compounds’ binding free energies iscrucial toevaluate itspotential antibacterial activity. The
+tertiary structures ofS.aureus HK/WalK arecrucial tounderstanding HK/WalK–ligand inter-
+actions forevaluating potential anti-S.aureus activity. The amino acid residue Lys100 wascru-
+cialforhydrogen bonding with waldiomycin atthebinding siteand possibly played an
+essential role intheenzyme activity. The results ofourwork onbinding interactions between
+theligands andS.aureus HK/WalK would beuseful forfurther studies, including thedesign-
+ingofmore efficient antibacterial agents that targetS.aureus HK/WalK.
+Supporting information
+S1Fig. Ramachandran plot oftheoptimized S.aureus HK/WalK structure.
+(PDF)
+S2Fig. Ramachandran plot oftheinitial homology modeled S.aureus HK/WalK structure.
+(PDF)
+S3Fig. The co-crystallized ACP (from 5c93.pdb, colored magenta) and theredocked ACP
+structure (colored forest green), superimposed inside thebinding siteof5c93.
+(TIF)
+S4Fig. The 10top-scored conformations ofthewaldiomycin inmol2 format.
+(TIF)
+S5Fig. The 10top-scoring conformations ofthewaldiomycin methyl ester inmol2 format.
+(TIF)
+S1File. The docking score and hydrogen bond information ofthetop10scored conforma-
+tions ofwaldiomycin.
+(INFO)
+S2File. The docking score and hydrogen bond information ofthetop10scored conforma-
+tions ofwaldiomycin methyl ester.
+(INFO)Table 2.Calculated binding free energies incomparis onwith experiment aldata (kcal mol–1a).
+Ligand ΔG vdw ΔG elec ΔG polarbΔG SurfcΔG MM/GBSA ΔG Exptd
+Wald –58.144 –17.631 40.174 –8.132 –43.733 −26.468
+Wald ester –47.868 –10.093 37.403 –7.195 –27.753 −21.849
+aAverage of1000 frames
+bWhole electrostat iccontribution :ΔG elec=ΔG electrostatic +ΔG polar
+cWhole nonpolar contribution: ΔG np=ΔG vdw+ΔG surf
+dΔG expt=RTlnIC 50,T=277K,R=8.314 JK–1mol–1
+https://do i.org/10.1371/j ournal.pone .0234215.t002
+PLOS ONEDocking studies andmolecular dynamics simulation s
+PLOS ONE |https://doi.or g/10.137 1/journal.po ne.02342 15June 5,2020 13/16
+Acknowledgmen ts
+The authors extend their appreciation totheDeanship ofScientific Research atKing Saud
+University.
+Author Contributions
+Conceptualization: Awwad Radwan.
+Data curation: Awwad Radwan.
+Formal analysis: Awwad Radwan.
+Methodology: Awwad Radwan.
+Project administration: Gamal M.Mahrous.
+Resources: Gamal M.Mahrous.
+Software: Awwad Radwan.
+Visualization: Gamal M.Mahrous.
+Writing –original draft: Awwad Radwan.
+Writing –review &editing: Awwad Radwan.
+References
+1.Hynes NE.Tyrosine kinase signaling inbreast cancer. Breast Cance rRes2000; 2:154–157. https://
+doi.org/10.11 86/bcr48 PMID: 112507 04
+2.Hynes NE,Boulay A.ThemTOR pathway inbreast cancer. JMammary Gland BiolNeoplasia 2006;
+11:53–61. https://doi.or g/10.1007/ s10911-006- 9012-6 PMID: 16900391
+3.Szurman tH,White RA,Hoch JA.Sensor complex esregulating two-com ponent signal transductio n.
+Curr Opin Struct Biol2007; 17:706–715. https://doi.or g/10.101 6/j.sbi.200 7.08.019 PMID: 17913492
+4.Bronner S,Monteil H,Prevost G.Regulation ofvirulence determin antsinStaphylo coccus aureus: com-
+plexity andapplications .FEMS Microbiol Rev2004; 28:183–20 0.https://doi.or g/10.101 6/j.femsre.
+2003.09. 003PMID: 15109784
+5.Stock AM,Robinson VL,Goudreau PN.Two-com ponent signal transductio n.Annu RevBiochem.
+2000; 69:183– 215. https://doi.or g/10.114 6/annurev.bioc hem.69.1.1 83PMID: 109664 57
+6.Gotoh Y,Eguchi Y,Watanab eT,Okamoto S,DoiA,Utsumi R.Two-com ponent signal transductio nas
+potential drug targets inpathogenic bacteria .Curr Opin Microbiol .2010; 13(2):232– 239. https:// doi.org/
+10.1016/ j.mib.2010. 01.008 PMID: 20138000
+7.GaoR,Stock AM.Biological insights from structures oftwo-componen tprotei ns.Annu RevMicrobiol
+2009; 63:133–15 4.https://doi.or g/10.114 6/annurev.m icro.091208. 073214 PMID: 19575571
+8.GaoR,Stock AM.Biological insights from structures oftwo-componen tprotei ns.Annu RevMicrobiol .
+2009; 63:133– 154. https://doi.or g/10.114 6/annurev.m icro.091208 .073214 PMID: 19575571
+9.Wilke KE,Carlson EE.Allsignals lost.SciTransl Med. 2013; 5(203):212 –212. https:// doi.org/10.11 26/
+scitranslm ed.3006670 PMID: 240485 21
+10. Bem AE,Velikova N,Pellicer MT,Baarlen PV,Marina A,Wells JM.Bacteri alhistidine kinases asnovel
+antibacter ialdrug targets. ACS Chem Biol. 2015; 10:213–224. https://doi.or g/10.1021/ cb5007135
+PMID: 254369 89
+11. Martin PK,LiT,SunD,Biek DP,Schmid MB.Role incellpermea bility ofanessential two-com ponent
+system inStaphyloc occus aureus. JBacteriol 1999; 181: 3666–3 673. PMCID: PMC93842 PMID:
+10368139
+12. Fabret C,Hoch JA.Atwo-com ponent signal transduct ionsystem essential forgrowth ofBacillus subti-
+lis:implication sforanti-infectiv etherapy. JBacteri ol1998; 180: 6375–638 3.PMCID: PMC107725
+PMID: 982994 9
+13. Hancock L,Perego M.Two-c omponent signal transductio ninEnterococc usfaecalis. JBacteriol 2002;
+184: 5819–58 25.https://doi.or g/10.112 8/jb.184.21.581 9-5825 .2002 PMID: 12374813
+PLOS ONEDocking studies andmolecular dynamics simulation s
+PLOS ONE |https://doi.or g/10.137 1/journal.po ne.02342 15June 5,2020 14/16
+14. Gotoh Y,Eguchi Y,Watanab eT,Okamoto S,DoiA,Utsumi R.Two-com ponent signal transductio nas
+potential drug targets inpathogenic bacteria .Curr. Opin. Microbiol 2010; 13:232–23 9.https://doi.or g/
+10.1016/ j.mib.2010. 01.008 PMID: 20138000
+15. Barrett JF,Goldschmi dtRM,Lawrence LE,Foleno B,Chen R,Demers JP,etal.Antibacterial agents
+thatinhibit two-com ponent signal transductio nsystems. Proc NatlAcad SciUSA 1998; 95:5317–5322.
+https://doi.or g/10.107 3/pnas.95 .9.5317 PMID: 956027 3
+16. Macielag M,Deme rsJP,Fraga-Spa noSA,Hlasta DJ,Johnson SG,Kanojia RM,etal.Substituted sali-
+cylanilide sasinhibitors oftwo-componen tregulatory systems inbacteria. JMed Chem 1998; 4:2939–
+2945. https://d oi.org/10.102 1/jm9803 572
+17. SuiZ,Guan J,Hlasta DJ,Macielag MJ,Foleno BD,Goldschmi dtRM,etal.SAR studies ofdiaryltria-
+zoles against bacteria ltwo-componen tregulat orysystems andtheir antibacter ialactivities .Bioorg Med
+Chem Lett1998; 8:1929–1934. https:// doi.org/10.10 16/s0960 -894x(98)0 0325-4 PMID: 987346 1
+18. LiuQian, YeoWon-Sik, andBaeTaeok. TheSaeRS Two-Co mponent System ofStaphyloc occus
+aureus. Genes (Basel) 2016; 7:E81. https://doi. org/10.3390/g enes710 0081 PMID: 2770610 7
+19. Bharadw ajaVadloori A.K.Sharath N.Prakash Prabhu andRadheshy amMaurya. Homology modelling ,
+molecular docking, andmolecular dynamic ssimulation sreveal theinhibition ofLeishmani adonovan i
+dihydrofolat ereductase -thymidylate synthase enzyme byWithafer in-A. Vadloori etal.BMC ResNotes
+(2018) 11:246–252. https:// doi.org/10.11 86/s1310 4-018-335 4-1PMID: 29661206
+20. Igarashi M,Watanab eT,Hashida T,Umekita M,Hatano M,Yanagida Y,etal.Waldiomycin, anovel
+WalK-hist idine kinase inhibitor from Streptomyce ssp.MK844-m F10. JAntibiot (Tokyo) 2013, 66
+(8):459–64 .https://doi. org/10.1038/j a.2013.3 3PMID: 23632918
+21. Altschul SF,Gish W,Miller W,Myers EW,Lipman DJ.Basic local alignme ntsearch tool.JMolBiol
+1990, 215(3):403 –410. https://doi.or g/10.1016/ S0022-283 6(05)8036 0-2PMID: 2231712
+22. Kuroda M,Ohta T,Uchiyama I,Baba T,Yuzawa H,Kobayash iI,etal.Whole genome sequencin gof
+meticillin- resistant Staphylo coccus aureus. Lancet 2001, 357:1225–124 0.https://doi.or g/10.1016 /
+s0140-6736 (00)04403-2 PMID: 11418146
+23. Laskowski RA,Moss DS,Thornton JM.PROCHEC K-aprogram tocheck thestereochemi calquality of
+protein structures. JAppCryst 1993, 26:283– 291. https://doi.or g/10.110 7/S00218898 92009944
+24. Webb B,SaliA.Compa rative Protein Structure Modelin gUsing Modeller. Curr Protoc Bioinformatics
+2016, 54:5.6.1– 5.6.37. https://doi.or g/10.1002/c pbi.3 PMID: 273224 06
+25. Case DA,Ben-Shalom IY,Brozell SR,Cerutti DS,Cheatham TE,Cruzeiro VWD, etal.AMBER 2018,
+University ofCalifornia, SanFrancisc o.
+26. YueY,Sergio EW,Felice CL.Underst anding asubstrate’s product regiose lectivity inafamily of
+enzymes :Acase study ofacetaminop henbinding incytochrom eP450s. PLoS One2014; 9:e87058 .
+https://doi.or g/10.137 1/journal.po ne.00870 58PMID: 24498291
+27. Turner M,Mutter ST,Kenne dy-Britten OD,Platts JA.Molecular dynamics simulation ofaluminium bind-
+ingtoamyloid-β anditseffect onpeptide structure. PLoS ONE 2019; 14:e0217992. https://doi.or g/10.
+1371/journa l.pone.0 217992 PMID: 3118505 3
+28. Wang J,Wang W,Kollman PA,Case DA.Automatic atom typeandbond typeperception inmolecular
+mechanical calculation s.JMolGraph Model 2006; 25:247–260. https://doi.or g/10.1016/j. jmgm.2005.
+12.005 PMID: 16458552
+29. Wang J,Wolf RM,Caldwell JW,Kollman PA.Case DA.Development andtesting ofageneral AMBER
+force field. JComput Chem 2004; 25:1157–1174. https:// doi.org/10.10 02/jcc.2003 5PMID: 15116359
+30. Allen WJ,Balius TE,Mukherje eS,Brozell SR,Moustakas DT,Lang PT,etal.DOCK 6:Impact ofnew
+features andcurrent docking performanc e.JComput Chem .2015; 36:1132–1156 .https://doi.or g/10.
+1002/jcc.23 905PMID: 25914306
+31. Kollman PA,Massova I,Reyes C,Kuhn B,HuoS,Chong L,etal.Calculating Structur esandFree Ener-
+giesofComp lexMolecules: Comb ining Molecular Mechanic sandContinuum Models. AccChem Res
+2000; 33:889–89 7.https://doi.or g/10.102 1/ar000033j PMID: 11123888
+32. Onufriev A,Bashfor dD,Case DA.Exploring protein native states andlarge-scale conformatio nal
+changes withamodified generaliz edborn model. Proteins 2004; 55:383–394. https://d oi.org/10.100 2/
+prot.20033 PMID: 15048829
+33. Weiser J,Shenkin PS,StillWC. Approxim ateatomic surfaces from linear combinat ionsofpairwise
+overlaps (LCPO). JComput Chem 1999; 20:217–230. https:// doi.org/10.10 02/(sici) 1096-987x
+(19990130) 20:2<217::a id-jcc4>3.0.c o;2-a
+34. CaiY,SuM,Ahmad A,HuX,Sang J,Kong L,etal.Conformat ional dynamics oftheessent ialsensor
+histidine kinase walk. Acta Crystallogr DStruct 2017; 73:793–803 .https://doi.or g/10.1107/
+S205979831 701304 3PMID: 28994408
+PLOS ONEDocking studies andmolecular dynamics simulation s
+PLOS ONE |https://doi.or g/10.137 1/journal.po ne.02342 15June 5,2020 15/16
+35. Rost B.Twilight zone ofprotein sequence alignments .Protein Eng1999; 12:85–94. https://doi.or g/10.
+1093/protein /12.2.85 PMID: 101952 79
+36. Nikolaev Dmitrii M.,Shtyrov Andrey A.,Panov Maxim S.,Jamal Adeel, Chakchir Oleg B.,Kochemir -
+ovsky Vladimi rA.,Olivucci Massimo ,andRyazan tsevMikhail N.AComparativ estudy ofmodern
+homolog ymodeling algorithms forrhodops instructure predicti on.ACS Omega 2018; 3(7): 7555–7566.
+https://doi.or g/10.102 1/acsomega. 8b00721 PMID: 30087916
+37. Shen J,LiW,LiuG,Tang Y,Jiang H.Compu tational Insights intotheMechanis mofLigand Unbindin g
+andSelectivity ofEstroge nReceptors. JPhys Chem B2009; 113: 10436–10444 .https://doi.or g/10.
+1021/jp90378 5hPMID: 19583238
+38. Cheng T,LiQ,Zhou Z,Wang Y,Bryant S.Structur e-based virtual screening fordrug discovery: aprob-
+lem-centr icreview. AAPS J2012; 14:133–14 1.https://doi.or g/10.120 8/s12248-012- 9322-0 PMID:
+22281989
+39. Heitz F,VanMau N.Protein structural changes induced bytheir uptake atinterfaces. Biochim Biophys
+Acta 2002; 1597: 1–11. https://do i.org/10.1016 /s0167-4 838(02)00 273-x PMID: 12009396
+40. LiW,Shen J,LiuG,Tang Y,Hoshino T.Exploring coumarin egress channel sinhuman cytochrome
+p450 2a6byrandom accelerati onandsteered molecular dynamics simulation s.Proteins 2011; 79:
+271–281. https:// doi.org/10.10 02/prot. 22880 PMID: 21058395
+41. LeeVS,Tue-ng eunP,Nangola S,Kitide eK,Jitonnom J,Nimman pipug P,etal.Pairwise decompos ition
+ofresidue interacti onenergies ofsingle chain FvwithHIV-1 p17epitope variants. MolImmunol 2010;
+47:982–990. https://doi.or g/10.1016/ j.molimm.2009 .11.021 PMID: 20022377
+42. HouT,Wang J,LiY,Wang W.Assessing theperform ance oftheMM/PBSA andMM/GBSA methods.
+1.Theaccurac yofbinding freeenergy calculation sbased onmolecular dynamics simulation s.JChem
+InfModel. 2011; 51(1):69–8 2.https:/ /doi.org/10.10 21/ci1002 75aPMID: 211177 05
+43. Chan DC,Chutkowsk iCT,KimPS.Evidence thataprominent cavity inthecoiled coilofHIVtype1
+gp41 isanattractive drug target. Proc NatlAcad Sci1998; 95:15613–15617 .https://doi.o rg/10.1073/
+pnas.95.2 6.15613 PMID: 9861018
+PLOS ONEDocking studies andmolecular dynamics simulation s
+PLOS ONE |https://doi.or g/10.137 1/journal.po ne.02342 15June 5,2020 16/16

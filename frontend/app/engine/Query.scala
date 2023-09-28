@@ -120,22 +120,22 @@ class Query(val querySentence: String, var debug: Boolean = false, var printQuer
   def getDocTitles(docIDs: ListBuffer[String]): ListBuffer[String] = {
     classOf[org.postgresql.Driver]
     val con_str = "jdbc:postgresql://localhost:5432/postgres?user=postgres&password=gui0721"
-    val conn = DriverManager.getConnection(con_str)
+    // val conn = DriverManager.getConnection(con_str)
     val resTitles = ListBuffer[String]()
     for (docID <- docIDs) {
-      try {
-        val stm = conn.createStatement(ResultSet.TYPE_FORWARD_ONLY, ResultSet.CONCUR_READ_ONLY)
-        val rs = stm.executeQuery("SELECT * from pubmed where id = " + docID)
-        if (rs.next) {
-          resTitles += rs.getString("title")
-        } else {
-          resTitles += docID
-        }
-      } catch {
-        case _: Throwable => resTitles += docID
-      }
+      // try {
+      //   val stm = conn.createStatement(ResultSet.TYPE_FORWARD_ONLY, ResultSet.CONCUR_READ_ONLY)
+      //   val rs = stm.executeQuery("SELECT * from pubmed where id = " + docID)
+      //   if (rs.next) {
+      //     resTitles += rs.getString("title")
+      //   } else {
+      //     resTitles += docID
+      //   }
+      // } catch {
+      resTitles += docID
+      // }
     }
-    conn.close()
+    // conn.close()
     assert(docIDs.length == resTitles.length)
     return resTitles
   }

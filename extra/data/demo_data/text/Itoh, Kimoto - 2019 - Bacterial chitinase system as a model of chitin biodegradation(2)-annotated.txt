@@ -1,0 +1,613 @@
+Chapter 7
+Bacterial Chitinase System as a Model
+of Chitin Biodegradation
+Takafumi Itoh and Hisashi Kimoto
+Abstract Chitin, a structural polysaccharide of b-1,4-linked N-acetyl-D-glucosamine
+residues, is the second most abundant natural biopolymer after cellulose. The meta-bolism of chitin affects the global carbon and nitrogen cycles, which are maintained
+by marine and soil-dwelling bacteria. The degradation products of chitin metabolism
+serve as important nutrient sources for the chitinolytic bacteria. Chitinolytic bacteriahave elaborate enzymatic systems for the degradation of the recalcitrant chitinbiopolymer. This chapter introduces chitin degradation and utilization systems ofthe chitinolytic bacteria. These bacteria secrete many chitin-degrading enzymes,including processive chitinases, endo-acting non-processive chitinases, lytic polysac-charide monooxygenases, and N-acetyl-hexosaminidases. Bacterial chitinases play a
+fundamental role in the degradation of chitin. Enzymatic properties, catalytic mecha-
+nisms, and three-dimensional structures of chitinases have been extensively studied by
+many scientists. These enzymes can be exploited to produce a range of chitin-derivedproducts, e.g., biocontrol agents against many plant pathogenic fungi and insects. Weintroduce bacterial chitinases in terms of their reaction modes and structural features.
+Keywords Bacterial chitinase
+/C1Bacterial chitinolysis /C1Endo-acting
+non-processive chitinase /C1Processive chitinase
+7.1 Introduction
+Chitin, a linear homopolymer of b-1,4-linked N-acetyl-D-glucosamine (GlcNAc)
+residues, is widespread in nature and serves as a structural component in the cellwalls of fungi, and the exoskeletons of insects, arthropods, sponges, and squid pens
+T. Itoh (&)/C1H. Kimoto
+Faculty of Bioscience and Biotechnology, Fukui Prefectural University,
+4-1-1 Matsuokakenjyoujima, Eiheiji-cho, Yoshida-gun, Fukui 910-1195, Japan
+e-mail: ito-t@fpu.ac.jp
+H. Kimoto
+e-mail: kimoto@fpu.ac.jp
+©Springer Nature Singapore Pte Ltd. 2019
+Q. Yang and T. Fukamizo (eds.), Targeting Chitin-containing
+Organisms , Advances in Experimental Medicine and Biology 1142,
+https://doi.org/10.1007/978-981-13-7318-3_7131
+(Gooday 1990a ,b). Chitin is classi ﬁed by its crystalline forms, such as a-,b-, and
+c-chitin, differing in the orientation of the micro ﬁbrils. To form complex structures
+in the cell walls, the crystalline chitin often associates with some proteins, or withother polysaccharides, such as glucans and mannans (Attwood and Zola 1967 ;
+Austin et al. 1981 Schaefer et al. 1987 ; Merzendorfer and Zimoch 2003 ).
+In accordance with the abundance and ubiquity of chitin, chitin-degrading enzymes(or chitin-related proteins) have ubiquitous distribution across bacteria, fungi(Gooday 1990a ), archaea (Andronopoulou and Vorgias 2004 ), algae (Shirota et al.
+2008 ; Kitaoku et al. 2017 ), plants (Grover 2012 ), and animals (Gooday 1990a ).
+Although annual chitin production in natural ecosystems is estimated to be10
+10–1012tons, most of the chitin is recycled by bacteria and fungi as their carbon
+and nitrogen sources (Tharanathan and Kittur 2003 ).
+Bacterial responses to chitin include chemotaxis and chemotropism, when the
+bacteria either migrate toward the chitin source or grow toward it; adhesion to chitin;secretion of extracellular chitin-degrading enzymes; and uptake of chitin oligosac-charides (Keyhani and Roseman 1999 ; Li and Roseman 2004 ; Meibom et al. 2005 ).
+Bacterial chitinolysis, the main step in chitin utilization, typically consists of threeenzymatic steps, namely breaking down of crystalline chitin, hydrolyzing chitinchains into dimers, and dividing the dimers into monomers. In the extracellularenvironments, the ﬁrst two steps are usually catalyzed by three types of enzymes,
+lytic polysaccharide monooxygenases (LPMO), endo-acting non-processive chiti-
+nases, and processive chitinases. LPMOs, classi ﬁed as auxiliary activity
+(AA) families 10 and 11 in the CAZy database (Lombard et al. 2014 ), cleave
+glycosidic bonds on the surface of crystalline chitin by an oxidative reaction andintroduce oxidized ends to promote further degradation by other secreted chitinases.Chitinases are typically grouped into glycoside hydrolase families 18 and 19 (GH18and GH19). GH19 chitinases are found mostly in plants, nematodes, and somemembers of Streptomycetaceae (Ohno et al. 1996 ; Shimosaka et al. 2001 ;
+Lacombe-Harvey et al. 2018 ). The amino acid sequences of the two GH families
+share little or no similarities and their catalytic mechanisms are entirely different. Ithas been hypothesized that GH18 and GH19 chitinases have evolved separately(Fukamizo 2000 ). These chitinases are often regulated and induced by N-acet-
+ylglucosamine (GlcNAc monomer), a product of chitin hydrolysis (Bassler et al.1991 ), or chitin oligomers (GlcNAc)
+n, where n = 2 to 6 (Uchiyama et al. 2003 ).
+GlcNAc has also been reported to act as a suppressor of chitinase expression in somestrains of Streptomyces (Miyashita et al. 2000 ) and Paenibacillus (Itoh et al. 2013 ).
+After the extracellular hydrolysis of chitin polysaccharides into monomers and
+oligomers, the products are imported into the periplasm or cytoplasm of the bacteriaby ef ﬁcient uptake systems. In some bacterial strains, phosphoenolpyruvate-
+dependent phosphotransferase systems (PTS) and ATP-binding cassette(ABC) transporters are responsible for the respective uptakes of GlcNAc monomersand oligomers (Berg et al. 2007 ; Colson et al.2008 ;Świątek et al. 2012a ). In the
+cytoplasm or the periplasmic space, b-N-acetyl-hexosaminidases, usually classi ﬁed
+as GH3 or GH20, cleave the imported chitin oligomers into GlcNAc (Ito et al. 2013 ;
+Macdonald et al. 2015 ).132 T. Itoh and H. Kimoto
+Chitinolytic bacteria, such as Serratia marcescens (Vaaje-Kolstad et al. 2013 ),
+Bacillus circulans WL-12 (Watanabe et al. 1990 ),Streptomyces coelicolor A3(2)
+(Saito et al. 2007 ),Vibrio cholerae (Li and Roseman 2004 ), and Paenibacillus sp.
+(Itoh et al. 2013 ; Kusaoke et al. 2017 ), produce many chitinases for ef ﬁcient
+degradation of chitin. Nucleotide sequences of these chitinases are often almost
+completely conserved. This genetic conservation could be explained by the multiple
+gene duplication in a single cell. However, there are some bacteria that possess gene
+clusters of chitinases with unique sequences, thought to be acquired from other
+organisms via lateral gene transfer (Hunt et al. 2008 ).
+7.2 Chitin Biodegradation System of Serratia marcescens
+Serratia marcescens is one of the most ef ﬁcient bacteria for the degradation of
+chitin (Monreal and Reese 1969 ) and has been extensively studied as the model for
+bacterial chitinolysis. Serratia is a genus of rod-shaped Gram-negative bacteria
+in the family Enterobacteriaceae. Production of chitin-degrading enzymes in
+S. marcescens can be induced by the presence of chitin in the culture medium
+(Monreal and Reese 1969 ).S. marcescens strain QMB1466 produces ﬁve different
+chitinolytic enzymes (Fuchs et al. 1986 ). These enzymes are named as ChiA, ChiB,
+ChiC1, ChiC2, and CBP21; ChiA and ChiB, two processive chitinases, produce
+disaccharides from chitin chain by sliding along the chain in opposite directions,
+i.e., ChiA from the reducing end and ChiB from the nonreducing end (Horn et al.
+2006 ); ChiC1 and ChiC2, endo-acting non-processive chitinases, hydrolyze the
+chitin polymers randomly; and CBP21 is an LPMO that introduces chain breaks by
+oxidative cleavages (Vaaje-Kolstad et al. 2013 ) (Fig. 7.1). ChiC2 results from a
+posttranslational cleavage of ChiC1; the hydrolytic activity of ChiC2 is lower than
+that of ChiC1 on crystalline chitin (Suzuki et al. 1999 ). The biological function of
+Fig. 7.1 Chitinolytic enzymes of Serratia marcescens . The catalytic domains of S. marcescens
+chitinases (ChiA, ChiB, and ChiC) belong to GH18. ChiA and ChiB are processive chitinases that
+bind closely to the ends of the detached chitin chain and release (GlcNAc) 2. ChiC works as an
+endo-acting non-processive chitinase. CBP21 is an AA10 LPMO and breaks chitin chain by
+oxidative cleavages7 Bacterial Chitinase System as a Model of Chitin Biodegradation 133
+the posttranslational cleavage of ChiC1 remains unclear. These chitin-degrading
+enzymes work synergistically on chitin degradation (Suzuki et al. 2002 ). In
+the cytoplasm or the periplasmic space, N-acetyl-hexosaminidase (chitobiase)
+hydrolyzes oligosaccharides to GlcNAc. According to the CAZy database, in
+S. marcescens , all chitinases (ChiA, B, C1, and C2) belong to GH18, chitobiases
+belong to GH20, and CBP21 belongs to AA10.
+7.3 Chitin Biodegradation System of Bacillus circulans
+WL-12
+Bacillus circulans WL-12, a Gram-positive and rod-shaped cell, has been identi ﬁed
+as a chitinolytic bacterium that degrades chitin in the cell walls of yeasts and fungi
+and is known to secrete multiple polysaccharide-degrading enzymes into the culturemedia (Rombouts and Phaff 1976 ; Watanabe et al. 1990 ). When grown in the
+presence of chitin, over 10 chitinases have been detected in the supernatant of thebacterial culture (Watanabe et al. 1990 ; Alam et al. 1996 ). These chitinases are
+derived from three genes, chiA,chiC, and chiD. Their gene products, ChiA, ChiC,
+and ChiD, are multi-modular chitinases and their posttranslational cleavages pro-duce multiple chitinases in the culture supernatant. ChiA1, one of the cleavage
+products, the highest colloidal chitinase activity among others; it yields predomi-
+nantly a dimer (GlcNAc)
+2by binding to insoluble chitin. The structure of ChiA1
+contains an N-terminal GH18 catalytic domain, two ﬁbronectin type III (FnIII)
+domains, and a C-terminal carbohydrate-binding module belonging to CBM12. Thecatalytic domain of ChiA1 has a deep substrate-binding cleft. On the cleft surface,aromatic residues are linearly located and are important for crystalline chitinhydrolysis (Watanabe et al. 2003 ).
+7.4 Chitin Biodegradation System of Streptomyces species
+Bacteria in the genus Streptomyces belong to a group of high GC content,
+Gram-positive bacteria (Actinomycetes) that have an extensive chitinolytic systemsupported by multiple chitinases (Berger and Reynolds 1958 ; Saito et al. 1999 ;
+Schrempf 2001 ; Kawase et al. 2006 ; Saito et al. 2007 ). In the S. coelicolor A3(2)
+genome, 13 chitinases have been found to date; 11 of these have been classi ﬁed in
+the GH18 family of chitinases: subfamily A (Chi18aC, Chi18aD, Chi18aE, andChi18aJ), subfamily B (Chi18bA, Chi18bB, and Chi18bI), and subfamilyC (Chi18cH, Chi18cK, Chi18cL, and Chi18 cM), and two in the GH19 family ofchitinases (Chi19F and Chi19G) (Kawase et al. 2006 ). Besides chitinases,
+S. coelicolor A3(2) secretes chitosan-related enzymes, such as GH46 chitobiase
+(Ghinet et al. 2010 ), GH20 chitobiase (Saito et al. 2013 ), and CE4 chitin
+deacetylase ( Świątek et al. 2012b ). The metabolism of chitin oligosaccharides in134 T. Itoh and H. Kimoto
+S. coelicolor A3(2) is well understood ( Świątek et al. 2012a ,b) (Fig. 7.2). The
+degradation monomer product, GlcNAc, is imported and phosphorylated to
+N-acetyl-D-glucosamine-6-phosphate (GlcNAc-6P) by the PTS through the cell
+membrane. In the PTS reactions, a phosphoryl group is transferred from phos-
+phoenolpyruvate to phosphotransferase enzyme I (EI) and then the group is
+transferred from EI to histidine protein (HPr). The phosphoryl group of HPr is
+further transferred to the enzyme complex of enzyme IIA (EIIA), enzyme IIB
+(EIIB), and enzyme IIC (EIIC). GlcNAc, transported by enzyme IIC (EIIC), is
+phosphorylated to GlcNAc-6P by EIIA. Some ABC transporters, like
+NgcEFG-MsiK and DasABC-MsiK, can also transport (GlcNAc) 2dimers.
+Transported (GlcNAc) 2dimer is divided into GlcNAc monomers by b-N-
+acetyl-D-glucosaminidase (DasD) in the cytoplasm. An N-acetyl-D-glucosamine
+kinase (NagK) phosphorylates GlcNAc to GlcNAc-6P, which is then deacetylated
+to glucosamine-6-phosphate (GlcN-6P) by N-acetyl-D-glucosamine-6-phosphate
+deacetylase (NagA). Thereafter, glucosamine-6-phosphate deaminase (NagB)
+deaminates GlcN-6P to fructose-6-phosphate (Frc-6P) that would enter the gly-
+colytic pathway.
+Fig. 7.2 Chitin uptake by Streptomyces species. Chitin is hydrolyzed into GlcNAc and
+(GlcNAc) 2by GH18 and GH19 chitinases in the extracellular space. The degradation product,
+GlcNAc, is transported through PTS across the cell membrane and is phosphorylated to
+GlcNAc-6P by the PTS. An ABC transporter, NgcEFG-MsiK can import GlcNAc and (GlcNAc) 2.
+Another ABC transporter, DasABC-MsiK, can also import (GlcNAc) 2. Imported (GlcNAc) 2is
+hydrolyzed into GlcNAc by chitobiase (DasD). GlcNAc is phosphorylated to GlcNAc-6P by
+GlcNAc kinase (NagK). GlcNAc-6P deacetylase (NagA) converts GlcNAc-6P to GlcN-6P, which
+is then deaminated to Frc-6P by GlcN-6P deaminase (NagB). Frc-6P would enter the glycolytic
+pathway7 Bacterial Chitinase System as a Model of Chitin Biodegradation 135
+7.5 Chitin Biodegradation System of Marine Bacteria
+Vibrio species
+Despite being a ubiquitous biopolymer, chitin is not known to accumulate in ocean
+sediments; marine chitinolytic bacteria, mainly from the family Vibrionaceae,
+contribute to the rapid recycling of chitin (Hirono et al. 1998 ). Chitinolytic and
+signal transduction systems of Vibrio species have been widely studied. The system
+constitutes ﬁve processes: ﬁnding chitin (chemotaxis); adhering to chitin via the
+bacterial cell surface; degrading chitin to oligosaccharides; transporting the
+degraded oligosaccharides to the cytoplasm by a sugar-speci ﬁc porin (chitoporin)
+on the outer membrane and by a sugar-speci ﬁc ABC transporter on the inner
+membrane; and converting the degradation products to Frc-6P in the cytosol for the
+glycolytic pathway (Keyhani and Roseman 1999 ; Li and Roseman 2004 ; Meibom
+et al. 2004 ; Hunt et al. 2008 ). Inducing chitinolytic enzymes of Vibrio species is
+intricately regulated by histidine kinases and two-component systems. In the resting
+state, a binding protein for chitin oligosaccharides (CBP) binds to the periplasmic
+domain of the membrane protein ChiS. When secreted chitinases degrade chitin to
+oligosaccharides in the extracellular space, the oligosaccharides are transported by
+the chitoporin and are bound by the CBP. In the binding state, the CBP/ChiS
+complex dissociates and transports the signal to express the chitinolytic genes
+(Fig. 7.3). The domain of ChiS in the cytoplasmic space is composed of three
+subdomains: the ATP-dependent His kinase/phosphatase (HK) domain; the Asp
+response regulator (RR) domain; and the histidine phosphotransfer (HP) domain.
+Fig. 7.3 Induction of chitinolytic enzymes of Vibrio species. The induction is regulated by a
+histidine kinase and a two-component system (ChiS). In the resting state, chitin-binding protein
+(CBP) binds to the periplasmic domain of the membrane protein ChiS. When the oligosaccharides
+bind to CBP, the CBP/ChiS complex dissociates and transports the signal for the expression of
+chitin-degrading enzymes136 T. Itoh and H. Kimoto
+The phosphoryl group is transferred sequentially from ATP to HK, to RR, to HP,
+andﬁnally to Asp on a response regulator that interacts with the genome to induce
+the expression of chitinolytic enzymes (Li and Roseman 2004 ).
+7.6 Chitin Biodegradation Systems of Paenibacillus
+sp. str. IK-5 and FPU-7
+Similar to the Streptomyces species, Paenibacillus sp. str. IK-5 produces a chi-
+tosanase (ChiE) and a GH19 chitinase (ChiD) in addition to two GH18 chitinases
+(ChiA and ChiB) and an AA10 LPMO (ChiC) (Kusaoke et al. 2017 ; Fig. 7.4). The
+two chitinases (ChiA and ChiB) contain one GH18 catalytic domain and two
+CBM5 chitin-binding modules. The AA10 LPMO (ChiC) also has a CBM5 module
+in addition to the catalytic domain. The chitinase ChiD has a GH19 catalytic
+domain. Chitosanase (ChiE) contains a GH8 catalytic domain at the N-terminus and
+two discoidin domains (CBM32) at the C-terminus. The CBM32 domains of ChiE
+can bind speci ﬁcally and tightly to chitosan. These ﬁve enzymes (ChiA, ChiB,
+ChiC, ChiD, and ChiE) form a huge protein complex called a “chitinasome ”. When
+the culture medium contains only chitin, the complex consists of four enzymes
+(ChiA, ChiB, ChiC, and ChiD); when the culture medium contains both chitin and
+chitosan, the complex comprises all ﬁve enzymes. Paenibacillus sp. str. IK-5 cells
+also produce multi-modular chitobiase composed of the GH20 catalytic domain and
+S-layer homology domains (SLH) on their surface.
+Fig. 7.4 Schematic representations of the P. str. IK-5 chitin and chitosan degrading enzymes. The
+enzymes (ChiA, ChiB, ChiC, ChiD, and ChiE) are produced by P. str. IK-5 and have signal
+peptides for secretion at the N-terminus. ChiA and ChiB are GH18 chitinases with catalytic
+domains at the N-terminus and two CBM 5 domains at the C-terminus. ChiC has an AA10
+catalytic domain as LPMO and a CBM5 at the C-terminus. The catalytic domain of ChiD belongs
+to GH19. Chitosanase ChiE contains a GH8 catalytic domain at the N-terminus and two CBM32 at
+the C-terminus. These chitin and chitosan-related enzymes (ChiA, ChiB, ChiC, ChiD, and ChiE)
+are found as a huge protein complex (chitinasome). When the culture medium contains chitin and
+chitosan, ChiE is assembled into four enzyme complexes (ChiA, ChiB, ChiC, and ChiD)7 Bacterial Chitinase System as a Model of Chitin Biodegradation 137
+Paenibacillus sp. str. FPU-7 ( P. str. FPU-7), a bacterium with high chitinolytic
+activity, was recently isolated from soil using a medium containing solid chitinﬂakes (Itoh et al. 2013 ). Subject to carbon catabolite repression by GlcNAc, the
+bacterium constitutively secretes several chitinases into the culture medium. Genes
+for at least six chitinases (ChiA, ChiB, ChiC, ChiD, ChiE, and ChiF) are found in
+the genome, each containing a GH18 catalytic domain and one or more auxiliarydomains, such as CBM5, CBM12, and FnIII. On a synthetic substrate, pNP-(GlcNAc)
+2, ChiE shows high activity; ChiA, ChiD, and ChiF are less active; ChiB
+and ChiC are moderately active. All the chitinases, except ChiD, are highly activeon insoluble colloidal chitin. Ef ﬁcient degradation of chitin ﬂakes by P. str. FPU-7
+requires not only the chitinase secretions in the culture medium, but also the livingcells, suggesting an involvement of cell-bound chitinase(s). Apart from the six
+chitinases extensively studied in its genome, chitinase ChiW is expressed on the
+cell surface of P.str. FPU-7 in the presence of (GlcNAc)
+2. ChiW produces
+(GlcNAc) 2as the ﬁnal reaction product on the cell surface. The product (GlcNAc) 2
+would then be transported into the cytosol by some transporters and induce the
+chitin-related gene expression such as ChiW.
+7.7 Overview of Bacterial GH18 Chitinases
+Chitinolytic bacteria secrete multiple chitinases as described above. Some bacterialchitinases can be active over a range of temperatures and pH (Meena et al. 2014 ;
+Rathore and Gupta 2015 ) and, thus, these enzymes are used in many industrial
+processes. Some of these enzymes also have antifungal and antibacterial propertiesand are used as biocontrol agents against many plant pathogenic fungi and insects,since chitin is a major constituent of fungal cell walls and insect cuticles
+(Bhattacharya et al. 2007 ; Rathore and Gupta 2015 ).
+These bacterial chitinases are typically classi ﬁed in the GH18 and GH19 families;
+as described above, bacterial chitinolysis is mainly carried out by GH18 chitinases.Based on their amino acid sequences, bacterial GH18 chitinases can be separated intothree subfamilies, A, B, and C (Li and Greene 2010 ). Subfamily A chitinases have a
+small subdomain, chitin insertion domain (CID), in the TIM-barrel. CID is absent inthe chitinases belonging to subfamilies B and C. Bacterial GH18 chitinases areusually multi-modular. For example, in S.marcescens , in addition to the catalytic
+domains, ChiA (SmChiA) contains an N-terminal FnIII domain; SmChiB contains a
+CBM5 at the C-terminus; SmChiC contains a FnIII domain and CBM12 at theC-terminus (Vaaje-Kolstad et al. 2013 ). Similarly, B.circulans WL-12 ChiA1
+(BcChiA1) contains two FnIII and CBM12 domains at the C-terminus (Watanabeet al. 2003 ). Considering the enzymatic reaction modes, GH18 chitinases are clas-
+siﬁed into two types: processive chitinases and endo-acting non-processive chiti-
+nases. These chitin-degrading enzymes synergistically operate on the polymers. First,non-processive chitinases and LPMO break the glycosidic bond of surface-bound138 T. Itoh and H. Kimoto
+crystalline chitin. Then, the newly produced terminuses of the detached chains from
+the solid surface become the sites for the attachment of processive chitinases.
+Many crystal structures of bacterial GH18 chitinases are available on the Protein
+Data Bank. The typical catalytic domain of GH18 chitinase folds a TIM-barrel
+consisting of a substrate-binding cleft (Perrakis et al. 1994 ). GH18 chitinases
+hydrolyze chitin through a substrate-assisted mechanism that retains the stereo-
+chemistry of the anomeric carbon of the newly synthesized reducing end (Tews et al.
+1997 ; Brameld and Goddard 1998 ; van Aalten et al. 2001 ) (Fig. 7.5). The catalytic
+residues are in a conserved DxDxE motif located on fourth b-strand of the core
+barrel. The catalysis is initiated with a distortion into a boat (or skewed boat)
+conformation of the GlcNAc residue at the -1 subsite. Substrate binding leads the
+rotation of a second aspartic acid residue of the DxDxE motif from the ﬁrst aspartic
+acid to the catalytic glutamic acid of the DxDxE motif. The second aspartic acid
+residue then forms hydrogen bonds with the glutamic acid and the N-acetyl group of
+GlcNAc at the -1 subsite. The catalytic glutamic acid protonates the glycosidic bond
+followed by a nucleophilic attack on the anomeric carbon by the oxygen atom of the
+N-acetyl group. After the scission of the glycosidic bond, an oxazolinium ion
+intermediate is formed and subsequently hydrolyzed to complete the reaction. Other
+Fig. 7.5 Substrate-assisted catalytic mechanism of GH18 chitinase. The catalysis is initiated
+when the GlcNAc residue at the -1 subsite is distorted into a boat conformation. The catalytic
+glutamic acid protonates the glycosidic bond. This is followed by a nucleophilic attack on the
+anomeric carbon by the oxygen atom of N-acetyl group of the substrate GlcNAc at the -1 subsite.
+After the scission of the glycosidic bond, an oxazolinium ion intermediate is formed and is
+subsequently hydrolyzed7 Bacterial Chitinase System as a Model of Chitin Biodegradation 139
+conserved residues, tyrosine, and aspartic acid (or asparagine), interact with GlcNAc
+residues at the subsite −1 and thus, serve as important residues for catalysis.
+Chitooligosaccharides (CHOS) produced by the hydrolysis of chitin have
+potential biological applications in the food, medicine, and agriculture sectors.
+Depending on the length and pattern of acetylation, CHOS exhibit antimicrobial,
+antitumor, and immuno-enhancing properties (Mallakuntla et al. 2017 ). Since the
+chemical synthesis of CHOS involves nonspeci ﬁc random hydrolysis, controlling
+the length of the product is very dif ﬁcult. Besides hydrolytic activities, some GH18
+chitinases exhibit transglycosylation (TG) activities. The enzymes can condensateother saccharide molecules without a water molecule as an acceptor, with the oxa-zolinium ion intermediate as a donor (Umemoto et al. 2015 ). TG activities, focusing
+on the enzymatic production of longer CHOS from shorter oligosaccharides, have
+received considerable attention. TG activities of GH18 are improved by mutagen-
+esis. Mutations on speci ﬁc sites can reduce the hydrolytic activities and optimize the
+subsite af ﬁnities and/or stability of the oxazolium ion intermediate. Mutations of
+aspartates in the DXDXE sequence motif affect the stability of the oxazolium ionintermediate and reduce hydrolytic activities. As a result, these mutant enzymesexhibit improved TG activities. Mutations of aromatic residues in the minus subsite(donor site), such as W167A in the −3 subsite of SmChiA; Y163A and Y390F in the
+-1 subsite of SmChiA; and Y28A and Y222A in the −1 subsite of Serratia pro-
+teamaculans ChiD (SpChiD), are known to enhance the TG activities of the
+enzymes. In contrast to the minus subsite (donor site), introducing aromatic sidechains and increasing hydrophobicity at the +1 and +2 subsite surfaces, such asY226W of SpChiD, also improve the TG activities (Madhuprakash et al. 2018 ).
+7.8 Structure and Function of GH18 Processive Chitinases
+The GH18 processive chitinases bind single polymer chains detached from the
+crystalline chitin in the long tunnels or deep clefts of the TIM-barrel, hydrolyzeglycosidic bonds along the same chain, and release disaccharides (GlcNAc)
+2, before
+dissociation from the chain (Vaaje-Kolstad et al. 2013 ). Processive chitinases often
+have a subdomain, CID, as described previously. The CID is composed of ﬁve or
+six antiparallel b-strands and a a-helix. The CID forms a wall alongside the
+substrate-binding cleft by inserting itself between the seventh and eighth b-strand of
+the core barrel. It has been suggested that the CID interacts with the substrate
+through four conserved amino acid residues (Li and Greene 2010 ). Besides the TIM
+domain and the CID, processive chitinases, such as SmChiA, SmChiB, andBcChiA1, contain one or two additional domains. (Fig. 7.6a, b, d). Removal of
+these extra domains reduces the biological activities of the crystalline forms ofchitin. Aromatic residues such as tryptophan that are localized in thesubstrate-binding clefts function as ﬂexible hydrophobic sheaths for binding of the
+polymer chain and thereby, improve the processivity of the chitin. The polymer
+chain can slide during the processive action in the sheath. The W97A mutation at140 T. Itoh and H. Kimoto
+the subsite +1 of SmChiB reduces the processivity and the degradation activity for
+crystalline chitin. However, W97A mutation also causes a 29-fold increase in thedegradation rate of single chains (Hamre et al. 2014 ). The processivity seems to be
+counterbalanced by the catalytic ef ﬁciency of the reaction. On the other hand,
+Watanabe et al. reported that the W433 and Y279 mutants of BcChiA1 exhibitedreduced hydrolytic activity against crystalline chitin, colloidal chitin, and(GlcNAc)
+5(Watanabe et al. 2001 ,2003 ). The W433 residue interacts with GlcNAc
+at subsite −1 through a hydrophobic stacking interaction and holds the residue at
+this position during the catalytic reaction. The Y279 residue assists the formation of
+an oxazolinium ion intermediate. In addition to the amino acid residues in thesubstrate-binding cleft, there are two extra tryptophan residues, W122 and W134,on the surface of BcChiA1. These tryptophan residues are located at the extensionof the nonreducing end side of the substrate. Mutations at both these sites reduce the
+Fig. 7.6 Three-dimensional structures of bacterial GH18 chitinases. aSmChiA has a FnIII
+domain ( b-sandwich) at the N-terminus, except for the GH18 catalytic domain (TIM-barrel).
+GH18 of SmChiA has one additional domain, CID, protruding from the core barrel. bSmChiB has
+a CBM5 domain at the C-terminus, except for the GH18 catalytic domain. GH18 of SmChiB also
+has a CID. cThe GH18 catalytic domain of SmChiC. Although SmChiC has FnIII and CBM12
+domains at the C-terminus, the crystal structure was determined without these auxiliary domains.
+dThe GH18 catalytic domain of BcChiA1. Auxiliary domains of BcChiA1, such as two FnIII and
+CBM12 domains, are absent in the crystal structure. GH18 of BcChiA1 also has a CID7 Bacterial Chitinase System as a Model of Chitin Biodegradation 141
+hydrolyzing activity against highly crystalline b-chitin micro ﬁbrils (Watanabe et al.
+2003 ). The direction of the sliding action of processive chitinases differs in each
+enzyme. For instance, SmChiA cleaves disaccharides from the reducing end ofchitin, while SmChiB does so from the nonreducing end (Hult et al. 2005 ; Horn
+et al. 2006 ; Sikorski et al. 2006 ).
+7.9 Structure and Function of GH18 Non-processive
+Endo-Chitinases
+The GH18 endo-acting non-processive chitinases have a tendency to randomly
+hydrolyze glycosidic linkages in disordered (or amorphous) regions of crystalline
+chitin (Payne et al. 2012 ). The processive chitinases have closed tunnels or deep
+clefts with highly conserved aromatic residues, in particular, tryptophan residues,that interact with the ligand for the processive action (described above in 7.8). Incontrast, the endo-acting non-processive chitinases exhibit open (or shallow) cleftslacking the CID subdomain and have a few aromatic amino acids on the cleftsurfaces. Both the processive chitinases and the endo-acting non-processive chiti-nases are often multi-modular. For instance, SmChiC has two extra domains,CBM12 (for chitin binding) and FnIII domain (Fig. 7.6c). These CBMs of the
+non-processive enzymes may loosely associate with the substrate for assisting the
+activity of the endo-acting non-processive enzymes.
+7.10 Structure and Function of the Carbohydrate-Binding
+Modules of GH18 Chitinases
+In addition to the catalytic domain, bacterial GH18 chitinases often contain single
+or multiple CBMs or FnIII domains, as described above. These extra domains can
+be found either in the N-terminal or in the C-terminal of the enzyme (Fig. 7.6).
+The structures and functions of the CBMs responsible for binding crystallinepolysaccharides, such as chitin and cellulose, are well studied (Boraston 2005 ;
+Georgelis, et al. 2012 ). Although their contribution to the ef ﬁciency of catalysis is
+not yet completely understood, CBMs associate with the crystalline polysaccharidesubstrates and position them correctly to the catalytic domains. The four types ofroles that CBMs have in chitinolysis include: (a) targeting effect, where CBMs
+target the enzymes to appropriate regions on their substrates (reducing end,
+nonreducing end, or internal of polysaccharide chains); (b) proximity effect, whereCBMs increase the concentrations of the enzymes in close proximity to theirsubstrates and lead the catalytic domains to ef ﬁciently act on their substrates;
+(c) disruptive effect, where some CBMs bind to polysaccharides and disrupt thesurface of tightly packed chains, thereby, loosening and exposing the packedsubstrates to be attacked by their catalytic domains; and (d) adhesion, where some142 T. Itoh and H. Kimoto
+CBMs have functions to adhere enzymes onto the surfaces of bacterial cell walls.
+The catalytic domains break the neighboring substrate polymer chains. Cell wallsare complex structures; thus, the binding targets of CBMs are not always theintrinsic substrate polysaccharides for their catalytic domains. Some CBMs have
+broad speci ﬁcity for various polysaccharides in the cell walls.
+The CBM5 and CBM12 modules consist of 40 –60 residues and are often found
+in GH18 chitinases (Fig. 7.6). Both the families have similar amino acid sequences
+and have conserved aromatic tryptophan residues that interact with the substrate onthe protein surface. The presence of either of these modules increases the substrateafﬁnity and the ef ﬁciency of chitin hydrolysis, especially for crystalline chitin
+(Watanabe et al. 1994 ; Hashimoto et al. 2000 ; Uni et al. 2012 ).
+All the FnIIIs domains consist of 80 –100 residues and share amino acid
+sequence similarities. Each FnIII domain folds into a typical immunoglobulin-like
+(b-sandwich) fold with three and four strands (Fig. 7.6a). The FnIII of SmChiA
+(also referred to as chitinase A N-terminal domain) contains exposed aromaticresidues responsible for substrate binding, thereby, improving the catalytic ef ﬁ-
+ciency of the enzyme (Uchiyama et al. 2001 ). In contrast, the FnIII domain of
+BcChiA1 does not have surface-exposed aromatic residues and is not directlyinvolved in the chitin binding (Jee et al. 2002 ). Studies suggest that the latter types
+of FnIII domains serve as linker domains for the adequate stabilization of other
+domains or of the overall structure of the enzyme for a competent degradation.
+7.11 Cell Surface-Expressed Multi-modular Chitinase
+ChiW from Paenibacillus sp. FPU-7
+The Gram-positive bacterium P. str. FPU-7 effectively hydrolyzes chitin with
+several secreted chitinases, as described above. This bacterium produces a unique
+chitinase, ChiW that has two catalytic domains. This multi-modular enzyme is
+expressed on the cell surface and has a high activity toward various chitins,including crystalline chitins (Itoh et al. 2013 ,2014 ,2016 ). The cell surface-
+expressed enzyme, ChiW, enhances chitin degradation when it acts in combinationwith other secreted chitinases of P. FPU-7 (Itoh et al. 2013 ). ChiW contains 1,418
+amino acids with a secretory signal peptide (150 kDa). The unique multi-modulararchitecture of ChiW allows it to function ef ﬁciently on the cell surface via three
+surface layer homology domains (SLH), a right-handed b-helix domain (CBM54), a
+Gly-Ser-rich loop, two immunoglobulin-like fold domains (Ig-1 and Ig-2), and two
+GH18 catalytic domains (Figs. 7.7and7.8).
+The SLH domains are absent in the ChiW crystal structure. Typical SLH
+domains are composed of three repeats of highly conserved amino acid sequences(*18 kDa) and bind noncovalently to glycan backbones of the peptidoglycan of
+Gram-positive bacteria. Thus, the cell wall is surrounded by proteins congregatedwith SLH domains as a cell envelope or surface layer (Schneewind and Missiakas2012 ).7 Bacterial Chitinase System as a Model of Chitin Biodegradation 143
+The CBM54 ﬂexibly links to the catalytic region (two Ig-like domains and two
+GH18 domains) of ChiW via the Gly-Ser-rich loop. The structure of CBM54consists of a right-handed parallel b-helix fold with 12 coils (Fig. 7.8a). There are
+34b-strands that form 3 parallel b-sheets, named SB1 (made of 12 b-strands), SB2
+(made of 12 b-strands), and SB3 (made of 10 b-strands), making 3 distorted faces.
+Although this fold is often found in enzymes such as carbohydrate lyases, CBM54of ChiW displays no detectable carbohydrate degradation activities. The domainpossesses diverse substrate speci ﬁcities and can therefore, bind to several cell wall
+polysaccharides, including chitin, chitosan, b-1,3-glucan, xylan, and cellulose. This
+domain putatively helps in an ef ﬁcient decomposition of the cell wall chitin through
+the contact surface. However, the molecular surface of CBM54 has no distinct cleftor patch surrounded by aromatic residues.
+The two GH18 catalytic domains of ChiW have similar structures, consistent
+with their high degree of amino acid sequence similarity (56% identity) (Fig. 7.8d
+and e). The structures of the catalytic clefts of the two domains are also similar.Besides the core TIM-barrels, both have two additional subdomains, CID and
+insertion domain 2; the two subdomains protrude from the barrel and form the walls
+of a deep active cleft of approximately 42 Åin length and 26 Åin depth. The amino
+acid residues at the center of the two active sites are almost identical and wellconserved in other processive GH18 chitinases. Important residues of SmChiA forsaccharide binding, Trp167 at the −3 subsite, Trp539 at the −1 subsite, Trp275 at
+Fig. 7.7 Overall structure of P. str. FPU-7 ChiW. The structure is multi-modular with a CBM54
+domain and a catalytic region (Ig-1, Ig-2, and two GH18 domains). ChiW is speci ﬁcally cleaved
+between Asn282 and Ser283 at the CBM54 domain. The position is pointed out as the cleavage
+site. SLH domains are absent in the crystal structure144 T. Itoh and H. Kimoto
+the +1 subsite, and Phe396 at the +2 subsite, correspond to the ChiW residues
+Trp568/Trp1055, Trp905/Trp1396, Trp652/Trp1138, and Trp772/Trp1258,respectively. The catalytic residues of SmChiA, Tyr390, Asp311, Asp313, andGlu315 correspond to Tyr766/Tyr1252, Asp687/Asp1173, Asp689/Asp1175, andGlu691/Glu1177, respectively. These conserved residues indicate that ChiW pos-sesses a catalytic mechanism that is similar to that of SmChiA and other typicalprocessive chitinases. In the processive chitinases, CBMs or FnIII domains often
+Fig. 7.8 Close-up views of the individual domain of ChiW. aThe CBM54 domain has a
+right-handed parallel b-helix structure with 12 coils. bThe Ig-1 structure is an eight-stranded
+b-sandwich with two four-stranded antiparallel b-sheets. cThe Ig-2 structure is a seven-stranded
+b-sandwich with two antiparallel b-sheets composed of three and four b-strands. d,eThe
+structures of the two GH18 catalytic domains. The two GH18 catalytic domains have similarstructures; besides the core TIM-barrel, they have additional two subdomains, a CID and aninsertion domain 2. The two subdomains protrude from the barrel and form the walls of a deep
+active cleft7 Bacterial Chitinase System as a Model of Chitin Biodegradation 145
+locate along their catalytic domains and assist in the processive degradation of one
+chitin chain (Fig. 7.6). For example, SmChiA has one FnIII domain that forms a
+minus subsite, which leads to enzymatic degradation of chitin from the reducingends with the production of (GlcNAc)
+2residues (Fig. 7.6a), whereas SmChiB, with
+a CBM5 on the opposite side forms a plus subsite, degrades the polymer from the
+nonreducing ends and also produces (GlcNAc) 2residues (Fig. 7.6b). However,
+ChiW catalytic domains have neither such FnIII domain nor CBM, they insteadhave two Ig-like fold domains (Ig-1 and Ig-2). The Ig-1 structure is composed of aneight-stranded b-sandwich fold containing two four-stranded antiparallel b-sheets
+closely stacked upon each other (Fig. 7.8b). The structure of Ig-2 is a
+seven-stranded b-sandwich with two antiparallel b-sheets composed of three and
+fourb-strands (Fig. 7.8c). Aromatic residues are located on the surface of the two
+Ig-like fold domains, i.e., Tyr486, Tyr537, and Phe556 on the surface of Ig-1;
+Tyr939, Tyr948, Tyr1000, and Phe1044 on the surface of Ig-2. The Ig-1 and Ig-2domains might be functional substitutions of CBM. However, the two Ig-likedomains are too distal from the catalytic clefts to function as a CBM; they mightserve as linkers or scaffolds for the two catalytic domains (Fig. 7.7). The
+substrate-binding sites of ChiW, surrounded by aromatic residues, are shorter inlength to those of SmChiA. Possibly, the lack of a general CBM and the short activeclefts allow ChiW to transfer from chain to chain with low processivity on the cell
+surface.
+Although ChiW is a monomer, the enzyme is cleaved between Asn282 and
+Ser283 at CBM54 by self-splicing (Fig. 7.7). The trigger for this self-splicing
+remains unresolved. The location of this cleavage site is on the SB2 face and infront of the 11th b-strand at the fourth coil from the N-terminus of CBM54. The
+2 polypeptides bind tightly to each other with 13 hydrogen bonds between the thirdand fourth coils and they retain the b-helix fold. At the cleavage site, there are four
+highly conserved amino acid residues, Ser283, His285, Asp262, and Arg304. In
+addition to these residues, there are successive glycine residues near the site, pre-
+sumably providing conformational ﬂexibility to the cleavage site. This limited
+proteolysis occurs using the hydroxyl group of Ser283 as a nucleophile. The aminoacid residues of this cleavage site, Asn-Ser, have been found in various self-splicingproteins (Clarke 1994 ; Hall et al. 1997 ).
+On the other hand, chitinases with two GH18 catalytic domains have been found
+in viruses, archaea, bacteria, and insects (Hiramatsu et al. 2000 ; Tanaka et al. 2001 ;
+Howard et al. 2004 ; Arakane and Muthukrishnan 2010 ). Chitinase, Tk-ChiA, from
+the hyperthermophilic archaeon Thermococcus kodakaraensis KOD1 (Tanaka et al.
+2001 ) and chitinase B from Microbulbifer degradans 2–40 (Howard et al. 2004 )
+have an exo-chitinase at the N-terminus and an endo-chitinase at the C-terminus. Insome chitinases, the two catalytic domains work synergistically, because theircombined activities exhibit a signi ﬁcantly higher chitinolysis than the sum of their
+individual activities. The two clefts of ChiW are adequately positioned by the twoIg-like domains and cross each other at approximately right angles. This uniquespatial arrangement may be important for the ef ﬁcient degradation of chitin on the
+cell surface.146 T. Itoh and H. Kimoto
+References
+Alam MM, Mizutani T, Isono M, Nikaidou N, Watanabe T (1996) Three chitinase genes (chiA,
+chiC, and chiD) comprise the chitinase system of Bacillus circulans WL-12. J Ferment Bioeng
+82:28 –36
+Andronopoulou E, Vorgias CE (2004) Multiple components and induction mechanism of the
+chitinolytic system of the hyperthermophilic archaeon Thermococcus chitonophagus . Appl
+Microbiol Biotechnol 65:694 –702
+Arakane Y, Muthukrishnan S (2010) Insect chitinase and chitinase-like proteins. Cell Mol Life Sci
+67:201 –216
+Attwood MM, Zola H (1967) The association between chitin and protein in some chitinous tissues.
+Comp Biochem Physiol 20:993 –998
+Austin PR, Brine CJ, Castle JE, Zikakis JP (1981) Chitin: New facets of research. Science
+212:749 –753
+Berger LR, Reynolds DM (1958) The chitinase system of a strain of Streptomyces griseus .
+Biochim Biophys Acta 29:522 –534
+Bassler BL, Yu C, Lee YC, Roseman S (1991) Chitin utilization by marine bacteria. Degradation
+and catabolism of chitin oligosaccharides by Vibrio furnissii . J Biol Chem 266:24276 –24286
+Berg T, Schild S, Reidl J (2007) Regulation of the chitobiose-phosphotransferase system in Vibrio
+cholerae . Arch Microbiol 187:433 –439
+Bhattacharya D, Nagpure A, Gupta RK (2007) Bacterial chitinases: properties and potential. Crit
+Rev Biotechnol 27:21 –28
+Boraston AB (2005) The interaction of carbohydrate-binding modules with insoluble
+non-crystalline cellulose is enthalpically driven. Biochem J 385:479 –484
+Brameld KA, Goddard WA (1998) Substrate distortion to a boat conformation at subsite -1 is
+critical in the mechanism of family 18 chitinases. J Am Chem Soc 120:3571 –3580
+Clarke ND (1994) A proposed mechanism for the self-splicing of proteins. Proc Natl Acad
+Sci USA 91:11084 –11088
+Colson S, van Wezel GP, Craig M, Noens EE, Nothaft H, Mommaas AM, Titgemeyer F, Joris B,
+Rigali S (2008) The chitobiose-binding protein, DasA, acts as a link between chitin utilization
+and morphogenesis in Streptomyces coelicolor . Microbiology 154:373 –382
+Fuchs RL, McPherson SA, Drahos DJ (1986) Cloning of a Serratia marcescens gene encoding
+chitinase. Appl Environ Microbiol 51:504 –509
+Fukamizo T (2000) Chitinolytic enzymes: catalysis, substrate binding, and their application. Curr
+Protein Pept Sci 1:105 –124
+Georgelis N, Yennawar NH, Cosgrove DJ (2012) Structural basis for entropy-driven cellulose
+binding by a type-A cellulose-binding module (CBM) and bacterial expansin. Proc Natl Acad
+Sci USA 109:14830 –14835
+Ghinet MG, Roy S, Poulin-Laprade D, Lacombe-Harvey M È, Morosoli R, Brzezinski R (2010)
+Chitosanase from Streptomyces coelicolor A3(2): biochemical properties and role in protection
+against antibacterial effect of chitosan. Biochem Cell Biol 88:907 –916
+Gooday GW (1990a) The ecology of chitin degradation. Adv Mibrob Ecol 11:387 –430
+Gooday GW (1990b) Physiology of microbial degradation of chitin and chitosan. Biodegradation
+1:177 –190
+Grover A (2012) Plant chitinases: genetic diversity and physiological roles. Crit Rev Plant Sci
+31:57 –73
+Hall TM, Porter JA, Young KE, Koonin EV, Beachy PA, Leahy DJ (1997) Crystal structure of a
+Hedgehog autoprocessing domain: homology between Hedgehog and self-splicing proteins.
+Cell 91:85 –97
+Hamre AG, Lorentzen SB, V äljamäeP ,S ørlie M (2014) Enzyme processivity changes with the
+extent of recalcitrant polysaccharide degradation. FEBS Lett 588:4620 –46247 Bacterial Chitinase System as a Model of Chitin Biodegradation 147
+Hashimoto M, Ikegami T, Seino S, Ohuchi N, Fukada H, Sugiyama J, Shirakawa M, Watanabe T
+(2000) Expression and characterization of the chitin-binding domain of chitinase A1 from
+Bacillus circulans WL-12. J Bacteriol 182:3045 –3054
+Hiramatsu S, Fujie M, Usami S, Sakai K, Yamada T (2000) Two catalytic domains of Chlorella
+virus CVK2 chitinase. J Biosci Bioeng 89:252 –257
+Hirono I, Yamashita M, Aoki T (1998) Note: Molecular cloning of chitinasegenes from Vibrio
+anguillarum andV. parahaemolyticus . J Appl Microbiol 84:1175 –1178
+Horn SJ, S ørbotten A, Synstad B, Sikorski P, S ørlie M, V årum KM, Eijsink VG (2006) Endo/exo
+mechanism and processivity of family 18 chitinases produced by Serratia marcescens . FEBS J
+273:491 –503
+Howard MB, Ekborg NA, Taylor LE 2nd, Weiner RM, Hutcheson SW (2004) Chitinase B of
+Microbulbifer degradans 2-40 contains two catalytic domains with different chitinolytic
+activities. J Bacteriol 186:1297 –1303
+Hult EL, Katouno F, Uchiyama T, Watanabe T, Sugiyama J (2005) Molecular directionality in
+crystalline beta-chitin: hydrolysis by chitinases A and B from Serratia marcescens 2170.
+Biochem J 388:851 –856
+Hunt DE, Gevers D, Vahora NM, Polz MF (2008) Conservation of the chitin utilization pathway in
+the Vibrionaceae. Appl Environ Microbiol 74:44 –51
+Ito T, Katayama T, Hattie M, Sakurama H, Wada J, Suzuki R, Ashida H, Wakagi T, Yamamoto K,
+Stubbs KA, Fushinobu S (2013) Crystal structures of a glycoside hydrolase family 20 lacto- N-
+biosidase from Biﬁdobacterium bi ﬁdum. J Biol Chem 288:11795 –11806
+Itoh T, Hibi T, Fujii Y, Sugimoto I, Fujiwara A, Suzuki F, Iwasaki Y, Kim JK, Taketo A,
+Kimoto H (2013) Cooperative degradation of chitin by extracellular and cell surface-expressed
+chitinases from Paenibacillus sp. strain FPU-7. Appl Environ Microbiol 79:7482 –7490
+Itoh T, Hibi T, Suzuki F, Sugimoto I, Fujiwara A, Inaka K, Tanaka H, Ohta K, Fujii Y, Taketo A,
+Kimoto H (2016) Crystal structure of chitinase ChiW from Paenibacillus sp. str. FPU-7 reveals
+a novel type of bacterial cell-surface-expressed multi-modular enzyme machinery. PLoS ONE
+11:e0167310
+Itoh T, Sugimoto I, Hibi T, Suzuki F, Matsuo K, Fujii Y, Taketo A, Kimoto H (2014)
+Overexpression, puri ﬁcation, and characterization of Paenibacillus cell surface-expressed
+chitinase ChiW with two catalytic domains. Biosci Biotechnol Biochem 78:624 –634
+Jee JG, Ikegami T, Hashimoto M, Kawabata T, Ikeguchi M, Watanabe T, Shirakawa M (2002)
+Solution structure of the ﬁbronectin type III domain from Bacillus circulans WL-12 chitinase
+A1. J Biol Chem 277:1388 –1397
+Kawase T, Yokokawa S, Saito A, Fujii T, Nikaidou N, Miyashita K, Watanabe T (2006)
+Comparison of enzymatic and antifungal properties between family 18 and 19 chitinases from
+S. coelicolor A3(2). Biosci Biotechnol Biochem 70:988 –998
+Keyhani NO, Roseman S (1999) Physiological aspects of chitin catabolism in marine bacteria.
+Biochim Biophys Acta 1473:108 –122
+Kitaoku Y, Fukamizo T, Numata T, Ohnuma T (2017) Chitin oligosaccharide binding to the lysin
+motif of a novel type of chitinase from the multicellular green alga, Volvox carteri . Plant Mol
+Biol 93:97 –108
+Kusaoke H, Shinya S, Fukamizo T, Kimoto H (2017) Biochemical and biotechnological trends in
+chitin, chitosan, and related enzymes produced by Paenibacillus IK-5 Strain. Int J Biol
+Macromol 104:1633 –1640
+Lacombe-Harvey M È, Brzezinski R, Beaulieu C (2018) Chitinolytic functions in actinobacteria:
+ecology, enzymes, and evolution. Appl Microbiol Biotechnol
+Li H, Greene LH (2010) Sequence and structural analysis of the chitinase insertion domain reveals
+two conserved motifs involved in chitin-binding. PLoS ONE 5:e8654
+Li X, Roseman S (2004) The chitinolytic cascade in Vibrios is regulated by chitin oligosaccharides
+and a two-component chitin catabolic sensor/kinase. Proc Natl Acad Sci USA 101:627 –631
+Lombard V, Golaconda Ramulu H, Drula E, Coutinho PM, Henrissat B (2014) The
+Carbohydrate-active enzymes database (CAZy) in 2013. Nucleic Acids Res 42:D490 –D495148 T. Itoh and H. Kimoto
+Macdonald SS, Blaukopf M, Withers SG (2015) N-Acetylglucosaminidases from CAZy family
+GH3 are really glycoside phosphorylases, thereby explaining their use of histidine as an acid/
+base catalyst in place of glutamic acid. J Biol Chem 290:4887 –4895
+Madhuprakash J, Dalhus B, Rani TS, Podile AR, Eijsink VGH, S ørlie M (2018) Key residues
+affecting transglycosylation activity in family 18 chitinases: insights into donor and acceptor
+subsites. Biochemistry 57:4325 –4337
+Mallakuntla MK, Vaikuntapu PR, Bhuvanachandra B, Das SN, Podile AR (2017)
+Transglycosylation by a chitinase from Enterobacter cloacae subsp. cloacae generates longer
+chitin oligosaccharides. Sci Rep 7:5113
+Meena S, Gothwal RK, Krishna Mohan M, Ghosh P (2014) Production and puri ﬁcation of a
+hyperthermostable chitinase from Brevibacillus formosus BISR-1 isolated from the Great
+Indian Desert soils. Extremophiles 18:451 –462
+Meibom KL, Li XB, Nielsen AT, Wu CY, Roseman S, Schoolnik GK (2004) The Vibrio cholerae
+chitin utilization program. Proc Natl Acad Sci U S A. 101:2524 –2529
+Meibom KL, Blokesch M, Dolganov NA, Wu CY, Schoolnik GK (2005) Chitin induces natural
+competence in Vibrio cholerae . Sci 310:1824 –1827.
+Merzendorfer H, Zimoch L (2003) Chitin metabolism in insects: structure, function and regulation
+of chitin synthases and chitinases. J Exp Biol 206:4393 –4412
+Miyashita K, Fujii T, Saito A (2000) Induction and repression of a Streptomyces lividans chitinase
+gene promoter in response to various carbon sources. Biosci Biotechnol Biochem 64:39 –43
+Monreal J, Reese ET (1969) The chitinase of Serratia marcescens . Can J Microbiol 15:689 –696
+Ohno T, Armand S, Hata T, Nikaidou N, Henrissat B, Mitsutomi M, Watanabe T (1996)
+A modular family 19 chitinase found in the prokaryotic organism Streptomyces griseus HUT
+6037. J Bacteriol 178:5065 –5070
+Payne CM, Baban J, Horn SJ, Backe PH, Arvai AS, Dalhus B, Bj ørås M, Eijsink VG, S ørlie M,
+Beckham GT, Vaaje-Kolstad G (2012) Hallmarks of processivity in glycoside hydrolases from
+crystallographic and computational studies of the Serratia marcescens chitinases. J Biol Chem
+287:36322 –36330
+Perrakis A, Tews I, Dauter Z, Oppenheim AB, Chet I, Wilson KS, Vorgias CE (1994) Crystal
+structure of a bacterial chitinase at 2.3 A resolution. Structure 2:1169 –1180
+Rathore AS, Gupta RD (2015) Chitinases from bacteria to human: properties, applications, and
+future perspectives. Enzyme Res. 2015:791907
+Rombouts FM, Phaff HJ (1976) Lysis of yeast cell walls. Lytic b-(1!6)-glucanase from B acillus
+circulans WL-12. Eur J Biochem 63:109 –120
+Saito A, Ebise H, Orihara Y, Murakami S, Sano Y, Kimura A, Sugiyama Y, Ando A, Fujii T,
+Miyashita K (2013) Enzymatic and genetic characterization of the DasD protein possessing
+N-acetyl- b-D-glucosaminidase activity in Streptomyces coelicolor A3(2). FEMS Microbiol
+Lett 340:33 –40
+Saito A, Fujii T, Yoneyama T, Redenbach M, Ohno T, Watanabe T, Miyashita K (1999)
+High-multiplicity of chitinase genes in Streptomyces coelicolor A3(2). Biosci Biotechnol
+Biochem 63:710 –718
+Saito A, Shinya T, Miyamoto K, Yokoyama T, Kaku H, Minami E, Shibuya N, Tsujibo H,
+Nagata Y, Ando A, Fujii T, Miyashita K (2007) The dasABC gene cluster, adjacent to dasR,
+encodes a novel ABC transporter for the uptake of N, N ’-diacetylchitobiose in Streptomyces
+coelicolor A3(2). Appl Environ Microbiol 73:3000 –3008
+Schaefer J, Kramer KJ, Garbow JR, Jacob GS, Stejskal EO, Hopkins TL, Speirs RD (1987)
+Aromatic cross-links in insect cuticle: detection by solid-state 13C and 15 N NMR. Science
+235:1200 –1204
+Schneewind O, Missiakas DM (2012) Protein secretion and surface display in Gram-positive
+bacteria. Philos Trans R Soc Lond B Biol Sci 367:1123 –1139
+Schrempf H (2001) Recognition and degradation of chitin by streptomycetes. Antonie Van
+Leeuwenhoek 79:285 –2897 Bacterial Chitinase System as a Model of Chitin Biodegradation 149
+Shimosaka M, Fukumori Y, Narita T, Zhang X, Kodaira R, Nogawa M, Okazaki M (2001) The
+bacterium Burkholderia gladioli strain CHB101 produces two different kinds of chitinases
+belonging to families 18 and 19 of the glycosyl hydrolases. J Biosci Bioeng 91:103 –105
+Shirota K, Sato T, Sekiguchi J, Miyauchi K, Mochizuki A, Matsumiya M (2008) Puri ﬁcation and
+characterization of chitinase isozymes from a red algae, Chondrus verrucosus . Biosci
+Biotechnol Biochem 72:3091 –3099
+Sikorski P, S ørbotten A, Horn SJ, Eijsink VG, V årum KM (2006) Serratia marcescens chitinases
+with tunnel-shaped substrate-binding grooves show endo activity and different degrees ofprocessivity during enzymatic hydrolysis of chitosan. Biochemistry 45:9566 –9574
+Suzuki K, Sugawara N, Suzuki M, Uchiyama T, Katouno F, Nikaidou N, Watanabe T (2002)
+Chitinases A, B, and C1 of Serratia marcescens 2170 produced by recombinant Escherichia
+coli: enzymatic properties and synergism on chitin degradation. Biosci Biotechnol Biochem
+66:1075 –1083
+Suzuki K, Taiyoji M, Sugawara N, Nikaidou N, Henrissat B, Watanabe T (1999) The third
+chitinase gene (chiC) of Serratia marcescens 2170 and the relationship of its product to other
+bacterial chitinases. Biochem J 343:587 –596
+Świątek MA, Tenconi E, Rigali S, van Wezel GP (2012a) Functional analysis of the
+N-acetylglucosamine metabolic genes of Streptomyces coelicolor and role in control of
+development and antibiotic production. J Bacteriol 194:1136 –1144
+Świątek MA, Urem M, Tenconi E, Rigali S, van Wezel GP (2012b) Engineering of
+N-acetylglucosamine metabolism for improved antibiotic production in Streptomyces coeli-
+color A3(2) and an unsuspected role of NagA in glucosamine metabolism. Bioengineered
+3:280 –285
+Tanaka T, Fukui T, Imanaka T (2001) Different cleavage speci ﬁcities of the dual catalytic domains
+in chitinase from the hyperthermophilic archaeon Thermococcus kodakaraensis KOD1. J Biol
+Chem 276:35629 –35635
+Tharanathan RN, Kittur FS (2003) Chitin-the undisputed biomolecule of great potential. Crit Rev
+Food Sci Nutr 43:61 –87
+Tews I, Terwisscha van Scheltinga AC, Perrakis A, Wilson KS, Dijkstra BW (1997)
+Substrate-assisted catalysis uni ﬁes two families of chitinolytic enzymes. J Am Chem Soc
+119:7954 –7959
+Uchiyama T, Kaneko R, Yamaguchi J, Inoue A, Yanagida T, Nikaidou N, Regue M, Watanabe T
+(2003) Uptake of N, N ’-diacetylchitobiose [(GlcNAc)2] via the phosphotransferase system is
+essential for chitinase production by Serratia marcescens 2170. J Bacteriol 185:1776 –1782
+Uchiyama T, Katouno F, Nikaidou N, Nonaka T, Sugiyama J, Watanabe T (2001) Roles of the
+exposed aromatic residues in crystalline chitin hydrolysis by chitinase A from Serratia
+marcescens 2170. J Biol Chem 276:41343 –41349
+Umemoto N, Ohnuma T, Osawa T, Numata T, Fukamizo T (2015) Modulation of the
+transglycosylation activity of plant family GH18 chitinase by removing or introducing atryptophan side chain. FEBS Lett 589:2327 –2333
+Uni F, Lee S, Yatsunami R, Fukui T, Nakamura S (2012) Mutational analysis of a CBM family
+5 chitin binding domain of an alkaline chitinase from Bacillus sp J813. Biosci Biotechnol
+Biochem 76:530 –535
+Vaaje-Kolstad G, Horn SJ, S ørlie M, Eijsink VG (2013) The chitinolytic machinery of Serratia
+marcescens -a model system for enzymatic degradation of recalcitrant polysaccharides. FEBS J
+280:3028 –3049
+van Aalten DM, Komander D, Synstad B, G åseidnes S, Peter MG, Eijsink VG (2001) Structural
+insights into the catalytic mechanism of a family 18 exo-chitinase. Proc Natl Acad Sci USA
+98:8979 –8984
+Watanabe T, Ariga Y, Sato U, Toratani T, Hashimoto M, Nikaidou N, Kezuka Y, Nonaka T,
+Sugiyama J (2003) Aromatic residues within the substrate-binding cleft of Bacillus circulans
+chitinase A1 are essential for hydrolysis of crystalline chitin. Biochem J 376:237 –244150 T. Itoh and H. Kimoto
+Watanabe T, Ishibashi A, Ariga Y, Hashimoto M, Nikaidou N, Sugiyama J, Matsumoto T,
+Nonaka T (2001) Trp122 and Trp134 on the surface of the catalytic domain are essential for
+crystalline chitin hydrolysis by Bacillus circulans chitinase A1. FEBS Lett 494:74 –78
+Watanabe T, Ito Y, Yamada T, Hashimoto M, Sekine S, Tanaka H (1994) The roles of the
+C-terminal domain and type III domains of chitinase A1 from Bacillus circulans WL-12 in
+chitin degradation. J Bacteriol 176:4465 –4472
+Watanabe T, Oyanagi W, Suzuki K, Tanaka H (1990) Chitinase system of Bacillus circulans
+WL-12 and importance of chitinase A1 in chitin degradation. J Bacteriol 172:4017 –40227 Bacterial Chitinase System as a Model of Chitin Biodegradation 151

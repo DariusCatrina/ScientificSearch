@@ -1,0 +1,1071 @@
+REVIEW
+Cellulose ‐based hydrogels for personal care products
+Azadeh Bashari1|Anahita Rouhani Shirvan1|Mina Shakeri1,2
+1Textile Engineering Department, Amirkabir
+University of Technology, Tehran, Iran
+2Department of materials Engineering, Tarbiat
+Modares University, Tehran, Iran
+Correspondence
+Anahita Rouhani Shirvan, Textile Engineering
+Department, Amirkabir University of
+Technology, Tehran, Iran.Email: anahita.rohani1991@gmail.comName of cellulose is referred to a type of natural carbohydrate with many hydroxyl groups and
+high water absorption capacity. Cellulose is the most abundant natural polymer, found as themain constituent of plants (plant cellulose). Some bacteria such as Acetobacter xylinum are also
+able to synthesize bacterial cellulose. Cellulose ‐based hydrogels are superabsorbent materials,
+which make 3D networks. Chemical bonds or other cohesive forces such as hydrogen bondingor ionic interactions connect the cellulose chains together. Hydrogels can swell and absorb waterand other aqueous fluids in their 3D networks, but they are insoluble in them. Nowadays, an
+increasing demand emerges for biodegradable materials and products made from renewable
+resources such as cellulose. The excellent biocompatibility of cellulose has prompted the largeuse of cellulose ‐based personal care products. Cellulose hydrogel is used for these products as
+the thickener and stabilizing agents or as moisturizing agent to improve the skin feel of the prod-
+uct. Hygienic cellulosic absorbent products such as diapers, panty liners, tampons, paper towels,and tissue papers are used as personal care products. These products are available in different
+absorbency ratings from junior to ultra ‐absorbency. Using cellulose ‐based hydrogel, superabsor-
+bent products are made. In this review, applications of cellulose ‐based hydrogels in personal care
+products were reviewed.
+KEYWORDS
+cellulose, diaper, hydrogel, personal care products, tampon
+1|INTRODUCTION
+Superabsorbent polymers (SAPs) are primarily used as an absorbentfor water and aqueous solutions for diapers, adult incontinence
+products, feminine hygiene products, and similar applications.
+Undoubtedly, in these applications, superabsorbent materials willreplace traditional absorbent materials such as cloth, cotton, paper
+wadding, and cellulose fiber, which suffer from some limitations such
+as low efficiency, low recyclability, and leakage.
+Commercial production of SAPs began in Japan in 1978, for use in
+feminine napkins. This early superabsorbent was a cross ‐linked starch ‐
+g‐polyacrylate. Polyacrylic acids eventually are replaced previous
+superabsorbents, and they are the primary polymer used for SAPs
+today. In 1980, European countries further developed the SAP for
+use in baby diapers. This first diaper using this technology used onlya small amount of polymer, approximately 1 to 2 g. In 1983, athinner diaper using 4 to 5 g of polymer and less fluff was marketed
+in Japan.
+1
+Absorbent hygiene products (AHPs) have made an important con-
+tribution to the quality of life and skin health of millions of people.The category of AHPs consists of the following 3 groups of AHPs
+with benefits such as the softness, smoothness, leakage prevention,strength, and protection provided by nonwoven fabrics:
+•Baby diapers
+•Feminine hygiene products
+•Adult incontinence products
+Since in the mentioned applications good skin care has a crucially
+important role, so using biocompatible and biodegradable materials
+without any negative effect on human skin and environment are
+preferred.
+2|DIFFERENT TYPES OF PERSONAL CARE
+PRODUCTS
+Baby diapers, sanitary pads, panty lines, and adult incontinence prod-
+ucts typically consist of a top layer (nonwoven or perforated film), an
+absorbent core (fluff pulp and/or superabsorbers), a back sheet (plasticReceived: 26 November 2017 Revised: 1 February 2018 Accepted: 6 February 2018
+DOI: 10.1002/pat.4290
+Polym Adv Technol . 2018; 29:2853 –2867. Copyright © 2018 John Wiley & Sons, Ltd. wileyonlinelibrary.com/journal/pat 2853
+
+film, nonwoven), and a fastening system (tape, belt, or Velcro). A tam-
+pon typically consists of a cover stock, an absorbent core, and a string.Some types of tampons also include an applicator. Each type of theseproducts can include different products such as the following items in
+Table 1.
+2
+The average diaper is based on 4 primary components. The top
+layer that is in direct contact with the body is made from a permeable
+polypropylene nonwoven. The next component is a layer that tempo-
+rarily stores the urine and distributes it onwards to the absorbentlayer. These components are both made from fluff pulp and SAP.
+The outer layer has to hold the diaper together and prevent leakage.
+It may contain small microholes to allow air to pass through. This layeris made from polyethylene (PE). In addition, a diaper contains afastening system such as tape, plus elastic and dyes and print
+(Figure 1).
+3
+In terms of weight, the fluff also makes up the largest proportion
+of a sanitary towel (approx. 66% of the total weight). Cotton is the larg-
+est constituent material by weight in the tampons (approx. 90% if the
+applicator is excluded). Cotton buds and cotton wadding are productsthat use the same materials as tampons. On the other hand, fluff
+(approx. 78%) and SAP (approx. 19%) are the main components of
+breast pads (Figures 2 and 3).
+3,4
+Other disposable products, such as disposable bed linen, mattress
+covers and draw sheets, surgical gowns, and diaper liners, contain
+many of the same materials as diapers, incontinence care products,and sanitary towels.
+Mattress covers, for example, may be made from several layers of
+cellulose, nonwoven fabric, and a plastic coating. They may also con-
+tain fluff pulp to increase absorption. Some products state that theyhave seams that are strong enough that the patients can be lifted
+and that they have edges treated with paraffin to ensure against leak-
+age. The plastic film, which stops moisture from permeating throughthe products, may be PE, for example, or a bio ‐based plastic film. The
+products may be laminated with plastic glued in place (water ‐based
+dispersion adhesive or hot ‐melt adhesive), or the plastic film may be
+directly extruded onto the product. Use of nonwoven products hasrisen in recent years, particularly in the health sector, in place of cot-
+ton/polyester products. There are various ranges of disposable bed
+linen on the market that are made from nonwoven fabric with polypro-pylene fibers.
+4
+2.1 |Feminine hygiene products
+Sanitary napkin was the first disposable article of commercial signifi-cance and introduced in 1921. The first menstrual tampon was intro-duced by Tampax Corporation in 1933. The original Tampax brandtampon was made of cotton fiber wrapped in a nonwoven rayon
+coversheet. Today, the absorbent medium used in most modern tam-
+pons is cellulose fluff.
+Another development in absorbent technology occurred in the
+1960s with the advent of superabsorbents. Superabsorbent diapers
+were introduced in Japan in 1979, but have only become widely usedin the West since 1984.
+5
+House et al claimed that 26% of the world's female population is in
+their reproduction stage.6The female hygiene products that exist
+TABLE 1 Classification of absorbent hygienic products
+Product Groups Products
+Feminine sanitary protection Sanitary towels, sanitary napkins, pant liners, panty shields, tampons, breast pads
+Baby diapers Baby diapers, pant diapers, training pants, swimming pantsAdult incontinence products All ‐in‐one products: Contains both the absorbent core and the outer shell with fastening (tapes, hook
+& loop, belts), insert pads (needs additional product for fastening), pants/briefs, liner pads, meshbriefs supports, bed protection, under pads
+FIGURE 1 Average baby diaper composition.3PE, polyethylene; PP,
+polypropylene
+FIGURE 2 Average incontinence products composition.3PE,
+polyethylene; PP, polypropylene2854 BASHARI ET AL.
+
+today can be categorized into main groups, external and internal prod-
+ucts, and these are divided into smaller groups.
+•Disposable napkins, reusable napkins, and, finally, cloths and rags
+are in the group of external hygiene products for women.
+•The internally used methods are different types of protections that
+are inserted into the vagina. They either absorb the blood or holdthe blood inside the body for the user to take out when full. The
+category is divided into 2 under groups: tampons and menstrual
+sponges.
+7
+The feminine hygiene products market includes different products
+such as sanitary pads, tampons, panty liners, and shields. Sanitary padsare the most commonly used feminine hygiene products and are
+expected to grow at notable rate owing to increasing demand from
+developing markets. These types of products are manufactured froma wide range of synthetic or natural raw materials and used by womento maintain their personal hygiene.
+The most important factors affecting the demand for feminine
+hygiene products are the rising level of consumer education, increaseawareness about alternative hygiene products, and modernization in
+retail format. So the feminine hygiene products market is expected
+to garner $42.7 billion by 2022.
+8
+2.2 |Baby diapers
+Before 1936, diapers were mainly either cotton ‐based ribbed toweling
+or cotton muslin ‐type material, both of which, with laundering, could be
+reused. In the late 1930s, early forms of tissue ‐based disposable under
+pads and diaper inserts were introduced in Sweden. Between 1936 and
+1942, rubber pants were used to hold the cellulose pad in place. In
+1950, the company introduced a new version of the product on thebasis of bleached cellulose wadding with a knitted mesh outer layer,
+which could be inserted into a holding pocket in a rubber pant. Further
+developments in the mid ‐1980 owed much the availability of improved
+SAPs and better methods to add the polymer to the pulp core.
+4The global baby diaper market covers different types of diapers
+provided by the manufacturers within the baby diapers. In fact, the dif-ferent types of baby diapers manufactured around the globe are clothdiapers, disposable diapers, training nappy, swim pants, and biodegrad-
+able diapers. Depending on the type of absorbent materials used in
+manufacturing, disposable diapers are also divided into ultra ‐absorbent
+disposable diapers, regular disposable diapers, superabsorbent diapers,
+and biodegradable disposable diapers.
+Nowadays, frequent use of diapers to maintain hygiene and pre-
+vent rashes in babies' skin, increasing birth rate, rapid urbanization,
+and continuously improving economic conditions in developing coun-
+tries are the main factors, which drive the growth of baby diapers mar-ket. Global baby diapers market is expected to garner $59.4 billion by2020. It seems that increase in disposable income and rising health
+care expenditures have driven the demand for baby diapers.
+9
+2.3 |Adult incontinence products
+Absorbent products specifically designed for adult incontinence arethe newest category of hygiene products. Their use in Europe began
+in the late 1960s. The design is based on the technology developedfor baby diapers and feminine hygiene protection. The key perfor-
+mance requirements such as protection from leakage, comfort, discre-
+tion, and skin dryness are similar in kind but differ in degree accordingto the severity of incontinence.
+3
+There are different types of incontinence such as stress, urge, and
+mixed urinary incontinence as well as fecal incontinence. The condition
+affects people of all ages including young children and teenagers,women especially after childbirth, and men often with prostatic prob-
+lems. People with neurological disorders and older people, particularly
+those with mobility and cognitive impairment, are vulnerable to incon-tinence problems.
+The factors causing skin health problems in the incontinence pad
+area are the same for adults with incontinence as for babies and infantsand are mentioned as below:
+•Elderly skin is more fragile and vulnerable to the injury being thin-
+ner, less stretchable, and less resilient; as a result, it has poorerhealing properties.
+•Urinary incontinence is not always accompanied by fecal inconti-
+nence, so the mixing of fecal matter and enzymes with urine inadults is not commonplace as it is with babies.
+Products that are highly absorbent and that reduce the effects of
+occlusion by the use of “breathable ”materials are likely to reduce skin
+overhydration and will have consequent skin health benefits.
+10
+There is a driving growth in the market for adult incontinence
+products such as adult diapers, under pads, light incontinence pads,absorbent underwear, and other products due to the rapid aging pop-
+ulations and the rising awareness about the hygiene and the conve-
+nience of these products. So the personal hygiene manufacturers arecontinuing to deliver on unique new products to satisfy a range of con-
+sumers who have a range of different needs.
+According to recent data, adult incontinence is the fastest growing
+category in retail tissue and hygiene globally, with $7.2 billion in sales
+FIGURE 3 Average ultrathin sanitary pads composition.3PE,
+polyethylene; PET, polyethylene terephthalate; PP, polypropyleneBASHARI ET AL. 2855
+
+in 2015. Retail volume for these products is expected to grow at a
+compound annual growth rate of 7% through 2020, with the numberof units sold projected to hit 25.8 billion in 2020.
+11
+3|THE COMPONENTS OF AHPs
+The AHPs are designed for absorbing body fluids such as urine or men-strual fluid and feces especially in baby diapers and some incontinenceproducts.
+The fluid must be readily accepted, distributed, and absorbed by
+the structure of these hygienic products. Layered constructions andskin‐friendly materials are selected for prolonged use.
+There are 4 principal functional layers in these products, each of
+which is engineered to optimize overall product performance.
+•Top sheet or facing: The layer next to the user's skin must be capa-
+ble of allowing fluid to pass readily through to the next layer. It is
+important that fluid is not retained within the structure of this
+layer so that the amount of time that moisture is in contact withthe skin is kept to the minimum. The softness of feel is a critical
+attribute for skin contact material.
+•Acquisition and distribution layer (ADL): Fluid passes through the
+top sheet into the ADL where it is temporarily stored while capil-lary action causes it to spread over a larger area. This facilitates
+maximum utilization of the absorbent core structure. As most
+SAPs can take a few moments to fully absorb fluid, the ADL playsan important role in managing fluid during this critical stage. Any
+absorbent hygiene product with a high superabsorbent and low
+fluff pulp content, such as a baby diaper, will place high demandson ADL performance. Products with high fluff pulp or low SAP
+levels can often function without a separate ADL because of the
+good capillary properties of the fluff fibers.
+•Absorbent core: The fluid storage layer typically relies on an
+appropriate blend of fiberized fluff pulp and SAP to absorb and
+retain urine or menstrual fluids. Total capacity can be engineered
+to a level appropriate for any individual product application. Twincores can also be used to manage high fluid levels in heavy incon-
+tinence products. Many modern “ultrathin ”feminine hygiene prod-
+ucts use an engineered air ‐laid substrate as an absorbent layer.
+This is generally a precombined structure of multiple layers, con-
+taining both SAP and fluff pulp and other suitable capillary fibers.
+The resultant product is extremely thin and discreet in use. Theabsorbent core in modern tampons is made of the cellulose ‐based
+absorbent material, of either rayon (viscose) or cotton, or a mixture
+of both.
+•Back sheet or outer cover: The function of the back sheet is to
+provide a fluid impervious barrier so that moisture is contained
+within the structure of the absorbent hygiene product. Many
+types of films are suited to this application, most commonly usedis low gauge PE. Many products are subsequently enhanced by
+the addition of soft nonwoven covers to the PE, which can be col-
+ored or printed on to suit market needs. It is also generallyaccepted that a breathable film or nonwoven layer is of benefitin maintaining good skin condition, particularly in baby diapersand panty liners. Polyethylene can be made breathable film at
+extrusion stage by creating micropores in the substrate, and fibersin the nonwoven layer can be treated to be hydrophobic. These 2processes allow air to pass through the film while maintaining an
+effective fluid barrier.
+3
+4|SUPERABSORBENT MATERIALS IN
+PERSONAL CARE PRODUCTS
+Superabsorbent polymers are hydrophilic materials that are able to
+absorb physically and retain large amounts of water or aqueous solu-
+tion.12As SAPs, superporous hydrogels (SPHs) are formed by cova-
+lently cross ‐linked hydrophilic polymers.
+The first generation of SPHs was made from highly hydrophilic
+acrylamide (AM), salts of acrylic acid (AA), and sulfopropyl acrylate.
+Superporous hydrogel composites are the second generation ofSPHs. For making SPH composites, a matrix swelling or a compositeagent is used. A composite agent is a cross ‐linked water ‐absorbent
+hydrophilic polymer that can absorb the solution of monomer,
+cross ‐linker, initiator, and remaining components of the SPH
+synthesis.
+The third generation of SPHs is presented by hybrid SPHs pro-
+duced by adding a hybrid agent to the SPH previously made. Hybridagents are natural or synthetic water ‐soluble or dispensable polymers
+capable of chemical or physical cross ‐linking. It is possible to produce
+an interpenetrating polymeric network with this method (Figure 4).
+For example, AM ‐based SPH is synthesized in the presence of
+sodium alginate and after that cross ‐linking occurs between alginate
+chains and calcium ions forming a hybrid SPH.
+13
+Superporous hydrogels can also retain this liquid under a certain
+pressure and therefore are suitable for use in sanitary products such
+as diapers and sanitary towels. Today, the greatest volume of SAPs
+comprises full synthetic or of petrochemical origin, and they are mostlyproduced from the acrylic monomers (Figure 5), most frequently AA, its
+salts, and AM.
+12,14
+The global SAP market is expected to reach USD 7.96 billion by
+2020, registering a compound annual growth rate of 7.6% between
+2015 and 2020. This growth is fueled by the high demand from Asia ‐
+Pacific, the Middle East and Africa, and Latin America and the ageingpopulation in developed countries and the thinner diapers. The marketfor diaper is the largest application for SAPs and hence driving the
+demand for the polymer in the recent years.
+15
+Synthetic SAP ‐based products include a polyacrylamide copoly-
+mer, sodium polyacrylate, polyvinyl alcohol copolymers, and ethylene
+maleic anhydride copolymer. Polyacrylamide copolymer is likely to wit-
+ness fastest growth rate owing to properties such as high waterretaining and absorption.
+16
+While most sanitary products such as diapers, sanitary towels, and
+incontinence care products are becoming thinner and lighter due touse of SAPs, there may be obstacles to use synthetic SAPs.
+12Volatile
+AA price and supply deficit are likely to challenge industry participant
+growth. The raw material deficit in the market is likely to increasemanufacturing costs and bring down profit margins. The world's deci-sion for environmental protection potentially supports the ideas of2856 BASHARI ET AL.
+
+partially or totally replacing the synthetics by “greener ”alternatives. To
+offset this scenario, companies are investing in the development of
+bio‐based market.16
+According to previous information from manufacturers of sanitary
+products, bio ‐based SAP has a lower absorption capacity than SAP of
+fossil origin. There is a great deal of research and development work
+underway in this area, and this is expected to result in a wider rangeof commercial products offering better quality and environmental per-formance in the near future.
+17
+The bio ‐based SAP disposal products offer environmental benefits
+such as increasing the use of renewable resources due to the introduc-tion of highly performing bio ‐based SAPs, which will reduce the use ofoil‐based absorbent materials,
+18and also, these types of absorbent
+materials have the benefits of reducing negative effects of synthetic
+SAP on the human body.
+Making recyclable disposable diapers, napkins, hospital bed
+sheets, sanitary towels, and other similar products is one of the main
+targets for modern industries. Bio ‐based SAP is manufactured using
+renewable raw materials such as starch, cellulose, natural gums, andchitin.
+16
+A novel solution to solve this problem involves the use of cellu-
+lose‐based hydrogels, which are totally biodegradable. New types of
+bio‐based hydrogels containing sodium carboxymethylcellulose and
+hydroxyethyl cellulose cross ‐linked with divinyl sulfone can swell likeFIGURE 5 Chemical structures of the
+reactants and pathways to prepare an acrylicsuperabsorbent polymer network
+12
+FIGURE 4 Structure of various superporous
+hydrogels (SPHs) generations
+BASHARI ET AL. 2857
+
+SAPs. These improvements were achieved by introducing microporous
+and nanoporous structures into the hydrogel, which increases waterretention and swelling kinetics due to capillarity effects.
+19,20
+5|ENVIRONMENTAL IMPACTS OF SAP
+HYGIENIC PRODUCTS
+Most of the personal care products are made from the superabsorbent
+material, which is mainly composed of sodium polyacrylate, because of
+those diapers have a high water absorbing quality and can absorb 200to 300 times its weight. Unlike natural polymers that are broken down
+by microorganisms to get smaller molecules, the C ―C single bond of
+polymers found in diapers cannot be easily degraded by mostmicroorganisms.
+Most of the diapers are not easily biodegradable and have an esti-
+mated period of up to 500 years to decompose. Disposable diapersthus have bad effects on the environmental, as they are a form of solidwaste. Disposable diapers are the third largest contributor to municipal
+solid waste in the United States of America accounting for 1.5% to 4%
+of the total waste.
+21
+Apart from the solid waste problem, chemicals released by
+decomposing solid wastes can leak from dumping sites and landfills
+to groundwater. They can contaminate water wells, soil, and nearbywater streams.
+22Also, they release some harmful gases, drainage clog-
+ging, and water contamination.
+Only disposable baby diaper requires a lot of natural resources and
+energy. It has been estimated that over 136 kg of wood, 23 kg of
+petroleum, and 9 kg of chlorine are used to produce disposable diapers
+for one baby each year.
+Assuming that one child will use at least 6500 diapers in a lifetime,
+this means that it takes about 1625 quarts of oil to diaper one baby for
+30 months. It has been stated that it takes more oil to keep one baby
+dry for two and a half years than it does to lubricate all the cars an indi-vidual will ever own in a lifetime.
+23
+6|HEALTH IMPACTS OF SAP HYGIENIC
+PRODUCTS
+Diapers can be classified as hazardous waste. Such waste has immedi-
+ate or long ‐term negative health effects. It emerged from the labora-
+tory results that diapers contain harmful chemicals such as dioxins.
+According to World Health Organization report on 2014, dioxins are
+persistent environmental pollutants that can cause an array of healthproblems including developmental delays, damaged immunity, hor-mone interference, skin diseases, and certain types of cancer.
+22
+Wambiu et al indicated that the inner absorbent layer of a diaper is
+treated with chemicals, which can trigger allergic reactions amongbabies. When released into the environment, the dioxins can
+accumulate in humans.
+24
+Dioxins are a class of persistent polyhalogenated aromatic hydro-
+carbons that induce a wide spectrum of toxic responses in experimen-
+tal animals including reproductive, endocrine, developmental, and
+immunologic toxicities as well as carcinogenicity. The presence of anactive human aryl hydrocarbon (Ah) receptor suggests that humansmay respond to dioxins in a manner similar to experimental animals.
+In fact, there is mounting evidence of the health effects of dioxins inhumans.
+25Evidence suggests that increased exposures to dioxins are
+associated with increased incidence of endometriosis in humans.26
+On the other hand, some viscose rayon tampons contain toxic
+amounts of the chemical dioxin, because viscose rayon fibers are madefrom wood pulp. In the regeneration process, the wood pulp is
+bleached for a long time. The bleaching agents are a potential source
+of trace amounts of dioxin in tampons. Therefore, although themethods used for manufacturing tampons are considered to be
+dioxin ‐free processes, traces of dioxin may still be present in the wood
+pulp raw materials used to make viscose tampons.
+27
+Another dangerous compound of conventional disposable diapers
+is sodium polyacrylate. This is the chemical added to the inner pad of a
+disposable that makes it superabsorbent. This material has some bad
+effects on human body. For example, it causes severe skin irritation,oozing blood from perineum and scrotal tissues, fever, vomiting, and
+staph infections in babies. Also, it can stick to baby's genitals and cause
+allergic reactions. In addition, some disposable diapers contain tributyl-tin and other heavy metals. Tributyltin spreads through the skin and
+has a hormone ‐like effect in the tiniest concentrations. It can harm
+the immune system and impair the hormonal system.
+28
+Women, who are menstruating, are at risk of toxic shock syn-
+drome (TSS) due to the release of poisonous substances from an over-
+growth of bacteria called Staphylococcus aureus . The toxin can be
+absorbed through vaginal walls into bloodstream leading to TSS. Thebody responds with a sharp drop in blood pressure that deprives
+organs of oxygen and can lead to death.
+29
+The use of high absorbency tampons has been closely associated
+with TTS. A saturated tampon, especially tampons with SAPs, with
+blood is a suitable place for overgrowing of bacteria.30
+The link between TSS and tampons was not intuitive. Tampons
+had become trusted products in upwards of 70% of women's hygiene
+routines. However, the problem emerged when manufacturer shifted
+from cotton to synthetic materials. Companies often used cheaperingredients, rayon, and absorptive material in some tampons.
+31
+The incidence of TSS increased in the late 1970s and early
+1980s, probably as a result of using superabsorbent tampons because
+of the relationship between the incidence of TSS, absorbency, andchemical composition of certain tampons. Rely as a manufacturer of
+high‐absorbency tampons voluntarily removed the product from the
+market in September 1980. After 1985, tampons containingpolyacrylate rayon, which was used to increase absorbency, were
+no longer manufactured.
+32
+7|NATURAL SUPERABSORBENTS:
+BENEFITS AND LIMITATIONS
+Nowadays, using biodegradable polymers have been increased for the
+preparation of hydrogels because of their safety, biocompatibility, bio-degradability, hydrophilicity, nontoxicity, low cost, and limited environ-
+mental problems.
+33In fact, the recognized hazards associated with the
+synthetic superabsorbents have spurred many researchers to developgreener alternative materials for personal care usage. Therefore, the2858 BASHARI ET AL.
+
+best alternatives include natural superabsorbents such as polysaccha-
+rides ‐based and protein ‐based superabsorbents.
+An important area of textiles is the health care and hygiene sector
+among other medical applications, because a wide range of disposable
+and nondisposable products such as surgical gown, mask, surgical
+drapes, towels, gloves, baby diapers, sanitary napkins, and others areused in hospitals. Since diapers come in contact with the skin, it is nec-
+essary to characterize the probable side effects such as skin inflamma-
+tion and dermatitis. Also, parameters such as absorption capacity,absorption ability under load, and strike ‐through time are important
+as regards the wet comfort of diapers.
+34
+In recent years, the increasing consumer focus on sustainable
+products is contributing to the growing popularity of bio ‐based super-
+absorbent polymers, which are generally based on modified cellulose,
+chitin, alginates, and silk fibroin. These products are an eco ‐friendly
+and sustainable alternative to various nonrenewable petroleum ‐based
+materials.
+However, natural polysaccharide and protein ‐based superabsor-
+bent have positive properties rather than synthetic polymers with theirserious limitations, and they also display some disadvantages for use as
+biomaterials in personal care products. For example, their purification
+and low stability might be problematic. Also, when samples from natu-ral sources are used, it is difficult to obtain identical compositions.
+35
+Generally, an ideal superabsorbent for personal care products
+must have some functional properties, which are listed in Table 2.12
+According to the requirement features for a superabsorbent, it is
+clear that the bio ‐based materials such as cellulose ‐based superabsor-
+bent can simultaneously fulfill all the abovementioned required
+features.
+However, it is necessary to make a balance between the properties.
+For instance, a hygienic superabsorbent used in personal care products
+must have the highest absorption rate and the lowest rewetting.12
+This section will cover the details on the members of polysaccha-
+rides and proteins that are being widely investigated as a natural
+superabsorbent.
+7.1 |Polysaccharide ‐based superabsorbent
+Polysaccharide is the most attractive type for investment in the market
+due to increase in focus of manufacturers on bio ‐based SAPs and
+growth in awareness among consumers. Polysaccharides are the leastexpensive and most abundant available renewable organic material.
+Therefore, the use of polysaccharides in cosmetic products is growing,
+together with the increasing attention of manufacturing companiestoward green materials. Polysaccharides are the most abundantorganic materials that are available, renewable, and cheap. Some of
+the most widely used polysaccharide as superabsorbents are chitosan,cellulose, starch, alginate, and carrageenan (CG). In personal care prod-ucts, these polymers are used as thickener and stabilizer or as moistur-
+izing ingredients that can also improve the skin feel of the product.
+36
+Generally, the synthesis of polysaccharide ‐based superabsorbent
+is performed by 2 main methods:
+a) graft copolymerization of suitable vinyl monomer on polysaccha-
+ride in the presence of a cross ‐linker, and
+b) direct cross ‐linking of polysaccharide.
+In the first method, a polysaccharide enters reaction with an initi-
+ator. Therefore, functional groups of polysaccharide and initiator inter-
+act to form redox pair ‐based complexes. Then, by homogeneous
+cleavage of the saccharide C ―C bonds, carbon radicals on the polysac-
+charide substrate are produced.
+These free radicals initiate the graft polymerization of the vinyl
+monomers and cross ‐linking agent on the substrate.
+In the second method, direct cross ‐linking of polysaccharides,
+polyvinylic compounds like divinyl sulphone, or polyfunctional com-
+pounds like glycerol, epichlorohydrin, and glyoxal is often performed.12
+7.1.1 |Chitosan ‐based superabsorbent
+Chitosan with its unique properties such as nontoxicity, biocompatibil-
+ity, biodegradability, biological activity, and low cost is considered as a
+good superabsorbent.37Chitosan is a modified biopolymer derived
+from chitin, which has been found in a wide range of natural sources
+such as crustaceans, crabs, shrimps, and cell walls of fungi.38It is com-
+posed of β‐(1‐4)‐linked D ‐glucosamine and N‐acetyl ‐D‐glucosamine
+randomly distributed within the polymer. The term of chitosan usually
+refers to a family of polymers obtained after chitin deacetylation to
+varying degrees.37-39
+Sadeghi et al synthesized a superabsorbent hydrogel on the basis
+of chitosan ‐g‐poly (acrylic acid ‐co‐acrylonitrile) as a new natural ‐based
+polymer with pH ‐responsiveness properties. The swelling of the
+obtained hydrogels exhibited a high sensitivity to pH in 3 and 8. Thisnovel superabsorbent can be used for hygienic and drug delivery sys-
+tem.
+40Barleany et al produced chitosan ‐graft ‐poly(acrylic acid) super-
+absorbent hydrogel with a notable antimicrobial activity. Theobtained product is a good candidate for baby diapers and sanitary
+pads. Because for hygiene products applications, superabsorbent
+materials with antimicrobial activities are needed to prevent skinirritation.
+41
+TABLE 2 Properties of an ideal superabsorbent for personal care products
+Properties of an Ideal Superabsorbent
+The highest absorption capacity Photo ‐stability
+The highest absorbency under load The highest durability in the swelling medium
+Desired rate of absorption The lowest price
+The lowest soluble content Odorlessness
+The highest biodegradability Colorlessness
+Nontoxicity pH‐neutrality after swellingBASHARI ET AL. 2859
+
+7.1.2 |Alginate ‐based superabsorbent
+Alginate is a naturally derived water ‐soluble polysaccharide that is
+composed of (1 →4)‐linked β‐D‐mannuronic acid and α‐L‐guluronic
+acid with a nonregular pattern along a polymer chain.42It is one of
+the most available biomaterials, derived from brown and bacteria and
+located in the intercellular matrix as a gel containing salts like sodium,calcium, magnesium, strontium, and barium. Alginate is widely used in
+biomedicine and personal care because of its interesting abilities like
+gelling property, viscous nature, stabilizing properties, and high waterabsorption.
+43There are some researches about using alginate ‐based
+superabsorbent for various hygienic and medical applications.
+Wang et al prepared a series of sodium alginate ‐g‐poly (sodium
+acrylate ‐co‐sodium p ‐styrenesulfonate)/attapulgite superabsorbent
+composites by graft copolymerization using a cross ‐linker and initiator.
+According to the results, the swelling behaviors of the superabsorbentcomposites were remarkably influenced by various parameters such aspH, salt medium, and solvents.
+44Ma et al introduced an eco ‐friendly
+superabsorbent composite on the basis of sodium alginate and
+organo ‐loess with high swelling properties. According to the perfor-
+mance of the eco ‐friendly superabsorbent composite, it can be used
+as a promising candidate for various fields of application.45
+In addition, the combination of alginate and chitosan fibers can be
+used in the hygienic products. In fact, they can be used as the hybrid ‐
+contact layer. Therefore, their antimicrobial properties reduce leakage
+and prevent contamination and the transmission of infectious diseases.In addition, it can provide a fresh and dry interface between the body
+and the absorbent.
+46
+Khong et al reported a new biocompatible hydrogel on the basis of
+the chitosan and alginate containing mannuronic acid (poly ‐M), which
+is used in medical and hygienic applications. Figure 6 shows a chito-
+san‐alginate gelling system.47
+7.1.3 |Starch ‐based superabsorbent
+Starch is 1 of the 3 most abundant polysaccharides in plants and exists
+in the chloroplast of leaves and the amyloplast of seeds, pulses, and
+tubers and other parts of plants. Starches consist of a number of
+monosaccharides or glucose molecules joined together with a ‐D‐(1→4) and/or a ‐D‐(1→6) bonds. Amylose and amylopectin are 2
+main structural components of starch, and their proportion is a func-tion of the starch source like corn, potato, tapioca, and wheat. Starchcontains about 70% amorphous and about 30% crystalline regions.
+Starch has various applications in different fields due to its unique
+advantages. Biodegradability, availability, renewability, low cost, highswelling capacity in water, and easy processing are the most important
+features of starch. Regardless of the positive aspects of using starches,
+they have some disadvantages such as low surface area and surfacemodification to enhance sorption capacities.
+48
+One of the most widely known starch ‐based superabsorbent on
+the market is Mater ‐Bi. Mater ‐Bi is a cornstarch ‐based material,
+which is marketed in 3 grades (A, Z, and V), and its applicationincludes disposable nappies, feminine hygienic products, medical dis-
+posable, and others.
+49
+The earliest commercial superabsorbent was produced from
+starch and AN monomer by the graft copolymerization method with-
+out using a cross ‐linker. The starch ‐g‐PAN copolymer was then treated
+in an alkaline medium to produce a hybrid superabsorbent.12
+Recently, a team of North Carolina researchers has developed a
+bio‐based SAP on the basis of cornstarch instead of petroleum ‐
+based ingredients. They produced an environmentally friendly andcost‐effective superabsorbent.
+50In addition, Erizal et al synthesized
+a superabsorbent of poly(acrylamide ‐co‐acrylic acid) ‐starch by radia-
+tion copolymerization reaction. Experimental results showed that thehydrogels could absorb water very fast with a high swelling ratio at3 minutes. The synthesized samples can be used in the personal
+care and hygienic products such as surgical pads, hot and cold
+herapy packs, medical waste solidification, disposable diapers, andsanitary napkins.
+33
+7.1.4 |Bamboo ‐based superabsorbent
+Bamboo is an Asian plant, which is found in tropical or subtropical
+regions. Bamboo is one of the most notable natural resources becauseit is a fast ‐growing plant with interesting properties. Bamboo is a highly
+water absorbent and has a natural effect of sterilization, moisture
+vapor transmission property, and easy drying. In addition, it has a
+FIGURE 6 A chitosan ‐alginate gelling system472860 BASHARI ET AL.
+
+unique antibacterial and bacteriostatic bio ‐agent named “Bamboo
+Kun.”So bamboo fibers can be used in different hygienic applications
+such as baby diapers, feminine sanitary protection, adult incontinenceproducts, sanitary towels, and absorbent pads.
+In a research, Shanmugasundaram et al characterized the baby dia-
+pers made from 4 different fibrous compositions, namely, pure bam-boo, pure cotton, bamboo/cotton (70/30), and bamboo/cotton (50/
+50). Antibacterial evaluation is performed on baby diapers against
+S aureus andEscherichia coli . The prepared diapers were characterized
+in terms of absorption capacity, liquid strike ‐through, acquisition time
+under load, and diaper rewet under load. On the basis of the results,
+the performance of diapers produced from a bamboo/cotton (70/30)fibers blend is superior in comparison with the other ones.
+34
+7.1.5 |CG‐based superabsorbent
+Carrageenan is a high molecular weight linear polysaccharide
+consisting of repeating galactose units and 3,6 ‐anhydrogalactose
+joined by alternating α‐(1,3) and β‐(1,4) glycosidic links. Carrageenan
+is soluble in water above 60°C and is considered as a thermosensitive
+physical hydrogel. The presence of sulfate groups in CG and its chem-ical affinity to mammalian glycosaminoglycan are the most important
+factors determining properties such as antiviral, anticoagulant, antiox-
+idant, and anticancer activities. Carrageenan hydrogels are widely usedin drug delivery, immobilization of enzymes, and various types of phar-
+maceuticals.
+43For example, Hosseinzadeh proposed a new full ‐poly-
+saccharide superabsorbent hydrogel via chemical cross ‐linking of CG
+and sodium alginate (Alg) using epichlorohydrin as a cross ‐linker. The
+swelling of obtained hydrogels in solutions with various pH exhibited
+a high sensitivity to pH.42
+In addition, using CG superabsorbent for producing the hygienic
+product has been increased in recent years. Salimi et al introduced a
+new smart CG ‐based superabsorbent hydrogel hybrid. The obtained
+product exhibited high water absorption and absorbency under load,which are substantial for baby diaper and feminine personal care
+absorbent products.
+51
+7.1.6 |Cellulose ‐based superabsorbent
+Cellulose ‐based products are used for the absorption of water and
+other aqueous fluids. Among cellulose ‐based products, paper towels
+and tissue papers are some of the most widely used absorbents. Fluff
+pulps are the most common products for disposable diapers. In fact,baby diaper uses cellulose fluff combined with a SAP to create the
+absorbent core, which acts as the storage structure in the product.
+52
+According to the increased environmental awareness and serious
+problems of synthetic superabsorbents, it seems that cellulosic fibers
+for producing disposable diapers such as incontinence products and
+feminine hygiene products can be considered as a good candidate. Cel-lulose ‐based superabsorbents are explained in Section 8 in details.
+7.2 |Protein ‐based superabsorbent
+The protein ‐based superabsorbent is composed of isolated proteins
+from a natural extracellular matrix. Controllable bioactivity, biocompat-
+ibility, and biodegradability make these hydrogels promising candi-dates as smart biomaterials for drug delivery, tissue engineering,personal care products, regenerative medicine, and other applica-
+tions.
+35This part will focus on proteins derived from natural sources,
+such as silk fibroin and gelatin and their application in personal careproducts.
+7.2.1 |Collagen ‐and gelatin ‐based superabsorbent
+Most of the collagens are fibrous proteins, responsible for important
+mechanical functions throughout the body. Collagens are particularlypresent in articular and bone tissues, where they provide most of
+the biochemical properties essential for proper functioning.
+35Gelatin
+is a heterogeneous mixture of polypeptides derived from collagen. Itis soluble at the temperature above 35°C and gels below. Easy iso-
+lation and solubilization, low cost, biocompatibility, and biodegrad-
+ability are the main properties of gelatin, which expand itsapplications.
+53
+Marandi et al produced a series of hydrogel nanocomposites by
+grafting AA and AM on gelatin in the presence of Na ‐montmorillonite
+nanoparticles. The hydrogel nanocomposites exhibited good thermalstrength, swelling in salt solutions, and also de ‐swelling behavior in dif-
+ferent saline solutions that can make them useful in various fields such
+as hygienic product, medical, and agriculture.
+54Pourjavadi et al
+reported an efficient synthesis of hydrolyzed collagen ‐g‐poly (sodium
+acrylate ‐co‐2‐hydroxyethyl acrylate) hydrogel through chemical
+cross ‐linking by graft copolymerization of these 2 monomers onto
+the protein backbone in the presence of a cross ‐linking agent. The
+hydrogel exhibited high water absorbency under load, which is consid-
+ered as a good property for baby diapers and female hygiene absor-bents. In addition, because of the use of protein as a naturalbackbone, it is more compatible with the human body.
+55
+7.2.2 |Silk fibroin –based superabsorbent
+Silks are natural structural proteins produced by insects such as orb ‐
+weaving spiders and silk worms. Silk fibroin is a fibrous protein pro-duced by the silkworm Bombyx mori , which contains 2 protein compo-
+nents, fibroin and sericin. Fibroin consists of polypeptides that are
+joined by a disulfide bridge, and the sericin is hydrophilic protein sur-rounding the fibroin.
+35Recently, silk fibroin has become a popular bio-
+material because of its excellent biocompatibility, tunable degradation,
+mechanical properties, ease of processing, and sufficient supply.56So
+the silk fibroin –based superabsorbent can be used in various personal
+care applications.
+Bellas et al invented a silk fibroin –based composite comprising
+nonhydrolyzed silk fibroin and a humectant agent. The obtained silkfibroin –based compositions can be used for personal care products,
+cosmetic products, skin care products, body care products, and/or hair
+products.
+57Also, Pushpa et al prepared the nano silk sericin –based
+hydrogels from silk industry waste. The hydrogels having sericin pro-
+tein are bio ‐acceptable and antimicrobial. Therefore, they can be used
+in a wide range of applications, for example, in agriculture for soil con-ditioners, seed germination, water retention, plant growth, and in bio-
+medical fields as wound dressing membrane and as antimicrobial water
+absorption layer in personal care products like baby diapers andsanitary napkins.
+58BASHARI ET AL. 2861
+
+8|CELLULOSE ‐BASED SUPERABSORBENTS
+FOR HYGIENIC PRODUCTS
+With the appearance of superabsorbent hydrogels in the 1950s, con-
+siderable interest has been attracted within the scientific community
+as well as the industrial world. That is why rapid progress has beenmade in the past few decades because of the demand for superabsor-bent materials in the sanitary industry. As mentioned before, superab-
+sorbent hydrogels are networks with a high capacity of water uptake,
+which can absorb, swell, and retain aqueous solutions up to hundredsof times their own weight.
+59,60Even though most of the superabsor-
+bent hydrogels are produced from synthetic polymers (essentially
+acrylics) for their acceptable properties, it has been suggested toreplace synthetic polymers with the green alternatives because of their
+degradability and biocompatibility.
+61
+One of the green materials that can be used for the production of
+superabsorbent hydrogels is cellulose. Cellulose, as one of the carbo-hydrate polymers, is the most abundant resource in nature. Cellulose
+products are biocompatible, biodegradable, nontoxic, inexpensive,
+and renewable. Cellulose, which has abundant hydroxyl groups, canbe used to prepare superabsorbent hydrogels easily with fascinating
+structures and properties.
+62
+Cellulose superabsorbent hydrogels can absorb and retain
+extremely large amounts of a liquid relative to their own mass. These
+cellulose hydrogels absorb aqueous solutions through hydrogen bond-
+ing with water molecules.63For example, Rouhani et al used Luffa
+cylindrica fibers as a cellulose ‐enriched material for preparation of cel-
+lulose nanowhiskers ‐based hydrogel as a surface modifying system
+with enhanced water absorption property. They applied the obtainedhydrogel on the polyester fabric to achieve the high water absorption.It was found that because of the participation of hydroxyl groups of
+luffa nanohydrogel, the water uptake ability of treated fabrics in com-
+parison with control polyester significantly increased.
+64
+Many factors can affect the capacity of cellulose superabsorbents.
+The total absorbency and swelling capacity are controlled by the type
+and degree of cross ‐linkers used to make the superabsorbent product.
+Low‐density superabsorbent hydrogels generally have a higher absor-
+bent capacity and swell to a larger degree. On the other hand, high
+cross ‐link density polymers exhibit lower absorbent capacity and swell,
+but the gel strength is firmer and can maintain particle shape evenunder modest pressure.
+65
+One of the largest uses of cellulose superabsorbents is found in
+personal disposable hygiene products, such as baby diapers, adult pro-tective underwear, and sanitary napkins.
+61
+Different methods of preparation of cellulose superabsorbent
+hydrogels and their usage in personal health products are explainedbelow.
+One of the advantages of cellulose ‐based superabsorbent
+hydrogels is their ability to overcome the routine obstacles of syntheticpolymers. Most recently, cellulose ‐based superabsorbent hydrogels
+have become accessible and essential materials in many applications.
+Introducing cellulose series materials into the superabsorbenthydrogels can eliminate the disadvantages of synthetic ‐based superab-
+sorbent hydrogels to obtain an acceptable product.
+6In this way, a
+product, which is a multifunctional and efficient superabsorbentproduct, can be achieved. Compared with the synthetic superabsor-
+bent hydrogels, cellulose ‐based superabsorbent hydrogels have high
+absorbency, high strength, good salt resistance, excellent biodegrad-able ability and biocompatibility, and other special functions that
+promise a wide range of applications in many fields (Figure 7).
+19,66
+8.1 |Preparation methods
+There are many preparation methods for production of cellulose ‐based
+superabsorbent hydrogels. These methods are divided to 2 maingroups, which are chemical and physical methods. Some of the
+methods are described in the following.
+8.1.1 |Physical methods
+Unlike chemical synthesis methods, physical synthesis methods alwaysrefer to the molecular assembly cross ‐link by the hydrogen bond or the
+ionic bond between the polymers, or by the interaction between thepolymers.
+8.1.2 |Chemical methods
+The stable structure and effective swelling of cellulose ‐based
+hydrogels often require a chemically cross ‐linked network. Some di ‐
+functional molecules are used as the cross ‐linker for cellulose or its
+derivatives to covalently bind different polymer molecules in a 3 ‐
+dimensional hydrophilic network.66Chemical synthesis methods are
+widely used to fabricate the cellulose ‐based superabsorbent hydrogels
+for the formation of covalent linkage, in essence. Typical chemical syn-
+thesis methods are stated as below.
+FIGURE 7 Cellulose ‐based hydrogels and cross ‐linking strategies.19
+HEC, hydroxyethyl cellulose; NaCMC, sodium carboxymethylcellulose;
+EC, Ethylcellulose; HPMC, hydroxypropyl methylcellulose; MC,Methylcellulose2862 BASHARI ET AL.
+
+•Polymerization
+One of the best ways for fabrication of superabsorbent hydrogels
+is the solution polymerization due to its better control of the heat of
+polymerization, lower cost, and more convenient. Most of the cellu-
+lose‐based superabsorbent hydrogels are produced in this way. Gener-
+ally, the cellulose series macromolecular, monomer(s), initiator, and
+cross ‐linker(s) are freely soluble in water, or have good solubility in
+water. Once the initiator is induced by the temperature or the radia-tion, the polymerization process starts. After a certain time, the prod-
+uct of this reaction can be dried out and pulverized for various
+applications (Figure 8).
+67
+Several mechanisms have been suggested to explain the synthesis
+of cellulose ‐based superabsorbent hydrogels. One of the mechanisms
+for solution polymerization synthesis of cellulose ‐based superabsor-
+bent hydrogels is based on the free radical –induced polymerization.
+The free radical polymerization is a process in which monomers are
+polymerized through the initiation of initiators. This kind of polymeri-
+zation has been used so extensively because it has high polymerizationrate and happens in an aqueous medium, which is safe and harmless.
+The cellulose macromolecules produce the free radical initiated by
+the initiator, then interact with the monomers forming the graft copol-ymer. The main induce approach is chemical induce, containing mono ‐induce system,
+68bi‐induce system,69and even ternary ‐induce sys-
+tem.70There are also other induce systems that are proven in different
+papers.
+•Inverse ‐phase suspension polymerization
+Inverse ‐phase suspension polymerization is conducted in the dis-
+persed and continuous phases. The dispersed phase is aqueous, and
+the continuous phase is organic. The monomer is usually dissolvedin the dispersed phase, and a surfactant is used to help the monomer
+and other aqueous reagents to be effectively dispersed throughout
+the continuous phase. Although particles with desirable sizes can beobtained by this technique, removal of the organic solvents, such asn‐hexane and toluene, is a very challenging problem. This is one of
+the appropriate techniques for the polymerization of highly hydro-
+philic monomers, such as salts of AA and methacrylic acid andAM.
+71These significant results have been achieved by inducing a
+microporous structure in the hydrogel, by means of a phase inversion
+desiccation technique in acetone (ie, a nonsolvent for cellulose),which increased the water absorption, as well as the swelling kinetics,
+due to capillarity effects.
+19
+•Microwave irradiation polymerization
+FIGURE 8 Mechanism for synthesis of cellulose superabsorbent hydrogel.67MMT, montmorillonite; MBA, methylenebisacrylamideBASHARI ET AL. 2863
+
+Microwave irradiation technology as an emerging polymerization
+skill, compared with the tradition approaches, displays stronger pene-trating ability, faster heating, cleaner, and higher efficiency.
+One of the promising methods for the cleaner production of cellu-
+lose‐based superabsorbent hydrogels is using microwave irradiation
+polymerization. Giachi reported that the microwave ‐synthesized prod-
+uct possessed faster swelling and shrinking kinetics in comparison with
+the superabsorbent hydrogels prepared by conventional methods.
+72
+8.2 |Applications of cellulose ‐based hydrogels
+Applications of superabsorbent hydrogels can be divided to several
+groups including agriculture and horticulture, water treatment, bio-
+medical, drug delivery systems, and personal health care. Since the
+focus of the review is on personal health care products, it will bediscussed extensively.
+A number of superabsorbent hydrogel products with cellulose
+based have been either available commercially or in the process ofdevelopment. In addition, many patents about cellulose ‐based super-
+absorbent hydrogels have been granted for various possible applica-
+tions.
+69In cases where biodegradability of a hydrogel is required or
+recommended, cellulosics are appealing hydrogel precursor materials,due to their low cost, the large availability and biocompatibility of cel-
+lulose, and the responsiveness of some cellulosics to variations of
+external stimuli.
+62Most of these used for agricultural and horticulture,
+personal health care field, water treatments, biomedical fields, and the
+stimuli ‐response smart behavior applications (Figure 9).67Additionally,
+many promising applications as protective barriers for volatile organiccompounds spilled in the environment and as absorbents for waste
+oil had also been explored.Superabsorbent hydrogels are widely used in the hygienic field like
+disposable diapers and female napkins for their ability to absorb andretain a large amount of secreted fluids, such as urine and blood. Itwas reported that the first generation commercial superabsorbent
+hydrogels were produced in Japan in 1978 as a component of female
+napkins. Then it was rapidly extended its market all over the worldfor the ability to retain the secreted liquids under pressure. In a word,
+superabsorbent hydrogels have caused a huge revolution in the per-
+sonal health care industry. At present, superabsorbent hydrogels thatcontained in sanitary napkin are also primarily polymerized by AA or
+AM, which are costly, poorly degradable, and environmentally
+unfriendly. Liu et al provided novel tactics by incorporation of flax yarnwaste into superabsorbent hydrogels for sanitary napkin applica-tions.
+73Their results showed that the product exhibit excellent biode-
+gradability, superabsorbent, and retention ability of artificial blood
+solution compared with those of the currently marketed sanitarynapkin products.
+Although more convenient, suitable, and comfortable disposable
+health care products have extensively been applied in modern time,biodegradable health care products have not either been industrialized
+or been commercially available. In view of the foregoing, the key tech-
+nique of converting the cellulose ‐based superabsorbent hydrogels into
+the core layer of health care products needs to be broken through.
+74,75
+Most of the cellulose ‐based hydrogels, which are used in health
+care products, have the same structure: an envelope of nonwoven tis-sue, a plastic cover material, and an absorbent fluff of wood pulp cellu-lose, mixed in most cases with one of the superabsorbent products.
+The basic idea of diaper recycling is to recover separately the cellulose,
+which is biodegradable and recyclable. The plastic cover material canalso be recycled for some other applications.
+19
+FIGURE 9 Applications and developments of cellulose ‐based hydrogels662864 BASHARI ET AL.
+
+On the basis of the high water absorption properties of cellulose ‐
+based products, they have been used for the absorption of water andother aqueous fluids throughout recent history. Among such products,the paper towels, tissue papers, and diapers are some of the most
+widely used absorbents. For example, fluff pulps, which are generally
+based on kraft pulps, are commonly used for disposable diapers.Obtaining recyclable disposable diapers, napkins, hospital bed sheets,
+sanitary towels, and other products is one of the vital targets for the
+modern industry. Recently has been proposed an innovative solutionto this problem, which involves the use of cellulose ‐based superabsor-
+bent that are totally biodegradable.
+76
+9|FUTURE TRENDS AND CHALLENGES
+A guide published by the Environmental Health Association of Nova
+Scotia cites a study reported in the “Archives of Environmental Health ”
+that found that diapers release volatile organic chemicals. Toxicchemicals such as toluene, ethylbenzene, xylene, and dipentene have
+been linked to adverse health effects in humans with long ‐term expo-
+sure. The inner absorbent layer of a common disposable diaper (acry-late‐based hydrogels) is also treated with chemicals, which can
+trigger allergic reactions.
+Bio‐based polymers still hold a tiny fraction of the total global
+hygienic products market. The worldwide interest in bio ‐based poly-
+mers has accelerated in recent years due to the desire and need to find
+non–fossil fuel ‐based polymers.
+On the other hand, Because of the increasing attention for envi-
+ronmental protection issues, biodegradable hydrogels such as cellu-
+lose‐based ones arise lively interest for potential commercial
+application in health care.
+Cellulose ‐based superabsorbents offer important contributions in
+reducing the dependence on fossil fuels and through the related posi-
+tive environmental impacts such as reduced carbon dioxide emissions.
+Challenges that need to be addressed in the coming years include
+management of raw materials, performance of cellulose ‐based
+hydrogels, and their cost for production. Performance of cellulose ‐
+based superabsorbent products is well known, and it is relatively easy
+to replace the existing product with similar performance.
+However, despite of these advancements, there are still some
+drawbacks, which prevent the wider commercialization of cellulose ‐
+based superabsorbent in personal care applications. This is mainly
+due to performance and price when compared with their conventional
+counterparts, which remains a significant challenge for cellulose ‐based
+personal care products.
+10 |CONCLUSION
+Increasing global demand for improved absorbent materials for per-
+sonal care products creates an incentive for new basic research and
+development of efficient absorbent materials and systems with addi-tional benefits such as high absorption capacity, biodegradability and
+biocompatibility. Therefore, new generation of personal care products
+based on the natural SAPs such as various types of polysaccharide andprotein ‐based hydrogels was introduced. These materials have somebenefits compared with the conventional polyacrylate superabsorbent,
+and they do not have any negative health and environmental effects.Because in the personal care articles such as baby diapers, femininehygiene, and adults incontinence products, skin care has a special
+importance; using materials with no skin allergy symptoms such as
+rashes and inflammation is preferred.
+Cellulose ‐based hydrogels are biocompatible and biodegradable
+materials, which show promising future for a number of industrial uses
+such as hygienic products, especially in cases where environmentalissues are concerned. Several water ‐soluble cellulose derivatives can
+be used, singularly or in combination, to form hydrogel networks
+possessing specific properties in terms of swelling capability and sensi-tivity to external stimuli, which can be used in various health careproducts.
+In this review, basic information about superabsorbent hygiene
+products was reviewed, and new superabsorbent materials based onthe natural polymers, their properties, and applications in the personal
+care articles were introduced.
+ORCID
+Anahita Rouhani Shirvan
+http://orcid.org/0000-0002-1097-7865
+REFERENCES
+1. Masuda F. Trends in the development of superabsorbent polymers for
+diapers, Vol 573,ACS Japan1994: 88 –98.
+2. Absorbent Hygiene Products 2011 Available via: https://www.edana.
+org/discover ‐nonwovens/products ‐applications/absorbent ‐hygiene ‐
+products.
+3. Sustainability Report 2007 ‐2008 Absorbent Hygiene Products 2008.
+4. EU ecolabel for sanitary products. Preliminary report_5th draft. 2013.
+5. Gross J. The Evolution of Absorbent Materials . New York: Elsevier;
+1990:3 ‐22.
+6. House S, Mahon T, Cavill S. Menstrual hygiene matters: a resource for
+improving menstrual hygiene around the world. Reprod Health Matters .
+2013;21(41):257 ‐259.
+7. Maria O, Lina L. A Conceptual Female Hygiene Product: Developed
+from Needs and Prerequisites in an Agricultural East African Context.
+2014:122.
+8. Feminine Hygiene Products Market by Type (Sanitary pads, Tampons,
+Internal cleaners & sprays, Panty liners & shields, Disposable razors &blades) and Distribution channel (Supermarkets & hypermarkets, drug
+stores, pharmacies & beauty stores, Convenience stores, Dollar
+stores) —Global Opportunity Analysis and Industry Forecast, 2015 –
+2022, in Personal care and cosmetic. Allied Market Research . 2016;104.
+9. Shende S. Baby Diapers Market by Product Type (Flat Cloth, Fitted
+Cloth, Pre ‐Fold Cloth, Ultra Absorbent Disposable, Regular Disposable,
+Super Absorbent Disposable, Bio ‐Degradable Disposable, Training
+Nappies, Swim Pants, Biodegradable Diapers) —Global Opportunity
+Analysis and Industry Forecast, 2013 ‐2020, in Sports, Fitness and
+Leisure. Allied Market Research . 2014;130.
+10. Peter E, Mandy F, Jan F, Carlo G, Colin M. Summary report —sustain-
+ability panel discussion: the skin health and hygiene benefits ofabsorbent hygiene products and wipes. 2008 Available via: https://
+www.edana.org/docs/default ‐source/default ‐document ‐library/the ‐
+skin‐health ‐and‐hygiene ‐benefits ‐of‐absorbent ‐hygiene ‐products ‐
+and‐wipes ‐‐‐july‐2008.pdf?sfvrsn=0
+11. Olivo T. The future is adult incontinence. Nonwoven Industry Maga-
+zine; 2016 Available via: Available from: http://www.nonwovens ‐
+industry.com/issues/2016
+‐03‐01/view_features/the ‐future ‐if‐adult ‐
+incontinenceBASHARI ET AL. 2865
+
+12. Zohuriaan ‐Mehr MJ, Kabiri K. Superabsorbent polymer materials: a
+review. IRAN POLYM J . 2008;17(6):451.
+13. Omidian H, Rocca JG, Park K. Advances in superporous hydrogels. J
+Control Release . 2005;102(1):3 ‐12.
+14. Omidian H, Zohuriaan ‐Mehr M, Kabiri K, Shah K. Polymer chemistry
+attractiveness: synthesis and swelling studies of gluttonous hydrogels
+in the advanced academic laboratory. J Polym Mater . 2004;21(3):281 ‐
+291.
+15. Super Absorbent Polymer Market by Type (Sodium Polyacrylate,
+Polyacrylate/Polyacrylamide Copolymer, and Others), by Application
+(Personal Care, Agriculture, Medical, Industrial and Others), by
+Region ‐Trends & Forecasts to 2020. Markets and Markets . 2015;136.
+16. Synthetic and Bio Super Absorbent Polymer (SAP) Market Size, Indus-
+try Potential Outlook (U.S., Germany, UK, Italy, Russia, China, India,Japan, South Korea, Brazil, Mexico, Saudi Arabia, UAE, South Africa),
+Report, Regional Analysis, Price Trend, Application Development,
+Competitive Landscape & Forecast, 2016 ‐2023. Global Market Insights,
+2017. Available via: https://www.gminsights.com/industry ‐analysis/
+synthetic ‐and‐bio‐super ‐absorbent ‐polymer ‐sap‐market
+17. Nordic Ecolabelled cleaning products —Background to ecolabelling.
+Nordic Ecolabelling . 2013.
+18. Carlucci G. New technologies for feminine hygiene products with
+reduced environmental impact. WIT Transactions on Ecology and The
+Environment . 2012;155:597 ‐606.
+19. Sannino A, Demitri C, Madaghiele M. Biodegradable cellulose ‐based
+hydrogels: design and applications. Materials . 2009;2(2):353 ‐373.
+20. Caló E, Khutoryanskiy VV. Biomedical applications of hydrogels: a
+review of patents and commercial products. Eur Polym J .
+2015;65:252 ‐267.
+21. Nhung T, Pham EWB. Diapers and Municipal Government.
+NEARTA 2009. Available via: https://www.nearta.com/Papers/
+GovernmentDiapers.pdf. [cited 8/2 2017].
+22. Tirivayi N, Matondi P, Tomini SM, Mesfin W. The negative environ-
+mental impact of disposable diapers: the case of Mberengwa District.
+Zimbabwe IJHS . 2016;4(2):2158 ‐2161.
+23. Meseldzija J, Poznanovic D, Frank R. Assessment of the differing envi-
+ronmental impacts between reusable and disposable diapers. Dufferin
+Research . 2013.
+24. Wambui KE, Joseph M, Makindi S. Soiled diapers disposal practices
+among caregivers in poor and middle income urban settings. IJSRP .
+5(10):1 ‐10.
+25. DeVito MJ, Schecter A. Exposure assessment to dioxins from the use of
+tampons and diapers. Environ Health Perspect . 2002;110(1):23 ‐28.
+26. Mayani A, Barel S, Soback S, Almagor M. Dioxin concentrations in
+women with endometriosis. Hum Reprod . 1997;12(2):373 ‐375.
+27. Shakeri ‐Zadeh A, Bashari A, Kamrava SK, Ghalehbaghi S. The use of
+hydrogel/silver nanoparticle system for preparation of new type of
+feminine tampons. Bionanoscience . 2016;6(4):284 ‐292.
+28. Gifford D. Why disposable diapers are dirty and dangerous. 2016 Avail-
+able via: Available from: https://www.smallfootprintfamily.com/
+dangers ‐of‐disposable ‐diapers.
+29. Service. CDC. A.C.S.T.S.I. Understanding toxic shock syndrome —the
+basics. 2017 Available via: www.webmd.com/women/guide/under-
+standing ‐toxic ‐shock ‐syndrome ‐basics.
+30. Roe E. Sustainability, Menstrual Products and Sphagnum Moss: An
+Investigation. In Resource Management. Lincoln University; 1992.
+31. Vostral SL. Rely and toxic shock syndrome: a technological health crisis.
+Yale J Biol Med . 2011;84(4):447 ‐459.
+32. Creehan PA. Toxic shock syndrome: an opportunity for nursing inter-
+vention. J Obstet Gynecol Neonatal Nurs . 1995;24(6):557 ‐561.
+33. Erizal E, Perkasa DP, Abbas B, Sudirman S, Sulistioso G. Fast swelling
+superabsorbent hydrogels starch based prepared by gamma radiation
+techniques. Indones J Chem . 2014;14(3):246 ‐252.34. Shanmugasundaram O, Gowda R. Development and characterization of
+bamboo and organic cotton fibre blended baby diapers. IJFTR .
+2010;35:201 ‐205.
+35. Jonker AM, Löwik DW, van Hest JC. Peptide ‐and protein ‐based
+hydrogels. Chem Mater . 2012;24(5):759 ‐773.
+36. Semenzato A, Costantini A, Baratto G. Green polymers in personal care
+products: rheological properties of tamarind seed polysaccharide. Cos-
+metics . 2014;2:1): 1 ‐1): 10.
+37. Younes I, Rinaudo M. Chitin and chitosan preparation from marine
+sources. Structure, properties and applications. Mar Drugs .
+2015;13(3):1133 ‐1174.
+38. Cheung RCF, Ng TB, Wong JH, Chan WY. Chitosan: an update on
+potential biomedical and pharmaceutical applications. Mar Drugs .
+2015;13(8):5156 ‐5186.
+39. Majekodunmi SO. Current development of extraction, characterization
+and evaluation of properties of chitosan and its use in medicine andpharmaceutical industry. AJMS . 2016;6(3):86 ‐91.
+40. Sadeghi M, Yarahmadi M. Synthesis and characterization of
+superabsorbent hydrogel based on chitosan ‐g‐poly (acrylic acid ‐
+coacrylonitrile). Afr J Biotechnol . 2011;10(57):12265 ‐12275.
+41. Barleany DR, Alim IP, Rizkiyah N, Lusi UT, Heri Heriyanto EE. Chitosan ‐
+graft ‐poly (Acrylic Acid) Superabsorbent Hydrogel with Antimicrobial
+Activity. In International Conference on Technology, Innovation, andSociety (ICTIS); 2016;654 ‐661.
+42. Hosseinzadeh H. Full ‐polysaccharide superabsorbent hydrogels based
+on carrageenan and sodium alginate. Middle ‐East J Sci Res .
+2012;12:1521 ‐1527.
+43. Aminabhavi TM, Deshmukh AS. Polysaccharide ‐based hydrogels as
+biomaterials. Springer . 2016;45 ‐71.
+44. Wang Y, Wang W, Shi X, Wang A. Enhanced swelling and responsive
+properties of an alginate ‐based superabsorbent hydrogel by sodium
+p‐styrenesulfonate and attapulgite nanorods. Polym Bull .
+2013;70(4):1181 ‐1193.
+45. Ma G, Ran F, Yang Q, Feng E, Lei Z. Eco ‐friendly superabsorbent com-
+posite based on sodium alginate and organo ‐loess with high swelling
+properties. RSC Adv . 2015;5(66):53819 ‐53828.
+46. Qin Y, Deng Y, Hao Y, Zhang N, Shang X. Marine bioactive fibers: algi-
+nate and chitosan fibers —a critical review. JTEFT . 2017;1(6):5.
+47. Khong TT, Aarstad OA, Skjåk ‐Bræk G, Draget KI, Vårum KM. Gelling
+concept combining chitosan and alginate —proof of principle.
+Biomacromolecules . 2013;14(8):2765 ‐2771.
+48. Ismail H, Irani M, Ahmad Z. Starch ‐based hydrogels: present status and
+applications. Int J Polym Mater . 2013;62(7):411 ‐420.
+49. Moore G., Saunders S. Advances in biodegradable polymers, Vol 98,
+iSmithers Rapra Publishing, 1998: 126.
+50. McIntyre K. Corn Starch Based SAP could find home in diapers. Nonwo-
+vens Industry . 2017. Available via: http://www.nonwovens ‐industry.
+com/contents/view_online
+‐exclusives/2017 ‐02‐09/corn ‐starch ‐
+based ‐sap‐could ‐find‐home ‐in‐diapers/
+51. Salimi H, Pourjavadi A, Seidi F, Jahromi PE, Soleyman R. New smart car-
+rageenan ‐based superabsorbent hydrogel hybrid: investigation of
+swelling rate and environmental responsiveness. J Appl Polym Sci .
+2010;117(6):3228 ‐3238.
+52. Hubbe MA, Ayoub A, Daystar JS, Venditti RA, Pawlak JJ. Enhanced
+absorbent products incorporating cellulose and its derivatives: a
+review. BIORESOURCES . 2013;8(4):6556 ‐6629.
+53. Rutz AL, Shah RN. Protein ‐based hydrogels. Springer . 2016;73 ‐104.
+54. Marandi GB, Rouzbahani GB, Kurdtabar M. Synthesis and swelling
+behavior of gelatin ‐based hydrogel nanocomposites. JACR .
+2014;8(3):63 ‐80.
+55. Pourjavadi A, Salimi H. New protein ‐based hydrogel with
+superabsorbing properties: effect of monomer ratio on swelling behav-
+ior and kinetics. Ind Eng Chem Res . 2008;47(23):9206 ‐9213.2866 BASHARI ET AL.
+
+56. Qi Y, Wang H, Wei K, et al. Review of structure construction of silk
+fibroin biomaterials from single structures to multi ‐level structures. Int
+J Mol Sci . 2017;18(3):237.
+57. Bellas E., Baryshyan A., Wray L., Kaplan D.L. Silk fibroin ‐based personal
+care compositions. 2013 US Patent 20150079012 A1, 19 Mar 2015.
+58. Pushpa A, Vishnu BG, Reddy TK. Preparation of nano silk sericin based
+hydrogels from silk industry waste. J Environ Res Develop .
+2013;8(2):243.
+59. Cipriano BH, Banik SJ, Sharma R, et al. Superabsorbent hydrogels
+that are robust and highly stretchable. Macromolecules .
+2014;47(13):4445 ‐4452.
+60. Zhang M, Cheng Z, Zhao T, Liu M, Hu M, Li J. Synthesis, characteriza-
+tion, and swelling behaviors of salt ‐sensitive maize bran –poly (acrylic
+acid) superabsorbent hydrogel. J Agric Food Chem . 2014;
+62(35):8867 ‐8874.
+61. Zohuriaan ‐Mehr M, Omidian H, Doroudiani S, Kabiri K. Advances in
+non‐hygienic applications of superabsorbent hydrogel materials. J
+Mater Sci . 2010;45(21):5711 ‐5735.
+62. Ohmine I, Tanaka T. Salt effects on the phase transition of ionic gels. J
+Chem Phys . 1982;77(11):5725 ‐5729.
+63. Mulder DC, O'ryan DE. Method and apparatus for powder coating a mov-
+ing web. US Patent , 1987.
+64. Shirvan AR, Hemmatinejad N, Bashari A. PET ‐cell fibers: synthetic with
+natural effects, surface modification of PET fibers with luffa
+nanowhiskers. J Polym Environ . 2017;25(2):453 ‐464.
+65. Kabiri K, Omidian H, Hashemi S, Zohuriaan ‐Mehr M. Synthesis of fast ‐
+swelling superabsorbent hydrogels: effect of crosslinker type and
+concentration on porosity and absorption rate. Eur Polym J .
+2003;39(7):1341 ‐1348.
+66. Chang C, Zhang L. Cellulose ‐based hydrogels: present status and appli-
+cation prospects. Carbohydr Polym . 2011;84(1):40 ‐53.
+67. Ma J, Li X, Bao Y. Advances in cellulose ‐based superabsorbent
+hydrogels. RSC Adv . 2015;5(73):59745 ‐59757.68. Spagnol C, Rodrigues FH, Neto AG, et al. Nanocomposites based on
+poly (acrylamide ‐co‐acrylate) and cellulose nanowhiskers. Eur Polym J .
+2012;48(3):454 ‐463.
+69. Peng X ‐W, Ren J ‐L, Zhong L ‐X, Peng F, Sun R ‐C. Xylan ‐rich hemicellu-
+loses ‐graft ‐acrylic acid ionic hydrogels with rapid responses to pH, salt,
+and organic solvents. J Agric Food Chem . 2011;59(15):8208 ‐8215.
+70. Liu J, Li Q, Su Y, Yue Q, Gao B, Wang R. Synthesis of wheat straw cel-
+lulose ‐g‐poly (potassium acrylate)/PVA semi ‐IPNs superabsorbent
+resin. Carbohydr Polym . 2013;94(1):539 ‐546.
+71. Baimark Y, Srisuwan Y. Preparation of polysaccharide ‐based micro-
+spheres by a water ‐in‐oil emulsion solvent diffusion method for drug
+carriers. Int J Polym Sci . 2013;2013:6.
+72. Frediani M, Giachi G, Rosi L, Frediani P. Synthesis and processing of
+biodegradable and bio ‐based polymers by microwave irradiation.
+InTech . 2011;181 ‐206.
+73. Pittler MH, Ernst E. Dietary supplements for body ‐weight reduction: a
+systematic review. Am J Clin Nutr . 2004;79(4):529 ‐536.
+74. Lewis JH. Esophageal and small bowel obstruction from guar gum ‐con-
+taining “diet pills ”: analysis of 26 cases reported to the Food and Drug
+Administration. Am J Gastroenterol . 1992;87(10):1424 ‐1428.
+75. Chen J, Park H, Park K. Synthesis of superporous hydrogels: hydrogels
+with fast swelling and superabsorbent properties. J Biomed Mater Res
+Part A . 1999;44(1):53 ‐62.
+76. Onofrei M, Filimon A. Cellulose ‐based hydrogels: designing concepts,
+properties, and perspectives for biomedical and environmental applica-
+tions. Formatex Research Center . 2016;108 ‐120.
+How to cite this article: Bashari A, Rouhani Shirvan A, Shakeri
+M. Cellulose ‐based hydrogels for personal care products. Polym
+Adv Technol . 2018;29:2853 –2867. https://doi.org/10.1002/
+pat.4290BASHARI ET AL. 2867
+

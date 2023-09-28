@@ -1,0 +1,1051 @@
+THE JOURNAL OF BIOLOQICAL CHEMISTRY 
+Vol.244, No. 20,Issue of October 25, PP. 546b5-5470, 1969 
+Printed in U.S.A. 
+Enzymes That Hydrolyze Fungal Cell Wall Polysaccharides 
+I. PURIFICATION AND PROPERTIES OF AN ENDO-m-(1 + 3)-GLUCANASE FROM TRICHODERMA 
+VIRIDE* 
+(Received for publication, May 15, 19G9) 
+SHIRO HASEG~W~$ AND JOHN H. KORDIN! 
+From the Department of Biochemistry, University of Massachusetts, Amherst, Massachusetts 01002 
+S. KIRKWOOD 
+From the Departm.ent of Biochemistry, University of Minnesota, St. Paul, Minnesota 55101 
+SUMMARY 
+An endo-a-D-(1 + 3).glucanase capable of hydrolyzing 
+various ~(1 -+ 3).glucans has been isolated and purified 
+from the culture filtrate of the cellulolytic fungus Tricho- 
+derma viride, and its specificity has been examined. Of the 
+compounds tested only those with oc-(1 ---f 3).glucosidic 
+linkages were attacked, and the enzymatic hydrolysis oc- 
+curred with retention of configuration of the anomeric carbon 
+atom involved in cleavage. 
+Some properties of the enzyme have been investigated. 
+Optimum pH and temperature for activity are 4.5 and SO”, 
+respectively. The values of K, and V,,, under standard 
+assay conditions are 4.6 X 10K2 M glucose equivalents and 
+0.16 pmole of glucose equivalent per min. The molecular 
+weight of the enzyme estimated by column chromatography 
+on Sephadex G-100 was found to be approximately 47,000. 
+Zn++ and Fe++ were found to be reversible inhibitors of the 
+enzyme while Ag+ and Hg+ abolished activity irreversibly. 
+The use of this enzyme in structural carbohydrate chem- 
+istry is discussed. 
+The biological functions of a great majority of polysaccharides, 
+especially in the plant kingdom, are not understood. The key 
+to much of the understanding of their roles lies in a knowledge of 
+their chemical fine structure and the mechanisms of their synthe- 
+sis and degradation. Studies of the structures of many polygly- 
+cans have been greatly facilitated by the use of enzymes with 
+rather strict specificity that cleave glycosidic linkages. The use 
+of enzymatic methods in structural analysis of complex poly- 
+saccharides has been of particular value in gaining an insight into 
+*This research was supported by grant CB 7774 from the 
+National Science Foundation and by the Herman Frasch Founda- 
+tion. 
+$ Present address, Department of Molecular Biology, Albert 
+Einstein College of Medicine, New York, New York 10461. 
+0 To whom all inquiries should be directed. the structures of bacterial cell wall components (1, 2) and glyco- 
+proteins (3, 4). 
+There have been a few reports describing the presence of crude 
+enzyme activities capable of hydrolyzing a-(1 --t 3).glucosidic 
+linkages in higher plants and seaweeds; however, no enzyme 
+specific for this linkage has been reported. Peat and Reese (5) 
+prepared a crude enzyme from Porphyra umbilicalis which hydro- 
+lyzed nigerose but was equally active on sucrose and maltose. 
+A rather nonspecific nigerase activity has also been described in 
+extracts of alfalfa, protozoa, and yeast (6). An activity in 
+Streptomyces capable of hydrolysis of yeast cy-(1 ---f 3)-glucans 
+has recently been reported (7). 
+Enzyme activity specific toward a-(1 + Y)-glucosidic linkages 
+was first observed by us in culture filtrates of Trichoderma viride 
+(8). When grown in a medium containing the oc-(1 + 3)-glucan 
+(pseudonigeran) isolated from dspergillus niger, T. viride pro- 
+duces the enzyme in its culture fluid. Of a number of fungal 
+strains tested this species showed the highest activity. 
+Polysaccharides which consist almost exclusively of a-(1 + 3)- 
+glucosidic linkages have only recently been reported but appear 
+to be important in cell wall structure. Ralph and Bender (9) 
+obtained a preparation from the walls of the basidiomycite PoZg- 
+porus tumulosus which yielded an c-r-(1 4 3).glucan fraction. 
+Similar polymers have now been isolated from A. niger (lo), 
+Polyporus betulinus (II), and, more recently, Cryptococcus and 
+Schizosaccharomyces species of yeast (7). The present communi- 
+cation details the purification and properties of a highly specific 
+a-(1 -+ 3).glucanase with activity toward a variety of glucose- 
+containing oligo- and polysaccharides containing or-(1 + 3).link- 
+ages. 
+MATERIALS 
+A. niger NRRL 326 was obtained from the culture collect,ion 
+of the Northern Regional Research Laboratory, United States 
+Department of Agriculture, Peoria, Illinois, and T. viride QlH6a 
+from the United States Army Natick Laboratories, Natick, Mas- 
+sachusetts. The exo-/-n-(1 + 3).glucanase was purified as 
+previously described (12). Polyporus tumulosus glucan was a 
+gift from Dr. B. J. Ralph. Other polysaccharides were available 
+in our laboratory collection. 
+5460  at PROCTER & GAMBLE CO on December 16, 2020 http://www.jbc.org/ Downloaded from 
+Issue of October 25, 1969 S. Hasegawa, J. H. Nordin, and S. Kirkwood 5461 
+Ion exchange resins IR120(H)+ and IR45(OH)- were obtained 
+from Malinckrodt. Sephadex gels and blue dextran were pur- 
+chased from Pharmacia. Hexamethyldisilazane, trimethyl- 
+chlorosilazine, crystalline pepsin, trypsin, and pancreatic ribo- 
+nuclease were obtained from Nutritional Biochemicals. Bovine 
+serum albumin was purchased from Sigma. Horseradish peroxi- 
+dase and hemoglobin were obtained from Worthington and cyto- 
+chrome c from Mann. Reagents for polyacrylamide gel electro- 
+phoresis were purchased from Distillation Products Industries 
+Division of Eastman Kodak. 
+All other chemicals were reagent grade and carbohydrates used 
+were of the n configuration. 
+Pseudonigeran was isolated from mycelia of A. niger NRRL 
+326, which was grown in submerged culture with a Micro-Ferm 
+laboratory fermentor, model MF-107 (New Brunswick Scientific 
+Company, New Brunswick, New Jersey). Growth medium con- 
+sisted of the following in grams per 10 liters: glucose, 466; tar- 
+taric acid, 26.6; NHINOa, 26.6; (NH&SO+ 1.67; K&03, 4.66; 
+MgCOa, 2.66; (NHk)HzPOd, 5.0; FeSO .7HzO, 0.466; ZnSO .7H20, 
+0.466; and Hz0 to 10 liters. The pH was adjusted to 5.0 with 
+concentrated NHPH. 
+Two 150-ml portions of medium in 500-ml Erlenmeyer flasks 
+were inoculated with A. niger spores and grown on a reciprocal 
+shaker at 20-22’ for 6 days. They were then used to inoculate 
+sterile culture medium in the fermentor. This culture was grown 
+with an aeration rate of 2 liters per min at 25” for 6 days. Agita- 
+tion was regulated at 100 rpm. The amount of pseudonigeran in 
+the cells was found to fluctuate with changes in culture condi- 
+tions. One factor controlling c+(l + 3)-glucan content in this 
+particular strain of A. niger is the carbon source. Practically no 
+pseudonigeran is present in cells grown in surface culture with 
+either sucrose or glucose as carbon source. However, submerged 
+culture favors the synthesis of pseudonigeran by the mycelia. 
+While the reasons for this are unclear, it may be related to the 
+structural nature of the mycelium under two diierent environ- 
+ments. In addition to nutritional conditions, other factors 
+seem to influence the formation of the polymer. Six-day-old 
+mycelia generally contained the maximum amount of poly- 
+saccharide, and an initial culture medium pH of 5.0 and growth 
+t,emperature of 25” resulted in the highest yield of the glucan. 
+Mycelia were harvested by filtering the culture through cheese- 
+cloth. The mycelia was then placed on a Buchner funnel, and 
+excess water was removed by suction filtration. The cells (500 
+to 600 g) were suspended in 4 liters of water and filtered again. 
+This was repeated until the washings became colorless. The 
+washed cell mass was suspended in 4 liters of water and auto- 
+claved at 15 pounds pressure for 20 min. The suspension was 
+filtered through cheesecloth while hot, and the mycelia were 
+again extracted with 4 liters of boiling water for 20 min 
+and washed with 3 to 4 liters of boiling water until the washings 
+became colorless. The washed cells were then cooled and sus- 
+pended in 4 liters of 0.1 M sodium borohydride solution, and the 
+mixture was allowed to stand for several hours with occasional 
+stirring. Without adjustment of the pH of the suspension, it 
+was made 1 N with respect to NaOH and heated on a steam bath 
+for 3 hours. The alkaline suspension was filtered through cheese- 
+cloth, and the resulting brownish filtrate was cooled. Two vol- 
+umes of methanol were added to the extract with vigorous stir- 
+ring, and the mixture allowed to stand for 3 to 4 hours at room 
+temperature. The precipitated polysaccharide was collected by 
+centrifugation (1000 x g) and washed with a solution of meth- anol and water(3: 1, v/v) until the washings became free of color. 
+The washed .precipitate was dissolved in 1 liter of 1 N NaOH, 
+and a small amount of insoluble material was removed by filtra- 
+tion through glass wool. The filtrate was treated with 2 volumes 
+of methanol, and the resulting white precipitate was collected by 
+centrifugation (1000 x g) and washed with methanol-water 
+(3 : 1, v/v) three times. It was then suspended in a solution of 
+methanol and 0.1 N acetic acid (3: 1, v/v). The suspension was 
+allowed to stand for several hours with occasional stirring. The 
+neutraliied precipitate was collected and washed with methanol- 
+water (3:1, v/v) and then with water. It was again suspended 
+in hot water, and the suspension was heated in a boiling water 
+bath for 20 min and immediately centrifuged. The supernatant 
+was discarded. This hot water extraction was repeated three 
+times. The precipitate was finally washed with ethanol and 
+ether three times each and dried under reduced pressure (yield, 
+5.5 to 6 g). Pseudonigeran of this purity (PN 1) was used for 
+induction of cu-1,3-glucanase by T. vi&k. 
+For further purification, 5 g of polysaccharide (PN 1) were re- 
+extracted three times with l-liter portions of boiling water. The 
+suspension was finally centrifuged, the washed polysaccharide 
+was dissolved in 400 ml of 1 N NaOH, and 450 ml of 0.3 M CuSOl 
+solution were added (13, 14). The mixture was allowed to stand 
+at 5” for 2 hours. The precipitate which formed was collected 
+by centrifugation and washed with cold 1 N HCl until the washing 
+became free of blue color. The polysaccharide was then washed 
+with water until the washings became free of chloride ions. It 
+was then redissolved in 400 ml of 1 N NaOH. Pseudonigeran 
+(PN 2) was precipitated, washed, and dried as before (yield, 4.3 
+to 4.7 g, [ar]n +257”, 0.6 1 N NaOH). 
+ANALYTICAL METHODS 
+Deionization of sugar solutions was performed with either 
+BaCOa or a mixed bed resin column consisting of Amberlite IR- 
+120 (H)+ and Amberlite IR-45 (OH)-. All sugar solutions were 
+concentrated under reduced pressure at 45-50”. Descending 
+chromatography was carried out at room temperature on What- 
+man No 1 paper with, unless otherwise stated, the following 
+solvent systems: Solvent I, butanol-acetic acid-HzO, 2: 1: 1, v/v 
+(14); Solvent II, butanol-pyridine-HzO, 6:4:3, v/v (15); Sol- 
+vent III, 2-propanol-acetic acid-H&, 54:8: 18, v/v (16). Sugars 
+were detected on paper by the silver nitrate method of Trevelyan, 
+Proctor, and Harrison (17). Nigerodextrins were prepared 
+(from pseudonigeran) essentially by the method described by 
+Johnston (lo), and the degree of polymerization was determined 
+by a modification of the method of Whelan (18) of the phenol- 
+sulfuric acid assay (19). Periodate oxidation of polysaccharides 
+was performed by the method of Aspinall and Ferrier (20), but 
+incubation was carried out with continuous stirring at 5” instead 
+of 35”. Reduction of the products of periodate oxidation was 
+performed by the method of Hamilton and Smith (21). Glycerol 
+liberated from the Smith degradation of polysaccharide was de- 
+termined by the method of Lambert and Neish (22). Total car- 
+bohydrate was estimated by the phenol-sulfuric acid method of 
+Dubois et. al. (19). Reducing sugars were determined by the 
+method of Nelson-Somogyl (23). 
+Protein was determined by the method of Lowry et al. (24) 
+with crystalline bovine serum albumin as a standard and by 
+absorbance at 280 rnp. The molecular weight of the enzyme was 
+determined by the method of Whitaker (25). The (Y-(1 + 3)- 
+glucanase used in this particular experiment was an ammonium  at PROCTER & GAMBLE CO on December 16, 2020 http://www.jbc.org/ Downloaded from 
+Enzymes That Hydrolyze Fungal Polysaccharides. I Vol. 244, No. 20 
+sulphate fraction and was located by the standard assay described 
+below. Peaks for cytochrome c, hemoglobin, and peroxidase 
+were determined from absorbances of their solutions at 550, 405, 
+and 405 mp, respectively. Other proteins were measured at 280 
+mk 
+Analytical disc gel electrophoresis in polyacrylamide gel was 
+carried out at pH 8.6 by the procedure of Ornstein and Davis 
+(26) and at pH 4.5 according to the method of Reisfeld, Lewis, 
+and Williams (27). 
+Location of enzyme activity in the analytical gels was achieved 
+by cutting the gel into 0.5-cm sections and eluting each in 1 ml of 
+0.05 M citrate phosphate buffer, pH 4.5, containing 0.5 M sodium 
+chloride in small test tubes. The gel section was smashed with a 
+spatula, and the mixture was allowed to stand in the cold over- 
+night. Twenty-five pliters of each fraction were then assayed by 
+the micro method described below for the ability to hydrolyze 
+pseudonigeran. 
+Gas chromatography of products of the enzyme reaction was 
+carried out according to the method of Sweeley et al. (28) and 
+Parrish and Reese (29). The glass column (6 feet x l/4 inch) 
+was packed with SE 30 (1%) on Anakrom 100 to 110 mesh. 
+Column temperature was 140”. 
+Enzyme Assays-The standard assay consisted of an incuba- 
+tion of 0.5 ml of suitably diluted enzyme with 0.5 ml of 0.4% 
+pseudonigeran suspension in 0.05 M citrate-phosphate buffer, pH 
+4.5, at 40” for 10 min. Aliquots were then withdrawn for de- 
+termination of reducing sugar. When necessary, after 
+arsenmolybdate reagent was added, insoluble pseudonigeran was 
+centrifuged (200 x g) directly in the tubes to prevent turbidi- 
+metric interferences with calorimeter readings. 
+One unit of enzyme is defined as that amount which will liber- 
+ate 1.0 pmole of reducing sugar equivalent, expressed as glucose, 
+per min under the standard assay conditions. Enzyme concen- 
+tration is expressed as units per mg of protein. 
+Determination of the ability of the enzyme to attack various 
+polysaccharides or oligosaccharides was performed by the follow- 
+ing micro scale procedure. Approximately 0.01 unit of enzyme 
+was incubated with 100 pg of carbohydrate in solution or sus- 
+pension in 0.05 M acetate or 0.03 M citrate-phosphate buffer, pH 
+4.5, in a final volume of 50 pliters. The incubation was carried 
+out in a sealed melting point capillary tube at 40” overnight, and 
+the entire contents were then chromatographed directly in Sol- 
+vent II for identification of reaction products. Controls without 
+enzyme were included for each incubation. 
+Enzyme Production-T. virid.e QM6A was grown in a medium 
+containing glucose (0.3 %), pseudonigeran (0.3 %), and Tricho- 
+delma-salts solution (30). 
+The medium was disrupted by sonic oscillation until the pseu- 
+donigeran became a fine suspension. Five 500-ml Erlenmeyer 
+flasks, each containing 100 ml of disrupted medium, were pre- 
+pared. The autoclaved flasks were inoculated with T. viricle 
+QM6A spores and incubated on the reciprocal shaker at room 
+temperature for 10 days. This time period allowed for maxi- 
+mum accumulation of enzyme in the culture filtrate. 
+Enzyme Purification-All steps were carried out a 04” unless 
+specified otherwise. The culture filtrate (500 ml) was filtered 
+through Whatman No. 1 paper, and the crude enzyme could be 
+obtained by raising the cold solution to 75% of saturation with 
+ammonium sulfate, followed by collection of the precipitate after 
+12 hours, or by the use of membrane filtration (UM-1 ultrafilters 
+and concentrating device, Amicon Corporation, Lexington, Mas- sachusetts). The pH was maintained between 4.5 and 6.5 dur- 
+ing this process. The concentrated enzyme (9 ml) was dialyzed 
+for 12 hours against several changes of distilled water. Any 
+insoluble material in the dialyzed enzyme solution was removed 
+by centrifugation at 12,000 x g for 15 min. Enzyme could be 
+frozen as the concentrated extract for several months without 
+significant loss of activity. 
+Three to 4 ml of the ammonium sulfate enzyme (15 mg of pro- 
+tein) were chromatographed on a column of Sephadex G-150 
+(2.5 X 35 cm) equilibrated with 0.15 M citrate-O.03 M phosphate 
+buffer, pH 7.0, and eluted with the same buffer. The flow rate 
+was adjusted to 0.15 ml per min. Fractions were assayed for 
+enzymatic activity and absorbance at 280 mp. Tubes containing 
+enzyme were combined and concentrated under reduced pres- 
+sure with semipermeable collodion bags (Schleicher and Schuell). 
+The yields from two G-150 column preparations were usually 
+pooled before proceeding to the next step. 
+A 3-ml sample of G-150 enzyme (8 to 10 mg of protein) was 
+chromatographed on a DEAE-Sephadex column (1.8 x 17 cm) 
+which was equilibrated with 0.015 M citrate-O.03 M phosphate 
+buffer, pH 7.0. A flow rate of 0.1 ml per min was usually main- 
+tained. Elution was carried out with 400 ml of buffer with a 
+linear gradient of sodium chloride from 0 to 0.5 M. Fractions 
+with enzymatic activity were combined and concentrated to 0.5 
+ml with a semipermeable membrane bag against water, and 0.5 ml 
+of 0.3 M acetate buffer, pH 4.5, was added to the enzyme solution. 
+The concentrated DEAE-Sephadex enzyme (2 to 3 mg of pro- 
+tein) was applied to a Sulfoethyl-(SE-) Sephadex C-50 column 
+(1.8 X 38 cm) previously equilibrated with 0.1 M acetate buffer, 
+pH 4.5. A linear gradient of 0 to 0.5 M sodium chloride in the 
+same buffer was again employed with a flow rate of 0.1 to 0.15 
+ml per min. Pooled fractions containing the enzyme were con- 
+centrated as above and stored at 3”. The enzyme was found to 
+be most stable when maintained in the pH range of 4.5 to 6 and 
+could be kept for several months before significant loss of activity 
+occurred. 
+RESULTS 
+Structure of Polysaccharidel-Pseudonigeran (PN 2, 5 mg) was 
+suspended in 2 ml of 1 N H&lo4 and hydrolyzed for 12 hours at 
+100” in a sealed glass vial. The polymer completely dissolved 
+during this time. The hydrolysate was neutralized with BaC03 
+and centrifuged. The concentrated supernatant was chromato- 
+graphed in Solvents I and II. Glucose was the only product 
+observed with the silver nitrate developer. 
+Pseudonigeran (PN 2,85 mg) was suspended in 50 ml of 0.015 
+M sodium periodate. In addition, 104 mg of nigeran suspended 
+in an identical volume of periodate and incubated under the 
+same conditions served as a standard. The results shown in 
+Fig. 1 indicate 3.8 x lo-* mole of periodate consumed per mole 
+of anhydrohexose residue in pseudonigeran. Nigeran consumed 
+0.5 mole per mole of anhydrohexose, which is consistent with its 
+structure. The very small consumption of periodate by pseu- 
+donigeran supports the view that the material is (1 -+ 3)-linked. 
+The average degree of polymerization of the polysaccharide 
+was determined by a Smith degradation (32) of the molecule. 
+When a linear glycan was subjected to this procedure, followed by 
+mild acid hydrolysis, 1 molecule of glycerol released from the non- 
+1 Detailed chemical studies of the polysaccharide have been 
+published elsewhere (31).  at PROCTER & GAMBLE CO on December 16, 2020 http://www.jbc.org/ Downloaded from 
+Issue of October 25,1969 S. Hasegawa, J. H. Nor&n, and S. Kirkwood 5463 2 i7 OXIDATION OF NIGERAN 
+E 
+2 4 6 8 10 12 14 16 
+TIME (Hounsl 
+OXlOATlON OF PSEUDONIGERAN 
+” -0 
+/ 6 
+I I I I I 
+2 4 6 8 IO 
+IN~UEATI~N TIME (DAYS) 
+FIG. 1. Pseudonigeran (85 mg) and nigeran (104 mg) were each 
+suspended in 50 ml of 0.015 M sodium periodate solution. The 
+course of oxidation at 5” in the dark was followed spectrophoto- 
+metrically according to the method of Aspinall and Ferrier (26). 
+The theoretical uptake of periodate by nigeran is 0.50 mole per 
+mole of sugar residue. 
+reducing end of each chain. It is therefore possible to calculate 
+the degree of polymerization from the amount of liberated glyc- 
+erol. 
+Pseudonigeran (PN 2, 39.8 mg) was suspended in 50 ml of 
+0.015 M sodium periodate in the dark at 5” with stirring. After 
+16 days, 0.2 ml of ethylene glycol was added to destroy excess 
+periodate. The oxidized pseudonigeran was centrifuged, washed 
+with wa.ter, and resuspended in 10 ml of water. Forty milli- 
+grams of sodium borohydride dissolved in 5 ml of water were 
+added to the suspension, and the mixture was allowed to stand 
+another 24 hours. The excess borohydride was destroyed by 
+adding acetic acid to pH 6.0. The reduced polysaccharide was 
+collected by centrifugation and washed exhaustively with water. 
+The polysaceharide alcohol was suspended in 10 ml of 0.1 N 
+HZS04 and stirred at room temperature for 24 hours. It was 
+then centrifuged, and the supernatant was recovered. The 
+precipitate was washed with water, and the washings and su- 
+pernatant were combined. This solution was concentrated to 
+dryness under reduced pressure at 50”, and 2 ml of water were 
+added to the residue. It was then assayed for glycerol as de- 
+scribed above in “Analytical Methods,” and 1.34 x lOma mole 
+of glycerol was liberated per mole of anhydrohexose. Assuming 
+an unbranched molecule (31), the degree of polymerization of 
+this pseudonigeran preparation appears to be about 700, based 
+on these results. 
+Enzyme Production-The effects of growth period and con- 
+centration of inducer, pseudonigeran, on CC-(1 ---f 3)glucanase 
+production by T. wir& were investigated. The organism was 
+grown as described above with increasing amounts of pseu- 
+donigeran. The control medium contained 0.6% glucose but no 1.4 - 
+1.2 - 
+2 
+s u-3 
+2 1.0 - 
+d 
+d 
+0.8 - > 
+I- 
+5 
+F 
+2 0.6 - 
+w 
+E 
+CJ 
+z 
+w 
+0.4 - 
+0.2 - 
+0 0.05 o/o 
+CULTURE AGE (DAYS) 
+FIG. 2. Effect of growth period and inducer concentration on 
+CU-(1 + 3)-glucanase production. T. viride QM6A was grown in 
+Trichoderma salts medium (30) with increasing amounts of pseudo- 
+nigeran. The control medium contained 0.6% glucose as carbon 
+source. Aliquots of culture titrate were assayed for activity at 
+the indicated times. 0 -U, without pseudonigeran; O-O, 
+0.0570; O-O, 0.1%; X-X, 0.2%; and A-A, 0.57& pseudo- 
+nigeran, respectively. For details see text. 
+pseudonigeran. Periodically, 4-ml aliquots of growth culture 
+were withdrawn, and the filtrate was assayed for enzyme activity 
+by the standard enzyme assay. The results are shown in Fig. 2. 
+The amount of enzyme activity induced was proportional to 
+the amount of inducer added. For producing the enzyme, 0.3% 
+inducer was routinely used. Maximum yield of enzyme was 
+usually obtained in cultures after 8 to 10 days of growth. 
+A much higher recovery of enzyme units was consistently ob- 
+tained when the 75% ammonium sulfate fraction was allowed to 
+stand overnight at 4’ before the precipitated protein was collected 
+by centrifugation. The bulk. of the activity was found in the 
+fraction obtained between 35 and 75% saturation. For large 
+scale experiments, however, where 5 to 10 liters of culture filtrate 
+were fractionated, ultrafiltration was a more efficient method of 
+concentrating the enzyme. 
+The result of a typical Sephadex G-150 column is shown in 
+Fig. 3. Three major peaks were generally observed. The first 
+minor peak corresponds to the void volume, while the activity 
+eluted as a second peak in tubes 40 to 56. 
+The elution pattern on DEAE-Sephadex is shown in Fig. 4. 
+Enzyme activity was recovered in the small second peak eluting 
+over the range of tubes 16 to 28. Fig. 5 shows the result of  at PROCTER & GAMBLE CO on December 16, 2020 http://www.jbc.org/ Downloaded from 
+5464 Enzymes That Hydrolyze Fungal Polysaccharides. I Vol. 244, No. 20 
+t 
+d 
+d 
+20 40 60 80 100 
+TUBE NUMBER 
+FIQ. 3. Three milliliters of ammonium sulfate enzyme (15 mg 
+of protein) were chromatographed on a column (2.5 X 35 cm) of 
+Sephadex G-150. The eluting buffer wae 0.015 Y citrate-O.03 M 
+phosphate, pH 7.0. Fractions of 2 ml each were usually collected. 
+The void volume corresponds to tube 32. l - - -0, enzyme 
+activity; O-O, protein. For details see text. 
+20 40 60 80 100 120 
+TUBE NUMREP 
+FIG. 4. Eight, milligrams (47 unite) of the Sephadex G-150 
+enzyme in 3 ml of 0.015 M citrate-O.03 M phosphate buffer, pH 7.0, 
+were placed on a column (1.8 X 17 cm) of DEAE-Sephadex A-50. 
+A linear gradient of 0 to 0.5 M NaCl was used to elute the enzyme; 
+l-ml fractions were collected. O-O, protein; l - - -0, 
+enzyme activity. For details see text. 
+Sephadex C50 column chromatography of DEAELcellulose en- 
+zyme. Three protein peaks were observed with the activity 
+corresponding to the first peak.2 A summary of the purification 
+*This step also served to remove a very weak exo-cu-(1 -+ 3)- 
+glucanase activity from the preparation. This enzyme was dis- 
+tinguished from the major activity by its ability to hydrolyze 
+nigerose. TUBE NUMBER 
+FIG. 5. One milliliter (2.15 mg of protein) of DEAE-Sephadex 
+enzyme was chromatographed on a column (1.8 X 39 cm) of sul- 
+foethyl Sephadex C-50 previously equilibrated with 0.1 M acetate 
+buffer, pH 4.5. A linear gradient of 0 to 0.5 M NaCl was employed 
+in eluting the enzyme; l-ml fractions were collected. O---O, 
+enzyme activity; O-O, protein. For details see text. 
+TABLE I 
+Enyzme purification 
+The data were obtained during the purification of 500 ml of 
+culture filtrate. For details of experimental procedure see the 
+text. 
+Purification step 
+Culture filtrate.. . . . . . . 
+Ammonium sulfate. . . . . 
+Sephadex G-150. . . . . 
+DEAE-Sephadex A-50.. . 
+SE-Sephadex C-5Oa. . . . 3 
+-_ 
+- - 
+:I c 
+-- 
+ml units/ 
+ml 
+500 0.18 0.25 0.73 100 
+9.5 8.9 5.1 1.75 93 2.4 
+90 0.85 0.143 5.95 84 8.2 
+19.5 2.5 0.157 16 54 22 
+22.5 1.2 0.026 46 30 63 
+Q SE-, Sulfoethyl. 
+procedure is outlined in Table I. The over-all purification of 
+only 60-fold reflects the relatively pure state of the enzyme in 
+the culture filtrate. 
+Properties of Enzyme-A photograph of an acrylamide gel of 
+enzyme prepared by the above procedure is shown in Fig. 6. 
+At pH 4.5 there appears to be a minor band moving slightly be- 
+hid the enzyme. Only the major band contained any detect- 
+able enzymatic activity as evidenced by sectioning, eluting, and 
+assaying the gel fractions as detailed in “Analytical Methods.” 
+At pH 8.3 the enzyme moved only slightly after several hours as 
+a single band, but it could not be eluted in an active form. This 
+was not unexpected since the enzyme does not retain its activity 
+upon storage at pH values above 7. 
+The molecular weight of the enzyme was estimated by use of 
+a Sephadex GlOO column (2.3 X 30 cm) equilibrated with 0.15 
+M citrate-O.03 M phosphate buffer, pH 8.0. One milliliter of 
+marker protein solution in the same buffer was applied to the 
+column, and the flow rate was adjusted to 0.2 ml per min. Void 
+volume was determined with a l-ml sample of 0.2yo blue dextran 
+solution. A plot of relative elution volumes of markers and en- 
+zymatic activity versus the log of molecular weight for the  at PROCTER & GAMBLE CO on December 16, 2020 http://www.jbc.org/ Downloaded from 
+Issue of October 25, 1969 S. Hasegawa, J. H. Nor&in, and S. Kirkwood 5465 
+FIG. 6. Acrylamide gel electrophoresis of purified or-(1 -+ 3)- 
+glucanase. Enzyme, 100 fig, was run at pH 4.5 according to the 
+method of Reisfeld et al. (27). Migration took place from top 
+(+) to bottom (-). The protein was stained using Coomassie 
+brilliant blue in 10% tricbloracetic acid (33). Only the area 
+which corresponds to the major band contained detectable enzy- 
+matic activity when assayed as described under “Analytical 
+Methods .” 
+markers is given in Fig. 7. The molecular weight determined 
+from the experiment is approximately 47,000. 
+The proportionality of the reaction to enzyme concentration 
+and time is illustrated in Fig. 8. 
+The influence of hydrogen ion concentration on enzymatic ac- 
+tivity was investigated over the pH range 3 to 8. The assay 
+was carried out under standard conditions, except for pH, and 
+the results are shown in Fig. 9. The optimal pH, 4.5, typical of 
+many carbohydrases (3, 12), was also found excellent for storage 
+of the enzyme over long periods. 
+Experiments conducted to determine initial reaction velocity 
+as a function of temperature indicated that at 50” the enzyme is 
+rapidly and irreversibly inactivated under standard assay con- 
+ditions. A calculation of the activation energy for the enzy- 
+matic hydrolysis with the integrated form of the Arrhenius equa- 
+tion yielded a value of 7000 calories per mole. The rather high 
+temperature maximum may in part reflect the effect of partial 
+solubilization of the substrate on reaction rate. 
+The influence of substrate concentration on the initial velocity 
+of the reaction was determined, and the K, and Vmag values 
+for the enzyme were calculated from the Lineweaver-Burk plot 
+shown in Fig. 10. 
+The effect of various metal ions on enzyme activity was in- 
+vestigated. All metal solutions were prepared as chloride salts 
+except Pb*, Hg+, and Ag+, which were employed as their 
+acetates. 
+Enzymes previously dialyzed against water (0.008 unit) was 
+incubated in 0.03 M citrate-phosphate buffer, pH 4.5, containing 
+1 or 10 micromoles of metal ion in a final volume of 0.7 ml at 
+40” for 15 min. Then 0.3 ml of a 7% pseudonigeran suspension 
+in the above buffer was added, and the incubation was continued 2.4 
+2.2 
+2.c 
+L!L 
+VO 
+I.E 
+1.E 
+1.4 
+L j- 
+i-- 
+3.C \e CYTOCHROME C 
+0 HEMGSLOEIIN 
+PEROXIDASE 
+h CX ~,~-GL~~AN~~E 
+I I 
+1 4.2 4.4 4.6 4.8 5.0 5.2 
+LOG MOLECULAR WEIGHT 
+FIG. 7. Molecular weight determination of the enzyme by 
+Sephadex G-100 column chromatography (25). The size of the 
+column was 2.3 X 30 cm; the flow rate was 0.4 ml per min, and 
+fractions of 1 ml were collected. The temperature was 4”. All 
+markers and the unknown were each dissolved in 1 ml of 0.015 M 
+citrate-O.03 M phosphate buffer, pH 7.0. Concentrations em- 
+ployed for the proteins were in milligrams per ml; cytochrome c, 
+3.0; ribonuclease, 4.5; trypsin, 2.5; peroxidase, 3.0; hemoglobin, 
+5.0; serum albumin, 5.0; and ~(1 -+ 3)-glucanase, 3.5. The elution 
+volume of each protein was determined independently immedi- 
+ately after a void volume measurement for each runwas madewith 
+blue dextran 2000. 
+for 10 min at 40”. Reducing power was measured in the 
+various reaction mixtures, and all values obtained were 
+corrected for any effect on the Nelson’s test by using standard 
+glucose solution assayed in the presence of each metal ion in- 
+dependently. The results are summarized in Table II. Activity 
+is expressed relative to a control containing no added metal ion. 
+Under the conditions of the assay Fe* and Zn++ are strongly 
+inhibitory toward the enzyme at 1.7 X 10B2 M, but the inhibition 
+is freely reversible since practically full activity could be restored 
+by dialyzing the inactivated enzyme against several changes of 
+distilled water. The only other metals found to affect activity 
+significantly were Hg+ and Agf, which completely and irrevers- 
+ibly abolish activity at 1.7 X lO+ M. Other heavy metals have 
+no effect on the enzyme while Co++ appears to stimulate the 
+activity. 
+further. The reason for thii activation has not been investigated 
+Speci$city and Mechanism of Action of Enzyme-Substrate 
+specificity studies were carried out employing the micro pro- 
+cedure described in “Analytical Methods.” The results are 
+summarized in Table III. The preparation is free of glucosidase 
+activity as well as p-(1 + 3)- and p-(1 ---) 4)-glucanase activities, 
+all of which are common to fungal enzymes. No activity was 
+noted with bacterial dextran, but in this molecule the glucose 
+units bearing substitution at Position 3 of the hexose are also 
+substituted on Position 6 (34), and thus activity was probably  at PROCTER & GAMBLE CO on December 16, 2020 http://www.jbc.org/ Downloaded from 
+5466 Enzymes That Hydrolyze Fungal Polysaccharides. I Vol. 244, No. 20 
+I/S hM.)-’ 
+ML. OF ENZYME 
+FIQ. 8. Proportionality of the reaction to enzyme concentra- 
+tion and time. Various amounts of purified enzyme (0.04 unit 
+per ml) were incubated for either 15 or 30 min at 40”. Other con- 
+ditions were as described in the text for standard enzyme assay. 
+I I I I I I 1 I I 
+I 2 3 4 5 6 7 8 9 
+PH 
+FIG. 9. Effect of pH on enzyme activity. Each tube contained 
+1 mg of substrate and 0.008 unit of purified enzyme in 0.14 M citrate 
+phosphate buffer which had been adjusted to the various pH 
+values, in a final volume of 1 ml. After 10 min at 40”, the reducing 
+power in each tube was measured. For details see text. 
+abolished by this additional structural modification. The en- 
+zyme has rather strict structural requirements and provides a 
+highly specific tool for application in certain structural carbo- 
+hydrate problems. 
+If the ~(1 + 3)-glucanase operates by an exo mechanism, it 
+would be predicted that a modification of the nonreducing ter- 
+minal ghmose unit of pseudonigeran would affect the enzyme 
+activity. If it is an endo enzyme, then little change in activity 
+would be expected since the sites of initial attack would be located 
+away from the area of modification. Pseudonigeran which has Fro-. 10. Effect of substrate concentration on reaction velocity. 
+Various amounts of pseudonigeran were incubated with 0.03 unit 
+of purified enzyme in 0.05 M citrate phosphate buffer, pH 4.5, in a 
+final volume of 1 ml. Incubationwas carried out for 10 min at 40”. 
+The reaction mixtures were then assayed for reducing power. 
+Substrate is expressed as millimolar concentration of anhydro- 
+hexose units and the data is plotted by the method of Lineweaver 
+and Burk. 
+TABLE II 
+Efects of metal ions on enzyme 
+The effect of incubation of the enzyme with selected metal ions 
+on its ability to hydrolyze pseudonigeran. For details see text. 
+Metal ion 
+I Concentration Enzyme activity 
+None 
+co++ 
+Mg++ 
+Ca* 
+Pb* 
+Ba++ 
+Fe+++ 
+Fe++ 
+Zn++ 
+W 
+Hg+ Y x 102 % 
+0 100 
+1.7 147 
+1.7 114 
+1.7 120 
+1.7 123 
+1.7 100 
+1.7 92 
+1.7 21 
+1.7 30 
+0.17 0 
+0.17 0 
+been treated with periodate and borohydride will serve as an 
+excellent substrate for thii type of study because periodate oxi- 
+dation of (1 -+ 3) -linked glucans modifies only the terminal units 
+of the polysaccharide, leaving the remainder of the chain unal- 
+tered (35). For the preparation of modified substrate 300 mg 
+of pseudonigeran (PN 1) were subjected to two successive Smith 
+degradations. No acid hydrolysis was used following the second 
+periodate oxidation and borohydride reduction. This leaves a 
+residue of n-hydroxymethyldiethyleneglycol attached to the new 
+terminal nonreducing glucose residue in each chain (32). Poly- 
+saccharide which was subjected to the first Smith degradation 
+followed by mild acid hydrolysis was used as a control substrate. 
+Assays were then carried out under standard conditions, and the 
+results are shown in Fig. 11. No difference in rate of attack on 
+the two substrates by the enzyme was observed. An independent 
+method was used to confirm the endo mechanism (36). Steady 
+state measurement of the products of the enzymatic reaction 
+during the course of the hydrolysis revealed also that the glu-  at PROCTER & GAMBLE CO on December 16, 2020 http://www.jbc.org/ Downloaded from 
+Issue of October 25, 1969 S. Hasegawa, J. H. Nor&n, and S. Kirkwood 5467 
+TABLE III 
+Substrate specificity of enzyme 
+The ability of the enzyme to hydrolyze various carbohydrates 
+was evaluated by incubation of the substrate and enzyme in 
+sealed capillary tubes followed by paper chromatographic analy- 
+sis of the reaction products. Plus sign indicates that the 
+substance was hydrolyzed by the enzyme. Minus sign indicates 
+no attack. For details see text. 
+Glucan 
+Pseudonigeran. .................. 
+Nigeran ......................... 
+Soluble starch ................... 
+Waxy starch. ................... 
+Isolichenin ...................... 
+Polyporus tumulosus polysaccha- 
+ride ........................... 
+Dextran ......................... 
+Sclerotium rolfsii gum. .......... 
+Pachyman ....................... 
+Maltose. ........................ 
+Sucrose .......................... 
+Gentiobiose ..................... 
+Isomaltose ....................... 
+Nigerose ......................... 
+Nigerotriose ..................... 
+Nigerotetraose ................... 
+Nigeropentaose .................. - 
+-- 
+- Major linkage(s) Activity 
+(Y-1,3 
+a-1,3; or-l,4 
+a-1,4; a-1,6 
+a-1,4; a-1,6 
+(Y-1,3; a-1,4 
+or-l,3 
+or-l,6 (a-1,3) 
+p-1,3; &1,6 
+p-1,3 
+a-1,4 
+D-1,2 
+D-1,6 
+a-1,6 
+(Y-l,3 
+or-l,3 
+or-l,3 
+a-1,3 + 
++ 
++ 
++ 
+- 
+- 
++ 
++ 
++ 
+9 , 
+1’ 
+I I I I I I 
+IO 20 30 40 50 60 
+INCUBATION TIME (MINUTES) 
+FIGL. 11. Effect of modification of the terminal nonreducing unit 
+of pseudonigeran on enzyme activity. Standard incubation mix- 
+tures contained polysaccharide modified as described under 
+“Results.” Each sample w&s analyzed over a period of time for 
+the amount of reducing power liberated by the a-(1 + 3)- 
+glucanaze. O- 0, control substrate; l - - -0, modified sub- 
+strate. For details see text. X 
+\ 
+o xTSEx 
+' b 1,3-GLUCANASE 
+I I I I I I 
+0.5 1 .o 1.5 2.0 2.5 3.0 
+MICROMOLES OF GLUCOSE RELEASED 
+FIQ. 12. Action pattern of the cr-(1 + 3)glucanase. ar-(1 -+ 3)- 
+Glucan, 5 mg, was incubated in 0.05 M citrate phosphate buffer 
+(pH 4.5) with 0.01 to 0.43 unit of a-(1 + 3)glucanase at 40” for 5 
+min. Then, 0.2 to 2.0 unite (36) of p-(13 3)-glucanese was incu- 
+bated with 5 mg of a-(1 ---f 3)-glucan (laminarin) in 0.005 M acetate 
+buffer (pH 4.8) at 37’. P.S., moles total carbohydrate solubilized; 
+R. P., reducing power expressed as glucose equivalents. For 
+details see Reference 36. 
+canase operates in an endo manner. Fig. 12 compares the en- 
+zyme with that of @-Cl + 3)-glucanase, which operates in an exe 
+fashion (35). 
+Fig. 13 shows the action of the enzyme on a series of nigero- 
+dextrins prepared from pseudonigeran. The mode of attack of 
+the glucanase is such that under the conditions employed all 
+homologous members of the series tested were degraded to nig- 
+erose and glucose. The enzyme is completely inactive on nig- 
+erose, however. 
+The stereochemistry of bond cleavage during enzymatic hy- 
+drolysis of pseudonigeran was also investigated. Puri6ed en- 
+zyme, 0.15 unit, was incubated with 4 mg of substrate suspension, 
+in 0.05 M citrate-phosphate, pH 4.5, in a final volume of 1 ml. 
+Incubations were carried out at 40” for periods of 5, 10, 15, and 
+20 min. The reaction was stopped by freezing the reaction mix- 
+ture in Dry Ice-acetone, and the frozen mixtures were then lyoph- 
+ilized. To each dry sample were added 0.5 ml of dry pyridine, 
+0.2 ml of hexamethyldisilazane, and 0.1 ml of trimethylchloro- 
+silazine. Each solution was mixed thoroughly and allowed to 
+stand for 20 mm at room temperature and then evaporated under 
+reduced pressure at 50”. Hexane, 2 ml, was then added to the 
+dried material to extract the trimethylsilyl derivatives. Any 
+insoluble material was removed by centrifugation. The hexane 
+extract was again concentrated to dryness under reduced pres- 
+sure, and it was redissolved in 0.1 ml of hexane. A suitable 
+aliquot of the hexane extract was injected into the gas chromat- 
+ograph. Samples of LY- and P-D-&COSe were trimethylsilylated  at PROCTER & GAMBLE CO on December 16, 2020 http://www.jbc.org/ Downloaded from 
+5468 Enzymes That Hydrolyze Fungal Polysacchurides. I Vol. 244, No. 20 
+TABLE IV 
+Sterochemistry of products of enzyme reaction as revealed by gas 
+chromatography 
+The anomeric configuration or configurations of the glucose 
+released by enzymatic hydrolysis was analyzed as a function of 
+time. For details see the text. 
+Sample Retention time 
+?I& 
+a-D-Glucose......................... 
+&&Glucose......................... 
+Product from 5-min incubation.. 
+Product from lo-min incubation.. 
+Product from 15-min incubation.. 
+Product from 20-min incubation.. . 20 
+35 
+20 
+. 20 
+20 (35)” 
+20 (34)O 
+I 
+a A small second peak corresponding to the derivative of the p 
+anomer was detected only on increasing the sensitivity of the 
+detector. 
+G G, G, G, G, G4 G4 G, G, G 
++ + + + 4 + 
+G2 E E E E G2 
+STDS STDS 
+FIQ. 13. Each oligosaccharide, 50 to 100 rg, was incubated with 
+0.01 unit of enzyme in a final volume of 50 d of acetate buffer, pH 
+4.5. The incubation was carried out in a sealed melting point 
+capillary tube at 40” overnight. The contents of the tube were 
+applied directly on Whatman NO. 1 chromatography paper and 
+developed in Solvent III for 24 hours. Location of the various 
+carbohydrates was accomplished with silver nitrate developer. 
+The compounds were prepared from pseudonigeran by the proce- 
+dure described by Johnston (10) and the degree of polymerization 
+of each determined as described under “Analytical Methods.” 
+G, glucose; G2, nigerose; Ga, nigerotiose; Gd, nigerotetraose; Gs, 
+nigeropentaose; E, enzyme. 
+in an identical way and chromatographed. The major com- 
+pound to be detected in enzymatic incubation mixtures was al- 
+most exclusively the cr-n-glucose derivative (Table IV). A small &n-glucose derivative peak was observed only in the samples 
+incubated for 15 mm or longer. 
+DISCUSSION 
+Structure of Polysaccharide--The combined results of periodate 
+oxidation, acid hydrolysis, optical rotation, and determination 
+of degree of polymerization suggest very strongly that pseu- 
+donigeran is an unbranched polymer composed almost entirely, 
+if not exclusively, of a-(1 + 3)-linked glycopyranosyl units. 
+Results obtained in the present investigation and by Horisberger 
+(31) suggest the possibility of a very small percentage of (1 + 4) 
+linkages near the reducing end of the molecule. This is indicated 
+by a somewhat high amount of periodate consumed and formic 
+acid produced compared to what is expected of a linear (1 -+ 3)- 
+glucan. 
+Johnston has also isolated from the cell wall of A. niger a 
+highly dextrorotatory polysaccharide ([& + 233” N sodium hy- 
+droxide) and characterized it as an a-(1 ---f 3)-glucan containing 
+approximately 10% cr-(1 + 4) linkages (10). Since nigeran is 
+hot water-soluble, while the ar-(1 + 3)-glucan is not, nigeran 
+should be easily removed from hot water-insoluble materials. 
+It is therefore not likely that the cu-(1 -+ 4) linkages found by 
+Johnston are simply due to contaminating nigeran in his a-(1 
++ 3)-glucan preparation. The evidence seems to indicate that 
+perhaps the polymer may contain varying amount of (1 -+ 4)- 
+linked units. 
+Additional structural information about the polysaccharide 
+was provided by an examination of the products of partial acid 
+hydrolysis of the polysaccharide. This process yielded a series 
+of oligosaccharides, which were separated and identified by paper 
+chromatography, enzymic hydrolysis, and determination of de- 
+gree of polymerization. The results are in good agreement with 
+those reported by Johnston for nigerodextrins (10). 
+Properties of a-(1 + S)-Glucanase-Fungal CY- and /3-glycanases 
+are generally extracellular enzymes with many properties in 
+common. It is an easy task to remove the organism, leaving a 
+cell-free culture filtrate, which can be used as a source of crude 
+enzyme and which is partially purified by the fact that cell 
+breakage is not needed to obtain the enzyme. Glucanases are 
+also usually quite active enzymes even at relatively high tem- 
+peratures, and the (1 -+ 3) -glucanase fits this pattern also. The 
+optimum pH for the many fungal glycanases in 4 to 5, with very 
+low activity below pH 2 and above pH 7. The enzymes are 
+usually inactive above pH 8. Maximum stability seems to be 
+in the range of pH 5 to 7 (37). This is again the case with the 
+cr-(1 3 3)-glucanase. 
+The K, value obtained for the CY-(1 + 3)-glucanase (4.6 X 
+10e2 M) is quite large. It should be noted, however, that the 
+initial velocity in the present system is measured by determining 
+reducing sugars liberated during a IO-min incubation period. 
+The evidence shows that the enzyme is of the endo type, and 
+therefore the first reaction products are oligosaccharides rather 
+than glucose. Since the molar reducing value of oligosaccharides 
+is lower than that for glucose, the initial rate determined by 
+measuring reducing power would result in a slightly lower ap- 
+parent initial velocity at each substrate concentration tested, 
+leading to a somewhat higher apparent K, value. Another 
+reason, and probably the most important, may be the insolubility 
+of the substrate. K, values determined with insoluble substrates 
+do not characterize the enzyme in the same way as do values for  at PROCTER & GAMBLE CO on December 16, 2020 http://www.jbc.org/ Downloaded from 
+Issue of October 25, 1969 i3. Hasegawa, J. H. Nordin, and 23. Kirkwood 5469 
+soluble substrates. The value of K, is obtained in the form of 
+the total concentration of linkages with insoluble substrate 
+whereas only those linkages which are exposed and accessible to 
+the enzyme can be expected to influence the rate of formation of 
+the enzyme substrate complex. Indeed, the values obtained 
+with various insoluble substrates may reflect solubilization proc- 
+esses rather than enzymatic affinity. 
+Substrate Xpeci$city and Mechanism of Action-The enzyme 
+freely attacks cr-(1 -+ 3) linkages, as evidenced by its ability to 
+degrade certain compounds listed in Table III. Substitution 
+near the glycosidic linkage being cleaved does not appear to be 
+too critical since ar-(1 + 4) linkages on either side of the cr-(1 
+3 3)-nigeran being cleaved do not abolish activity. It defi- 
+nitely is inactive on p-(1 + 3) linkages, however, and in this 
+sense the anomeric configuration of the bond being cleaved is 
+critical. Finally, it would appear that the inability of the en- 
+zyme to attack nigerose (Fig. 13) might indicate either that at 
+least 3 glucose units are required for proper binding to the en- 
+zyme or that 2 glucose units must be located penultimate to the 
+a-(1 -+ 3) bond being hydrolyzed for there to be any demonstrable 
+activity. 
+The two usual patterns of enzymatic attack on polysaccharides 
+are the removal from the nonreducing end of successive mono- 
+saccharide or disaccharide units (exo enzymes) and the com- 
+pletely random attack on all glycosidic bonds (endo enzymes). 
+In the first instance, only the terminal bond is susceptible to en- 
+zyme attack. In the second instance, all bonds are more or less 
+equally susceptible. The modification of the terminal nonreduc- 
+ing unit did not alter the rate of attack by the enzyme, but this 
+treatment has been shown to inhibit the rate of attack of an exo- 
+p-(1 3 3)-glucanase on laminarin by about 95% (35). The 
+steady state determination of the degree of polymerization of the 
+soluble products of the reaction also indicates quite clearly that 
+the enzyme operates in an endo manner while the failure of the 
+a-(1 + 3)-glucanase to react with nigerose further supports the 
+idea that the enzyme operates by an endo mechanism. 
+Analysis of the products of the enzymatic hydrolysis of pseu- 
+donigeran by gas chromatography clearly shows that the glucose 
+liberated is of the a configuration. Parrish and Reese (29) have 
+recently shown that exo enzymes attack with inversion of con- 
+figuration while all endo carbohydrases analyzed hydrolyze with 
+retention of configuration. The present results are in complete 
+agreement with their observations. Koshland (38) has proposed 
+a mechanism to explain inversion and retention of configuration 
+with carbohydrases, as well as the exchange reactions noted with 
+some of these enzymes. 
+A number of polysaccharides of microbial origin have been 
+characterized as containing CC(1 --t 3)-glucosidic linkages. Their 
+occurrence appears to be quite widespread in the cell walls of 
+fungi, but their structural role in the organisms remains to be 
+defined. The a-(1 -+ 3)-glucan of A. niger discussed above con- 
+tains a small percentage of a-(1 ---f 4) linkages near the reducing 
+end of the molecule, but whether these are structurally signifi- 
+cant or arise from contamination by another polysaccharide has 
+not been clearly established. It is interesting to note, however, 
+that regions of both uniformity and nonuniformity of linkages 
+have been established for certain mammalian and microbial 
+polysaccharides involved in structural roles (39). Exhaustive 
+digestion of these CC(1 + 3)-glucan preparations with the (r-(1 
+---f 3)-glucanase, followed by fractionation and characterization of the digested material, might give some insight into the (1 + 4)- 
+linked segments. 
+Recent experiments in one of our laboratories has resulted in 
+the isolation of a galactoglucan from the cell walls of A. n@er. 
+Preliminary work indicates that the polymer is composed of 
+CY- (1 --+ 3) -linked glucopyranose units and (1 + 5) -linked galacto- 
+furanosyl units.a Because of the furanose form of galactose in 
+the polymer, mild acid hydrolysis (pH 2) of the native material 
+selectively cleaves the galactose units from the polymer and pre- 
+cludes the isolation of either galactofuranosyl oligosaccharides or 
+those containing both glucose and galactose. However, the use 
+of the endo-a-(1 -+ 3)-glucanase has permitted the isolation of 
+portions of the carbohydrate chains relatively intact and is aiding 
+the study of this polymer’s structure. 
+Since most fungal glucans characterized as (Y-(1 + 3) polymers 
+have been identified only on the basis of partial acid hydrolysis 
+‘and infrared or x-ray diffraction analysis (7), the use of CY-(1 + 
+3)-glucanases in the determination of their fine structure will be 
+useful, particularly if more than one type of glucosidic linkage is 
+present or if branching occurs in these recently discovered mole- 
+cules. 
+Acknowledgment-The technical assistance of Mr. Armand 
+Matusen is gratefully acknowledged. 
+REFERENCES 
+1. TIPPER, D. J., KATZ, W., STROWNGER, J. L., AND GHUYSEN, 
+J. M., Biochemistry, 6,921 (1967). 
+2. STROMINGER, J. L., IZAKI, K., MATSUHASHI, M., AND TIPPER, 
+D. J., Fed. Proc., 26,9 (1967). 
+3. BAHL, 0. P., AND AGRAWAL, K. M. L., J. Biol. Chem., 243, 98 
+(1968). 
+4. AGRAWAL, K. M. L., AND BAHL, 0. P., J. Biol. Chem., 243, 103 
+(1968). 
+5. PEAT, S., AND REES, D.A., Biochem. J., 79.7 (1961). 
+6. HUTSON, D. H., AND MANNERS, D. J., Biochem. J., 94, 783 
+(1965). 
+7. BACON, J. S. D., JONES, D., FARMER, V. C., AND WEBLEY, 
+D. M., Biochim. Biophys. Acta, 168,313 (1968). 
+8. HASEGAWA, S., KIRKWOOD, S., AND NORDIN, J. H., Chem. Ind. 
+(London), 1033 (1966). 
+9. RALPH, B. J., AND BENDER, J., Chem. Ind. (London), 1181 
+(1965). 
+10. JOHNSTON, I. R., Biochem. J., 96,651(1965). 
+11. DUFF, R. B., J. Chem. Sot. (London), 2593 (1952). 
+12. HUOTARI, F. I., NELSON, T. E., SMITH, F., AND KIRKWOOD, S., 
+J. Biol. Chem., 243, 952 (1968). 
+13. JONES, J. K. N., AND STOODLEY, R. J., in R. WHISTLER (Edi- 
+tor), Methods in carbohydrate chemistry, Vol. 6, Academic 
+Press, New York, 1965, p. 36. 
+14. HOUGH, L., JONES, J. K. N., AND WADMAN, W. H., J. Chem. 
+Sot. (London), 1702 (1950). 
+15. JEANES, A., WISE, C. S., AND DIMLER, R. J., Anal. Chem., 23, 
+415 (1951). 
+16. REESE, E. T., AND MANDELS, M., Can. J. Microbial., 10, 103 
+(1964). 
+17. TREVELYAN, W. E., PROCTOR, D. P., AND HARRISON, J. S., 
+Nature, 166, 444 (1950). 
+18. PEAT, S., WHELAN, W. J., AND ROBERTS, J. G., J. Chem. Sot. 
+(London), 2258 (1956). 
+19. DUBOIS, M., GILLES, K. A., HAMILTON, J. K., REBERS, P. A., 
+AND SMITH, F., Anal. Chem., 28,350 (1959). 
+20. ASPINALL, G. O., AND FERRIER, R. J., Chem. Ind. (London), 
+1216 (1957). 
+21. HAMILTON, J. K., AND SMITH, F., J. Amer. Chem. Sot., 78.5910 
+(1956). 
+22. LAMBERT, M., AND NEISH, A. C., Can. J. Res., 28,83 (1950). 
+23. NELSON, N., J. Biol. Chem., 163,375 (1944). 
+t J. H. Nordin, unpublished results.  at PROCTER & GAMBLE CO on December 16, 2020 http://www.jbc.org/ Downloaded from 
+24. 
+Z: 
+27. 
+28. 
+29. 
+30. 
+31. 
+32. Enzymes That Hydrolyze Fungal Polysaccharides. I Vol. 244, No. 20 
+LOWRY, 0. H., ROSEBROUGLI, N. J., FARR, A. L.. AND RANDALL, 
+R. J.; J. B&Z. Chem., 193, %5 (1951). 
+WHITAKER. J. R.. Anal. Chem.. 36.1950 (19631. 
+ORNSTEIN,‘L., AND DAVIS, B: J.; Ann.‘N. 9. Acad. Sci., 121, 
+321 (1964). 
+REISFELD. R. A.. LEWIS. U. J.. AND WILLIAMS. D. E.. Nature. 
+196, 28i (1962): ’ 
+SWEELEY, C. C., BENTLEY, R., MAKITA, M., AND WELLS, W. 
+W., J. Amer. Chem. Sot., 86,2497 (1963). 
+PARRISH, F. W., AND REESE, E. T., Carbohyd. Res., 3, 424 
+(1967). 
+MANDELS, M., PARRISH, F. W., AND REESE, E. T., J. Bacterial., 
+83, 400 (1962). 
+HORISBERGER, M., Ph.D thesis, University of Minnesota, 1967. 
+ABDEL AKHER, M., HAMILTON, J. K., MONTGOMERY, R., AND 
+SMITH, F., J. Amer. Chem. Sot., 74,497O (1952). 33. CHRAMBACR, A., REISFELD, R. A., WYCKOFF, M., AND; ZAC- 
+CARI, J., Anal. Biochem., 20,150 (1967). 
+34. GOLDSTEIN, I. J., AND WHELAN, W. J., J. Chem. Sot. (London), 
+170 (1962). 
+35. NELSON, T. E., SCALETTI, J. V., SMITH, F., AND KIRKWOOD, S., 
+Can. J. Chem., 41, 1671 (1963). 
+36. TUNG, K. K., AND NORDIN, J. H., Anal. Biochem., 28,84 (1969). 
+37. REESE, E. T. (Editor), Advances in enzymatic hydrolysis of 
+cellulose and related matem’als, Pergamon Press, New York, 
+1963, p. 197. 
+38. KOSHLAND, D. E., JR., in W. D. MCELROY AND B. GLASS 
+(Editors), The mechanism of enzyme action, Johns Hopkins 
+Press, Baltimore, 1954, p. 608. 
+39. SAIER, M. H., AND BALLOU, C. E., J. Biol. Chem., 243, 4332 
+(1968).  at PROCTER & GAMBLE CO on December 16, 2020 http://www.jbc.org/ Downloaded from 
+Shiro Hasegawa, John H. Nordin and S. Kirkwood3)-GLUCANASE FROM TRICHODERMA VIRIDE→-d-(1 α PURIFICATION AND PROPERTIES OF AN ENDO-Enzymes That Hydrolyze Fungal Cell Wall Polysaccharides: I.
+1969, 244:5460-5470. J. Biol. Chem. 
+   http://www.jbc.org/content/244/20/5460 Access the most updated version of this article at 
+ Alerts: 
+   When a correction for this article is posted•   When this article is cited•  
+ to choose from all of JBC's e-mail alerts Click here
+   http://www.jbc.org/content/244/20/5460.full.html#ref-list-1This article cites 0 references, 0 of which can be accessed free at at PROCTER & GAMBLE CO on December 16, 2020 http://www.jbc.org/ Downloaded from 

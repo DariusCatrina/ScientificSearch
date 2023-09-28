@@ -1,0 +1,783 @@
+Journal of Environmental Polymer Degradation, Vol. 6, No. 4, 1998
+Evaluation of the Biodegradation of Starch and Cellulose
+Under Controlled Composting Conditions
+Francesco Degli-Innocenti,1,2 Maurizio Tosin,2 and Catia Bastioli2
+In order to verify the response of the controlled composting test method (i.e., the ISO/DIS
+14855:1997, the ASTM D 5338-92, or the CEN counterpart) to starch at different concentrations,
+the maximum amount prescribed by the test method (100 g) and lower amounts (60 and 30 g), as
+if starch were a coingredient in a blend, were tested. After 44 days of incubation (at a constant
+temperature of 58°C) the biodegradation curves were in a plateau phase, displaying the following
+final values (referred to a nominal starch initial amount of 100 g): starch 100 g, 97.5%; starch 60 g,
+63.7%; and starch 30 g, 32.5%. The data show a CCh evolution roughly equal, in each case, to the
+theoretical maximum, indicating a complete starch mineralization. We cannot discern whether the
+deviations found at lower concentrations are caused by a priming effect. In any case, the extent of
+the deviations is not high and is acceptable in biodegradation studies. The average biodegradation of
+cellulose, obtained gathering four independent experiments with 11 biodegradation curves, turned
+out to be 96.8 ± 6.7% (SD) after 47 ± 1 days. The data indicate that the controlled composting
+is a reliable test method also for starch and cellulose and, consequently, for starch-based and
+cellulose-based materials.
+INTRODUCTION
+The respirometric test methods used to assess
+biodegradability of a given substrate in solid state are
+based on the determination of the net CO2 evolution,
+i.e., the CO2 evolved from the mixture substrate-soil
+(or substrate-compost) minus the CO2 evolved from the
+unamended soil (or compost) tested in a different reactor
+(the background CO2 production). The net CO2 evolu-
+tion is ascribed to the mineralization of the substrate. The
+assumption of this approach is that the addition of the
+test substrate does not significantly alter the background
+CO2 evolution of the solid matrix. It has been reported
+that glucose and its polymers can stimulate the min-
+eralization of the organic matrices used in solid-phase
+biodegradation studies [1, 2]. This induction, called the
+"priming effect," has raised many concerns regarding the
+1To whom correspondence should be addressed.
+2NOVAMONT, via Fauser 8, I-28100 Novara, Italy.reliability of test methods such as the controlled com-
+posting (coco) test [3,4] and the soil contact test [5]. The
+measurement of the biodegradability with the coco test
+is considered a very important procedure for the defini-
+tion of the compostability of plastics and packaging. As
+a matter of fact, the coco test method has been standard-
+ized by several organizations, such as the ASTM (AMST
+D5338-92), the CEN (Cen Draft), and the ISO (ISO/DIS
+14855), in order to be used within the respective com-
+postability guidelines. The substantiation of the reliabil-
+ity of the coco test method is, therefore, an outstanding
+issue, because it is at the foundation of the compostabil-
+ity criteria under discussion.
+In a biodegradation study under composting con-
+ditions with 14C-labeled glucose and cellulose, a com-
+plete biodegradation of the two substrates could be estab-
+lished using the traditional respirometric approach, that
+is measuring the cold, net CO2 evolution (about 95% for
+glucose and 100% for cellulose), while the simultaneous
+197
+1064-7546/98/1000-0197$15.00/0 ©1998 Plenum Publishing CorporationKEY WORDS: Starch; cellulose; biodegradation; ISO/DIS 14855:1997; ASTM D 5338-92; priming effect.
+
+198 Degli-Innocenti, Tosin, and Bastioli
+14C-CO2/14C-glucose (or cellulose) measurements indi-
+cated only =50% biodegradation [6].
+This means that only about 50% of the total net
+CO2 produced by the mixture substrate-compost derived
+directly from the radiolabeled substrate. The remaining
+fraction derived from the (cold) organic carbon present in
+the compost before the addition of the radiolabeled sub-
+strate. This is indisputable proof that a substantial miner-
+alization of the compost is occurring and it is considered as
+strong evidence toward the "priming effect" hypothesis. A
+major consequence of this explanation is that the reliabil-
+ity of the coco test method is drastically reduced, when-
+ever a "priming" substrate is tested, because a significant
+overestimation of the real biodegradation can be expected.
+Still, the data do not indicate a failure of the coco mea-
+surements. In fact, in the same study it was proved, using
+radiolabeling techniques, that the original substrate (glu-
+cose and cellulose) was not recoverable from the matrix
+in the end of the experiments [7]. This is an indication
+that the coco method, even if based on the cold, net
+CO2 measurements, gives an accurate representation of
+the biodegradation degree reached by the substrate. As
+a matter of fact, complete substrate removal was accom-
+panied by =100% production of CO2 (with both glucose
+and cellulose). The lower than expected evolution of 14C-
+COa strongly suggests that an exchange process between
+the 14C deriving from the substrate and the organic car-
+bon in the matrix (i.e., biomass, compost, humic acids)
+occurs. A possible hypothetical explanation is the follow-
+ing: metabolic turnover is triggered after substrate (glu-
+cose or its polymers) addition and, operating for a lim-
+ited time, "traps" some 14C within biomass (i.e., in cellu-
+lar structures). However, an equivalent amount of carbon
+present in the biomass before the addition of the substrate
+(and, therefore, cold) is released by the turnover process
+and eventually respired in place of the radiolabeled car-
+bon, so that the actual COa evolved is equivalent to the
+CO2 expected in the case of full mineralization of the test
+substance. It was not the aim of this work to clarify the fate
+of the radiolabeled starch (or cellulose) when biodegraded
+in the coco system. We rather wanted to give some further
+piece of information to verify the accuracy of the coco test
+method in measuring starch and cellulose biodegradation.
+MATERIALS AND METHODS
+Test Substances
+Corn starch (GL 03405) was purchased by Cerestar.
+Cellulose microcrystalline (Avicel) was purchased fromMerck. The carbon content was, respectively, 44.44 and
+42.50% (determined by elemental analysis). The com-
+post was obtained from a composting plant located in
+Alessandria (Italy), treating sewage sludge and bark at a
+1:1 ratio. The percentage of volatile substances of this
+compost (substances evaporated at 550°C) was 59.27%
+(dry weight).
+Apparatus
+The controlled composting apparatus used in this
+work has been described previously [8]. Compressed air
+pressure is reduced by a pressure reduction device to
+about 0.5 atm. The flow is then split into 12 lines, cor-
+responding to 12 composting reactors. The airflow rate
+of each line is measured by a rotameter and adjusted by
+a valve (Flow-Meter srl, Italy) and led to the reactor by
+means of natural rubber thick tubing (Ascenso, Italy).
+The air is fluxed upward in each reactor (3-L glass bot-
+tles) via a hollow shaft finishing with a "T." The reac-
+tors are heated in a thermostatic water bath. The exit gas
+is passed, before measurement, through a water-cooled
+glass coil, to trap the vapor. The airflow rate of each line
+is measured with a precision rotameter (Flow-Meter srl)
+and the CO2 concentration is measured by an infrared
+CO2 detector (Gas Monitor ADC 2000 Series, The Ana-
+lytical Development Company, UK). The CO2 evolution
+rate (CER) is calculated by multiplying the CO2 concen-
+tration (g/L) by the airflow rate (L/h). The amount of
+CO2 produced during the time interval within two mea-
+surements is estimated by multiplying the CER by the
+elapsed time from the last measurement. The mineral-
+ization percentage is the ratio between the total net CO2
+produced by the sample and the amount produced in the
+case of complete transformation of its carbon into CO2.
+Test Setup
+A mixture of mature compost (600 g, dry weight)
+and test material (100 g or less) is introduced in each
+reactor and maintained under thermophilic (58°C) nd
+aerobic conditions for 45 or more days. Three replicates
+for test material and blank reactors are used (see Table
+I). The quantity of substances to be tested is determined
+by weighing with a precision balance (Sartorius MC1).
+At the beginning of the test, the water content is adjusted
+at 50%. The water content is then periodically controlled
+by weighing each reactor and adding water to restore the
+initial weight, if needed.
+
+Starch and Cellulose Biodegradation Under Composting Conditions 199
+Effect of Using Normal Air Instead of
+Decarbonated Air
+The equipment and procedures described above are
+based on the CEN draft [9], with the following modifi-
+cation. Normal compressed air is used instead of decar-
+bonated air. The CO2 present in the compressed air is
+measured, subtracted, and not taken into account. To ver-
+ify that this procedure does not introduce some distur-
+bance to the test system, a preliminary experiment has
+bee performed. The CO2 production of six identical sam-
+ples of compost was measured using either decarbonated
+air (three reactors) or normal air, following our proce-
+dure (three reactors). The results, shown in Fig. 1, indi-
+cate that the use of normal air does not affect the CO2
+assessment.Table I. Test Setup
+Reactor
+No.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12Test
+material
+Blank
+Blank
+Blank
+Starch
+Starch
+Starch
+Starch
+Starch
+Starch
+Starch
+Starch
+StarchAmount (g)
+0
+0
+0
+30.00
+30.00
+30.00
+60.00
+60.00
+60.00
+100.00
+100.00
+100.00Compost (g)
+600.0
+600.0
+600.0
+600.0
+600.0
+600.0
+600.0
+600.0
+600.0
+600.0
+600.0
+600.0
+Fig. 1. The cumulative CO2 productions of mature compost aerated with decarbonated air (-CO2) as required by the standard test methods or
+with normal air (air) are shown. In the last case the CO2 present in the inlet is measured and subtracted from the outlet measurement to get a net
+estimation of the CO2 concentration.
+
+200 Degli-Innocenti, Tosin, and Bastioli
+RESULTS
+Biodegradation of Starch Under Composting
+Conditions
+To verify the capability of the coco test method to
+respond to different amounts of starch, we checked the
+maximum amount prescribed by the test method (100 g)
+and lower amounts (60 and 30 g), as if starch were a coin-
+gredient in a blend. In Table II the cumulative CO2 pro-
+duction of each reactor is shown. In Table III the percent-
+age of theoretical C02 after 44 days of incubation at 58°C
+is reported (average), along with the individual values ofthe three replicates for each group. The data are plotted in
+Fig. 2. Full mineralization of starch occurred at each con-
+centration. In both the 30- and the 60-g series the aver-
+age mineralization values after 44 days were higher than
+100%, the theoretical maximum. The deviation is, in both
+cases, caused mainly by one replicate displaying an erratic
+behavior in comparison with the other two. In fact, two
+replicates are very similar and very close to 100% (102.7
+and 103.5 for the 60-g set, 99.4 and 100.4 for the 30-g set),
+while the other is much more divergent (112.3 for the 60-g
+set, 125.9 for the 30-g set). In any case the average devia-
+tion is not high.
+Table II. CO2 Cumulative Production (Grams) of Each Reactor
+Reactor No.
+Material
+Amount (g)1
+Blank
+—2
+Blank
+—3
+Blank
+—4
+Starch
+305
+Starch
+306
+Starch
+307
+Starch
+608
+Starch
+609
+Starch
+6010
+Starch
+10011
+Starch
+10012
+Starch
+100
+Time (days)
+0
+1
+1
+2
+2
+3
+4
+5
+6
+7
+8
+9
+10
+12
+13
+14
+15
+16
+18
+20
+21
+22
+26
+27
+28
+29
+30
+33
+34
+35
+37
+40
+440.0
+1.4
+1.8
+2.9
+3.3
+4.3
+6.2
+7.6
+8.8
+10.1
+11.4
+12.5
+13.7
+15.3
+16.3
+17.5
+18.8
+19.9
+23.3
+24.4
+25.5
+26.8
+30.8
+32.0
+33.3
+34.5
+36.2
+40.3
+41.5
+43.2
+45.6
+49.5
+54.30.0
+1.7
+2.0
+3.3
+3.8
+4.9
+6.9
+8.4
+9.6
+10.9
+12.3
+13.6
+15.0
+16.9
+18.0
+19.3
+20.7
+21.8
+25.4
+26.5
+27.6
+29.0
+33.1
+34.3
+35.5
+36.6
+38.1
+41.7
+42.7
+44.1
+46.0
+48.9
+52.70.0
+1.8
+2.1
+3.4
+3.9
+5.1
+7.1
+8.5
+9.7
+11.0
+12.5
+13.9
+15.5
+17.7
+19.0
+20.4
+21.9
+23.2
+27.2
+28.3
+29.4
+30.8
+35.0
+36.1
+37.2
+38.3
+39.5
+42.5
+43.3
+44.7
+46.6
+49.8
+54.10.0
+17.4
+20.2
+28.2
+30.5
+35.3
+42.5
+46.7
+49.5
+52.5
+55.2
+57.2
+59.3
+61.7
+63.2
+64.3
+65.5
+66.6
+70.4
+71.5
+72.6
+73.9
+78.1
+79.4
+80.7
+81.9
+83.3
+86.4
+87.3
+88.7
+90.3
+93.0
+97.00.0
+21.7
+25.5
+34.6
+37.2
+42.0
+49.4
+53.0
+55.2
+57.5
+59.6
+61.3
+63.0
+65.1
+66.4
+67.7
+69.0
+70.2
+73.9
+75.0
+75.9
+77.1
+80.9
+82.0
+83.1
+84.1
+85.3
+88.0
+88.7
+90.0
+91.6
+94.2
+97.40.0
+21.0
+25.1
+35.1
+38.3
+43.4
+49.1
+52.8
+55.0
+57.0
+58.8
+60.3
+61.8
+64.1
+65.4
+66.7
+68.4
+69.9
+74.5
+75.9
+77.3
+79.0
+84.7
+86.4
+88.2
+89.9
+91.9
+96.2
+97.3
+99.0
+101.3
+104.6
+108.50.0
+34.5
+40.6
+59.6
+65.3
+75.4
+85.7
+91.4
+95.2
+98.2
+100.6
+102.4
+104.1
+106.2
+107.4
+109.1
+110.8
+112.1
+116.1
+117.2
+118.4
+119.9
+124.2
+125.6
+126.6
+127.7
+128.9
+131.8
+132.6
+134.1
+136.3
+139.9
+143.80.0
+35.7
+42.3
+62.5
+68.3
+78.3
+87.3
+92.3
+95.5
+98.7
+101.3
+103.3
+104.9
+107.1
+108.1
+109.5
+110.9
+112.0
+115.3
+116.3
+117.3
+118.5
+122.7
+123.8
+125.1
+126.3
+127.8
+131.1
+132.0
+133.7
+135.9
+139.3
+143.20.0
+39.8
+46.4
+64.6
+69.9
+79.3
+88.2
+93.6
+97.5
+100.9
+103.8
+105.9
+107.9
+110.2
+111.6
+112.9
+114.2
+115.3
+119.8
+121.0
+122.4
+124.1
+129.7
+131.1
+132.4
+133.8
+135.6
+139.5
+140.5
+142.2
+144.2
+147.6
+151.50.0
+40.9
+48.1
+70.5
+78.8
+96.5
+114.1
+129.7
+137.6
+144.2
+149.4
+152.5
+155.9
+159.1
+160.7
+162.1
+163.4
+164.5
+168.1
+169.0
+169.9
+171.2
+175.6
+176.7
+177.9
+179.0
+180.5
+183.8
+184.6
+186.0
+188.0
+191.0
+194.50.0
+42.4
+49.2
+71.3
+79.6
+95.1
+117.0
+132.8
+139.9
+146.2
+150.6
+153.3
+155.9
+158.9
+160.5
+162.5
+164.4
+166.1
+171.1
+172.4
+173.9
+175.7
+180.8
+182.2
+183.5
+184.7
+186.1
+189.2
+190.0
+191.7
+193.8
+197.0
+200.70.0
+42.4
+49.3
+76.5
+86.5
+105.8
+121.8
+131.7
+136.4
+140.6
+144.5
+147.0
+149.3
+151.8
+153.2
+155.1
+156.8
+158.2
+162.8
+164.2
+165.5
+167.3
+172.3
+173.6
+174.7
+175.8
+177.0
+180.0
+180.8
+182.3
+184.1
+186.9
+190.3
+
+Starch and Cellulose Biodegradation Under Composting Conditions 201
+DISCUSSION
+The data shown in this paper indicate that the coco
+test method is capable of responding to the starch present
+in the system with a variability which is inversely pro-
+portional to the initial starch concentration. Low at a
+high starch concentration, it increases at a lower con-
+centration, still being remarkably satisfactory. We cannot
+discern whether the deviation found at lower concentra-
+tions is caused by a decrease in sensitivity at lower CO2
+productions or whether it is caused by a priming effect.
+In any case, the extent of the deviation is not high and
+is acceptable in biodegradation studies.
+The data concerning the biodegradation of cellulose
+show that, in some cases, values higher than 100% can be
+found. The overcoming of the 100% limit (in one case a
+109% value was reached after 50 days) could be consid-
+ered as a clear sign that a priming effect is acting. How-
+ever, these "over-100%" values could be seen as a con-
+sequence of the error of the measurement. As a matter of
+fact, when a sufficient number of replicates is taken into
+account, the average value turns out to be very close to,Mineralization of Cellulose Under Composting
+Conditions
+Microcristalline cellulose for chromatography (Avi-
+cel by Merck) is frequently used as a reference material
+in the controlled composting tests. To verify the repro-
+ducibility of the coco test method, we plotted the data of
+four independent trials with three replicates each (only
+two in one case) for a total of 11 biodegradation curves
+of cellulose. The data are shown in Fig. 3. The average
+mineralization value of cellulose, determined grouping
+the data collected after 47 ± 1 days, is 96.8 ± 6.7% (SD).
+Fig. 2. The mineralization curves of starch tested under composting conditions in different amounts (30, 60, and 100 g). The mineralization values
+are referred to a nominal starch initial amount of 100 g.Table III. Percentage of Mineralization of Starch Under Controlled
+Composting Conditions After 44 Days at 58°C
+Initial starch
+amount (g)
+100
+60
+30% of
+theoretical CO2
+97.5
+106.2
+108.6% of theoretical CO2 of
+single replicates
+97
+103.5
+99.4101.3
+102.7
+100.494.1
+112.3
+125.9
+
+202 Degli-Innocenti, Tosin, and Bastioli
+Fig. 3. Mineralization data of microcristalline cellulose (Avicel) obtained in four independent experiments of composting with a total of 11 replicates.
+The average mineralization value of cellulose, determined grouping the data collected after 47 ± 1 days, is 96.8 ± 6.7% (SD).
+but below, 100%. Therefore, also for cellulose, as seen
+before for starch, the data indicate a full mineralization
+of the substrate after 45-50 days.
+The variability of the test method is, in our opinion,
+acceptable considering that it is a biological system. The
+data reported here give support to the hypothesis that the
+coco test is a reliable system also for starch and cellulose
+and, consequently, for starch-based and cellulose-based
+materials.
+REFERENCES
+1. R. Bartha and J. Shen (1996) 5th BEDPS Annual Meeting, Sept.
+22-26, Nashville.
+2. J. Shen and R. Bartha (1996) Appl. Environ. Microbiol. 62(4):
+1428-1430.
+3. L. De Baere, B. De Wilde, and R. Tillinger (1993) in Y. Doi andK. Fukuda (Eds.), Biodegradable Plastics and Polymers, Elsevier,
+Amsterdam, pp. 323-330.
+4. U. Pagga, D. B. Beimborn, J. Boelens, and B. De Wilde (1995)
+Chemosphere 31(11-12): 4475-487.
+5. ASTM D 5988-96 (1996) Standard test method for determining aer-
+obic biodegradation in soil of plastic materials or residual plastic
+materials after composting.
+6. T. J. Adamczyk, R. E. Farrell, D. T. Eberiel, R. A. Gross, and S. P.
+McCarthy (1996) 5th BEDPS Ann. Meet. Sept. 22-26, Nashville.
+7. R. Farrell, T. Adamczyk, R. Gross, D. Eberiel, and S. McCarthy
+(1996) ASTM-ISR: Compilation of ISR Contractor Compost Tests
+Reports (lab, pilot and full scale) PCN:33-000018-19. ASTM-ISR,
+W. Conshohocken, PA.
+8. F. Degli Innocenti, M. Tosin, and C. Bastioli (1996) in M. De
+Bertoldi, P. Sequi, B. Lemmes, and T. Papi (Eds.) The Science of
+Composting, Blackie Academic & Professional, London, Glasgow,
+Weinheim, New York, Tokyo, Melbourne, Madras, pp. 1118-1121.
+9. E. N. Draft Standard on "Packaging—Evaluation Of The Ultimate
+Aerobic Biodegradability and Disintegration of Packaging Materi-
+als Under Controlled Composting Conditions. Part 1: Method by
+Analysis of Released Carbon Dioxide."
+

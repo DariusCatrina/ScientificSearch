@@ -1,0 +1,1010 @@
+60 | NATURE | VOL 528 | 3 D EcEmb ER  2015PERsPEcTiVE
+doi:10.1038/nature16069
+The contentious nature of soil organic 
+matter
+Johannes Lehmann1,2* & markus Kleber3,4*
+soil organic matter contains more organic carbon than global vege -
+tation and the atmosphere combined (Fig. 1). For this reason, the 
+release and conversion into carbon dioxide or methane of even a 
+small proportion of carbon contained in soil organic matter can cause 
+quantitatively relevant variations in the atmospheric concentrations of 
+these greenhouse gases1. Moreover, organic matter retains nutrients as 
+well as pollutants in the soil, which improves plant growth and protects 
+water quality2. Soils are also an important source of aquatic carbon, with 
+implications for biogeochemical processes in rivers, lakes and estuaries3. 
+Despite its recognized importance, there is a widely divergent view of the 
+nature of soil organic matter.
+Biological, physical and chemical transformation processes convert 
+dead plant material into organic products that are able to form intimate 
+associations with soil minerals, making it difficult to study the nature 
+of soil organic matter. Early research based on an extraction method 
+assumed that a ‘humification’ process creates recalcitrant (resistant to 
+decomposition) and large ‘humic substances’ to make up the majority of 
+soil ‘humus’ (see Box 1). However, these ‘humic substances’ have not been 
+observed by modern analytic techniques. This lack of evidence means 
+that ‘humification’ is increasingly questioned, yet the underlying theory 
+persists in the contemporary literature, including current textbooks4–6.
+Here we argue in favour of a soil continuum model (SCM) that focuses 
+on the ability of decomposer organisms to access soil organic matter and 
+on the protection of organic matter from decomposition provided by soil 
+minerals. Viewing soil organic matter as a continuum spanning the full 
+range from intact plant material to highly oxidized carbon in carboxylic 
+acids7 represents robust science and will facilitate the way we communicate 
+between disciplines and with the public. Only such an evidence-based 
+approach can allow for the development of mechanistic solutions to cli -
+mate, water quality and soil productivity issues (Fig. 1). The resulting 
+knowledge should be integrated into conceptual and mechanistic models 
+for the purpose of predicting carbon dioxide emissions from soils in a 
+warming world, as well as of keeping water supplies clean, and of improv -
+ing and sustaining the ecosystem services of the world’s soils. Research 
+aimed at reliable predictions of soil organic matter turnover should focus 
+on investigating its spatial arrangement within the mineral matrix, the 
+fine-scale redox environment, microbial ecology and interaction with min -
+eral surfaces under moisture and temperature conditions observed in soils.The exchange of nutrients, energy and carbon between soil organic matter, the soil environment, aquatic systems and 
+the atmosphere is important for agricultural productivity, water quality and climate. Long-standing theory suggests that 
+soil organic matter is composed of inherently stable and chemically unique compounds. Here we argue that the available 
+evidence does not support the formation of large-molecular-size and persistent ‘humic substances’ in soils. Instead, soil 
+organic matter is a continuum of progressively decomposing organic compounds. W e discuss implications of this view of 
+the nature of soil organic matter for aquatic health, soil carbon–climate interactions and land management.
+1Soil and Crop Sciences, School of Integrated Plant Sciences, College of Agriculture and Life Sciences, Cornell University, Ithaca, New York, USA. 2Atkinson Center for a Sustainable Future,  
+Cornell University, Ithaca, New York, USA. 3Department of Crop and Soil Science, Oregon State University, Corvallis, Oregon, USA. 4Institut für Bodenlandschaftsforschung, Leibniz Zentrum  
+für Agrarlandschaftsforschung (ZALF), Müncheberg, Germany.
+*These authors contributed equally to this work.Figure 1 | Traditional and emergent views of the nature of soil organic 
+matter affect how we predict and manage soil, air and water. Traditional ‘humification’ concepts limit observations of soil organic matter to its 
+solubility in alkaline extracts, unlike the emergent view of organic matter 
+based on solubility in water and its accessibility to microorganisms. Soils are an important source of organic matter in aquatic ecosystems and are responsible for half of the atmospheric carbon recycling. Carbon stocks and flux values are from ref. 1, except where noted otherwise: brown numbers are stocks in Pg C and blue numbers are flows in Pg C yr
+−1. 
+*Disaggregated value from 119 Pg C yr−1 total emissions. †3% of total 
+carbon consumed by fire104. ‡Estimate to balance soil carbon exports.Atmospheric CO2
+829 
+Rivers59*
+Vegetation
+420–620
+1.7
+Soil
+3,500–4,80012359*
+1.6
+0.05† 61‡
+Soil structure ;
+water and
+nutrient
+storage and
+provisionCO2
+evolution
+and
+temperature
+responseTraditional view
+Applies solubility in alkalin e
+solution as criterion; over- or 
+underestimates reactivit y
+in water (electron shuttling,
+metal adsorption)  
+Emergent view
+Studies organic matter in
+water without alkaline extraction;
+considers those forms that are 
+actually soluble in water  Traditional view
+Relies on organic matter quality
+for prediction of emissions;
+assumes greater temperature 
+sensitivity of persistent organic 
+matter 
+Emergent view
+Relies on accessibility of organi c
+matter and microbial ecology;
+considers temperature dependence 
+of enzymes, transport and 
+adsorption of organic matter  
+Traditional view
+Relies on formation of
+stable ‘humus’; 
+observes organic matter 
+properties in alkaline extractsEmergent view
+Focuses on microbial access to
+soil organic matter;
+emphasizes the need to manage 
+carbon /f_lows rather than 
+carbon stocks Water
+quality
+© 2015 Macmillan Publishers Limited. All rights reserved
+PersPective reseArcH3 D EcEmb ER  2015 | VOL 528 | NATURE | 61Historical reliance on an operational proxy
+Soil organic matter research is difficult because organic compounds are 
+thoroughly mixed with and often adhere to soil minerals. In arable soil, 
+organic matter typically makes up less than 5% and could historically 
+be discerned only by its dark coloration. Before advanced spectroscopic 
+methods became available in the early 1990s, research on soil organic 
+matter required that the organic phase be separated from the mineral 
+phase through an extraction procedure. The most efficient of these sepa -
+ration procedures in terms of mass extracted8 is an extraction with alkali  
+(Box 1), which dates back to a report published in 1786 (ref. 9). Although 
+the extraction is incomplete, selective and prone to creating artefacts  
+(Box 1), the procedure became widely adopted and its products univer -
+sally accepted as experimental proxies for soil organic matter.
+Concerns that alkaline preparations are not appropriate representatives 
+of soil organic matter were raised as early as 1888 (ref. 10) and 50 years 
+later it was proposed11 that ‘humic’ nomenclature should be dropped 
+because the term relates only to a material obtained by a specific proce -
+dure. Unfortunately, these concerns were dismissed rather than disproved. 
+Among the thousands of publications on ‘humic substances’ , not one inde -
+pendently confirms—for example, by direct spectroscopic observation—
+that the ‘humic substances’ extracted by alkali are components of organic 
+matter that exist separately in soil environments.
+Among the strongest arguments in favour of discarding the notion of 
+‘humic substances’ is the absence of any agreement within the broader 
+scientific community on how such materials are defined. ‘Humic sub -
+stances’ may be described in the soil sciences in three different ways: 
+strictly operationally according to what can be extracted with an alkaline 
+solution, with further subcategories of ‘humic’ and ‘fulvic’ acids as well 
+as unextractable ‘humins’; as an existing substance that is not merely an 
+operational construct; or as a combination of the two (Box 1). Different 
+research communities use the same vocabulary with very different con -
+notations, to the point of being contradictory: in soil science, ‘humic substances’ are thought to have large molecular masses
+12; in the envi -
+ronmental sciences, they are characterized as small fragments13; and a 
+classic textbook of aquatic geochemistry describes them as compounds 
+of variable mass and composition14. These views have evolved over time, 
+so that now it is not obvious what the term ‘humic substances’ is intended 
+to convey unless it is explicitly defined. Despite this uncertainty and 
+new insight from modern spectroscopic techniques (Box 2), the prod -
+ucts of alkaline extraction continue to be treated as physically existing  
+entities5,6,15, with research efforts focused on aligning theory with the 
+behaviour and properties of a soil component proxy that is defined solely 
+by solubility at an alkaline pH.
+Reconciling models of soil organic matter
+At present, three competing models for the fate of organic inputs to soil 
+can be distinguished: (1) classic ‘humification’ , (2) ‘selective preservation’ 
+and (3) ‘progressive decomposition’ (Fig. 2).
+All three models assume that fragments of plants and soil fauna are first 
+broken up into small pieces at the onset of decomposition. Evidence that 
+such breakdown of dead leaves or roots takes place comes from the obser -
+vation that the majority of organic matter inputs to soil decays within the 
+first year16. It is further known that plant residues must be degraded by 
+enzymes to a relatively small size (typically less than 600 Da) before they 
+can be actively transported across the cell walls of microorganisms17,18. 
+In terrestrial ecosystems, so-called exo-enzymes perform this function  
+outside the microorganism19,20. Thus, at any time within a living soil, a 
+continuum exists of many different organic compounds at various stages of 
+decay21, moving down a thermodynamic gradient from large and energy-  
+rich compounds to smaller energy-poor compounds20.
+(1) The ‘humification’ model is the oldest of the three concepts22. In 
+its original definition ‘humification’ assumes a further transformation or 
+synthesis of the initial decomposition products into large, dark-coloured 
+compounds12 (Fig. 3). The resulting macromolecules were thought to be 
+rich in carbon and nitrogen structures specific to ‘humification’ , resist -
+ant to decomposition12 and consequently, older than the rest of the soil organic matter. Given the lack of a universally accepted definition of 
+‘humic substances’ across disciplines and the lack of evidence for their 
+physical existence independent of the alkaline extraction procedure, it is 
+no surprise that there is no agreement on the processes and pathways of 
+‘humic substance’ formation either (Box 2). These ‘humic substances’ are 
+variously considered to be ecologically useful (providing cation exchange 
+capacity), chemically reactive (interacting with iron, aluminium and other Box 1
+Traditional approach to the study 
+of soil organic matter
+Since first used over 200 years ago, the alkaline extraction 
+technique has undergone many iterations but the principle  
+has remained identical. In its modern version105, the procedure 
+involves the addition of a sodium hydroxide solution with a very 
+high pH of 13 to a soil sample. At this pH, most oxygen-containing  
+functional groups in organic matter are ionized, making organic 
+compounds bearing such groups much more soluble in water67. 
+After adding protons to the solubilized organic materials, a dark  
+solid precipitates that is commonly called ‘humic acid’. The organic matter that remains soluble after reacidification is called 
+‘fulvic acid’. The considerable proportion of organic matter that 
+does not respond to the treatment, either for a lack of ionizable 
+functional groups or because it was shielded from the harsh 
+alkaline treatment by mineral protection, is named ‘humin’. This multi-step procedure created the need to distinguish 
+several categories of what constitutes soil organic matter. These 
+categories vary widely between authors. The conceptual problem with defining ‘humic substances’ by an extraction procedure is 
+threefold:
+(1) The extraction is always incomplete, leaving 50%–70% 
+of the organic carbon unextracted, which is then defined as 
+the insoluble ‘humin’ fraction
+106. This precludes the use of the 
+extractable ‘humic and fulvic acids’ as true representatives 
+of total soil organic matter. The alkaline solution will also 
+extract portions of soil fractions that are not meant to be 
+included in ‘humic substances’, such as living biomass, 
+simple and identifiable biomolecules (often included as ‘non-humic’ substances in ‘humus’), dissolved organic matter or 
+undecomposed leaves and roots (isolated as particulates). 
+ 
+How these separately assessed fractions should be 
+distinguished from the unextracted ‘humins’ (that are part  
+of ‘humic substances’) is often unclear. The sum of ‘humic’  
+and ‘non-humic’ substances is defined as ‘humus’, a term  
+that is sometimes considered to be synonymous to soil  
+organic matter5,6, sometimes not19, and is sometimes not  
+used at all4,5,8,22.
+(2) The harsh alkaline treatment at pH 13 ionizes 
+compounds that would never dissociate within the wider soil  
+pH range (pH 3.5 to pH 8.5), giving the resulting ‘humic’ and ‘fulvic’ fractions the character of highly selective preparations 
+with an exaggerated chemical reactivity rather than that of 
+ 
+true isolates.
+(3) The development of this extraction method preceded 
+theory, tempting scientists to develop explanations for the 
+synthesis of materials resembling operationally extracted 
+‘humic substances’, rather than to develop an understanding 
+of the nature of all organic matter in soil. Over time, this attempt to mechanistically explain the formation of 
+operationally defined ‘humic substances’ also led to their 
+definition as synthesis products without the link to the alkaline extraction
+5,6.
+© 2015 Macmillan Publishers Limited. All rights reserved
+PersPective reseArcH62 | NATURE | VOL 528 | 3 D EcEmb ER  2015metals), and—particularly relevant for biogeochemical models—also 
+inherently ‘stable’ against further decomposition12. The suite of hypothet -
+ical transformation processes became collectively known as ‘humification’ 
+and is also called the ‘synthesis concept of the genesis of humic substances’ 
+or ‘secondary synthesis’12,15,23,24 (Fig. 2).
+(2) ‘Selective preservation’ , which is also called preferential decom -
+position25, is a newer concept informed by decomposition studies of 
+leaves26,27 and visible plant fragments in soils28. This concept assumes 
+that organic inputs are composed of both labile and relatively recalcitrant 
+compounds29, the latter being used by microorganisms only when the 
+former are exhausted. However, there is now robust evidence that, under 
+suitable conditions, appropriately adapted decomposer organisms have 
+the ability to decompose even presumably persistent materials more 
+quickly than previously anticipated, including polycondensed aromat -
+ics30, alkanes in soil31, fire-derived carbon32, crude oil in sea water33, 
+and even polyethylene34. Also, contrary to previous assumptions35, the 
+decomposition of presumably recalcitrant lignin is fastest at the early 
+stages of decomposition, as long as it is easily accessible and small 
+organic molecules are available as a source of energy to help mineralize 
+the lignin36.(3) In the progressive decomposition model (also called ‘biopolymer 
+degradation’37; or ‘the degradative concept’15,23), soil organic matter 
+consists of a range of organic fragments and microbial products of all 
+sizes at various stages of decomposition7,38 (Fig. 2). Several independ -
+ent lines of evidence revealed alkali-extracted ‘humic substances’ to 
+be a mixture of identifiable compounds such as fragments of plants 
+or microorganisms39–41 that are distributed in different locations of  
+micro-aggregates42–45, showing no similarity to the ‘humic’ extract42, and 
+having small size46,47. Upon cell death, materials that are synthesized in 
+the course of microbial anabolism are released into the soil, where they are 
+subject to further degradation. Throughout this process, these materials 
+remain on an energetic downhill trajectory48, as opposed to the hypo -
+thetical ‘humic substances’ (Fig. 2), whose ‘secondary synthesis’ would 
+require energy investments for which no thermodynamic rationale has 
+been provided so far15.
+Using recognized chemical, physical and biological controls on soil 
+carbon turnover, the available evidence can reconcile those existing  
+theories into a SCM (Fig. 2). In the SCM concept, organic matter exists 
+as a continuum of organic fragments that are continuously processed by 
+the decomposer community towards smaller molecular size7,20,21. The 
+breakdown of large molecules leads to a decrease in the size of primary 
+plant material with concurrent increases in polar and ionizable groups, 
+and thus to increased solubility in water. At the same time, the oppor -
+tunity for protection against further decomposition increases through 
+greater reactivity towards mineral surfaces and incorporation into 
+aggregates (Fig. 2). Modern analytical tools for the characterization of 
+biomolecules in microbial cells and soils now suggest a direct and rapid 
+contribution of microbial cell walls to soil organic matter protected by 
+interaction with minerals49,50. Adsorption may be followed by desorption, 
+exchange reactions with competing organic compounds, and biotic or 
+abiotic degradation. An obvious consequence of microbial involvement 
+in the decomposition process is the direct deposition of microbial cells, 
+cell debris, exopolysaccharides, and root exudates on mineral surfaces.
+Only the SCM explains the variations in turnover time of organic 
+compounds through variations in the presence or absence of decom -
+poser organisms and enzymes and the energy they require, through the 
+properties and abundance of mineral surfaces that may protect organic 
+matter, and through the availability of numerous other resources (such 
+as oxygen and nutrients)51,52. The vast portfolio of options for variations 
+in carbon turnover dynamics in the SCM provides a full explanation of 
+organic matter properties as observed by contemporary, in situ  spectro -
+microscopic techniques39–42 without invoking ‘humification’ processes or 
+‘humic substances’ . Consequently, the SCM does not require microbial 
+or abiotic generation of recalcitrance through the formation of specific 
+organic compounds and is in agreement with the stated need to focus 
+on spatial arrangement of soil organic matter53 and environmental con -
+trol such as temperature, moisture or soil mineralogy52. Decomposition 
+pathways, sequences and rates therefore evolve as a specific function of a 
+given soil system. The SCM offers a way forward in modelling soil carbon 
+dynamics and developing soil management that is based on observable 
+evidence, as discussed below.
+Environmental relevance
+The SCM view of the nature of soil organic matter—which excludes 
+any secondary synthesis of ‘humic substances’—has implications for a 
+range of disciplines that build on the science of organic matter properties 
+and changes in soil (Fig. 1). This is all the more important as the ‘humic  
+substances’ concept is very widely adopted outside the soil sciences, with 
+the majority of publications focusing on ‘humic substances’ published in 
+journals that do not explicitly cover soil science.
+Soil carbon modelling
+Soils contain more organic carbon than the atmosphere and vegetation 
+combined1 and predictions of soil organic matter dynamics could there-
+fore greatly influence forecasts of global climate change. Major soil carbon 
+models such as Century54 or RothC55 are built on the premise that soil Box 2
+critique of the ‘humification’ model
+A consolidated assessment of published evidence (Fig. 3) reveals 
+that secondary synthesis of ‘humic substances’ facilitated by 
+minerals or enzymes has not been shown to be relevant in 
+natural systems. On these grounds we find it inadvisable to 
+support the classic ‘humification’ model. Evidence based on 
+isotopic labelling107 or on the testing of numerous decomposer 
+organisms108 leaves little doubt that the supposedly recalcitrant 
+‘humic substances’ can be decomposed at surprisingly 
+fast rates. The dark colour of ‘humic’ extracts generated in 
+laboratory experiments109,110 can be satisfactorily explained 
+by a combination of two processes: the degradation of natural 
+pigments and the accumulation of molecules containing random 
+conjugated bonds (which appear dark in the mixture). Large 
+molecular masses of hundreds to millions of daltons (mostly 
+10,000–100,000 daltons) reported in early studies12 have more 
+recently been found to consist of self-assembled aggregates of 
+small compounds mimicking large molecules13,46,111. Contrary 
+to many earlier interpretations, the old radiocarbon age of some alkaline extracts
+112 is not a valid criterion for the persistence of 
+decomposed organic matter, but merely an indication of when  
+the carbon was fixed by photosynthesis113. The chemical 
+structures of so-called polyaromatic carbon compounds (carbon in ring structures) often observed in the extracts are routinely 
+produced by both plants and microorganisms and include 
+melanins, tannins and antibiotics (polyketides)
+114,115. However, 
+these compounds have a clear physiological purpose and are therefore not the products of a random decomposition process. 
+Ubiquitous thermally altered carbon from vegetation fires found 
+in most soils
+116–118 is also polyaromatic, and a portion of such 
+compounds is typically extracted in alkaline solution83,119. 
+Heterocyclic nitrogen (nitrogen embedded in a carbon ring structure) has been proposed to result from secondary synthesis, 
+but evidence is only available to demonstrate its origin from 
+fires
+120 or from artefacts during analyses15,121. The glass transition 
+sometimes observed in materials from alkaline extracts122 has 
+been attributed to ‘humification’123, because glass transition 
+behaviour requires a degree of molecular order. But the glass transition can also be found in many microbial products
+124 and 
+fire-altered organic matter125 (in which the processes are well  
+established).
+© 2015 Macmillan Publishers Limited. All rights reserved
+PersPective reseArcH3 D EcEmb ER  2015 | VOL 528 | NATURE | 63organic matter can be divided into pools that have different turnover 
+times. None of these models explicitly represents the characteristic pro -
+cesses of carbon transformation detailed in the SCM, such as adsorption 
+and protection, desorption, and microbial activity. Although carbon 
+movement between pools and their decomposition rates are modified 
+by temperature, texture and moisture, the default turnover rates asso -
+ciated with individual carbon pools are justified by the combined influ -
+ence of physical protection and an inferred resistance to decomposition  that is dependent on substrate quality (‘quality’ is here used in the sense 
+of molecular composition of the organic matter). Particularly for the  
+‘slow’ and ‘passive’ pools, this inherent resistance to decomposition  
+(recalcitrance) has been understood to be the result of ‘humification’ , with 
+the RothC model explicitly including ‘humus’ fractions55. Lack of mech -
+anistic representation of the decomposition process produces disagree -
+ment among models56 and between model predictions and observational 
+data57,58.Figure 2 | Reconciliation of current conceptual models for the fate of 
+organic debris into a consolidated view of a SCM of organic matter cycles and ecosystem controls in soil. Classic ‘humification’ relies on 
+the synthesis of large molecules from decomposition products. Selective 
+preservation assumes that some organic materials are preferentially mineralized, leaving intrinsically ‘stable’ decomposition products behind. Progressive decomposition reflects the concept of microbial processing of large plant biopolymers to smaller molecules. In the proposed SCM, a continuum of organic fragments is continuously processed by the 
+decomposer community from large plant and animal residues towards smaller molecular size. At the same time, greater oxidation of the organic 
+materials increases solubility in water as well as the opportunity for protection against further decomposition through greater reactivity 
+towards mineral surfaces and incorporation into aggregates. Dashed 
+arrow lines denote mainly abiotic transfer, solid lines denote mainly biotic transfer; thicker lines indicate more rapid rates; larger boxes and ends 
+ 
+of wedges illustrate greater pool sizes; all differences are illustrative.  
+All arrows represent processes that are a function of temperature, moisture and the biota present.(3) Progressive decompositionMolecular size    Molecular size
+OxidationMonomers
+(assimilable)Fauna
+Exo-enzymes
+(mainly bacteria)Fauna Exo-enzymesFauna
+Exo-enzymes
+(mainly fungi)‘Labile’
+(carbohydrates, protein)‘Stable’
+(lignin, lipid, pyrogenic)
+‘Labile’ ‘Stable’
+‘Stable’ ‘Labile’
+Enzymes
+Microbes Enzymes
+Microbes
+Microbes MicrobesLarge biopolymers
+(not assimilable)Large biopolymers
+(not assimilable)Large biopolymers
+(not assimilable)
+Small biopolymers
+(assimilable)Small biopolymers
+(assimilable)Small biopolymers,
+monomers
+(assimilable) 
+Humic substances
+(not assimilable)Plant, animal residuesPlant, animal residuesPlant, animal residues
+Fauna Exo-enzymes
+Microbes
+Molecular size
+Molecular sizeAromaticity, oxidation, complexityCompeting views 
+(2) Selective preservation 
+Large biopolymers
+Small biopolymers
+MonomersPlant, animal residuesCO2
+CO2
+CO2CO2
+Turnover time    Turnover timeCarbohydrate, protein, lignin, lipid, pyrogenic
+Not assimilable (>600 Da) 
+Assimilable (<600 Da) Consolidated view 
+Soil continuum model 
+Formation
+Formation
+FormationDestruction
+Destruction
+Destruction
+Formation
+DestructionAdsorption
+Desorption
+Adsorption
+Desorption
+Adsorption
+Desorption
+Adsorption
+DesorptionAggregates
+Mineral surfacesExo-enzymesExo-enzymes
+(mainly fungi)Exo-enzymes
+(mainly bacteria )Exo-enzymes(1) ‘Humiﬁcation’
+Monomers
+(assimilable)
+© 2015 Macmillan Publishers Limited. All rights reserved
+PersPective reseArcH64 | NATURE | VOL 528 | 3 D EcEmb ER  2015The shortcomings become apparent when these models are applied 
+to predict the global warming feedback of soil organic carbon miner -
+alization. Rising temperatures increase microbial activity and a warm -
+ing atmosphere may therefore lead to greater mineralization of soil organic carbon59. The resultant carbon dioxide emissions would then 
+accelerate the greenhouse effect and thereby increase global temper -
+ature. Soil organic matter pools with slower turnover are thought to 
+respond more sensitively to climate warming than those with fast turn-
+over59–61. The underlying, so-called carbon–quality–temperature theory  
+(CQT theory62) combines classical ‘humification’ theory, that is, the 
+assumption that decomposition creates complex, recalcitrant compounds, 
+with the Arrhenius theory that chemical reactions are faster at higher tem -
+peratures63. According to CQT theory, the decomposition of a complex 
+substrate requires more enzymatic reactions and a higher total activation 
+energy than a reaction metabolizing a simple carbon substrate, and as a 
+result, would be more sensitive to rising temperatures than the decom -
+position of a simple carbon substrate. The CQT theory loses much of 
+its explanatory potential for the carbon pools with slow turnover if the 
+decomposition of organic matter is not creating complex and recalcitrant 
+compounds.
+Different organic compounds entering the soil have highly varying 
+composition64 and in isolation (for example, fresh litter) have differ -
+ent turnover and hence temperature responses as a function of their  
+composition60. However, this variation is so heavily influenced by  
+environmental and biotic factors after they enter the soil ecosystem that 
+the concept of relying on quality-dependent temperature responses is, in 
+our opinion, obsolete. We propose that future research should concentrate 
+to a much greater extent on the causes of any observed substrate prefer -
+ences, such as the absence of a decomposer with a matching catabolic 
+toolbox or the lack of a critical resource for the decomposer.
+To equip models with more appropriate temperature responses, new 
+approaches need to recognize first the continuum of organic compounds 
+(rather than discreet pools with different turnover times), and second 
+the protection of organic compounds (rather than substrate quality). It 
+is not obvious that merely distinguishing between the mineralization 
+of plant litter on the one hand and degradation products interacting 
+with the mineral matrix65 on the other will generate better predictive 
+capabilities, simply because they form a continuum. In addition, the full suite of controls on mineralization must be considered, notably 
+ 
+temperature–moisture interactions66. Mechanistic understanding in 
+this field will be greatly improved if ‘humification’-derived assumptions 
+about the molecular structure of the slower-cycling soil carbon pools are 
+replaced by considerations of the processes that render organic decom -
+position fragments mobile in soil solution. The relevance of binding 
+mechanisms of organic substances to different mineral surfaces is still 
+uncertain67 and the stability of minerals themselves may change as a result 
+of exposure to organic compounds, such as those released by roots68.
+The laudable efforts to include microbial activity69 and diversity70 into 
+soil carbon models to improve climate predictions continue to focus on the 
+quality of organic matter. The development of models built on microbial  
+ecology should omit any emphasis on substrate quality and especially 
+the proposed large ‘humified’ organic compounds. Observations in soils 
+depleted of plant litter input showed microbial communities adapted to 
+metabolizing simple, small compounds rather than the large and poly -
+meric organic compounds expected for old and persistent soil organic  
+carbon71. To predict the responses of soil organic carbon to climate warm -
+ing, models must move beyond conceptual pools having different turn-
+over times and instead combine soil physical principles into soil biological 
+processes. As recently demonstrated72, aspects of this combination are 
+already possible when models include the extent to which the mobility 
+of organic fragments in soil water affects accessibility of decomposition 
+products by functionally different groups of microorganisms.
+It will next be critical to develop models that provide deeper insight 
+into microbial access to soil organic carbon by including the spatial 
+architecture of the soil53. Such model development benefits from spatial 
+data, which are becoming available using imaging analyses in two42,49 or 
+three dimensions73. In a fully developed model, this will require extensive 
+computing capabilities and may only be possible if this research is priorit-
+ized or at a time when further computational advances make complex 
+spatial calculations easily accessible and inexpensive. Combining these Figure 3 | Weighing up the empirical information supporting either the 
+historic or evidence-based interpretation of the nature of soil organic matter. A consolidated assessment of scientific evidence published over 
+the past two decades provides explanations for the properties of alkaline extracts that do not require invoking the secondary synthesis of ‘humic substances’ .Old age of carbon in alkaline extracts compared to whole soil 
+Greater aromaticity compared to whole soil 
+More nitrogen heterocycles  compared to whole soil Properties of alkaline extracts: Dark colour
+Random mix of small
+molecules containing 
+conjugated bonds as a 
+residue; degradation of pigments 
+Glass transition behaviour (a phase change requiring some 
+level of molecular order) Large size and mass not
+corroborated; self-assembly 
+of small molecules 
+Radiocarbon age is not a valid
+criterion for persistence of a 
+decomposition product 
+Not all alkaline extracts are
+enriched in aromatics; pyrogenic 
+carbon and microbial metabolites 
+(not waste products) create 
+aromatic-rich alkaline extracts 
+Analytical artefacts during
+quanti/f_ication; pyrogenic 
+nitrogen is heterocyclic and 
+alkali extractable 
+Common for some known
+biomolecules and 
+pyrogenic carbon Secondary synthesis of
+various conjugated bonds 
+in large molecules that
+appear dark 
+Synthesis of complex
+‘humic substances’ 
+‘Humic substances’ are
+recalcitrant because they 
+contain carbon with old 
+radiocarbon ages 
+‘Humi/f_ication’ creates
+polyaromatic molecules 
+Heterocyclic nitrogen is a
+product of proposed 
+‘humi/f_ication’ reactions 
+Formation of large polymersHistoric
+interpretation 
+Evidence-based
+interpretation
+Apparent large size and mass of molecules 
+© 2015 Macmillan Publishers Limited. All rights reserved
+PersPective reseArcH3 D EcEmb ER  2015 | VOL 528 | NATURE | 65approaches within the SCM would provide opportunities to test whether 
+the distance of microorganisms from the organic matter plays as impor -
+tant a part as does the attachment of organic matter to protective mineral 
+surfaces, which constitutes the next frontier in better understanding and 
+prediction of soil organic carbon dynamics.
+Aquatic systems
+Because soil organic matter is a major source of organic carbon in rivers, 
+lakes and estuaries3, its persistence and retention is of great interest for 
+closing global carbon budgets1. Large proportions of organic carbon in 
+rivers are mineralized and emitted as carbon dioxide74 or retained in  
+fluvial75 and oceanic sediments76. To date, ‘humic substances’ as extracted 
+by alkali constitute the organic workhorse that is investigated by the com -
+munity of aquatic chemists. Continuing this practice of investigating 
+organic matter in aquatic systems with the help of an inadequate proxy 
+will not only prevent us from obtaining a better understanding of how far 
+organic matter is transported and when it outgasses into the atmosphere, 
+it will also generate misleading conclusions about is stability and reactiv -
+ity3. As outlined above for the soil environment, we argue that the persis -
+tence and movement of terrestrially derived organic carbon compounds 
+entering aquatic ecosystems will rely on their protection by minerals, 
+solubility in water and microbial degradation rather than primarily their 
+chemical properties.
+Aquatic carbon is not only important as part of the global carbon cycle, 
+but also for local biogeochemical processes in streams and lakes. The 
+observation of electron shuttling by ‘humic substances’ may serve as an 
+example77–79. Electron shuttling is often attributed to quinones80 and is a 
+key driver for the microbial use of organic carbon, including organic pol -
+lutants and oxidation of reduced metals in oxygen-limited environments 
+such as aquatic sediments and peatlands81. Extracts of ‘humic substances’ 
+typically used for investigations of electron shuttling phenomena may 
+have developed this capacity not as a result of ‘humification’ , but because 
+alkaline solutions extract quinones that are present in soil as a result of 
+known microbial metabolism82 or in carbon thermally altered by fire83, 
+which has been shown to be electrochemically active84,85. Abandoning the 
+‘humic’ proxy will broaden future research to include electron transfer 
+mediated by organic matter that is not soluble in alkali. This will improve 
+identification of mechanisms controlling methane production in tem-
+porarily anoxic environments79 and those elements of biotic85 and abi -
+otic86 iron cycles that remain elusive.
+Water treatment is a vital technology, but its mechanistic basis is ren -
+dered questionable by the pervasive use of the ‘humic substances’ proxy. 
+Anaerobic bioremediation refers to ‘humic substances’ as an electron 
+acceptor78 that removes pollutants. During purification of drinking 
+water, on the other hand, ‘humic acids’ are considered contaminants, 
+because reactions with disinfectants generate by-products that are toxic to 
+humans87. Research specifically targets ‘humic’ isolates that are perceived 
+to be relevant proxies for organic compounds in waste water88. Instead, 
+water treatment would benefit from using organic materials that are based 
+on mixtures of actually existing degradation products rather than the 
+proxies based on alkaline extraction, as in the removal of organic mat -
+ter by coagulation87. Water treatment needs to become more predictable 
+because future contamination will inevitably include new pharmaceuti -
+cals or nanoparticles of which we have limited experience.
+Agriculture
+Productive soils are central to human welfare because agriculture gener -
+ates most of our food, feed and fibre. Organic matter contributes to soil 
+fertility by retaining plant-available water and nutrients or promoting 
+the formation of soil structure, but it is also consumed in the process of 
+arable soil management as it releases needed nutrients and energy when 
+it decomposes89. However, proposals to return the carbon lost through 
+agricultural activities in previous decades often emphasize the need to 
+build or augment a ‘stable humus’ pool, drawing on the outdated con -
+cept of ‘humification’ . Such a pool has been suggested to increase soil 
+organic matter resistance to decomposition through in situ  synthesis of macromolecules90 or hydrophobic protection by ‘humic substances’91. 
+However, this goal seems counterproductive given that soil organic mat -
+ter is most beneficial when it decays and releases energy and nutrients89. 
+Acknowledging the dynamic continuum of decomposition products suggests that the management of soil organic matter turnover is more 
+important than the accrual of non-productive organic matter deposits. 
+This requires a mechanistic understanding of interactions with minerals, 
+movement into areas of lower mineralization and mediation of microbial 
+activity7. The need to manage the turnover and volume of organic com-
+pounds and nutrient provisioning to optimize soil productivity (Fig. 1) 
+warrants further research into balancing both stocks and flows of organic 
+matter.
+Soil organic matter can reduce contaminant uptake into crops and 
+leaching into groundwater through adsorption at the cost of long-term 
+accumulation. Studying the hypothetical interactions of heavy metals or 
+other pollutants with extracts of ‘humic substances’ will provide limited 
+insight into contaminant behaviour. Future research into interactions of 
+organic matter with arsenic92, other heavy metals93 or pharmaceuticals94 
+will generate more robust information by investigating the entire soil 
+organic matter or the portion present in soil solution rather than what 
+is extractable by alkali. This will allow better predictions of contaminant 
+movement and mitigation of their environmental impact by adsorption 
+and microbial use.
+Alkaline extraction targets materials with abundant functional groups. 
+Consequently, plant growth is often enhanced when such materials are 
+added to soils particularly to stimulate rooting95. Alkali-extracted prod-
+ucts are therefore becoming increasingly popular as soil amendments96. 
+Better crop nutrition is an important part of this strategy and plant uptake 
+of micronutrients is indeed known to be improved when organic com -
+pounds make them more soluble97. Positive plant responses to ‘humic 
+substances’ resembling those of beneficial plant hormones95, through 
+improved defence mechanisms against pests or diseases98 and changes 
+in gene expression99 may mean that the alkaline extracts contain com -
+pounds that trigger these effects. If we acknowledge soil organic matter as 
+a continuum of decomposition products, we will be better able to design 
+soil applications for specific purposes such as improved plant defence, and 
+unpack what is essentially a ‘black box’ of compounds extracted by alkali. 
+Research and product development should therefore focus on organic 
+compounds that are soluble in water for managing soil health and focus 
+on relationships between specific functional groups or compounds and 
+positive plant responses for which information already exists.
+The way forward
+The need for the soil sciences to move away from both the ‘humifica -
+tion’ model and associated ‘humic’ language has been much debated. 
+Unfortunately, this objective has not been implemented with rigour and 
+has largely been ignored in the neighbouring fields of aquatic and envi -
+ronmental sciences. In many cases, the ‘humification’ model itself has 
+been abandoned, but the ‘humic’ nomenclature is maintained. For exam -
+ple, the large molecular size of ‘humic substances’ has been refuted13,100 
+but not their existence. The issue has also been approached by redefining 
+‘humic substances’ as the portion of soil organic matter that cannot be 
+molecularly characterized20,101,102, or by calling all soil organic matter 
+‘humus’11. We argue that this compromise—maintaining terminology 
+but altering its meanings in varying ways—hampers scientific progress 
+beyond the soil sciences. The SCM of soil organic matter does not allow 
+a confusing middle path; it requires leaving the traditional view behind to 
+bring about lasting innovation and progress103. This is critical as scientific 
+fields outside the soil sciences base their research on the false premise of 
+the existence of ‘humic substances’ . Thus an issue of terminology becomes 
+a problem of false inference, with far-reaching implications beyond  
+our ability to communicate scientifically accurate soil processes and 
+properties.
+Reconciliation of modern experimental evidence with a robust 
+molecular model can immediately be achieved by consistently referring 
+to ‘humic substances’ as alkaline extracts rather than suggesting that 
+© 2015 Macmillan Publishers Limited. All rights reserved
+PersPective reseArcH66 | NATURE | VOL 528 | 3 D EcEmb ER  2015a distinct category of organic materials exists. This is essential when 
+modelling global soil carbon, for which we need to cease using soil 
+carbon pools whose definitions are rooted in ‘humic’ theory. In future 
+research, alkaline extracts should not be used as proxies for naturally 
+occurring organic matter or a subset thereof. Alkaline extraction should 
+be supplanted by approaches that capture actual solubility in soil, river 
+or ocean water.
+The SCM will direct fundamental research questions towards  
+microbial access to ‘protected’ rather than ‘stable’ carbon, and this will 
+lead to more mechanistic representations of pollutant mobility and elec-
+tron transfer reactions. In applied science and industry, this shift will prove more difficult to establish, because commercial ‘humification’ 
+products and their marketing are strongly established, particularly in 
+the gardening and compost industry. However, alkaline extraction does 
+indeed isolate organic materials rich in oxygen, which may have value for 
+product development. Therefore, we urgently need a biologically based 
+explanation of the established growth-promoting effects of some highly 
+oxidized organic compounds in soil in order to develop commercial prod -
+ucts that operate in a predictable manner based on observable reactions 
+of enzymes, hormones or cell wall transport. This will redirect existing 
+research and development programmes at the intersection of molecular 
+biology, ecology and soil biogeochemistry to allow the implementation 
+of scientifically sound ‘soil health’ concepts.
+Government-funded research programmes must therefore preferen-
+tially support science that bridges the gap between detailed and fine-
+scale mechanistic research at the plant–soil interface and field-scale 
+research relevant to those who manage soils for their multiple ecosystem 
+services. There are great opportunities for progress in explaining soil 
+carbon responses to warming, and in the improvement of soil fertility 
+and water quality. Coordinated interdisciplinary research programmes 
+should be urgently set up to encourage greater coordination between soil 
+biogeochemists and modellers. Such programmes should use the SCM to 
+examine the balance between managing carbon and nutrient flows with sequestration, and between carbon transport, deposition and evasion in 
+rivers and oceans. Models based on pools should be replaced with models 
+based on organic matter solubility and spatial architecture to improve 
+climate prediction, regional and global assessments of soil resources and 
+soil vulnerability. The reward will be more robust forecasts and resource 
+evaluation, issues critical for developing future climate change and land 
+use policies.
+received 30 April 2015; accepted 8 October 2015. 
+Published online 23 November 2015.
+1. Ciais, P. et al. in Climate Change 2013: The Physical Science Basis (eds Stocker, 
+T. F. et al.) 465–570 (Cambridge Univ. Press, 2013).
+2. Lal, R. Soil carbon sequestration impacts on global climate change and food security. Science 304, 1623–1627 (2004).
+3. Marín-Spiotta, E. et al. Paradigm shifts in soil organic matter research affect interpretations of aquatic carbon cycling: transcending disciplinary and 
+ecosystem boundaries. Biogeochemistry 117, 279–297 (2014).
+4. Brady, N. C. & Weil, R. R. The Nature and Properties of Soils 14th edn, Ch. 12 
+(Prentice Hall, 2008).
+5. Tan, K. H. Humic Matter in Soil and the Environment: Principles and Controversies  
+2nd edn (CRC Press, 2014).
+6. Horwath, W. R. in Soil Microbiology, Ecology, and Biochemistry 4th edn 
+ 
+(ed. Paul, E.) 339–382 (Academic Press, 2015).
+7. Trumbore, S. E. Potential responses of soil organic carbon to global 
+environmental change. Proc. Natl Acad. Sci. USA 94, 8284–8291 (1997).
+8. Schnitzer, M. & Monreal, C. M. Quo Vadis soil organic matter research?  
+A biological link to the chemistry of humification. Adv. Agron. 113,  
+143–217 (2011).
+9. Achard, F. K. Chemische Untersuchung des Torfs. Chem. Ann. Freunde Naturlehre, Arzneigel. Haushalt. Manufact. 2, 391–403 (1786).
+10. van Bemmelen, J. M. Die Absorptionsverbindungen und das 
+Absorptionsvermögen der Ackererde. Landwirtschaftlichen Versuchs-Stationen  
+35, 69–136 (1888).
+11. Waksman, S. A. Humus. Origin, Chemical Composition and Importance in Nature (Williams and Wilkins, 1936). 
+ 
+This is the first major critique of the humification concept.
+12. Stevenson, F. J. Humus Chemistry: Genesis, Composition, Reactions   
+(John Wiley & Sons, 1994).13. Sutton, R. & Sposito, G. Molecular structure in soil humic substances: the new view. Environ. Sci. Technol. 39, 9009–9015 (2005).
+14. Stumm, W. & Morgan, J. J. Aquatic Chemistry, An Introduction Emphasizing Chemical Equilibria in Natural Waters (Wiley, 1981).
+15. Burdon, J. Are the traditional concepts of the structures of humic substances realistic? Soil Sci. 166, 752–769 (2001).
+16. Jenkinson, D. S. & Rayner, J. H. The turnover of soil organic matter in some of the Rothamsted classical experiments. Soil Sci. 123, 298–305 (1977).
+17. Weiss, M. S. et al. Molecular architecture and electrostatic properties of a 
+bacterial porin. Science 254, 1627–1630 (1991).
+18. Hedges, J. I. & Oades, J. M. Comparative organic geochemistries of soils and 
+marine sediments. Org. Geochem. 27, 319–361 (1997).
+19. Baldock, J. A. & Nelson, P. N. in Handbook of Soil Science (ed. Sumner, M. E.) 
+B25–B84 (CRC Press, 2000).
+20. Essington, M. E. Soil and Water Chemistry: An Integrated Approach (CRC Press, 
+2004).
+21. Bosatta, E. & Agren, G. I. Dynamics of carbon and nitrogen in the organic-matter of the soil—a generic theory. Am. Nat. 138, 227–245 (1991).
+22. Kononova, M. M. Soil Organic Matter. Its Nature, its Role in Soil Formation and in Soil Fertility (Pergamon, 1961).
+23. Hayes, M. H. B. & Swift, R. S. in Soil Colloids and their Associations in Aggregates  
+(eds De Boodt, M. F., Hayes, M. H. B. & Herbillon, A.) 245–305 (Plenum, 
+ 
+1990).
+24. Guggenberger, G. in Microorganisms in Soils: Roles in Genesis and Functions  
+(eds Buscot, F. & Varma, A.) 85–106 (Springer, 2005).
+25. Sollins, P., Homann, P. & Caldwell, B. A. Stabilization and destabilization of soil organic matter: mechanisms and controls. Geoderma 74, 65–105 (1996).
+26. Melillo, J. M., Aber, J. D. & Muratore, J. F. Nitrogen and lignin control of 
+hardwood leaf litter decomposition dynamics. Ecology 63, 621–626 (1982).
+27. Aber, J. D., Melillo, J. M. & McClaugherty, C. A. Predicting long-term patterns of 
+mass-loss, nitrogen dynamics, and soil organic matter formation from initial 
+litter chemistry in temperate forest ecosystems. Can. J. Bot. 68, 2201–2208 
+(1990).
+28. Baldock, J. A. et al. Aspects of the chemical structure of soil organic materials 
+as revealed by solid-state 
+13C NMR spectroscopy. Biogeochemistry 16, 1–42 
+(1992).
+29. Lützow, M. V. et al. Stabilization of organic matter in temperate soils: mechanisms and their relevance under different soil conditions—a review. 
+ 
+Eur. J. Soil Sci. 57, 426–445 (2006).
+30. Gramss, G., Voigt, K. D. & Kirsche, B. Degradation of polycyclic aromatic 
+hydrocarbons with three to seven aromatic rings by higher fungi in sterile and 
+unsterile soils. Biodegradation 10, 51–62 (1999).
+31. Wiesenberg, G. L. B., Schwarzbauer, J., Schmidt, M. W. I. & Schwark, L. Source and turnover of organic matter in agricultural soils derived from 
+n-alkane/n -carboxylic acid compositions and C-isotope signatures. Org. 
+Geochem. 35, 1371–1393 (2004).
+32. Hamer, U., Marschner, B., Brodowski, S. & Amelung, W. Interactive priming of black carbon and glucose mineralisation. Org. Geochem. 35, 823–830 
+(2004).
+33. Hazen, T. C. et al. Deep-sea oil plume enriches indigenous oil-degrading 
+bacteria. Science 330, 204–208 (2010).
+34. Yang, J., Yang, Y., Wu, W.-M., Zhao, J. & Jiang, L. Evidence of polyethylene biodegradation by bacterial strains from the guts of plastic-eating waxworms. Environ. Sci. Technol. 48, 13776–13784 (2014). 
+ 
+These experiments show that under certain conditions bacteria can even utilize plastics, not thought to be biologically degradable.
+35. Berg, B. & Staaf, H. Decomposition rate and chemical changes of Scots pine needle litter. II. Influence of chemical composition. Ecol. Bull. 32, 373–390 
+(1980).
+36. Klotzbücher, T., Kaiser, K., Guggenberger, G., Gatzek, C. & Kalbitz, K. A new 
+conceptual model for the fate of lignin in decomposing plant litter. Ecology 92, 
+1052–1062 (2011). 
+ 
+This paper shows that lignin in plant litter can be easily mineralized by 
+microorganisms provided that bioavailable carbon is present.
+37. Hedges, J. I. in Humic Substances and their Role in the Environment (eds 
+Frimmel, F. H. & Christman, R. F.) 45–58 (John Wiley & Sons, 1988).
+38. Cotrufo, M. F., Wallenstein, M. D., Boot, C. M., Denef, K. & Paul, E. The Microbial Efficiency-Matrix Stabilization (MEMS) framework integrates plant litter 
+decomposition with soil organic matter stabilization: do labile plant inputs 
+form stable soil organic matter? Glob. Change Biol. 19, 988–995 (2013). 
+ 
+This paper discusses the need to integrate concepts of litter decomposition with protection and mineralization of soil organic matter, and proposes a 
+solution.
+39. Kelleher, B. P. & Simpson, A. J. Humic substances in soils: are they really 
+chemically distinct? Environ. Sci. Technol. 40, 4605–4611 (2006). 
+ 
+This paper provides direct proof that the chemical makeup of ‘humic substances’ can be explained as resulting from mixtures of known plant and 
+microbial compounds.
+40. Gillespie, A. et al. Glomalin-related soil protein contains non-mycorrhizal-
+related heat-stable proteins, lipids and humic materials. Soil Biol. Biochem. 43, 
+766–777 (2011).
+41. Mylotte, R. et al. Isolation and characterisation of recalcitrant organic components from an estuarine sediment core. J. Soils Sedim. 15, 211–224 
+(2015).
+42. Lehmann, J. et al. Spatial complexity of soil organic matter forms at nanometre scales. Nature Geosci. 1, 238–242 (2008). 
+ 
+© 2015 Macmillan Publishers Limited. All rights reserved
+PersPective reseArcH3 D EcEmb ER  2015 | VOL 528 | NATURE | 67This paper demonstrates that spectral properties of alkaline extracts are not 
+found in soils at a high spatial resolution.
+43. Schumacher, M., Christl, I., Scheinost, A. C., Jacobsen, C. & Kretzschmer, R. Chemical heterogeneity of organic soil colloids investigated by scanning transmission X-ray microscopy and C-1s NEXAFS spectroscopy. Environ. Sci. Technol. 39, 9094–9100 (2005).
+44. Lehmann, J., Kinyangi, J. & Solomon, D. Organic matter stabilization in soil microaggregates: implications from spatial heterogeneity of organic carbon contents and carbon forms. Biogeochemistry 85, 45–57 (2007).
+45. Chen, C., Dynes, J. J., Wang, J., Karunakaran, C. & Sparks, D. L. Soft X-ray spectromicroscopy study of mineral-organic matter associations in pasture soil clay fractions. Environ. Sci. Technol. 48, 6678–6686 (2014).
+46. Myneni, S. C. B., Brown, J. T., Martinez, G. A. & Meyer-Ilsel, W. Imaging of humic 
+substance macromolecular structures in water and soils. Science 286, 
+1335–1337 (1999). 
+ 
+This paper provides spectroscopic evidence that organic materials in 
+alkaline extracts are assemblages of smaller compounds mimicking larger 
+molecules.
+47. Nebbioso, A. & Piccolo, A. Advances in humeomics: enhanced structural 
+identification of humic molecules after size fractionation of a soil humic acid. Anal. Chim. Acta 720, 77–90 (2012).
+48. Hedges, J. I. et al. The molecularly-uncharacterized component of nonliving organic matter in natural environments. Org. Geochem. 31, 945–958 
+(2000).
+49. Miltner, A., Bombach, P., Schmidt-Brücken, B. & Kästner, M. SOM genesis: microbial biomass as a significant source. Biogeochemistry 111, 41–55 
+(2012).
+50. Schurig, C. et al. Microbial cell-envelope fragments and the formation of soil 
+organic matter: a case study from a glacier forefield. Biogeochemistry 113, 
+595–612 (2013).
+51. Hedges, J. I. & Keil, R. G. Organic geochemical perspectives on estuarine processes: sorption reactions and consequences. Mar. Chem. 65, 55–65 
+(1999).
+52. Schmidt, M. W. I. et al. Persistence of soil organic matter as an ecosystem 
+property. Nature 478, 49–56 (2011).
+53. Stockmann, U. et al. The knowns, known unknowns and unknowns of sequestration of soil organic carbon. Agric. Ecosyst. Environ. 164, 80–99 
+(2013).
+54. Parton, W. J. et al. ForCent model development and testing using the Enriched Background Isotope Study experiment. J. Geophys. Res. Biogeosci. 115, 
+ 
+G4 (2010).
+55. Jenkinson, D. S. & Coleman, K. The turnover of organic carbon in subsoils.  
+Part 2. Modelling carbon turnover. Eur. J. Soil Sci. 59, 400–413 (2008).
+56. Todd-Brown, K. E. O. et al. Causes of variation in soil carbon simulations from 
+CMIP5 Earth system models and comparison with observations. 
+Biogeoscience 10, 1717–1736 (2013).
+57. Bonan, G. B., Hartman, M. D., Parton, W. J. & Wieder, W. R. Evaluating litter decomposition in earth system models with long-term litterbag experiments: 
+an example using the Community Land Model version 4 (CLM4). Glob. Change 
+Biol. 19, 957–974 (2013).
+58. Koven, C. D. et al. The effect of vertically resolved soil biogeochemistry and 
+alternate soil C and N models on C dynamics of CLM4. Biogeoscience 10, 
+7109–7131 (2013).
+59. Davidson, E. A. & Janssens, I. A. Temperature sensitivity of soil carbon 
+decomposition and feedbacks to climate change. Nature 440, 165–173 
+ 
+(2006).
+60. Conant, R. T. et al. Sensitivity of organic matter decomposition to warming 
+varies with its quality. Glob. Change Biol. 14, 868–877 (2008).
+61. Craine, J. M., Fierer, N. & McLauchlan, K. K. Widespread coupling between the 
+rate and temperature sensitivity of organic matter decay. Nature Geosci. 3, 
+854–857 (2010).
+62. Bosatta, E. & Agren, G. I. Soil organic matter quality interpreted thermodynamically. Soil Biol. Biochem. 31, 1889–1891 (1999).
+63. Arrhenius, S. Über die Reaktionsgeschwindigkeit bei der Inversion von 
+Rohrzucker durch Säuren. Z. Phys. Chem. 4, 226–248 (1889).
+64. Kögel-Knabner, I. The macromolecular organic composition of plant and 
+microbial residues as inputs to soil organic matter. Soil Biol. Biochem. 34, 
+139–162 (2002).
+65. Erhagen, B. et al. Temperature response of litter and soil organic matter decomposition is determined by chemical composition of organic material. Glob. Change Biol. 19, 3858–3871 (2013).
+66. Sierra, C. A., Trumbore, S. E., Davidson, E. A., Vicca, S. & Janssens, I. Sensitivity 0of decomposition rates of soil organic matter with respect to simultaneous changes in temperature and moisture. J. Adv. Modeling Earth Syst. 7, 335–356 
+(2015).
+67. Kleber, M. et al. Mineral–organic associations: formation, properties, and relevance in soil environments. Adv. Agron. 130, 1–140 (2015). 
+ 
+This is a comprehensive discussion of the role of the mineral matrix in controlling organic matter transformations and persistence.
+68. Keiluweit, M. et al. Mineral protection of soil carbon counteracted by root exudates. Nature Clim. Change 5, 588–595 (2015).
+69. Todd-Brown, K. E., Hopkins, F. M., Kivlin, S. N., Talbot, J. M. & Allison, S. D. 
+ 
+A framework for representing microbial decomposition in coupled climate models. Biogeochemistry 109, 19–33 (2012).
+70. Treseder, K. K. et al. Integrating microbial ecology into ecosystem models: challenges and priorities. Biogeochemistry 109, 7–18 (2012).71. Nunan, N. et al. Metabolising old soil carbon: simply a matter of simple organic matter? Soil Biol. Biochem. 88, 128–136 (2015).
+72. Riley, W. J. et al. Long residence times of rapidly decomposable soil organic matter: application of a multi-phase, multi-component, and vertically resolved 
+model (BAMS1) to soil carbon dynamics. Geosci. Model Dev. 7, 1335–1355 
+(2014).
+73. Dal Ferro, N. & Morari, F. From real soils to 3D-printed soils: reproduction of complex pore network at the real size in a silty-loam soil. Soil Sci. Soc. Am. J. 
+79, 1008–1017 (2015).
+74. Richey, J. E. et al. Outgassing from the Amazonian rivers and wetlands as a 
+large tropical source of atmospheric CO
+2. Nature 416, 617–620 (2002).
+75. Cole, J. J. et al. Plumbing the global carbon cycle: integrating inlands 
+waters into the terrestrial carbon budget. Ecosystems 10, 172–185  
+(2007).
+76. Hedges, J. I. & Keil, R. G. Sedimentary organic matter preservation: an assessment and speculative synthesis. Mar. Chem. 49, 81–115 (1995).
+77. Lovley, D. R., Coates, J. D., Blunt-Harris, E. L., Phillips, E. J. & Woodward, J. C. 
+Humic substances as electron acceptors for microbial respiration. Nature 382, 
+445–448 (1996).
+78. Martinez, C. M., Alvarez, L. H., Celis, L. B. & Cervantes, F. J. Humus-reducing microorganisms and their valuable contribution in environmental processes. Appl. Microbiol. Biotechnol. 97, 10293–10308 (2013).
+79. Klüpfel, L., Piepenbrock, A., Kappler, A. & Sander, M. Humic substances as fully regenerable electron acceptors in recurrently anoxic environments. Nature Geosci. 7, 195–200 (2014).
+80. Uchimiya, M. & Stone, A. T. Reduction of substituted p -benzoquinones by Fe
+II 
+near neutral pH. Aquat. Geochem. 16, 173–188 (2010).
+81. Keller, J. K. & Takagi, K. K. Solid-phase organic matter reduction regulates anaerobic decomposition in bog soils. Ecosphere 4, 54 (2013).
+82. Newman, D. K. & Kolter, R. A role for excreted quinones in extracellular electron transfer. Nature 405, 94–97 (2001).
+83. Solomon, D. et al. Molecular signature and sources of biochemical recalcitrance of organic C in Amazonian Dark Earths. Geochim. Cosmochim. Acta 71, 2285–2298 (2007).
+84. Klüpfel, L., Keiluweit, M., Kleber, M. & Sander, M. Redox properties of plant biomass-derived black carbon (biochar). Environ. Sci. Technol. 48, 5601–5611 
+(2014).
+85. Kappler, A. et al. Biochar as an electron shuttle between bacteria and Fe(III) 
+minerals. Environ. Sci. Technol. Lett. 1, 339–344 (2014).
+86. Melton, E. D., Swanner, E. D., Behrens, S., Schmidt, C. & Kappler, A. The 
+interplay of microbially mediated and abiotic reactions in the biogeochemical 
+Fe cycle. Nature Rev. Microbiol. 12, 797–808 (2014).
+87. 
+Wang, W. et al. Effects of UV radiation on humic acid coagulation 
+characteristics in drinking water treatment processes. Chem. Eng. J. 256, 
+137–143 (2014).
+88. Richardson, S. D. & Postigo, C. in Emerging Organic Contaminants and Human Health (ed. Barceló, D.) 93–137 (Springer, 2012).
+89. Janzen, H. H. Beyond carbon sequestration: soil as conduit of solar energy. 
+Eur. J. Soil Sci. 66, 19–32 (2015).
+90. Lorenz, K., Lal, R., Preston, C. M. & Nierop, K. G. J. Strengthening the soil 
+organic carbon pool by increasing contributions from recalcitrant aliphatic 
+bio(macro)molecules. Geoderma 142, 1–10 (2007).
+91. Spaccini, R., Piccolo, A., Conte, P., Haberhauer, G. & Gerzabek, M. H. Increased 
+soil organic carbon sequestration through hydrophobic protection by humic substances. Soil Biol. Biochem. 34, 1839–1851 (2002).
+92. Fakour, H. & Lin, T. F. Experimental determination and modeling of arsenic complexation with humic and fulvic acids. J. Hazard. Mater. 279, 569–578 
+(2014).
+93. Tang, W. W. et al. Impact of humic/fulvic acid on the removal of heavy metals from aqueous solutions using nanomaterials: a review. Sci. Total Environ.  
+468–469, 1014–1027 (2014).
+94. Aristilde, L. & Sposito, G. Complexes of the antimicrobial ciprofloxacin with 
+soil, peat, and aquatic humic substances. Environ. Toxicol. Chem. 32, 
+1467–1478 (2013).
+95. Calvo, P., Nelson, L. & Kloepper, J. W. Agricultural uses of plant biostimulants. Plant Soil 383, 3–41 (2014).
+96. Rose, M. T. et al. A meta-analysis and review of plant-growth response to humic 
+substances: practical implications for agriculture. Adv. Agron. 124, 37–89 
+(2014).
+97. Bocanegra, M. P., Lobartini, J. C. & Orioli, G. A. Plant uptake of iron chelated by humic acids of different molecular weights. Commun. Soil Sci. Plant Anal. 37, 
+239–248 (2006).
+98. Berbara, R. L. L. & García, A. C. in Physiological Mechanisms and Adaptation Strategies in Plants under Changing Environment (eds Ahmad, P. & Wani, M. R.) 297–319 (Springer, 2014).
+99. Trevisan, S. et al. Humic substances affect Arabidopsis physiology by altering 
+the expression of genes involved in primary metabolism, growth and 
+development. Environ. Exp. Bot. 74, 45–55 (2011).
+100. Wershaw, R. L. Evaluation of Conceptual Models of Natural Organic Matter 
+(Humus) From a Consideration of the Chemical and Biochemical Processes of 
+Humification. US Geological Survey Scientific Investigations Report 2004–5121, http://pubs.usgs.gov/sir/2004/5121/pdf/sir2004-5121.pdf (USGS, 2004).
+101. Baldock, J. A. & Broos, K. in Handbook of Soil Sciences: Resource Management and Environmental Impacts (eds Huang, P. M., Li, Y. & Sumner, M. E.) 11-1–52 (CRC Press, 2011).
+© 2015 Macmillan Publishers Limited. All rights reserved
+PersPective reseArcH68 | NATURE | VOL 528 | 3 D EcEmb ER  2015102. Hatcher, P. G. The CHNs of organic geochemistry: characterization of 
+molecularly uncharacterized non-living organic matter. Mar. Chem. 92,  
+5–8 (2004).
+103. Kuhn, T. S. The Structure of Scientific Revolutions (Chicago Press, 1962).
+104. Forbes, M. S., Raison, R. J. & Skjemstad, J. O. Formation, transformation and transport of black carbon (charcoal) in terrestrial and aquatic ecosystems. 
+ 
+Sci. Total Environ. 370, 190–206 (2006).
+105. International Humic Substances Society (IHSS). What are Humic Substances?  
+http://www.humicsubstances.org/whatarehs.html (IHSS, 2015).
+106. Rice, J. A. Humin. Soil Sci. 166, 848–857 (2001).
+107. Tatzber, M. et al. Decomposition of carbon-14-labeled organic amendments and humic acids in a long-term field experiment. Soil Sci. Soc. Am. J. 73, 
+744–750 (2009).
+108. Gramss, G., Ziegenhagen, D. & Sorge, S. Degradation of soil humic extract by wood- and soil-associated fungi, bacteria, and commercial enzymes. Microb. 
+Ecol. 37, 140–151 (1999). 
+ 
+This paper provides experimental evidence for rapid metabolization of ‘humic extracts’ by a selection of soil fungi.
+109. Maillard, L. C. Synthèse des matières humiques par action des acides aminés sur les sucres réducteurs. Ann. Chimie 5, 258–317 (1916).
+110. Huang, P. M. & Hardie, A. G. in Biophysico-Chemical Processes Involving 
+ 
+Natural Nonliving Organic Matter in Environmental Systems (eds Senesi, N.,  
+Xing, B. & Huang, P. M.) 41–109 (John Wiley & Sons, 2009).
+111. Piccolo, A. The supramolecular structure of humic substances. Soil Sci. 166, 
+810–832 (2001).
+112. Campbell, C. A., Paul, E. A., Rennie, D. A. & McCallum, K. J. Applicability of the carbon-dating method of analysis to soil humus studies. Soil Sci. 104, 
+217–224 (1967).
+113. Gleixner, G. Soil organic matter dynamics: a biological perspective derived from the use of compound-specific isotopes studies. Ecol. Res. 28, 683–695 
+(2013).
+114. Chen, J., Henderson, G., Grimm, C. C., Lloyd, S. W. & Laine, R. A. Termites fumigate their nests with naphthalene. Nature 392, 558–559 (1998).
+115. Staunton, J. & Weissmann, K. J. Polyketide biosynthesis: a millennium review. Nat. Prod. Rep. 18, 380–416 (2001).116. Skjemstad, J. O., Clarke, P., Taylor, J. A., Oades, J. M. & McClure, S. G. 
+ 
+The chemistry and nature of protected carbon in soil. Aust. J. Soil Res. 34, 
+251–271 (1996).
+117. Lehmann, J. et al. Australian climate–carbon cycle feedback reduced by soil black carbon. Nature Geosci. 1, 832–835 (2008).
+118. Rodionov, A. et al. Black carbon in grassland ecosystems of the world. 
+ 
+Glob. Biogeochem. Cycles 24, GB3013 (2010).
+119. Heymann, K. et al. Can functional group composition of alkaline isolates from 
+black carbon-rich soils be identified on a sub-100 nm scale? Geoderma  
+235–236, 163–169 (2014).
+120. Knicker, H. How does fire affect the nature and stability of soil organic nitrogen 
+and carbon? A review. Biogeochemistry 85, 91–118 (2007).
+121. Knicker, H., Hilscher, A., Gonzalez-Vila, F. J. & Almendros, G. A new conceptual model for the structural properties of char produced during vegetation fires. Org. Geochem. 39, 935–939 (2008).
+122. LeBoeuf, E. J. & Weber, W. J. Macromolecular characteristics of natural organic matter. 1. Insights from glass transition and enthalpic relaxation behavior. Environ. Sci. Technol. 34, 3623–3631 (2000).
+123. Schaumann, G. E. Soil organic matter beyond molecular structure. Part I: 
+macromolecular and supramolecular characteristics. J. Plant Nutr. Soil Sci.  
+169, 145–156 (2006).
+124. Chilom, G. & Rice, J. A. Glass transition and crystallite melting in natural organic matter. Org. Geochem. 36, 1339–1346 (2005).
+125. Keiluweit, M., Nico, P. S., Johnson, M. G. & Kleber, M. Dynamic molecular 
+structure of plant biomass-derived black carbon (biochar). Environ. Sci. Technol. 44, 1247–1253 (2010).
+Author Contributions Both authors contributed equally to the concept, outline, and writing of the manuscript.
+Author Information Reprints and permissions information is available at 
+www.nature.com/reprints. The authors declare no competing financial interests. Readers are welcome to comment on the online version of the paper. 
+Correspondence and requests for materials should be addressed to  
+J.L. (CL273@cornell.edu).
+© 2015 Macmillan Publishers Limited. All rights reserved

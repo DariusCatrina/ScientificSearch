@@ -1,0 +1,836 @@
+Enrichment of activated sludge for enhanced hydrogen
+production from crude glycerol
+Cristiano Varronea,b,*, Silvia Rosaa, Floriana Fiocchettia, Barbara Giussanic, Giulio Izzoa,
+Giulia Massinia, Antonella Maronea, Antonella Signorinia, Aijie Wangb,**
+aENEA eItalian Agency for New Technologies, Energy and Sustainable Development, Italy
+bState Key Lab of Urban Water Resource and Environment, Harbin Institute of Technology, China
+cUniversity of Insubria, Dep. of Science and High Technology, Como, Italy
+article info
+Article history:
+Received 9 August 2012
+Received in revised form
+4 November 2012Accepted 12 November 2012Available online 14 December 2012
+Keywords:
+Enrichment
+Crude glycerol
+Mixed cultureBiohydrogenDark fermentationBiodieselabstract
+Enriched activated sludge that can effectively convert crude glycerol into bio-hydrogen wasselected by an eco-biotechnological approach, in very strict conditions, using biodiesel-derived glycerol as the only carbon source. The thus obtained functional consortium was
+characterized by the genera Klebsiella, Escherichia /Shigella and Cupriavidus. During enrich-
+ment, the dominant metabolic end-product shifted from a 1,3 propanediol to ethanol, witha concomitant increase of the hydrogen yield from 0.18 /C60.003 to 0.66 /C60.06 mol/mol and
+an almost ﬁve-fold increase of the hydrogen production. Glycerol degradation efﬁciencyshowed an increase of around 50%. In optimized and upscaled conditions it was possible to
+obtain a hydrogen production rate of 2960 mL H
+2/L/day /C6185 at a near stoichiometric yield
+(of 0.90 mol/mol /C60.01), with a carbon recovery of almost 90%, both in sterile and non-
+sterile conditions. Glycerol was almost totally degraded (degradation efﬁciency of
+97.42% /C60.98), independently of the glycerol type used.
+Copyright ª2012, Hydrogen Energy Publications, LLC. Published by Elsevier Ltd. All rights
+reserved.
+1. Introduction
+Renewable resources, such as hydrogen, biodiesel or bio-
+ethanol are gaining importance as an alternative pollution-free fuel for the future [1].F o re x a m p l e ,t h ec o n v e r s i o no f
+lignocellulosic biomass to hydrogen or ethanol, or the use
+of oil accumulating algae in the production of biodiesel is
+being intensively investigated [2e5]. Industrial and living
+wastes, such as paper mill- and municipal solid waste, toproduce hydrogen, have also been studied [6].T h e s eapproaches are very promising and might provide abundantnonfood feedstocks for the production of bioenergy andbiofuels, with environmental beneﬁts and large net energygains [5]. So far, the production of chemicals and fuels via
+microbial fermentation has been largely based on the use ofsugars (i.e. glucose, lactose, xylose, etc.) as carbon source.
+However, according to some authors this trend is likely to
+change in the near future, due to the large surplus of glyc-erol generated as byproduct in the production of biodieselfuel [7,8].
+*Corresponding author . ENEA Casaccia, Dep. UTRINN-BIO, Via Anguillarese 301, 00123 Rome, Italy. Tel.: þ39 0630486882; fax: þ39
+0630484554.
+**Corresponding author. Joint Center for Microbial Ecology in Engineered System, Harbin Institute of Technology, P.O. Box 2614, 202 Haihe
+Road, Harbin 150090, China. Tel./fax: þ86 451 86282195.
+E-mail addresses: cristiano.varrone@enea.it ,cristiano.varrone@gmail.com (C. Varrone), waj0578@hit.edu.cn (A. Wang).
+Available online at www.sciencedirect.com
+journal homepage: www.elsevier.com/locate/he
+international journal of hydrogen energy 38 (2013) 1319 e1331
+0360-3199/$ esee front matter Copyright ª2012, Hydrogen Energy Publications, LLC. Published by Elsevier Ltd. All rights reserved.
+http://dx.doi.org/10.1016/j.ijhydene.2012.11.069
+The considerable growth of the biodiesel industry in the
+last decade has created a glycerol glut that resulted in
+a dramatic decrease in crude glycerol prices [5]. This decrease
+in prices poses a problem for the glycerol-producing and-reﬁning industries, and the economic viability of the bio-diesel industry itself has been greatly affected [7e9].
+Therefore, the development of processes to convert low-
+priced glycerol into higher value products is expected to addvalue to the production of biodiesel and help the developmentof bioreﬁneries [1]. However, crude glycerol from biodiesel
+production is usually contaminated with methanol, heavymetals, soap, oil and ashes from the process [10]. The chem-
+ical puriﬁcation of these contaminants is becoming too costly(especially for small/medium-sized industries) and notfeasible any more [11]. Therefore, the use of anaerobic
+fermentation, to directly convert abundant biodiesel-derivedglycerol (crude glycerol) into higher value products mightrepresent a promising route to achieve economic viability inthe biofuels industry [12].
+Clearly, the success of these kinds of technologies greatly
+depends on the use of suitable microorganisms [13]. Until now
+there have been several studies of microbial processes toconvert glycerol, but still too little reports with crude glycerol,
+which would really reduce the production costs [14]. Usually
+the approach followed so far was to select and/or isolate
+suitable bacteria on a synthetic medium, with pure glycerol,and subsequently test the ability to degrade also crude glyc-erol, thus generally leading to a decreased yield and conver-sion efﬁciency (probably due to the contaminants containedin the crude glycerol). Moreover, most studies focused on theuse of microbial pure strains as inoculum. The use of mixedmicrobial cultures for the conversion of a complex substrate(such as crude glycerol, containing several contaminants),would probably favor a higher efﬁciency, thanks to possible
+beneﬁcial synergies. However, so far studies dealing with
+mixed cultures for hydrogen production (through darkfermentation) have been rather scarce [15].
+In this study we applied an eco-biotechnological approach to
+select glycerol-fermenting bacteria, able to efﬁciently convertthe substrate into hydrogen. Eco-biotechnology aims atworking with processes employing mixed cultures andecological selection principles [16]. More precisely, the
+approach relies on selection, cooperation and competition
+mechanisms, rather than on genetic or metabolic engineering,with a clear advantage in terms of costs and environmentalsafety. In our approach, the starting point is to explore the
+already existing biodiversity, obtaining the best candidates and
+ﬁnally identifying optimal niche/conditions which can enhancethe performance of a particular metabolism/required process.
+To our knowledge, the selection and acclimation of
+a highly speciﬁc mixed culture directly on crude glycerol as
+the only carbon source, without the use of any substratesupplementation, has not been investigated so far. Therefore,the main aim of this study was (1) to evaluate the possibility toselect a suitable microbial mixed culture directly on the targetsubstrate, by using a minimal medium without any nutrientsupplements, in order to reduce operational costs, (2) to
+characterize the thus obtained microbial culture and (3)
+evaluate its effectiveness to perform the desired fermentationprocess on different glycerol types.2. Material and methods
+2.1. Culture medium
+Minimal medium (MM) was used to dilute crude glycerol , which
+was supplied by ItalBiOil srl., a biodiesel factory from southItaly, which contained up to 90% of glycerol, while the impu-rities were mainly composed of salts ( w7%), ashes ( w2%),
+methanol ( w1%) and moisture (less than 0.4%). Comparison
+tests were also performed (see Section 2.2.3 ), using pure glyc-
+erol (reagent grade) and a different kind of crude glycerol ,
+supplied by a biodiesel industry located in north Italy (DIINOVAOL), which contained around 84% glycerol, 0.35%methanol, 0.25% of TFM and less than 10% water, but no salts.
+Unless differently stated, the minimal medium contained
+per liter of distilled water: 20 g of glycerol, 3.4 g ofK
+2HPO 4$3H2O, 1.3 g of KH 2PO4,2go f( N H 4)2SO4, 0.2 g of
+MgSO 4$7H2O, 20 mg of CaCl 2$2H2O and 5 mg FeSO 4$7H20. The
+use of a more complex medium was deliberately avoided,except for some speciﬁc experiments performed as compar-ison tests during the optimization step. Pre-boiled medium
+was added into the serum bottles and sealed with butyl rubber
+stoppers, prior to sterilization (15 min, at 121
+/C14C), unless
+otherwise stated. After cooling down, pre-activated culturewas inoculated (see the following paragraph) into the serumbottles. Subsequently the medium was ﬂushed with argon for3 min, using a hypodermic sterile syringe with a 0.22 mm ﬁlter,
+before being incubated at 37
+/C14C with continuous stirring
+(120 rpm). Initial pH was 6.8 unless differently stated.
+2.2. Experiments
+2.2.1. Enrichment
+During enrichment of activated sludge, the fermentation was
+performed in 60 mL serum bottles in batch tests with 30 mLworking volume, under controlled temperature, initial pH andanaerobic condition. Sludge samples were collected fromHarbin wastewater treatment plant, Heilongjiang province,China. We considered the sludge as a potentially suitable seedinoculum for glycerol-fermenting bacteria since, underanaerobic conditions, the lipids contained in a municipal
+treatment plant can be converted into glycerol [17]. In this
+case we would expect that some of the microbial organisms
+contained in the sludge would be able to exploit this resourceand that they might be selected. Enrichment was performedaccording to Barbirato et al. [18], with the aim to select a pool
+of microorganisms suitable for crude glycerol digestion. The
+idea was to use very strict conditions, with crude glycerol asthe only carbon source, without adding trace element- orvitamin solution, tryptone or yeast extract, in order to createvery selective conditions and to reduce operation costs [19].
+Besides, it should also be underlined that, according to some
+authors, yeast extract could affect hydrogen production
+[3,20,21] , therefore its use should be evaluated case by cases,
+in order to avoid misleading yields (i.e. higher than the theo-
+retical one). Moreover, to enhance hydrogen production weshould try to reduce the 1,3 propanediol (1,3 PD) production,notably associated to low hydrogen production [22]. Since the
+formation of 1,3 PD from glycerol is vitamin B12-dipendentinternational journal of hydrogen energy 38 (2013) 1319 e1331 1320
+[23], the use of a very simply synthetic medium, without
+additional nutrients and vitamins would probably favor the
+oxidative pathway for enhanced hydrogen production.
+Using the activated sludge as starting inoculum, repeated
+transfers (5% v/v) of the best hydrogen-producing batches infresh liquid medium at short intervals (21 h) allowed theaccumulation of desired microbial strains, since bacteria notable to ferment glycerol would be outcompeted by the fastergrowing glycerol-consuming bacteria. The effect of trasferring5% (v/v) liquid inocula (also containing contaminants andfermentation products) rather than bacterial pellet (withoutthe liquid) was also evaluated. In the latter case, liquid
+samples were centrifuged for 10 min at 10 000 rpm. Super-
+natant was washed away and pellets resuspended into freshmedium.
+The enrichment phase was performed for several months,
+in order to verify how many transfers were necessary to
+obtain a stable and reproducible fermentation. The procedurewas thus repeated in order to conﬁrm the possibility to ach-ieve the same results again, and we considered the enrich-ment phase concluded, once the same stable condition wasreached. The thus obtained enriched activity sludge was usedas inoculum in all the further tests. It was stored at /C018
+/C14C and
+refreshed monthly. For pre-activation, minimal medium was
+supplemented with 1 g/L of peptone.
+2.2.2. Optimization experiments
+After enrichment, 125 mL serum bottles were used in order toevaluate the effect of important operation parameters andconditions, such as inoculum%, headspace/medium ratio (H/M ratio, v/v), addition of yeast extract, as well as vitamin andmineral solution. Vitamin solution was prepared by adding20.0 mg of biotin, 50.0 mg p-Aminobenzoic acid, 20.0 mg folicacid, 50.0 mg pantothenic acid calcium salt, 50.0 mg nicotinic
+acid, 1.0 mg vitamin B12, 5.0 mg thiamine $HCl, 100.0 mg
+pyridoxine hydrochloride, 50.0 mg thioctic acid and 5.0 mg
+riboﬂavin to 500 mL of distilled water. 0.25 mL of this solutionwere then added to the serum bottles with 50 mL workingvolume. Wolfe’s Modiﬁed Mineral Elixir was preparedaccording to [24]. For 50 mL of medium, 0.25 mL of the mineral
+elixir was used. No MgSO
+4$7H2O, FeSO 4$7H2O and CaCl 2were
+added to the minimal medium when using the mineral elixir.
+2.2.3. Upscale tests
+Experiments were conducted using a BioFlo/CelliGen 115Benchtop Fermentor & Bioreactor (New Brunswick Scientiﬁc,
+Edison, NJ, USA) of 3 L, with 1 L working volume kept at 37
+/C14C
+with continuous agitation (120 rpm). Based on previous
+results, initial pH was set at 8, using KOH 6 M solution, andwas not controlled during fermentation. Different glyceroltypes were tested (Itabiol, Novaol, pure glycerol and non-sterile Novaol) and diluted with the minimal medium, in orderto reach an initial concentration of about 15 g/L. Anaerobicconditions were obtained by initially sparging the mediumwith pure nitrogen for 10 min, at a ﬂow rate of 1 L/min. Thevessel of the fermentor was equipped with a condenser(working with ﬂowing water supply) in order to minimize
+medium evaporation. The bioreactor was inoculated with
+10% v/v pre-activated bacterial seed culture, grown in 125 mLserum bottles with 50 mL culture medium for 21 h, at the sametemperature. Unless for non-sterile Novaol experiments, the
+bioreactor was sterilized before inoculation with seed culture.
+2.3. Analytical methods
+In all experiments, gas products have been sampled and
+analyzed by GC with a thermal conductivity detector (TCD),while glycerol and liquid fermentation products have beenanalyzed by HPLC with UV detector and Refractive Index, aspreviously described [15]. Biogas production was determined
+by water displacement (followed by GC analysis), while mass
+balance equation was used to estimate hydrogen production
+[25]. A modiﬁed Gompertz equation was used to model
+cumulative hydrogen production [26] and to calculate
+production rate [27]. Bacterial growth during enrichment was
+estimated spectrophotometrically at 680 nm. Multivariatedata analysis was performed using Unscrambler X 10.1 softare(by Camo), while Excel’s patch “Solver” was used for themodiﬁed Gompertz equation.
+2.4. Molecular characterization of the enriched activated
+sludge
+2.4.1. DNA extraction and PCR ampliﬁcation
+Hundred mL of a fresh inoculum culture were used for DNA
+extraction, using GeneMATRIX /C228Bacterial & Yeast Genomic
+DNA Puriﬁcation Kit (EURx, Gdansk, Poland), according to themanufacturer’s instructions. Universal bacterial primers 27F(AGAGTTTGATCCTGGCTCAG) and 1389R (ACGGGCGGTGTGTACAAG) were used to amplify near full-length 16S rDNA.Polymerase chain reaction (PCR) was performed using
+Perpetual Taq PCR Master Mix (EURx) containing 1.5 mM
+MgCl
+2, 0.2 mM (each) deoxynucleoside triphosphates, 0.1 mM
+(each) primer, 1.25 U Perpetual Taq DNA Polymerase and 15 ngtemplate DNA in 50 ml reaction volume. The ampliﬁcation was
+performed using the 2720 Thermal Cycler (Applied Bio-systems, Foster City, CA, USA) with a touchdown program,conducted as follows: 94
+/C14C for 2 min followed by 28 cycles of
+95/C14C for 40 s, 65/C14C for 40 s (the annealing temperature
+decreased to 55/C14C by 0.5/C14C every cycle for the ﬁrst 20 cycles
+and the remaining cycles at 55/C14C), 72/C14C for 90 s, and then the
+ﬁnal extension at 72/C14C for 10 min. The ampliﬁcation products
+of four single PCR reactions were pooled for reducing the biasintroduced with PCR.
+2.4.2. 16S rDNA library construction and sequencing
+Two ml of the mixed PCR products were used for cloning into
+vector PCR/C2102.1-TOPO of the TOPO TA cloning/C210 kit (Invitrogen,
+Carlsbad, CA, USA), following the manufacturer’s instruc-tions. The clones were screened using Luria-Bertani (LB)medium agar plates containing 50 mg/ml kanamycin and
+40 mg/ml X-Gal (5-bromo-4-chloro-3-indolyl- b-
+D-galactopyr-
+anoside). 102 white colonies were randomly picked up andregrown overnight in LB medium containing kanamycin for
+subsequent analysis. Plasmid DNA was extracted by means of
+GeneMATRIX Plasmid Miniprep DNA Puriﬁcation kit (EURx).The plasmids were screened for 16S rDNA insert by perform-ing PCR with the vector-located primers M13F (GTAAAACGACGGCCAG) and M13R (CAGGAAACAGCTATGAC). The PCRreaction mixture was prepared like previously mentioned.international journal of hydrogen energy 38 (2013) 1319 e1331 1321
+Thermal cycling conditions were as follows: 95/C14C for 10 min,
+followed by 25 cycles of 95/C14C for 40 s, 46/C14C for 40 s and 72/C14C
+for 90 s. A ﬁnal extension step of 10 min at 72/C14C was applied.
+The plasmid DNA of the selected clones was used to
+sequence 16S rDNA insert, using speciﬁc primers 27F and
+1389R. DNA sequencing was performed on the ABI 3730 DNAanalyzer by Genechron (C.R. ENEA Casaccia, Rome, Italy).
+2.4.3. Phylogenetic analysis of clones
+Raw sequences from both strands were aligned using ClustalX version 2.0 and alignments were edited and manually cor-rected by ChromasPro version 1.5 (Technelysium Pty Ltd). Allsequences were analyzed with the Mallard program (version
+1.02) to detect the presence of possible chimeric artifacts. The
+sequences were checked and classiﬁed by the basic localalignment search tool (BLAST; http://www.ncbi.nlm.nih.gov/
+BLAST ) and the RDP-classiﬁer ( http://rdp.cme.msu.edu/
+classiﬁer/classiﬁer.jsp ) of the Ribosomal Database project
+(http://rdp.cme.msu.edu ). Phylogenetic analysis was con-
+ducted using Molecular Evolutionary Genetics Analysispackage, version 5 [28]. The closest 16S rDNA sequences ofreference microorganisms were retrieved from the GenBankand were aligned to DNA sequences from library, using the
+Clustal W function. Phylogenetic tree was inferred, using the
+neighbor-joining method [29]. Evolutionary distance matrices
+were generated according to Kimura 2-parameter model [30].
+Bootstrap re-sampling analysis with 1000 replicates was per-
+formed to check the robustness of the tree. Tree topology wasconﬁrmed by comparing three phylogenetic reconstructionmethods: neighbor-joining, maximum likelihood andmaximum parsimony.
+The newly identiﬁed 16S rDNA sequences were deposited
+in the GenBank nucleotide sequence database, under acces-sion number JX310739-JX310754 and JX416353-JX416361.
+3. Results and discussion
+3.1. Enrichment
+Preliminary tests were performed to verify the possibility togrow activated sludge on crude glycerol as the only carbon
+Fig. 1 eHydrogen content in the biogas (expressed as H 2%) detected during the ﬁrst enrichment phase. A clear inhibition
+was observed already after the third transfer, and only the use of bacterial pellets (starting from T8) allowed to preventfurther inhibition and to carry on the enrichment process. Further transfers rapidly led to a stable hydrogen content in thebiogas (around 35%). With the exception of T6 all the transfers occurred after 21 h fermentation.
+Table 1 eMain fermentation products and parameters monitored during the enrichment of activated sludge, using 60 mL
+serum bottles with 30 mL working volume. The values represent the average of three replicates. Lactate and other VFA with
+low concentration are not reported in the table.
+Transfer H 2
+%Total H 2
+mLGly. Conv.
+%Yield
+mol/molH2/medium
+v/v1,3 PD
+g/LEtOH
+g/LAcetic
+g/LpH OD 680
+1 14.2/C60.78 10.7 /C60.43 50.7 /C61.55 0.18 /C60.003 0.43 /C60.02 4.01 /C60.02 0.23 /C60.002 1.89 /C60.01 4.8 /C60.0 0.56 /C60.02
+2 27.3/C62.07 33.8 /C61.96 67.7 /C63.14 0.43 /C60.06 1.35 /C60.08 2.88 /C60.46 3.78 /C60.21 0.77 /C60.14 5.2 /C60.17 1.07 /C60.04
+3 28.8/C60.19 44.5 /C60.59 79.3 /C61.99 0.49 /C60.02 1.78 /C60.02 1.16 /C60.08 5.52 /C60.20 0.04 /C60.01 5.4 /C60.0 1.14 /C60.03
+4 26.1/C60.55 26.2 /C60.81 66.5 /C63.72 0.34 /C60.05 1.05 /C60.03 3.23 /C60.12 1.03 /C60.05 1.34 /C60.03 4.7 /C60.23 0.78 /C60.01
+5 26.1/C65.03 30.0 /C65.39 59.4 /C64.96 0.37 /C60.11 1.20 /C60.22 1.87 /C60.17 3.06 /C60.33 0.95 /C60.12 4.9 /C60.29 0.97 /C60.13
+6 25.5/C60.17 25.8 /C60.23 54.7 /C61.16 0.39 /C60.02 0.69 /C60.6 4.18 /C60.15 1.22 /C60.37 2.46 /C60.02 4.5 /C60.14 0.88 /C60.0
+7 25.3/C61.19 25.4 /C61.42 57.4 /C65.05 0.41 /C60.1 1.02 /C60.06 3.74 /C60.21 0.64 /C60.07 2.34 /C60.11 4.5 /C60.12 0.93 /C60.06
+8 26.5/C60.30 24.2 /C60.15 54.9 /C63.49 0.32 /C60.03 0.97 /C60.01 3.74 /C60.02 0.77 /C60.07 2.08 /C60.03 4.9 /C60.29 0.94 /C60.01
+9 26.7/C61.84 25.1 /C61.73 73.7 /C68.15 0.36 /C60.04 1.00 /C60.07 3.16 /C60.14 1.02 /C60.13 1.88 /C60.07 5.1 /C60.0 0.85 /C60.02
+10 35.2 /C63.74 47.4 /C66.29 77.5 /C65.32 0.66 /C60.06 1.90 /C60.25 0.95 /C60.01 3.30 /C60.31 1.01 /C60.02 5.4 /C60.0 0.90 /C60.04
+Gly. Conv. = glycerol conversion efﬁciency; 1,3 PD ¼1,3, propanediol; EtOH ¼ethanol.international journal of hydrogen energy 38 (2013) 1319 e1331 1322
+source and to produce hydrogen. Subsequently, a ﬁrst
+enrichment was performed for several months, in order to
+identify the maximum hydrogen production potential, and
+the possibility to obtain a stable microbial community andprocess. In our study this was obtained once the biogascomposition reached a hydrogen content of around 35%, in21 h fermentation. After that, further transfers didn’tenhance the hydrogen production substantially ( Fig. 1 ). It is
+worth noting that after an initial increase in hydrogenproduction, there was a clear inhibition of the fermentationprocess, probably due to accumulation of inhibitoryfermentation products ( Fig. 1 ). After six transfers (T6) there
+was no hydrogen production at all within the 21 h, and even
+after 42 h fermentation the detected hydrogen content in the
+biogas only reached around 12%. A further transfer into freshmedium didn’t re-establish the previous conditions (T7).Therefore 5% v/v liquid inoculum was centrifuged (in order towash away the liquid phase, containing high concentrationsof soluble metabolites) and only the pellet was transferred in
+T8. Following to this procedure, a consequent rapid increase
+of H
+2% was observed. Due to these ﬁndings, from that
+moment on all the transfers were performed with pelletsonly.
+The enrichment process was thus repeated in order to
+evaluate the reproducibility and the minimum number oftransfers necessary to obtain a stable fermentation. In thisstep, main fermentation products and parameters weremonitored, in order to better characterize the process.
+Data shown in Table 1 suggested that the enrichment
+process was not linear, but displayed a rather irregular
+pattern, with an initial rapid increase, followed by a decrease
+of the main parameters involved. At the end of the process,however, there was a clear enhancement in the ability ofconverting glycerol into hydrogen.
+Fig. 2 eTrends of 1,3 propanediol (1,3 PD) and ethanol (EtOH) concentration during the enrichment.
+Fig. 3 ePrincipal Component Analysis, showing the most important fermentation products and parameters monitored
+during the enrichment. The score plot (left) shows the distribution of the 10 transfer experiments (scores). The loadings(right) show the main parameters inﬂuencing the distribution of the scores. Those laodings gathering together arepositively correlated to each other, while those which are opposite are negatively correlated. The Principal Components(PC1 and PC2) explain 79% of the total variability. The score plot seems to display three different steps/directions during the
+enrichment: from transfer 1 to 3, then transfer 4 and 5, and ﬁnally from 6 to 10.international journal of hydrogen energy 38 (2013) 1319 e1331 1323
+Interestingly, the concentration of 1,3 PD (1,3 propanediol)
+followed an opposite trend compared to the ethanol concen-
+tration ( Fig. 2 ), probably because the 1,3 propanediol pathway
+is alternative to the ethanol/oxidative pathway. After step 10the fermentation process achieved around 35% of hydrogen(in 21 h) and the microbial mixed pool was transferred inlarger serum bottles (for optimization), in order to reduceinhibitory effects of increasing hydrogen partial pressure.
+Principal Component Analysis (PCA) conﬁrmed this irreg-
+ular pattern ( Fig. 3 ), as can be observed in the score plot. PC1,
+explaining 55% of the total variability, clearly showed thathydrogen (production and yield), glycerol consumption and
+ethanol concentration were positively correlated and showedhigher values in step 3 and 10 of the enrichment (on the leftside of the score plot), while 1,3 PD and acetic acid were
+negatively correlated with those parameters (loading plot),thus conﬁrming the trend already observed in Fig. 2 . This
+means that, moving along the PC1 from right to left, we canobserve an increase of hydrogen production and yield(together with an increase of the glycerol conversion andethanol production) and a correspondent decrease of the 1,3PD and acetate production. The ﬁnding that 1,3 PD is associ-ated to lower hydrogen (and ethanol) production is in accor-dance with a previous study by Zeng and colleagues [22].
+The fact that ethanol is correlated with hydrogen produc-
+tion (and negatively correlated to acetate) probably dependson the effect of the hydrogen partial pressure in the reactor,which is known to greatly inﬂuence ethanol conversion rate.In fact, ethanol can accumulate only with high hydrogenpartial pressure. More precisely, when hydrogen partialpressure is below 10
+4Pa, ethanol will be converted to acetic
+acid [31]. In our study, hydrogen partial pressure during
+enrichment usually reached values between 5 and 10$ 104Pa,
+thus favoring ethanol accumulation.
+3.2. Optimization experiments
+Optimization of important fermentation parameters and
+conditions, such as headspace/medium ratio (H/M ratio, v/v),inoculum (v/v), as well as the use (or not) of speciﬁc supple-ments and nutrients, further enhanced the hydrogen (andethanol) production, together with the glycerol conversionefﬁciency. As can be observed in Table 2 , the best results were
+achieved with the use an H/M ratio of 1.5 (50 mL working
+volume in 125 mL) and 10% v/v inoculum, without the need ofany substrate supplementation, thus reaching a hydrogenyield of around 0.82 mol/mol and a hydrogen content in thebiogas of 41%. Glycerol was almost completely degraded in allthe heasdspace/working volume experiments, but for H/Mvalues of 0.4 and 0.8 it took more than twice the time (data notshown). Addition of vitamin solution or yeast extract to theenriched activated sludge didn’t affect hydrogen yield signif-icantly, while the use of mineral solution showed an inhibi-tory effect on hydrogen production, regardless if used togetherTable 2 eOptimization experiments. The best condition
+of H/M ratio (1.5) was used for the following experiments,
+while the best condition obtained in the inoculum
+experiments (10%) was then used in substrate
+supplementation tests.
+H2yield H2%
+H/M ratio
+4.0 0.51/C60.05 33.7/C61.37
+3.0 0.63/C60.02 34.3/C60.85
+2.0 0.77/C60.01 39.6/C60.17
+1.5 0.80/C60.01 40.9/C62.11
+0.8 0.79/C60.03 42.6/C62.35
+0.4 0.5/C60.07 41.9/C61.38
+Inoculum0.50% 0.69/C60.12 38.6/C60.48
+1% 0.73/C60.05 38.5/C60.32
+2% 0.76/C60.02 39.4/C62.33
+5% 0.80/C60.01 40.9/C62.11
+10% 0.82/C60.01 41.3/C60.93
+SubstrateMM 0.82/C60.01 41.3/C60.93
+Vitamins 0.79/C60.01 40.9/C60.067
+Minerals 0.50/C60.02 22.3/C60.22
+Yeast 0.80/C60.02. 40.5/C60.48
+Complete 0.57/C60.07 21.8/C63.2
+MM¼minimal medium (no addition of any supplements);
+Complete ¼Vitamins, Mineral and Yeast extract together; H/M ¼
+headspace/medium ratio (v/v).
+Fig. 4 eComparison of cumulative hydrogen production using different glycerol types. Non sterilized Novaol experiments
+were performed in non sterilized bioreactor, without autoclaving minimum medium nor the crude glycerol. No difference in
+cumulative hydrogen production could be observed.international journal of hydrogen energy 38 (2013) 1319 e1331 1324
+with other supplements or not. Therefore we can afﬁrm that
+the enrichment process allowed to successfully selected forafunctional consortium (sensu Adav et al., [32]), which is able to
+effectively convert crude glycerol (as the only carbon source)
+into hydrogen, without any supplementation.
+3.3. Scale-up tests
+Scale-up tests using a 3 L bioreactor operated in optimizedconditions, with different glycerol types, did not showsigniﬁcant differences of the main fermentation parameters.The modiﬁed Gompertz equation was used to ﬁt cumulative
+hydrogen production and calculate production rate. As can be
+seen in Fig. 4 , the use of Novaol or Itabiol crude glycerol, as
+well as non-sterile Novaol or pure glycerol, showed similarresults in terms of cumulative hydrogen production. In allcases the substrate was (almost) totally degraded, witha glycerol degradation efﬁciency, expressed as the percent ofthe initial concentration, of 97.42% /C60.98. At the end of the
+fermentation the hydrogen content in the biogas reached onaverage 54.05% /C60.99.
+The main parameters characterizing the modiﬁed Gompertz
+equation are shown in Table 3 . Average (cumulative) hydrogenproduction potential ( P
+max) reached 3652 mL H 2/C6199, with
+a production rate (H 2Rate) of 2960 mL H 2/L/day /C6185 and a yield
+of 0.90 mol/mol /C60.01. The high value of R2(>0.98) suggests that
+the modiﬁed Gompertz equation was able to describe theevolution of hydrogen production satisfactorily.
+The quantiﬁcation of fermentation products was also used
+to perform fermentation balance analysis (as reported byMurarka et al., [33]), and is presented in Table 4 . The carbon
+recovery of fermentation products represented almost 90%(88.12% /C61.93) of the consumed glycerol, thus indicating
+a good closure of the carbon balance. In accordance withMurarka et al. [33], 1,2 propanediol was undetectable via HPLC,
+possibly due to low concentration.
+All the most important parameters describing the
+fermentation process (such as hydrogen production and yield,substrate degradation efﬁciency and carbon recovery)conﬁrmed the ability of the selected enriched activated sludgeto effectively convert different glycerol types into hydrogen,both in sterile and non-sterile conditions, without the neces-sity to previously select the bacteria on a synthetic substratewith pure glycerol.
+The main studies conducted so far and dealing with mixed
+cultures grown on glycerol for hydrogen production (using
+dark fermentation) are summarized in Table 5 for comparison.
+3.4. Microbial community analysis
+Bacterial diversity of the selected microbial mixed culture
+(GCL) was investigated by cloning PCR-ampliﬁed (nearlycomplete) 16S rRNA genes. 90 clones, out of 102 totally iso-lated, produced useful sequences, showing high level ofsimilarity (sequence identity /C2199%) with 16S rDNA sequences
+present in the NCBI database ( Table 6 ).
+No chimeric sequences were found among the clones
+analyzed. All sequences were phylogenetically allocated downto the order, family and genus level by the RDP ClassiﬁcationAlgorithm, with bootstrap values ranging from 95 to 100%(Table 7 ). GCL clones related to the dominant group ofTable 3 eModiﬁed Gompertz equation to describe the
+cumulative hydrogen production in the batch tests.
+Pmax
+(mL)Rmax
+(mL/h)l
+(h)R2H2rate
+(mL/L/d)H2yield
+(mol/mol)
+Novaol 3720.9 154.1 5.64 0.998 2997.7 0.90
+Itabiol 3428.1 146.7 4.20 0.984 2983.4 0.88
+Pure Gly 3808.1 138.8 6.34 0.998 2706.5 0.90N.S. Novaol 3451.3 174.4 6.48 0.996 3152.4 0.91
+Pmaxis the hydrogen production potential, Rmaxis the maximum
+hydrogen production rate and lis the lag time. These parameters
+were used to calculate the hydrogen production rate (H 2Rate),
+according to Wang and Wan [27].
+Table 4 eFermentation balance analysis for the functional consortium grown on different glycerol types.
+(No. of C atoms) SA
+(4)LA
+(3)FA
+(1)AA
+(2)PA
+(3)1,3 PD
+(3)EtOH
+(2)CO2
+(1)Total
+C yieldC recoveryc
+%
+Novaol mMol 3.58 4.65 5.71 1.08 2.68 11.89 127.0 97.70
+Yielda0.02 0.03 0.04 0.01 0.02 0.07 0.78 0.60
+C yieldb0.09 0.09 0.04 0.01 0.05 0.22 1.57 0.60 2.66 88.8
+Itabiol mMol 5.43 9.33 4.98 3.29 2.69 12.70 127.03 94.53Yield
+a0.03 0.05 0.03 0.02 0.02 0.07 0.73 0.54
+C yieldb0.13 0.17 0.03 0.04 0.05 0.23 1.51 0.55 2.61 87.0
+Pure Gly mMol 5.99 2.64 2.85 1.57 2.26 13.25 123.5 101.3
+Yielda0.04 0.02 0.02 0.01 0.01 0.08 0.74 0.61
+C yieldb0.14 0.05 0.02 0.02 0.04 0.24 1.48 0.61 2.59 86.2
+N.S. Novaol mMol 2.48 1.04 1.98 2.03 3.07 17.59 116.5 80.19
+Yielda0.02 0.01 0.01 0.01 0.02 0.12 0.80 0.55
+C yieldb0.07 0.02 0.01 0.03 0.06 0.36 1.61 0.55 2.72 90.5
+Pure Gly ¼pure glycerol; N.S. Novaol ¼non-sterilized Novaol glycerol; SA ¼succinic acid; LA ¼lactic acid; FA ¼formic acid; AA ¼acetic acid;
+PA¼propionic acid; 1.3 PD ¼1.3 propanediol; EtOH ¼ethanol.
+a Mol of product/mol of glycerol consumed.
+b (Yield) $(number of carbon atoms in molecule).
+c (Total C yield)/3 $100 (being 3 the value of glycerol carbon yield).international journal of hydrogen energy 38 (2013) 1319 e1331 1325
+Gammaproteobacteria (90% of the total number of clones) were
+afﬁliated to sequences of Enterobacteriaceae family and were
+identiﬁed at genus level as Klebsiella (57.78%), and Escherichia/
+Shigella (32.22%) ( Table 7 ). The latter genus grouped together inEscherichia /Shigella , according to their genetic relationship,
+since strains of Shigella have arisen through multiple inde-
+pendent origins from within Escherichia coli, that is Shigella
+strains are actually clones of E. coli [39].Table 5 eOverview of the main results of recent studies dealing with glycerol fermentation to hydrogen, using mixed
+cultures.
+Inoculum
+typeGly
+typeGly
+Conc. g/LSubstrate
+consumpt.Substrate
+supplem.H2yield
+(mol/mol)H2
+productivityRef.
+Dark fermentation Mesoﬁlic Crude 15 97.5% No 0.90 2960 mL/L/day Curr. st.
+Mesoﬁlic Crude 22.19 e Yes 0.3 1.37 mmol/L [34]
+Thermoﬁlic Crude 20.33 e Yes 0.3 1502.84 mL/L [35]
+Mesoﬁlic Crude 1 56% Yes 1.1 16.1 mL [36]
+Mesoﬁlic Crude 30 65% Yes e 34.19% mol [9]
+Mesoﬁlic Crude 3 e Yes 0.31 71 mL [37]
+Mesoﬁlic Pure 1 w56% Yes e 14.8 mL [36]
+Mesoﬁlic Pure 3 e Yes 0.28 133 mL [37]
+Mesoﬁlic Pure 10 100% Yes 0.41 878 mL/L [21]
+Various Pure 5 g COD/L Almost complete Yes e 58.2e195.8 mL/L [38]
+Gly¼glycerol; Gly Conc. ¼initial glycerol concentration; Substrate Consumpt. ¼substrate consumption; Substrate Supplem. ¼substrate
+supplementation; Ref. ¼references; Curr. st. ¼current study.
+Table 6 eSimilarity between GCL library sequences and those retrieved from GenBank.
+No. of clones Abundance (%) Closest relative Accession no. Similarity (%)
+10 11.11 Klebsiella sp. ANctcri2 HQ286642 99e100
+3 3.33 Uncultured Klebsiella sp. clone F5feb.43 GQ416012 99
+3 3.33 Uncultured Klebsiella sp. clone SL08 HQ264068 99
+5 5.56 Klebsiella pneumoniae KCTC2242 CP002910 99
+17 18.89 Uncultured bacterium clone 16slp87-10f02.w2k GQ158955 99e100
+1 1.11 Klebsiella sp.A18-1 strain A18-1 AB244431 100
+1 1.11 Klebsiella pneumoniae strain SF5 JF489150 99
+4 4.44 Uncultured Klebsiella sp. Clone F5feb.60 GQ416029 99e100
+2 2.22 Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044 AP006725 99
+2 2.22 Uncultured bacterium clone ncd1468d11c1 JF118845 99
+1 1.11 Uncultured bacterium clone ncd1413a11c1 JF122956 99
+1 1.11 Klebsiella sp. VITPGP5AA HM462444 100
+2 2.22 Uncultured bacterium clone 16slp87-10d05.p1k GQ158941 99
+5 5.56 Escherichia coli O7:K1 str. CE10 CP003034 99
+9 10.00 Escherichia coli UMNK88 CP002729 99
+2 2.22 Escherichia coli O111:H AP010960 99e100
+6 6.67 Escherichia coli W CP002185 99e100
+1 1.11 Escherichia coli UM146 CP002167 99
+6 6.67 Shigella sonnei strain FBD025 EU009199 99
+9 10.00 Cupriavidus metallidurans NBRC-101272 AB681431 99e100
+Table 7 ePhylogenetic afﬁliation of sequences from 16S rDNA library.
+Phylogenetic afﬁliationaPhylogenetic groupsb
+Class Order Family Genus %
+Gammaproteobacteria 100% Enterobacteriales 100% Enterobactericeae 100% Klebsiella 99e100% 57.78
+Escherichia 95e100% 25.56
+Shigella 100% 6.67
+Betaproteobacteria 100% Burkholderiales 100% Burkholderiaceae 100% Cupriavidus 100% 10.0
+a Identiﬁcation performed using the RDP Classiﬁcation Algorithm. Bootstrap conﬁdence values are given in brackets (classiﬁcation is well
+supported for conﬁdence >80%).
+b Percentage of GCL clones afﬁliated at genus level.international journal of hydrogen energy 38 (2013) 1319 e1331 1326
+Klebsiella Escherichia/Shigella CupriavidusGamma-
+proteobacteria
+Beta-
+proteobacteria GCL-93
+ GCL-95
+ GCL-103
+ GCL-13
+ Klebsiella pneumoniae KCT2242 (CP002910)
+ GCL-40
+ GCL-4
+ GCL-26
+ GCL-21
+ Uncultured Klebsiella clone F5feb.43 (GQ416012)
+ GCL-60
+ Klebsiella sp. GBK1 (FJ958193)
+ GCL-58
+ Klebsiella sp. A18-1 (AB244431)
+ Klebsiella VITPG5AA (HM462444)
+ GCL-94
+ GCL-9
+ GCL-11
+ GCL-33
+ Uncultured klebsiella sp. clone SL08 (HQ264068)
+ GCL-1
+ GCL-5
+ GCL-20
+ GCL-24
+ GCL-43
+ GCL-57
+ GCL-61
+ GCL-64
+ GCL-75
+ Klebsiella sp.ANctcri2 (HQ286642)
+ GCL-101
+ GCL-102
+ GCL-86
+ Uncultured bacterium clone16slp87 (GQ158955)
+ GCL-15
+ GCL-16
+ GCL-19
+ GCL-36
+ GCL-38
+ GCL-41
+ GCL-56
+ GCL-59
+ GCL-63
+ GCL-65
+ GCL-70
+ GCL-81
+ GCL-83
+ GCL-84
+ GCL-98
+ GCL-35
+ GCL-99
+ GCL-22
+ Klebsiella pneumoniae strain SF5 (JF489150)
+ Uncultured bacterium clone ncd1468d11c1 (JF118845)
+ GCL-31
+ GCL-62
+ Klebsiella pneumoniae subs.pneumoniae NTUH-K22044 (AP006725)
+ GCL-71
+ GCL-96
+ Uncultured bacterium clone 16slp87-10d05 (GQ158941)
+ Uncultured Klebsiella clone 5feb.60 (GQ416029)
+ GCL-25
+ GCL-42
+ GCL-73
+ GCL-82
+ GCL-100
+ Escherichia coli O7:k1 (CP003034)
+ GCL-85
+ GCL-69
+ GCL-55
+ GCL-54
+ GCL-88
+ Escherichia coli UMNK88 (CP002729)
+ GCL-77
+ GCL-76
+ GCL-53
+ GCL-52
+ GCL-37
+ GCL-32
+ GCL-27
+ GCL-2
+ GCL-8
+ Escherichia coli UM146 (CP002167)
+ GCL-80
+ Escherichia coli 0111:H (AP010960)
+ GCL-39
+ GCL-92
+ Escherichia coli W (CP002185)
+ GCL-79
+ GCL-78
+ GCL-72
+ GCL-29
+ GCL-7
+ GCL-3
+ GCL-23
+ GCL-30
+ GCL-66
+ Shigella sonnei strain FBD025 (EU009199)
+ GCL-68
+ GCL-89
+ GCL-6
+ GCL-87
+ Cupriavidus metallidurans NBRC-101272 (AB681431)
+ GCL-28
+ GCL-51
+ GCL-90
+ GCL-97
+ GCL-10
+ GCL-34
+ GCL-44
+ Methanosarcina mazei (AB065295)57
+253271009390
+836363
+449938
+5856
+449410088
+6138
+534061
+44797048
+52514157
+1005130
+30
+1424
+384
+70
+26
+0.05international journal of hydrogen energy 38 (2013) 1319 e1331 1327
+The genus Klebsiella contained more species ( Table 6 ) and
+up to thirty-one sequences were afﬁliated to uncultured
+relatives (59.61% of the total Klebsiella ). Among Klebsiella spp.,
+eight clone sequences (15.38%) were identiﬁed as Klebsiella
+pneumoniae and ten (19.23%) as K. ANctcri2 respectively. The
+remaining sequences (1.73%/each) were afﬁliated to thespecies K. GBK1 ,K. A18-1 and K. VITPGP5AA . Even though each
+of these sequences was represented by a unique GCL clone,they were still evaluated in the community composition,because the inferred assignment was robust (similarity: 99%and 100%) ( Table 6 ).
+Clones belonging to the group Escherichia/Shigella were
+afﬁliated to the species E. coli (79.31%) and Shigella sonnei
+(18.76%).
+The betaproteobacteria-related clones (10% of the total
+number of clones) grouped into the unique Cupriavidus genus
+(formerly Ralstonia ) within the Burkholderiaceae family. All
+sequences were afﬁliated to Cupriavidus metallidurans .
+The phylogenetic tree established with a bootstrap
+neighbor-joining (NJ) method is shown in Fig. 5 . The GCL
+clones fell into three clusters ( Klebsiella ,Escherichia/Shigella
+and Cupriavidus ), each corresponding to the identiﬁed genera
+in the microbial community. The phylogenetic relationship
+between the dominant group ( gammaproteobacteria ) of GCL
+clones closely related at genus level ( Klebsiella and Escherichia/
+Shigella ) and the smaller and more distant group ( betaproteo-
+bacteria ), produced an NJ tree characterized by very short
+peripheral branches, while the longer external branches
+indicated the higher phylogenetic distances between theobserved clusters.
+Among all the identiﬁed microorganisms of the GCL
+community, Klebsiella spp. and E. coli sp. are probably playing
+the key role for hydrogen production. Previous studies showed
+that different strains of K. pneumoniae [40,41] , and Klebsiella
+oxytoca [42], are able to metabolize both, crude and pure
+glycerol under anaerobic conditions, mainly producing 1,3
+propanediol, ethanol and organic acids. Klebsiella sp. HE1 [43]
+was able to produce hydrogen from pure glycerol, while K.
+pneumoniae DSM 2006 and Blb01 were both used in optimiza-
+tion studies for hydrogen production from biodiesel waste[44,45] . More studies are available for E. coli , attesting the
+ability of different strains to anaerobically ferment glycerol,producing hydrogen and co-products [1,12,33,46] . In all these
+studies, pure cultures of genetically and metabolically engi-neered
+microbial strains were used for improving hydrogen or
+ethanol production.
+Within the GCL community, a different and maybe less
+clear role has been played by S. sonnei and C. metallidurans .S.
+sonnei is a well known human pathogen and its presence in
+the community was not surprising, bearing in mind the originof the inoculum. This bacterium is able to ferment sugars
+without gas production and Shigella ﬂexneri strain G3, closely
+related to S. sonnei , was recently isolated and characterized as
+cellulolytic bacterium in anaerobic condition [47].S. sonnei
+represented only a minor fraction (6.67%) of the microbial
+community and we may suppose that it was able to survive oncrude glycerol, without performing any useful role, in terms ofhydrogen production, in the microbial community.
+C. metallidurans (formerly Ralstonia metallidurans ) was
+previously found on industrial sites characterized by thepresence of industrial wastes, soils or sludges rich in toxicheavy metals, often mixed with organic recalcitrant
+compounds and hydrocarbons [48]. Strain NBRC-101272, also
+retrieved in the GCL community, was ﬁrst isolated from
+drainage water of a chemical laboratory [49]. Therefore, C.
+metallidurans strains are adapted to grow on metal contami-
+nated environments and perform a strong resistance to
+environmental stressors. Moreover, this interesting bacteriumis able to grow as a facultative hydrogen-oxidizing bacterium(acting as a sink for hydrogen), but it is also a methylotrophicbacterium, thus able to use C1 compounds such as methanolor methylamine (but not methane) as a carbon source for itsgrowth [50]. There are no reports associating this bacterium to
+hydrogen production from glycerol. Therefore, its role in our
+microbial community may be related to detoxiﬁcation func-tions. In fact, the methylotrophic ability of C. metallidurans
+might be useful for methanol degradation. On the other hand,being a chemolithoautotrophic bacterium [48],i tm a y
+consume hydrogen and fermentation products, assuming therole of antagonist inside the community.
+In the present study, the use of 16S rDNA cloning technique
+allowed to gain a deep insight in the community compositionand heterogeneity, including the fraction of ‘ uncultured ’
+microbial populations.
+The good performance in hydrogen production from crude
+glycerol, obtained with this consortium, may be related to thecooperative metabolic activities between microorganisms,that produced an increased ﬂux of easily biodegradablesubstrates involved in hydrogen-generating pathways.
+The structure of microbial community also pointed out an
+intra- as well an inter-species diversity among GCL clones(Fig. 5 ). The coexistence of such polymorphic populations
+(inter-species diversity) may be maintained by a so called
+cross-feeding mechanism, in which a strain, specializing ona primary resource, coexists with other cross-feeding strains,that specialize on a waste product resulting from consump-
+tion of the primary resource [51].
+Clearly, mutualism such as syntrophic metabolic cooper-
+ation may also be active in the degradation of crude glycerol
+and its impurities. The main difference with the cross-feeding
+Fig. 5 ePhylogenetic tree of species detected in GCL library, showing relationship of 16S rDNA sequences of isolated clones
+(GCL-) to the most closely related sequences from the Genbank (numbers in brackets represent accession number of
+sequences). The tree was developed using the neighbor-joining method with bootstrap consensus inferred from 1000
+replicates. It is rooted using Methanosarcina mazei as an outgroup. Major phylogenetic groupings are indicated and
+bracketed on the right. The tree is drawn to scale, with branch lengths in the identical units as those of the evolutionarydistances used to infer the phylogenetic tree. Kimura 2-parameter method was used to compute the evolutionary distancesand is in the units of the number of base substitutions per site. The scale bar represents 0.05 substitutions per nucleotideposition.international journal of hydrogen energy 38 (2013) 1319 e1331 1328
+mechanism is that syntrophic metabolic cooperation is
+a strict relationship between two metabolically unrelated
+species of bacteria (inter-species diversity), which depend oneach other for energetic reason and perform togethera fermentation process that neither can perform alone [52].
+Sarma et al., [53]pointed out that the use of suitable co-culture
+for impurities degradation (i.e. methanol and soap), that areknown to have inhibitory effect on microbial growth, may playa signiﬁcant role in improving hydrogen yield. Some species ofKlebsiella and Escherichia are known to have soap degradation
+potential [54]. Moreover, C. metallidurans is probably contrib-
+uting to a syntrophic metabolic cooperation, helping detoxi-
+fying crude glycerol through methanol degradation, while
+growing on the fermentation products (hydrogen and volatilefatty acids) of Klebsiella and Escherichia spp. Seemingly, intra-
+and inter-species metabolic cooperation (syntrophism and/orcross-feeding) was activated in our consortium as a conse-quence of the selective pressure applied during the enrich-ment of activated sludge, namely the use of crude glycerol asthe only carbon source, without any supplementation of yeastextract, tryptone, nor vitamin- and mineral solution.
+Clearly, successful biological hydrogen production
+depends on the overall performance (results of interactions) of
+the bacterial community (i.e. mixed cultures) in the reactor.
+Therefore, selected mixed cultures may provide usefulcombinations of metabolic pathways for the processing ofcomplex waste material, thereby supporting a more efﬁcientdecomposition of biomass, compared with pure bacterialspecies [3,55] . Thus, the use of the enriched activated sludge,
+thanks to the establishment of positive mechanisms ofmetabolic cooperation (syntrophism and/or cross-feeding),probably favored the high conversion efﬁciency of thedifferent glycerol types investigated.
+4. Conclusions
+In this study we applied enrichment of activated sludge toselect glycerol-fermenting bacteria, able to efﬁciently convertthe substrate into hydrogen. The microorganisms weredirectly selected and acclimatized on crude glycerol, withoutthe use of substrate supplementation, in order to reduce
+operational costs. The enrichment displayed a non linear
+pattern, which however led to a signiﬁcant improvement ofglycerol conversion into hydrogen, also related to the increasein ethanol concentration and concomitant decrease of 1,3 PD,as shown by the PCA. The thus obtained enriched activatedsludge was then used for further optimization of fermentationparameters, leading to a high hydrogen production rate(2960 mL H
+2/L/d/C6185.5) and near stoichiometric yield
+(0.90 mol/mol /C60.01), together with a (almost) complete
+substrate degradation (97.42% /C60.98). At the end of the
+fermentation the hydrogen content in the biogas reached onaverage 54.05% /C60.99.
+16S rDNA cloning technique allowed to gain a deeper
+insight in the community composition and heterogeneity. TheGCL community was characterized by a well-deﬁned structureand was dominated by Enterobacteriaceae (90%), with the
+genera Klebsiella and Escherichia /Shigella , followed by Bur-
+kholderiaceae (10%) with genus Cupriavidus . The importance ofmetabolic cooperation mechanisms such as syntrophism and/
+or cross-feeding has been discussed.
+The role of main hydrogen producers in the GCL commu-
+nity may be attributed to Klebsiella sp. and E. coli sp., while the
+exact contribution of C. metallidurans and S. sonnei still need to
+be clearly understood and will be further investigated.
+In conclusion we can state that the eco-biotechnological
+approach turned out to be a valuable tool for selecting a suit-
+able microbial pool, able to effectively convert different glyc-erol types into hydrogen. Moreover, the possibility to obtaina highly efﬁcient conversion of biodiesel-derived crude glyc-erol in non-sterile conditions (with the same efﬁciency of pure
+glycerol, in sterile conditions) can also contribute to signiﬁ-
+cantly reduce the operation costs of the process, especially ona larger/industrial scale.
+Acknowledgments
+This research has been ﬁnancially supported by the STF-Science and Technology Fellowship Programme China(EuropeAid/127024/L/ACT/CN, STF China), and conducted incooperation with HIT and ENEA.
+references
+[1] Dharmadi Y, Murarka A, Gonzalez R. Anaerobic fermentation
+of glycerol by Escherichia coli : a new platform for metabolic
+engineering. Biotechnol Bioeng 2006;94(5):821 e9.
+[2] Cofre ´O, Ramirez M, Gomez JM, Cantero D. Optimization of
+culture media for ethanol production from glycerol by
+Escherichia coli . Biomass Bioenergy 2012;37:275 e81.
+[3] Marone A, Massini G, Patriarca C, Signorini A, Varrone C,
+Izzo G. Hydrogen production from vegetable waste by
+bioaugmentation of indigenous fermentative communities.
+Int J Hydrogen Energy 2012;37(7):5612 e22.
+[4] Moazami N, Ashori A, Ranjbar R, Tangestani M, Eghtesadi R,
+Nejad AS. Large-scale biodiesel production using microalgae
+biomass of Nannochloropsis. Biomass and Bioenergy 2012;39:
+449e53.
+[5] Yazdani SS, Gonzalez R. Anaerobic fermentation of glycerol:
+a path to economic viability for the biofuels industry. CurrOpin Biotechnol 2007;18:213 e9.
+[6] Valdez-Vazquez I, Sparling R, Risbey D, Rinderknecht-
+Seijas N, Poggi-Varaldo HM. Hydrogen generation via
+anaerobic fermentation of paper mill wastes. Bioresour
+Technol 2005;96:1907 e13.
+[7] McCoy M. An unlikely impact. Chem Eng News 2005;83:
+24e6.
+[8] McCoy M. Glycerin surplus. Chem Eng News 2006;84:7 e8.
+[9] Misturini Rossi D, Berne da Costa J, Aquino de Souza E, Do
+Carmo Ruaro Peralba M, Samios D, Zachia Ayub MA.
+Comparison of different pretreatment methods for hydrogen
+production using environmental microbial consortia on
+residual glycerol from biodiesel. Int J Hydrogen Energy 2011;36:4814 e9.
+[10] Johnson DT, Taconi KA. The glycerin glut: options for the
+value-added conversion of crude glycerol resulting frombiodiesel production. Environ Prog 2007;26(4):338 e48.
+[11] Meyer PP, Pankaew S, Rukruang A and Tongurai C.
+Biohydrogen production from crude glycerol. In: Proceedings
+of the 17th World Hydrogen Energy Conference. Brisbane,
+Australia; 15 e19 June 2008.international journal of hydrogen energy 38 (2013) 1319 e1331 1329
+[12] Yazdani SS, Gonzalez R. Engineering Escherichia coli for the
+efﬁcient conversion of glycerol to ethanol and co-products.
+Metab Eng 2008;10:340 e51.
+[13] Fountoulakis MS, Manios T. Enhanced methane and
+hydrogen production from municipal solid waste and agro-
+industrial by-products co-digested with crude glycerol.
+Bioresour Technol 2009;100:3043 e7.
+[14] Siles Lo ´pez JA, Martı ´n Santos MA, Chica Pe ´rez AF, Martı ´n
+Martı ´n A. Anaerobic digestion of glycerol derived from biodieselmanufacturing. Bioresour Technol 2009;100(23):5609 e15.
+[15] Varrone C, Giussani B, Izzo G, Massini G, Marone A,
+Signorini A, et al. Statistical optimization of biohydrogen and
+ethanol production from crude glycerol by microbial mixed
+culture. Int J Hydrogen Energy 2012;37:16479 e88.
+[16] Johnson K, Jiang Y, Kleerebezem R, Muyzer G, van
+Loosdrecht MCM. Enrichment of a mixed bacterial culture
+with a high polyhydroxyalkanoate storage capacity.
+Biomacromolecules 2009;10:670 e6.
+[17] Yang Y, Tsukahara K, Sawayama S. Biodegradation and
+methane production from glycerol-containing synthetic
+wastes with ﬁxed-bed bioreactor under mesophilic and
+thermophilic anaerobic conditions. Process Biochem 2008;
+43(4):362 e7.
+[18] Barbirato F, Camarasa-Claret C, Grivet JP, Bories A. Glycerol
+fermentation by a new 1,3-propanediol-producingmicroorganism Enterobacter agglomerans . Appl Microbiol
+Biotechnol 1995;43:786 e93.
+[19] Ito T, Nakashimada Y, Senba K, Matsui T, Nishio N. Hydrogen
+and ethanol production from glycerol-containing wastesdischarged after biodiesel manufacturing process. J BiosciBioeng 2005;100(3):260 e5.
+[20] D’Ippolito G, Dipascuale L, Vella FM, Romano I,
+Gambacorta A, Cutignano A, et al. Hydrogen metabolism inthe extreme thermophile Thermotoga neapolitana. Int J
+Hydrogen Energy 2010;35:2290 e5.
+[21] Seifert K, Waligorska M, Wojtowski M, Laniecki M. Hydrogen
+generation from glycerol in batch fermentation Process. Int JHydrogen Energy 2009;34:3671 e8.
+[22] Zeng AP, Biebl H, Schlieker H, Deckwer WD. Pathway
+analysis of glycerol fermentation by Klebsiella pneumoniae :
+regulation of reducing equivalent balance and productformation. Enzym Microb Technol 1993;15:770 e9.
+[23] Zheng ZM, Hu QL, Hao J, Xu F, Guo NN, Sun Y, et al. Statistical
+optimization of culture conditions for 1,3-propanediol byKlebsiella pneumoniae AC 15 via central composite design.
+Bioresour Technol 2008;99:1052 e6.
+[24] Wolin EA, Wolin MJ, Wolfe RS. Formation of methane by
+bacterial extracts. J Biol Chem 1963;238:2332 e86.
+[25] Logan BE, Oh SE, Kim IS, Van Ginkel S. Biological hydrogen
+production measured in batch anaerobic respirometers.
+Environ Sci Technol 2002;36(11):2530 e5.
+[26] Chen WH, Chen SY, Khanal S, Sung S. Kinetic study of
+biological hydrogen production by anaerobic fermentation.
+Int J Hydrogen Energy 2006;31(15):2170 e8.
+[27] Wang J, Wan W. Optimization of fermentative hydrogen
+production process by response surface methodology. Int JHydrogen Energy 2008;33:6976 e84.
+[28] Tamura K, Peterson D, Peterson N, Stecher G, Nei M,
+Kumar S. MEGA5: molecular evolutionary genetics analysisusing maximum likelihood, evolutionary distance, andmaximum parsimony methods. Mol Biol Evol 2011;28:
+2731e 9.
+[29]
+Saitou N, Nei M. The neighbor-joining method: a new
+method for reconstructing phylogenetic trees. Mol Biol Evol1987;4:406 e25.
+[30] Kimura MA. A simple method for estimating evolutionary
+rates of base substitutions through comparative studies ofnucleotide sequences. J Mol Evol 1980;16:111 e20.[31] Li YF, Ren NQ, Chen Y, Zheng GX. Ecological mechanism of
+fermentative hydrogen production by bacteria. Int J
+Hydrogen Energy 2007;32:755 e60.
+[32] Adav SS, Lee DJ, Wang AJ, Ren NQ. Functional consortium for
+hydrogen production from cellobiose: concentration-to-
+extinction approach. Bioresour Technol 2009;100:2546 e50.
+[33] Murarka A, Dharmadi Y, Yazdani SS, Gonzalez R.
+Fermentative utilization of glycerol by Escherichia coli and its
+implications for the production of fuels and chemicals. Appl
+Environ Microbiol 2008;74(4):1124 e35.
+[34] Sittijunda S, Reungsang A. Biohydrogen production from
+waste glycerol and sludge by anaerobic mixed cultures. Int J
+Hydrogen Energy 2012;37:13789 e96.
+[35] Sittijunda S, Reungsang A. Media optimization for
+biohydrogen production from waste glycerol by anaerobicthermophilic mixed cultures. Int J Hydrogen Energy 2012;37:15473 e82.
+[36] Mangayil R, Karp M, Santala V. Bioconversion of crude
+glycerol from biodiesel production to hydrogen. Int JHydrogen Energy 2012;37:12198 e204.
+[37] Priscilla AS, Joe MP, Wallis AL, Bruce EL. Enhanced hydrogen
+and 1,3-propanediol production from glycerol byfermentation using mixed cultures. Biotechnol Bioeng 2009;104:1098 e106.
+[38] Yohei A, Dong- YL, Yu-You L, Tatsuya N. Hydrogen
+production potentials and fermentative characteristics ofvarious substrates with different heat-pretreated naturalmicroﬂora. Int J Hydrogen Energy 2009;34(13):5365 e72.
+[39] Pupo GM, Lan R, Reeves PR. Multiple independent origins of
+Shigella clones of Escherichia coli and convergent evolution of
+many of their characteristics. Proc Natl Acad Sci 2000;97:10567 e72.
+[40] Oh BR, Seo JW, Heo SY, Hong WK, Luo LH, Joe MH, et al.
+Efﬁcient production of ethanol from crude glycerol byKlebsiella pneumoniae mutant strain. Bioresour Technol 2011;
+102:3918 e22.
+[41] Xiu ZL, Song BH, Wang TT, Sun LH, Feng EM, Zeng AP.
+Optimization of dissimilation of glycerol to 1,3-propanediolbyKlebsiella pneumoniae in one- and two-stage anaerobic
+cultures. Biochem Eng J 2004;19:189 e97.
+[42] Metsoviti M, Paramithiotis S, Drosinos EH, Galiotou-
+Panayotou M, Nichas GJE, Zeng AP, et al. Screening ofbacterial strains capable of converting biodiesel-derived raw
+glycerol into 1,3-propanedio, 2,3-butanediol and ethanol. Eng
+Life Sci 2012;12(1):57 e68.
+[43] Wu KJ, Lin YH, Lo YC, Chen CY, Chen WM, Chang JS.
+Converting glycerol into hydrogen, ethanol, and diols with
+Klebsiella sp. HE1 strain via anaerobic fermentation. J Taiwan
+Inst Chem Eng 2011;42:20 e5.
+[44] Liu F, Fang B. Optimization of bio-hydrogen production from
+biodiesel wastes by Klebsiella pneumonia . Biotechnol J 2007;2:
+374e80.
+[45] Costa JB, Rossi DM, De Souza EA, Samios D, Bregalda F, Do
+Carmo Ruaro Peralba M, et al. The optimization ofbiohydrogen production by bacteria using residuals glycerol
+from biodiesel synthesis. J Environ Sci Health A Tox HazardSubst Environ Eng 2011;46(13):1461 e8.
+[46] Hu H, Wood TK. An evolved Escherichia coli strain for
+producing hydrogen and ethanol from glycerol. BiochemBiophys Res Commun 2010;391:1033 e8.
+[47] Wang AJ, Gao L, Ren NQ, Xu J, Liu C, Cao GL, et al. Isolation
+and
+characterization of Shigella ﬂexnery G3, capable of
+effective cellulosic sacchariﬁaction under mesophilicconditions. Appl Environ Microbiol 2011;77:517 e23.
+[48] Diels L, Van Roy S, Taghavi S, Van Houdt R. From
+industrial sites to environmental applications withCupriavidus metallidurans . Antonie van Leeuwenhoek 2009;
+96:247 e58.international journal of hydrogen energy 38 (2013) 1319 e1331 1330
+[49] Miyake-Nakayama C, Masujima S, Ikatsu H, Shinoda S.
+Isolation and characterization of a new dicholorometane
+degradation bacterium, Ralstonia metallidurans PD11.
+Biocontrol Sci 2004;9:89 e93.
+[50] Miyake-Nakayama C, Ikatsu H, Kashihara M, Tanaka M,
+Arita M, Miyoshi SI, et al. Biodegradation of dichloromethaneby the polyvinyl alcohol-immobilized methylotrophic
+bacterium Ralstonia metallidurans PD11. Environ Biotechnol
+2006;70:625e 30.
+[51] Rosenzweigh FR, Sharp RR, Treves DS, Adams J. Microbial
+evolution in a simple unstructured environment: geneticdifferentiation in Escherichia coli . Genetics 1994;137:903 e17.[52] SchinkB. Energetics of syntrophic cooperation in methanogenic
+degradation. Microbiol Mol Bio Rev 1997;61:262 e80.
+[53] Sarma SJ, Brar SK, Sydney EB, Le Bihan Y, Buelna G,
+Soccol CR. Microbial hydrogen production by bioconversionof crude glycerol: a review. Int J Hydrogen Energy 2012;37:6473e90.
+[54] Ojo OA, Oso BA. Biodegradation of synthetic detergents in
+wastewater. Afr J Biotechnol 2009;8:1090 e109.
+[55] Hung CH, Chang YT, Chang YJ. Roles of microorganisms
+other than Clostridium and Enterobacter in anaerobicfermentative biohydrogen production systems: a review.Bioresour Technol 2011;102:8437 e44.international journal of hydrogen energy 38 (2013) 1319 e1331 1331

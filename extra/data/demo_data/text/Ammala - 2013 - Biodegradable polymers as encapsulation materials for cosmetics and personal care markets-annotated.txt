@@ -1,0 +1,873 @@
+Review Article
+Biodegradable polymers as encapsulation materials for cosmetics
+and personal care markets
+Anne Ammala
+Commonwealth Scientiﬁc and Industrial Research Organisation (CSIRO), Materials Science and Engineering, Private Bag 33, Clayton South MDC,
+Victoria, 3169, Australia
+Received 09 August 2012, Accepted 08 October 2012
+Keywords: biodegradable polymers, controlled release, cosmetics, encapsulation, polymeric carrier
+Synopsis
+The topical and transdermal delivery of active cosmetic ingredients
+requires safe and non-toxic means of reaching the target sites with-
+out causing any irritation. Preservation of the active ingredients is
+also essential during formulation, storage and application of the
+ﬁnal product. As many biologically active substances are not stable
+and sensitive to temperature, pH, light and oxidation, they require
+encapsulation to protect against unwanted degradation and also to
+target speciﬁc and controlled release of the active substance. The
+use of biodegradable polymers as encapsulation materials offers sev-
+eral advantages over other carrier materials. Encapsulation of active
+ingredients using biodegradable polymeric carriers can facilitate
+increased efﬁcacy and bioavailability and they are also removed
+from the body via normal metabolic pathways. This article reviews
+current research on biodegradable polymers as carrier or encapsula-
+tion materials for cosmetic and personal care applications. Some of
+the challenges and limitations are also discussed. Examples of biode-
+gradable polymers reviewed include polysaccharides, poly a-esters,
+polyalkylcyanoacrylates and polyamidoamine dendrimers.
+Re´sume ´
+L’administration topique et transdermique de principes actifs cos-
+me´tiques exige des moyens su ˆ rs et non toxiques pour atteindre les
+sites cibles sans causer d’ irritation. La pre ´servation des ingre ´dients
+actifs est e ´galement essentielle au cours de la formulation, du
+stockage et de l’application du produit ﬁnal. E ´tant donne ´que beau-
+coup de substances biologiquement actives ne sont pas stables et
+sensibles a `la tempe ´rature, le pH, la lumie `re et l’oxydation, elles
+ont besoin d’encapsulation pour les prote ´ger contre la de ´gradation
+inde´sirable et e ´galement de cibler la libe ´ration spe ´ciﬁque et con-
+troˆle´e de la substance active. L’utilisation de polyme `res biode ´grad-
+ables comme mate ´riaux d’encapsulationoffre plusieurs avantages
+par rapport aux autres mate ´riaux porteurs. L’encapsulation des
+ingre´dients actifs a `l’aide des supports polyme `res biode ´gradables
+peut faciliter l’augmentation de l’efﬁcacite ´et de la biodisponibilite ´;
+ceux-cisont e ´galement e ´limine ´s de l’organisme par l’interme ´diaire
+des voies me ´taboliques normales. Cet article passe en revue lesrecherches actuelles sur les polyme `res biode ´gradables comme
+mate´riaux de support ou d’encapsulation pour les cosme ´tiques et
+les applications de soins personnels. Les de ´ﬁs et les limites sont
+e´galement discute ´s. Des exemples de polyme `res biode ´gradables
+passe´s en revue comprennent des polysaccharides, des poly- a-esters,
+des polyalkylcyanoacrylates et les polyamidoaminedendrime `res.
+Introduction
+A variety of synthetic and natural biodegradable polymers are ﬁnd-
+ing increasing applications in cosmetics and personal care markets
+as well as pharmaceutical and biomedical ﬁelds. Polymeric carriers
+have been employed for a wide variety of therapeutic substances
+including active pharmaceutical ingredients [1]. Encapsulation of
+active ingredients using biodegradable polymeric carriers can facili-
+tate increased drug efﬁcacy and bioavailability. They can also be
+chemically functionalized to give enhanced properties over conven-
+tional carrier materials.
+The main advantages of using biodegradable polymers in cosmet-
+ics applications over non-biodegradable polymers is that they are
+generally non-reactive when in contact with the human body and
+can be broken down or metabolized and removed from the body via
+normal metabolic pathways. In contrast, non-biodegradable poly-
+mers could potentially accumulate in various body tissues and cause
+irritation. The usual mechanism for degradation of biodegradable
+polymers is by hydrolysis or enzymatic cleavage of labile heteroatom
+bonds, which results in scission of the polymer chains [2]. To be
+used in biomedical applications the biodegradable polymer must also
+be biocompatible. The chemical nature of the degradation products,
+rather than the product itself, is often what inﬂuences biocompati-
+bility. For example, polyesters based on polylactide (PLA), polyglyco-
+lide (PGA) and their copolymers have been extensively employed as
+biomaterials with degradation yielding the corresponding hydroxyl
+acids that are safe for in vivo use. Biodegradable polymers derived
+from natural polymers, particularly, modiﬁed polysaccharides such
+as starch and chitosan are also widely used.
+Many personal care products (for skin, hair or body care) contain
+biologically active substances such as vitamins and as such require
+encapsulation for increased stability of the active materials. As many
+biologically active substances are not stable and sensitive to temper-
+ature, pH, light and oxidation, they require encapsulation to protect
+against unwanted degradation and also to target speciﬁc release ofCorrespondence: Anne Ammala, Private Bag 33 Clayton South MDC
+Victoria 3168 Australia. Tel.: +61 3 9545 2688; fax: 61 3 9544
+1128; e-mail :anne.ammala@csiro.au
+©2012 Society of Cosmetic Scientists and the Socie ´te´Franc ¸aise de Cosme ´tologie 113International Journal of Cosmetic Science ,2 0 1 3 , 35, 113–124 doi: 10.1111/ics.12017
+
+the active substance. This article aims to provide an overview of the
+use of biodegradable polymers as encapsulation materials for cos-
+metics and personal care applications. Recent developments in thisﬁeld are addressed and some of the challenges are identiﬁed.
+Topical and transdermal delivery
+In general the topical application of cosmetic formulations requires
+the successful delivery of active ingredients through the skin’s
+lipid barrier to reach the targeted lower layers. Transdermal drugdelivery has been well documented with studies dating back to1924 proposing that the main resistance to transdermal transport
+was in a layer of cells joining the stratum corneum to the epider-
+mis [3]. In 1944, Winsor and Burch [4] found that skin couldbecome freely permeable to water after the removal of the stratumcorneum. Similarly in 1957, Monash [5] observed that high con-
+centrations of topical anaesthetics did not provide any action on
+skin until the stratum corneum was stripped away with tape. Inaddition Malkinson in 1958 found that only 1 –2% radiolabelled
+hydrocortisone permeated skin but when the skin was stripped
+with tape up to 90% was absorbed [6]. These studies demon-strated that the stratum corneum itself limited transport. In whatis regarded as a landmark paper, Kligman in 1964 [7] outlined
+that the stratum corneum was not a dead, passive structure as
+was previously thought. Kligman described the structure of thestratum corneum as being made up of cellular structures that hetermed ‘corneocytes’. The work of Blank and Scheuplein [8, 9]
+later demonstrated the highly impermeable nature of the stratum
+corneum and the structure was likened to ‘plastic wrap’. Perme-ability through this layer, in particular for hydrophilic molecules,
+has remained as one of the major challenges in effective transder-
+mal delivery. Today, the stratum corneum is considered to be verymuch a ‘living’ tissue involved in a number of metabolic pro-cesses. Elias has given a good account of these in a recent publi-
+cation [10]. The currently accepted structure of the skin is
+described in the following section.
+Skin structure
+Human skin is comprised of several distinct layers as represented in
+Fig. 1. The epidermis is the outermost layer and acts as a protec-tive sheath against environmental inﬂuences. It consists of severallayers starting with the stratum corneum to the basal cell layer
+and is continually being regenerated. The dermis lies beneath the
+epidermis and contains collagen and glycosaminoglycans. Thislayer is where collagen and elastin are synthesized and it containsthe blood vessels, nerves, sweat glands, hair follicles and sebaceous
+glands. The hypodermis or sub-cutaneous layer contains the adi-
+pose tissue (subcutaneous fat) and provides a thermal barrier.
+The stratum corneum is the upper 10 –20-lm layer that is a
+lipid-rich matrix composed primarily of ceramides, cholesterol and
+fatty acids that are assembled into a multi-lamellar bilayer struc-ture. Elias proposed a ‘brick and mortar’ model [12] which is oftenused to describe the structure of the stratum corneum where the
+‘bricks’ represent the protein rich cells (corneocytes) embedded into
+the intercellular lipid domains or ‘mortar’ as shown in Fig. 2 [13].Corneodesmosomes act to link neighbouring corneocytes togetherand provide structural integrity to the stratum corneum. It should
+also be noted that there are wide variations in permeability
+observed at different body sites (e.g. face vs. legs vs. palms) whichtogether with factors such as age and external environment can all
+inﬂuence the skins barrier function [13].
+The lipophilic stratum corneum contains around 13% water. In
+contrast, the viable epidermis becomes signiﬁcantly more hydro-philic containing about 50% water. The water content in the der-
+mis is even higher at 70% [14]. Highly lipophilic actives do not
+transfer well across the highly lipophilic stratum corneum into themore aqueous epidermis, and it is important to understand theseproperties to design carriers to achieve the desired delivery of cos-
+metic active substance.
+Skin penetration pathways
+A number of pathways are possible for the transportation of mole-
+cules through the skin. The intercellular route occurs at the inter-face between cells through the lipid bilayers following a tortuous
+permeation pathway. In contrast, transcellular pathways can occur
+directly through the cells. These pathways are depicted in Fig. 3[15]. Transportation via the hair follicles or sweat ducts is also pos-sible. Permeation enhancers can also alter the pathway. Some com-
+mon enhancers are discussed in the next section.
+It is generally reported that transport of molecules through the
+epidermis is restricted to molecules of low molecular mass(<500 Da) and moderate lipophilicity (partition coefﬁcients, log K
+o/w
+Figure 1 Schematic representation of a cross-section of human skin [11] .
+©2012 Society of Cosmetic Scientists and the Socie ´te´Franc ¸aise de Cosme ´tologie
+International Journal of Cosmetic Science ,35, 113–124 114Biodegradable polymers as encapsulation materials A. Ammala
+values between 1 and 3), having enough solubility in the lipid
+domain of the stratum corneum while still having sufﬁcient hydro-philic nature to allow partitioning into the epidermis [14]. Someexamples of drugs successfully administered via transdermal patches
+range in size from nicotine (162 Da) to oxybutinin (359 Da) [3].
+There are also numerous articles describing the use of mathe-
+matical models to predict skin permeability [16 –19]. Generally,
+these are based on quantitative structure-permeability relationships
+(QSPR), diffusion mechanisms or combinations of both.
+Permeation enhancers
+The disruption of the structural organization of the intercellular
+lipid domain of the stratum corneum can enhance skin permeation[14]. This may be achieved via chemical enhancers or physical
+techniques. In summary, the use of physical techniques includes
+Iontophoresis (the use of an electric current to enable penetration of
+charged species), Electroporation (application of a voltage pulse), So-
+nophoresis (the use of ultrasound energy) and Microneedling (needle
+arrays that pierce the upper epidermis). These techniques are out-
+lined in more detail in a number of recent articles [3, 20, 21].Generally, biodegradable polymers fall into the category of chem-
+ical permeation enhancers, however, they have also been reported
+as materials used in microneedle arrays [22]. Interestingly, thepaper reports on the use of biodegradable microneedles made frompoly-lactide-co-glycolide (PLGA) which are left on the skin and can
+release encapsulated drugs by slow release. The study also reported
+that the microneedles made from PLGA were of sufﬁcient mechani-cal strength that they did not break when inserted into the skin.
+Speciﬁc examples of the use of biodegradable polymers as encap-
+sulation materials for the delivery and controlled release of cos-metic active ingredients are presented in the following sections.
+Polysaccharides
+Chitosan
+Chitosan is a natural polymer that contains a high percentage of
+glucosamine within its structure as shown in Fig. 4. Chitosan isderived from chitin via a deacetylation reaction.
+Chitosan has been widely reported for use in topical and trans-
+dermal delivery systems largely due to its non-toxicity and suscepti-bility to degradation. It has been reported that chitosan has theability to enhance permeation across the skin by altering the struc-
+ture of keratin. It also increases the water content of the stratum
+corneum and cell membrane ﬂuidity. Further, due to its positivecharge under slightly acidic conditions, it can depolarize thenegatively charged cell membrane and in doing so, it decreases the
+membrane potential and drives the active component or drug
+through the skin [23].
+The mechanism by which chitosan and its derivatives can be
+used as a transdermal permeation enhancer has been studied
+recently by He et al.[24]. The study involved infrared examination
+of the secondary structure changes of keratin in stratum corneumof mice as well as the examination of water content. HaCaT cells
+were employed as cell models. A shift of one of the amide absorp-
+tion peaks to lower wavelength after treatment with chitosan indi-cated a change in keratin structure. Further peak deconvolutionalso indicated the b-turning structure of keratin was converted to
+b-sheeting and random coiling or a-helix. The authors suggest that
+these secondary structural changes to keratin lead to a more loosestructure with greater degree of freedom for carbon movement thatcan lead to enhanced transdermal permeation of drugs.
+In addition to the structural changes to keratin described previ-
+ously, the use of chitosan and its derivatives has also been demon-strated to increase water content of the stratum corneum [24]. Once
+again, the use of infrared absorption gave information on water con-
+tent by examination of the ratio of amide I (1700 –1600 cm
+/C01) and
+amide II bands (1600 –1500 cm/C01). Amide I shows the absorbance
+of water and proteins in skin, whereas amide II shows only protein
+absorbance. The derivative N-trimethyl chitosan had the greatest
+Figure 3 Schematic representation of intercellular and transcellular perme-
+ation pathways through the stratum corneum [15].
+ Figure 4 Structure of chitosan.
+Figure 2 Schematic representation of the bricks and mortar model of the
+stratum corneum [13] .
+©2012 Society of Cosmetic Scientists and the Socie ´te´Franc ¸aise de Cosme ´tologie
+International Journal of Cosmetic Science ,35, 113–124 115Biodegradable polymers as encapsulation materials A. Ammala
+effect of increased water content. The study also demonstrated that
+the increased amount of water was able to be retained in the stratum
+corneum for signiﬁcant lengths of time.
+Encapsulation of active ingredients using chitosan is also possi-
+ble. Controlled release has been demonstrated by increasing the vis-
+cosity of the polymer matrix [25]. A skin permeability study
+conﬁrmed that encapsulation of retinoic acid with chitosan deliv-ered the retinoic acid at much slower and controlled rates as com-
+pared to free retinoic acid (shown in Fig. 5) [25]. This ability to
+control delivery of retinoic acid is important in reducing skin irrita-tion.
+The same author has also reported on crosslinking and coacer-
+vation methods to trap actives within the chitosan matrix. This
+encapsulation technology under the tradename Chitosphere
+TMhas
+been developed by Ivrea Laboratories, Inc. [26]. Water insolubleactive ingredients like retinoic acid are able to be delivered topically
+in the form of encapsulated microparticles less than 100 lmi n
+size. This is achieved by using the active agent, a high-viscositychitosan biopolymer and a suitable dispersing agent (e.g. soybean
+oil) in the presence of anionic polymers (e.g. poly(acrylic acid)) at
+pH values greater than 6. A wide range of actives can be deliveredusing this technology without the use of surfactants or emulsiﬁers,making it particularly appealing for topical delivery systems.
+In the ﬁeld of gene therapy, chitosan has been reported to
+enhance drug delivery of nucleic acids such as DNA [23]. Recently,a topical cream for the treatment of asthma has been reported[27]. The research involved transdermal application of chitosan
+encapsulated siNRPA (a small interfering peptide receptor). Results
+showed successful delivery to the lungs upon topical application inmice with signiﬁcantly decreased lung inﬂammation.
+In addition to topical skin delivery, chitosan-based systems have
+also been reported in oral and transmucosal delivery applications[28–30]. Chitosan appears to boost immune responses by enhanc-
+ing the uptake of antigen across nasal mucosa and as a result, it is
+a good candidate for effective mucosal vaccine delivery systems
+[28].
+Hyaluronic acid
+Hyaluronic acid is an anionic polysaccharide that consists of N-ace-
+tyl-glucosamine and glucuronic acid (Fig. 6). It is naturally foundthroughout the body in extracellular tissue, cartilage and synovial
+ﬂuid.
+Skin application of hyaluronic acid containing cosmetics has
+been reported to achieve antiwrinkle effects via its ability to effec-tively moisturize and enhance elasticity of the skin [31, 32]. Hyal-
+uronic acid is a very effective topical humectant, attracting water
+from the air to plump the skin. It is also commonly used as aninjectable dermal ﬁller under the name Restylane
+®.
+In addition to its moisturizing properties, the biodegradability of
+hyaluronic acid also makes it very attractive for wound healingapplications [33 –35]. Laserskin
+®(developed by Fidia Advanced Bio-
+polymers, Italy) is a membrane made from benzyl esteriﬁed hyal-
+uronic acid. It is used as a delivery system to transfer keratinocyte
+cells from tissue culture to skin wounds, in particular burns, withhigh rates of healing [33].
+The stability of hyaluronic acid-based nanoemulsions as trans-
+dermal carriers was recently reported [36]. Electrostatic, steric and
+hydrophobic effects were found to play a key role in the stability ofthe emulsions. Encapsulation experiments with vitamin E also dem-
+onstrated that the emulsions were capable of successfully carrying
+lipophilic additives. In further studies the same group investigatedskin penetration and carried out histological experiments usingvitamin E-hyaluronic acid nanoemulsions [37]. It was reported that
+the formulation had desirable stratum corneum permeability, efﬁ-
+cient partitioning capacity and was able to be diffused deeper intothe dermis compared with the control group containing ethanolsolution. The small size of the emulsion droplets (50 –200 nm) was
+also noted as signiﬁcant as this enabled greater surface-to-volume
+ratio which has greater contact points between the emulsion andthe skin. In addition, the authors claim that the ﬂexibility of the
+Figure 6 Structure of hyaluronic acid (sodium hyaluronate).
+Figure 7 Typical structure of a cyclodextrin.
+Figure 5 all-trans-retinoic acid (ATRA) permeation through a skin model
+using Franz diffusion cells for free retinoic acid ( ) or a chitosan-entrapped
+retinoic acid ( ▲and ) as a function of the concentration of high molecu-
+lar weight chitosan (HMW) [25].
+©2012 Society of Cosmetic Scientists and the Socie ´te´Franc ¸aise de Cosme ´tologie
+International Journal of Cosmetic Science ,35, 113–124 116Biodegradable polymers as encapsulation materials A. Ammala
+droplets was important in the skin penetration as they were capa-
+ble of adapting their shape when passing through the stratum cor-
+neum.
+Although the exact mechanism of action of topically applied
+hyaluronic acid has not been fully explored, Brown et al. [38] have
+described some key factors in a recent review article. It is known
+that the degree of hydration of the stratum corneum inﬂuencesskin permeability and with the excellent hydrating properties of
+hyaluronic acid, this can lead to enhanced topical delivery of
+actives across the skin. The authors suggest that this increasedhydration of surface layers not only enhances drug absorptionacross the stratum corneum, but also facilitates the retention of the
+drug within the more hydrated epidermal layers (possibly by expo-
+sure of potential drug binding sites) which can decrease the drugdiffusion into lower skin layers, limiting systemic absorption.
+Cyclodextrins
+Cyclodextrins are cyclic oligosaccharides consisting of glucopyra-
+nose units bound with 1, 4 bonds having hydrophobic inner cavi-
+ties and hydrophilic outer surfaces (Fig. 7). An importantcharacteristic of cyclodextrins is their ability to form inclusion com-plexes with hydrophobic (lipophilic) molecules bound within the
+inner cavity, making them ideal compounds for cosmetics delivery
+systems (Fig. 8).
+Cyclodextrins and chemically modiﬁed cyclodextrins have been
+utilized for a wide range of applications in cosmetics and personal
+care markets including controlled release of fragrances, stabilization
+of drugs, encapsulation of vitamins, reduction of the dermal pene-tration of preservatives and masking of odours [39, 40].
+Cyclodextrins have also been reported to enhance effectiveness of
+sunscreen formulations [41]. The study reported both an in vitro
+model, using ethanol-propylene glycol solution, as well as a morerealistic model using an oil-in water emulsion. It was demonstrated
+that the photostability of sunscreen agents can be improved by
+encapsulation. Photodecomposition products were analysed bychromatography and mass spectrometry where it was revealed thatthe cyclodextrin inclusion complex decreased the degradation of
+UV absorber signiﬁcantly. In addition it was suggested that any
+potential for skin irritation is also decreased by encapsulation.
+Some examples of marketed cosmetic formulations using cyclo-
+dextrins are listed in Table 1 [42].
+The mechanism by which cyclodextrins can inﬂuence transder-
+mal drug delivery has been reported recently by Kear et al. [43].
+The study looked at hydroxypropyl- b-cyclodextrin (HPCD). Because
+of its large molecular size it does not penetrate into the skin. The
+authors found that pre-treatment of skin with up to 20wt% HPCDdid not alter transdermal ﬂux and skin accumulation of the modelcorticosteroids which suggested the stratum corneum barrier prop-
+erties remained intact. In addition, differential scanning calorimetry
+(DSC) examination showed that the lipid structure had no signs oflipid disorganization or altered ﬂuidity. An increase in structuraldisorder of the epidermis has been correlated with a decrease in
+lipid melting temperature. The study did show a decrease in melt
+temperature did occur and this was attributed to disruption of theprotein structure due to hydrogen bonding interactions between
+the hydroxyl groups of the cyclodextrin and hydrogen donating
+keratins in the stratum corneum. Overall the authors concludedthat the penetration enhancement properties of cyclodextrins aremost likely due to increased in aqueous solubility of the drugs and
+hence the thermodynamic driving force for permeation across the
+skin.
+Alginates
+Alginates are linear polysaccharides derived from brown algae that
+are comprised of varying proportions of 1,4-linked b-D-mannuronic
+acid (M) and a-L-glucuronic acid (G) as shown in Fig. 9. The com-
+position can vary from homopolymeric blocks of consecutiveG-blocks, consecutive M-blocks or alternating MG-blocks.
+Widely used as thickening agents in cosmetic formulations, algi-
+nates are also reported for drug delivery applications as they can
+form gels with divalent metal ions such as calcium. The fact thatrelatively mild conditions can be used to incorporate drugs withinalginates makes them excellent candidates for delivery of proteins
+that can minimize any denaturation [44].
+A transdermal nicotine patch containing alginate has been
+reported where the release rate can be controlled by polymer con-
+centration, drug concentration, membrane thickness and degree of
+cross-linking [45]. Similarly, the anti-inﬂammatory drug meloxi-
+Figure 8 Schematic representation of a cyclodextrin inclusion complex.Table 1 Examples of marketed cosmetic cyclodextrin formulations. Adapted
+from [42]
+Trade Name Active substance Application Company
+Lipo CD-SA Salicylic acid Delivery
+system
+for salicylic
+acid(keratolytic)Lipo Chemicals,
+Inc. (US)
+Lipo CD-E Tocopherol Antiageing Lipo Chemicals,
+Inc. (US)
+Lipo CD-OMC Ethylhexyl
+methoxycinnamateSunscreen Lipo Chemicals,
+Inc. (US)
+Biolin Sebo
+Care Impure
+Skin Cream– Acne prone
+skinGanassini (Italy)
+Cellutex L-Carnitine Anticellulite
+creamRegina Neu
+Cosmetic
+(Germany)
+Mirakelle Vitamin A Antiageing Vor Laboratories,
+Inc (Sweden)
+Novo Flex Vitamins A and E Antiageing Revlon (South
+America)
+Self-Action
+Super tanDihydroxyacetone Self-tanning Este `e Lauder (US)
+Klorane Extra
+Gentle DryShampoo– Dry shampoo Klorane, Pierre
+Fabre DermoCosmetique (France)
+©2012 Society of Cosmetic Scientists and the Socie ´te´Franc ¸aise de Cosme ´tologie
+International Journal of Cosmetic Science ,35, 113–124 117Biodegradable polymers as encapsulation materials A. Ammala
+cam has been encapsulated for controlled release through a chito-
+san-alginate transdermal ﬁlm [46].
+Alginates are also commonly reported for wound dressings
+where they can maintain a moist microenvironment and minimizebacteria at the wound site. Incorporation of silver or zinc can fur-
+ther enhance antimicrobial activity [44].
+L’Oreal have described the production of spherical alginate cap-
+sules for cosmetics [47]. These capsules can contain water-soluble
+or dispersible active agents as well as liposoluble additives and can
+include biological compounds, coloured pigments, sunscreens andperfume.
+Starch
+Starch and modiﬁed starch have been used in cosmetics as absor-
+bents, thickeners and ﬁlm forming agents. Most starches consist of
+a mixture of two polysaccharide types: amylose and amylopectin
+(Fig. 10). The ratio of amylase to amylopectin varies depending onthe type of starch. Film forming properties are dependent on this
+ratio with high amylose content (50 –75%) having higher gelling
+tendencies and creating stronger ﬁlms [48].
+The Grain Processing Corporation (Iowa, US) markets a range of
+starch additives for use in a wide variety of personal care products
+[49]. One example is Zeina
+®B860 hydroxypropyl starch. The ﬁlm
+forming properties of this starch allow for encapsulation of activeingredients in the form of oil droplets. A water-soluble protective
+ﬁlm can be formed via spray drying methods.
+Thixogel
+TMis a thixotropic oil-encapsulating emulsion system
+that comprises natural starches [50, 51]. The formulations formsemi-solids upon standing but become pourable gels and lotions
+after moderate mechanical agitation. Thixogel emulsions are
+described as being particularly useful for delivery of hydrophobicbotanical plant extracts and volatile compounds such as essentialoils, ﬂavours, perfumes as well as vitamins [50].
+Encapsulation of the essential oil Melissa Ofﬁcinalis (Lemon Balm)
+using modiﬁed starch has been reported recently [52]. The mainactive compounds contain phenolic acids that have antioxidant,
+antifungal and antiviral properties. To use the lemon balm extract
+as a nutraceutical, encapsulation is required to protect the phenolicacids against oxidation and evaporation. The study revealed thatlemon balm could be effectively encapsulated in modiﬁed starch (as
+well as a cyclodextrin complex) using emulsiﬁcation and spray dry-
+ing techniques.
+The ﬁlm forming properties of starch-chitosan blends have been
+reported in the formation of a transdermal patch [48]. The patch
+has been used to deliver tamarind fruit extract for applications
+such as skin lightening. Various properties were assessed using arange of different starch types (corn, tapioca and potato). Films
+made using corn starch were found to give higher porosity.
+Other reports of encapsulation using starch include the encapsu-
+lation of soy-based ferulic acid derivatives that have UV absorbingand antioxidant properties [53]. These are attractive as natural
+replacements for petroleum-based sunscreen active ingredients.
+Starch-encapsulation was even found to enhance the ultravioletabsorbance of the feruloylated lipids with encapsulated compoundsonly requiring half of the coverage to block the same amount or
+more UV radiation as the un-encapsulated additive.
+Poly a-esters (PGA, PLA, PLGA, PCL)
+This class of polymer includes polyglycolide (PGA), poly(L-lactide)
+(PLA), poly(lactide-co-glycolide) (PLGA) and poly( e-caprolactone)
+(PCL) (structures shown in Fig. 11). These polymers are able to
+undergo degradation via hydrolytic cleavage of the ester linkages
+that make up the polymer backbone. For PGA, PLA and PLGA, thedegradation by-products, lactic acid and glycolic acid, are water-
+Figure 9 Structure of alginate.
+Amylose
+Amylopectin
+Figure 10 Structures of amylose and amylopectin.
+©2012 Society of Cosmetic Scientists and the Socie ´te´Franc ¸aise de Cosme ´tologie
+International Journal of Cosmetic Science ,35, 113–124 118Biodegradable polymers as encapsulation materials A. Ammala
+soluble and non-toxic products of normal metabolism [28] with the
+rate of degradation dependent on the chain length (molecularweight) and the lactide/glycolide ratio [31]. PCL has a much
+slower degradation rate and gives less acidic degradation products
+[54, 55]. The acid dissociation constants (pKa) of lactic acid (3.9)and glycolic acid (3.8) are lower than that for 6-hydroxy-caproic
+acid (4.8) (the product from hydrolysis of PCL) so the use of PCL
+may be advantageous if acidic environments could interfere withthe encapsulated material during release. The slower degradationrate of PCL may also be tailored for a faster release through copoly-
+merization or blending with other polymers [54 –56].
+In the area of drug delivery, the use of poly a-ester polymers to
+encapsulate proteins, vaccines and anticancer drugs have beenwidely reported [57], [1], [58]. The possibility of needle-free vac-
+cines has also been discussed through the production of topically
+applied particles [59]. Similarly, oral delivery of hormones andinsulin may be improved through encapsulation, offering advanta-
+ges of decreased dosage frequency [1]. Various methods have been
+used to synthesize such materials including emulsiﬁcation, solventevaporation and interfacial deposition [1].
+In cosmetic applications, the use of PLA has been recently
+reported to encapsulate retinyl retinoate as an anti-wrinkle treat-
+ment [60]. Skin penetration studies revealed the PLA retinyl retino-ate microspheres (Fig. 12) were able to penetrate into deeper layersof skin ( ~eight-fold higher) compared with formulations without
+PLA. A faster rate of wrinkle improvement was also reported with
+no adverse effects.
+PLGA encapsulated urea has been described for use in topical
+delivery creams [61]. Urea is used as a moisturizing agent and a
+common problem for urea containing cosmetics is its lack of stabil-
+ity in water containing products. PLGA microcapsules of 1 –5lm
+were used to stabilize the urea and provide an effective means of
+controlled release.The encapsulation of ascorbic acid using PLGA and the subse-
+quent degradation behaviour over 8 weeks has been described in arecent study [62]. Ascorbic acid is a water-soluble vitamin with avariety of biological and dermatological functions and it is very
+unstable to air, light, heat and moisture. The study involved the
+synthesis of a range of encapsulated nanospheres where the parti-cle size varied with different PLGA/ascorbic acid ratios. As theamount of ascorbic acid was increased from 15% up to 50% the
+particles went from small spherical shape to larger, more irregular
+shapes. This is important as the authors report that the size andshape of the encapsulated particles plays a key role in the adhesion
+and interaction with the body’s cells. Degradation was studied in a
+physiological solution and assessed by a number of techniquesincluding scanning electron microscopy (SEM) as shown in Fig. 13.Here it can be seen that the particles agglomerate and then create
+a porous ﬁlm before complete degradation. It was also noted that
+for all samples less than 10% of ascorbic acid was released withinthe ﬁrst 24 days, allowing for a successful and controlled rate ofrelease.
+The encapsulation of the highly lipophilic sunscreen, octyl meth-
+oxycinnamate (OMC), using PCL carrier systems has been recentlyreported [63]. The study used tape stripping experiments and imag-
+ing with the lipophilic dye Nile red to investigate the enhanced top-
+ical delivery of the encapsulated sunscreen. Results showed thatencapsulation using PCL gave a 3.4-fold increase in the level ofOMC in the stratum corneum and after some time the dye was
+detected at greater depths (up to 60 lm) within the skin.
+Polyalkylcyanoacrylates (PACA)
+Polyalkylcyanoacrylates (Fig. 14) are another class of biodegrad-
+able polymer that are reported mainly for use as surgical glues andskin adhesives [23]. One example is the product Dermabond
+TM,
+2-octylcyanoacrylate, used as a topical skin adhesive to close
+wounds [64]. Shorter chain alkyl derivatives are described as being
+tissue toxic and causing inﬂammatory reactions and as such theyare limited to non-medicinal uses.
+Cyanoacrylate, when placed in contact with body moisture,
+polymerizes in an exothermic reaction. A strong, ﬂexible andwaterproof bond forms that can stay in place for 7 –14 days, even-
+tually sloughing off with the epidermis [64].
+For more general cosmetics applications, L’Oreal have described
+the use of polyalkylcyanoacrylates in encapsulating oils for treat-
+Figure 11 Structures of poly a-esters.
+Figure 12 Scanning electron microscope (SEM) image of PLA retinyl reti-
+noate microspheres, mean diameter 12.87 lm [60].
+©2012 Society of Cosmetic Scientists and the Socie ´te´Franc ¸aise de Cosme ´tologie
+International Journal of Cosmetic Science ,35, 113–124 119Biodegradable polymers as encapsulation materials A. Ammala
+ment of the upper layers of the epidermis [65]. Examples of the
+active oils described include a-tocopherol and trigylcerides rich in
+linoleic acids.
+Polyamidoamine (PAMAM) dendrimers
+Dendrimers are polymeric molecules composed of branched mono-
+mers emanating radially from a central core. Polyamidoamine
+(PAMAM) dendrimers, as shown in Fig. 15, are the most com-monly reported for bioapplications [66]. The number of branchpoints moving from the core to the periphery is known as the gen-
+eration number (G1, G2, G3, G4, etc.) and this number can be
+altered to enhance the drug loading capacity [67]. The interior ofthe dendrimer contains void spaces that are well suited for encap-sulation of guest molecules. In addition, the outer surface containsa number of potentially reactive sites that can be tailored to alter
+the dendrimers’ solubility, making this class of polymers more efﬁ-
+cient carriers compared to other conventional complexing agents.
+An important characteristic that distinguishes dendrimers from
+more conventional polymers is their intrinsic viscosity [68]. With
+traditional linear polymers, larger molecular weights increase the
+viscosity. Dendrimers, however, will reach a maximum viscositywhich then decreases with increasing molecular weight. This fea-
+ture can be of signiﬁcant beneﬁt to cosmetic formulators, where
+highly viscous formulations may be avoided.
+A patent by L’Oreal [69] has described the use of terminal
+hydroxyl functionalized polyester dendrimers in combination with
+ﬁlm forming polymers for use in cosmetics intended for skin
+application as well as to keratinous ﬁbres, nails or mucous mem-branes. The patent describes how the disadvantages associated withusing high molecular weight polymers can be avoided through the
+use of dendrimers. Low-viscosity formulations using dendrimers
+were found to have superior performance including good sensoryproperties.
+In other patents by L’Oreal, the use of PAMAM dendrimers in
+deodorant compositions has been described and claimed asdeodorant active agents, with odour absorbing properties [70].The dendrimers were able to be formulated in water-based compo-
+sitions and were non-irritating and non-toxic. The use of dendri-
+mers in self-tanning compositions has also been described byL’Oreal [71]. In this application, dendrimer containing composi-
+(a)
+(b)
+(c)
+(d)
+Figure 13 SEM images of (a) PLGA nanospheres and (b) PLGA/ascorbic acid 85/15%, (c) PLGA/ascorbic acid 70/30% and (d) PLGA/ascorbic acid 50/50%
+particles after 2, 24 and 39 days of degradation [62].
+Figure 14 Structure of PACA (R =alkyl group)
+©2012 Society of Cosmetic Scientists and the Socie ´te´Franc ¸aise de Cosme ´tologie
+International Journal of Cosmetic Science ,35, 113–124 120Biodegradable polymers as encapsulation materials A. Ammala
+tions were shown to have enhanced intensity and good fastness
+over time, in particular good resistance to washing. In addition
+the colouration was obtained in faster times compared to usingno dendrimer.
+Revlon have reported the use of PAMAM dendrimers in cosmet-
+ics and personal care applications for the encapsulation of salicylic
+acid in anti-acne compositions [72]. In addition to the salicylic acidbeing sequestered in the core, the free acid groups on salicylic acid
+are also able to ionically bond to the amino groups on the surface
+of the PAMAM dendrimer. The resulting complex stabilizes the sali-cylic acid, until such time that it is applied to the skin where it dis-associates from the PAMAM carrier. Various compositions are
+described including creams, shampoos and conditioners, toners as
+well as make-up. One advantage of using PAMAM complexed sali-cylic acid in make-up is that the reaction with iron oxide pigmentscan be avoided [72].
+The use of PAMAM dendrimers was also recently reported for
+assisting the transdermal diffusion of riboﬂavin [73]. The low watersolubility of riboﬂavin is a limiting factor for high skin load of this
+vitamin and this was overcome through the use of water-soluble
+PAMAM carriers. Similarly, the water solubility of quinolone anti-microbial drugs was reported to increase by using PAMAM dendri-mers in topical applications [74]. The antimicrobial activity of the
+encapsulated/complexed quinolones was found to be similar to that
+for the pure drugs.
+The Australian-based company, Starpharma [75], has commer-
+cialized several products based on dendrimer technology. Although
+these are mainly in pharmaceutical applications, wider opportuni-
+ties in cosmetics are being developed to provide encapsulation, sol-ubilization and controlled release.
+The mechanism of dendrimer systems for skin delivery is still not
+well understood; however, several theories have been proposed in arecent review [76]. These include i) the ability of dendrimers toincrease the thermodynamic activity by increasing the concentra-
+tion and solubility of the drug, ii) the use of penetration enhancers
+with dendrimers to ﬂuidize the lipid bilayers and iii) follicular pene-tration.
+Limitations of existing technology
+One of the challenges (e.g. with alginates) is matching the physical
+properties of the biodegradable gel to the need in a speciﬁc applica-
+tion. Like many other hydrogels, alginates have very limitedmechanical stiffness. This may be altered by varying the molecularweights and altering the degree of cross-linking or by using vari-
+ants on the chemical structures. However, covalent cross-linking
+may sometimes be detrimental to the active material being encap-sulated and thorough removal of unreacted species is necessary[44]. Microcapsules employed in cosmetics may need to be easily
+crushed on the skin (e.g. under the action of slight massage)
+without leaving any residue. They also need to have sufﬁcientrigidity so that their structure is not modiﬁed during storage or
+manufacture into the cosmetic composition [47].
+Another challenge involves the encapsulation of proteins. Preser-
+vation of the protein structure during encapsulation as well as dur-ing its controlled release from the system is essential and this has
+been the topic of some recent reviews [77, 78]. Proteins can
+become inactive or denatured by a number of chemical and physi-cal (conformational) factors. The presence of water or water-oilinterfaces during the preparation of encapsulated proteins can often
+be problematic and can cause protein unfolding or aggregation.
+This can be overcome through the addition of additives (e.g. poly-ols) or by using alternative non-aqueous manufacturing techniques
+(e.g. solid-in-oil-in-oil) [78].
+In addition to the need for improved manufacturing of protein
+encapsulation there is also a need to maintain the protein stabil-ity during its release from the biodegradable polymer shell. The
+major challenge here is for poly a-esters where the polymers
+degrade into acidic products. The drop in pH can inactivate pro-teins. This can be overcome by co-encapsulation of a basic saltsuch as Mg(OH)
+2[78]. Another approach to overcome the pH
+decrease is to create porosity within the microsphere that allows
+acidic biodegradation products to diffuse out and for buffer com-ponents to permeate within [78]. As mentioned previously theuse of alternative polymers such as PCL may also be considered
+as it is less acidic.
+Both fungal and bacterial degradation can be a problem in cos-
+metic formulations using biodegradable polymers. For example, in
+the starch containing Thixogel
+TMsystems, it is necessary to add
+preservatives to extend the shelf life. Natural preservatives likeTea Tree oil and CITRICIDAL (oil from grapefruit seeds) have pro-ven to be effective and low levels of benzalkonium chloride may
+also be added, serving a dual purpose of antimicrobial agent and
+emulsiﬁer [50].
+Future directions
+In today’s cosmetic and personal care markets, there is a growing
+trend towards more complex and sophisticated products with con-
+sumers expecting improved product performance and formulators
+desiring a greater competitive advantage. The use of biodegradablepolymers as encapsulation materials offers many opportunities forimproved stability and delivery of active substances.
+Figure 15 Structure of PAMAM monomer unit and spherical dendrimer [66].
+©2012 Society of Cosmetic Scientists and the Socie ´te´Franc ¸aise de Cosme ´tologie
+International Journal of Cosmetic Science ,35, 113–124 121Biodegradable polymers as encapsulation materials A. Ammala
+It is foreseeable that this technology will continue to expand to
+keep up with demands for multifunctional products that comprise
+more than one active substance. In addition, the gap between cos-metics and pharmaceuticals is closing with the increasing use andavailability of so-called ‘cosmeceuticals’. These products contain
+many natural substances like vitamins, oils, and therapeutic
+extracts that would greatly beneﬁt from the use of this technology.This growing consumer demand for products containing natural
+ingredients can be expected to result in more widespread use anddesign of new tailor-made biodegradable polymers for the encapsu-
+lation of active ingredients.
+Acknowledgements
+The author would like to acknowledge the research resources of
+CSIRO Materials Science and Engineering and would also like tothank Dr. Susan Wong-Holmes and Dr. Katherine Dean for proof
+reading the manuscript.
+References
+1. Kumari, A., Yadav, S.K. and Yadav, S.C.
+Biodegradable polymeric nanoparticles baseddrug delivery systems. Colloid Surf B-Bioin-
+terfaces. 75,1–18 (2010).
+2. Piskin, E. Biodegradable polymers as bioma-
+terials. J. Biomater. Sci. Polymer. Edn. 6, 775
+–795 (1994).
+3. Prausnitz, M.R., Mitragotri, S. and Langer, R.
+Current status and future potential of trans-dermal drug delivery. Nat. Rev. Drug Discov.
+3, 115 –124 (2004).
+4. Winsor, T. and Burch, G.E. Rate of invisible
+perspiration through living and dead stratumcorneum. Arch. Int. Med. 74, 437 (1944).
+5. Monash, H. Location of the superﬁcial bar-
+rier to skin penetration. J. Invest. Derm. 29,
+367 (1957).
+6. Malkinson, F.D. Studies in the percutaneous
+absorption of C14 labeled steroid by use of the
+gas ﬂow cell. J. Invest. Derm. 31, 19 (1958).
+7. Kligman, A.M. The biology of the stratum
+corneum. In: The Epidermis . (Montagna, W.
+Lobitz, W.B., eds.), pp. 387 –433. Academic
+Press, New York (1964).
+8. Blank, I.H. Transport across the stratum
+corneum. Toxicol. Appl. Pharmacol. 14, (Sup-
+plement 3)23 –29 (1969).
+9. Blank, I.H. and Scheuplein, R.J. Permeability
+of the skin. Physiol. Rev. 51, 702 –747
+(1971).
+10. Elias, P.M. The epidermal permeability bar-
+rier: from the early days at harvard toemerging concepts. J. Investig. Dermatol.
+122, xxxvi –xxxix (2004).
+11. Association of the British Pharmaceutical
+Industry (ABPI). Skin Structure and Function .
+Available at: http://www.abpischools.org.
+uk/page/modules/skin/skin2.cfm, accessed
+27 March 2012.
+12. Elias, P.M. Epidermal lipids, barrier function,
+and desquamation. J. Invest. Dermatol. 80
+(1s), 44s –49s (1983).
+13. Harding, C.R. The stratum corneum: struc-
+ture and function in health and disease. Der-
+matol. Ther. 17,6–15 (2004).
+14. Fo ¨rster, M., Bolzinger, M.-A., Fessi, H. and
+Brianc ¸on, S. Topical delivery of cosmetics
+and drugs. Molecular aspects of percutane-ous absorption and delivery. Eur. J. Derm.
+19, 309
+–323 (2009).
+15. Moghimi, H.R., Williams, A.C. and Barry, B.W.
+Stratum corneum and barrier performance; a
+model lamellar structural approach. In: Percu-
+taneous Absorption . (Bronaugh, R.L. and Mai-
+bach, H.I., eds.), pp. 515 –553. Marcel Dekker,
+New York (1999).
+16. Barbero, A.M. and Frasch, H.F. Transcellu-
+lar route of diffusion through stratum corne-
+um: results from ﬁnite element models.
+J. Pharm. Sci. 95, 2186 –2194 (2006).
+17. Chen, L., Lian, G. and Han, L. Use of “Bricks
+and Mortar” model to predict transdermal
+permeation: model development and initial
+validation. Ind. Eng. Chem. Res. 47, 6465 –
+6472 (2008).
+18. Chen, L., Lian, G. and Han, L. Modeling
+transdermal permeation. Part I. Predicting
+skin permeability of both hydrophobic andhydrophilic solutes. AIChE J. 56, 1136 –
+1146 (2010).
+19. Mitragotri, S., Anissimov, Y.G., Bunge, A.L.
+et al. Mathematical models of skin perme-
+ability: an overview. Int. J. Pharm. 418, 115
+–129 (2011).
+20. Cross, S.E. and Roberts, M.S. Physical
+enhancement of transdermal drug applica-tion: is delivery technology keeping up with
+pharmaceutical development? Curr. Drug
+Deliv. 1,8 1–92 (2004).
+21. Guy, R.H. Current status and future pros-
+pects of transdermal drug delivery. Pharm.
+Res.13, 1765 –1769 (1996).
+22. Park, J.-H., Allen, M. and Prausnitz, M.
+Polymer microneedles for controlled-release
+drug delivery. Pharm. Res. 23, 1008 –1019
+(2006).
+23. Pawar, K.R. and Babu, R.J. Polymeric and
+lipid-based materials for topical nanoparticle
+delivery systems. Crit. Rev. Ther. Drug Carr.
+Syst. 27, 419 –459 (2010).
+24. He, W., Guo, X., Xiao, L. and Feng, M.
+Study on the mechanisms of chitosan and
+its derivatives used as transdermal penetra-
+tion enhancers. Int. J. Pharm. 382, 234 –
+243 (2009).
+25. Cattaneo, M.V. Topical delivery systems
+based on polysaccharide microspheres. In:Delivery System Handbook for Personal Careand Cosmetic Products . (Rosen, M.R., ed.), pp.
+273–282. William Andrew, Inc., Norwich,
+NY (2005).
+26. Cattaneo, M., Chitosan Microparticles for the
+Topical Delivery of Water Insoluble Active
+Agents . US patent 2004247632. IVREA,
+Inc., Qunicy, MA. (2004).
+27. Wang, X., Xu, W., Mohapatra, S., Kong, X.,
+Li, X., Lockey, R. and Mohapatra, S.Prevention of airway inﬂammation with
+topical cream containing imiquimod and
+small interfering RNA for natriureticpeptide receptor. Genet. Vacc. Ther. 6,7
+(2008).
+28. Mishra, N., Goyal, A.K., Khatri, K. et al. Biode-
+gradable polymer based particulate carrier(s)for the delivery of proteins and peptides. Anti-
+Inﬂam. Antiallergy Agents Med Chem 7, 240 –
+251 (2008).
+29. Ghosn, B., van de Ven, A.L., Tam, J., Gillenwater,
+A., Sokolov, K.V., Richards-Kortum, R. et al.
+Efﬁcient mucosal delivery of optical contrast
+agents using imidazole-modiﬁed chitosan. J. Bio-
+med. Opt. 15, 015003 (2010).
+30. Pedro, A.S., Cabral-Albuquerque, E.,
+Ferreira, D. and Sarmento, B. Chitosan: an
+option for development of essential oil deliv-ery systems for oral cavity care? Carbohydr.
+Polym. 76, 501 –508 (2009).
+31. Basavaraj, K.H., Johnsy, G., Navya, M.A.,
+Rashmi, R. and Siddaramaiah. Biopolymersas transdermal drug delivery systems in
+dermatology therapy. Crit. Rev. Ther. Drug.
+Carr. Syst. .27:155 –185 (2010).
+32. Pavicic, T., Gauglitz, G.G., Lersch, P.,
+Schwach-Abdellaoui, K., Malle, B., Korting,
+H.C. and Farwick, M. Efﬁcacy of cream-
+based novel formulations of Hyaluronic Acidof different molecular weights in anti-wrin-kle treatment. J. Drugs Dermatol. 10, 990 –
+1000 (2011).
+33. Price, R.D., Berry, M.G. and Navsaria, H.A.
+Hyaluronic acid: the scientiﬁc and clinicalevidence. J. Plast. Reconstr. Aesthet. Surg.
+60, 1110 –1119 (2007).
+34. Teh, B.M., Shen, Y., Friedland, P.L., Atlas,
+M.D. and Marano, R.J. A review on the use
+of hyaluronic acid in tympanic membrane
+wound healing. Expert. Opin. Biol. Ther. 12,
+23–36 (2012).
+©2012 Society of Cosmetic Scientists and the Socie ´te´Franc ¸aise de Cosme ´tologie
+International Journal of Cosmetic Science ,35, 113–124 122Biodegradable polymers as encapsulation materials A. Ammala
+35. Abbruzzese, L., Rizzo, L., Fanelli, G.,
+Tedeschi, A., Scatena, A., Goretti, C.,
+Macchiarini, S. and Piaggesi, A. Effective-ness and safety of a novel gel dressing inthe management of neuropathic leg ulcers
+in diabetic patients: a prospective double-
+blind randomized trial. Int. J. Low Extrem.
+Wounds. 8, 134 –140 (2009).
+36. Kong, M. and Park, H.J. Stability investiga-
+tion of hyaluronic acid based nanoemulsionand its potential as transdermal carrier. Car-
+bohydr. Polym. 83, 1303 –1310 (2011).
+37. Kong, M., Chen, X.G., Kweon, D.K. and
+Park, H.J. Investigations on skin permeationof hyaluronic acid based nanoemulsion astransdermal carrier. Carbohydr. Polym. 86,
+837–843 (2011).
+38. Brown, M.B. and Jones, S.A. Hyaluronic
+acid: a unique topical vehicle for the local-ized delivery of drugs to the skin. J. Eur.
+Acad. Derm. Venereol. 19, 308 –318 (2005).
+39. Matsuda, H. and Arima, H. Cyclodextrins in
+transdermal and rectal delivery. Adv. Drug
+Deliv. Rev. 36,8 1–99 (1999).
+40. Gonnet, M., Lethuaut, L. and Boury, F. New
+trends in encapsulation of liposoluble vita-mins. J. Control Release. 146, 276 –290
+(2010).
+41. Scalia, S., Villani, S., Scatturin, A., Vandelli,
+M.A. and Forni, F. Complexation of the sun-screen agent, butyl-methoxydibenzoylme-
+thane, with hydroxypropyl- b-cyclodextrin.
+Int. J. Pharm. 175, 205 –213 (1998).
+42. Tarimci, N. Cyclodextrins in the cosmetic
+ﬁeld. In: Cyclodextrins in Pharmaceutics, Cos-
+metics, and Biomedicine: Current and FutureIndustrial Applications . (Bilensoy, E., ed.),
+pp. 131 –144. John Wiley & Sons, Inc.,
+Hoboken, NJ (2011).
+43. Kear, C.L., Yang, J., Godwin, D.A. and Fel-
+ton, L.A. Investigation into the mechanismby which cyclodextrins inﬂuence transder-
+mal drug delivery. Drug Dev. Ind. Pharm. 34,
+692–697 (2008).
+44. Lee, K.Y. and Mooney, D.J. Alginate: proper-
+ties and biomedical applications. Prog.
+Polym. Sci. 37, 106 –126 (2012).
+45. Solomon, M.C. and Oraceska, B., Cross-linked
+Alginate Transdermal Medicine Delivery
+Devices . US patent 5484604. Chatﬁeld Phar-
+maceuticals Ltd., Kramer Mews, England,(1996).
+46. Elmotasem, H. Chitosan-alginate blend ﬁlms
+for the transdermal delivery of meloxicam.
+J. Pharm. Sci. 3,1 2–29 (2008).
+47. Handjani, R.M., Kauffmann, M. and Hugue-
+nin, F., Process for the Preparation of Alginate
+Capsules, Apparatus for producing said Capsules
+and Cosmetic Compositions Containing saidCapsules . US patent 5204111. L’Oreal, Paris,
+France, (1993).48. Viyoch, J., Patcharaworakulchai, P., Song-
+mek, R., Pimsan, V. and Wittaya-Areekul, S.
+Formulation and development of a patchcontaining tamarind fruit extract by usingthe blended chitosan-starch as a rate-con-
+trolling matrix. Int. J. Cosmet. Sci. 25, 113 –
+125 (2003).
+49. Freers, S.O. Starch-based delivery systems.
+In:Delivery System Handbook for Personal Care
+and Cosmetic Products: Technology, Applica-tions and Formulations . (Rosen, M.R., ed.),
+pp. 741 –760. William Andrew Inc.,
+Norwich, NY (2005).
+50. Wille, J.J., Methods for Preparation of a Thixo-
+tropic Microemulsion for Skin Care Formula-tions . US patent 2010098734. Individual,
+Chesterﬁeld, NJ (2010).
+51. Wille, J.J. Thixogel: a starch matrix encapsu-
+lation technology for topical drug and cos-metic delivery. In: Skin Delivery Systems:
+Transdermals, Dermatologicals and Cosmetic
+Actives . (Wille, J.J., ed.), pp. 223 –245. Black-
+well Publishing, Oxford, UK (2006).
+52. Mourtzinos, I., Papadakis, S.E., Igoumenidis, P.
+and Karathanos, V.T. Encapsulation of MelissaOfﬁcinalis leaf’s active compounds in b-cyclo-
+dextrin and modiﬁed starch. Procedia Food Sci-
+ence. 1,1 6 7 9 –1685 (2011).
+53. Compton, D.L., Kenar, J.A., Laszlo, J.A. and
+Felker, F.C. Starch-encapsulated, soy-based,ultraviolet-absorbing composites with feru-
+loylated monoacyl- and diacylglycerol lipids.
+Ind. Crops Prod. 25,1 7–23 (2007).
+54. Sinha, V.R., Bansal, K., Kaushik, R.,
+Kumria, R. and Trehan, A. Poly- ecaprolac-
+tone microspheres and nanospheres: an over-view. Int. J. Pharm. 278,1–23 (2004).
+55. Cha, Y. and Pitt, C.G. The biodegradability
+of polyester blends. Biomaterials 11, 108 –
+112 (1990).
+56. Vaida, C., Mela, P., Kunna, K., Sternberg,
+K., Keul, H. and Mo ¨ller, M. Microparticles
+for drug delivery based on functional polyc-
+aprolactones with enhanced degradability:loading of hydrophilic and hydrophobic
+active compounds. Macromol. Biosci. 10,
+925–933 (2010).
+57. Sinha, V.R. and Trehan, A. Biodegradable
+microspheres for protein delivery. J. Control
+Release. 90, 261 –280 (2003).
+58. Ye, M., Kim, S. and Park, K. Issues in long-
+term protein delivery using biodegradablemicroparticles. J Control Release. 146, 241 –
+260 (2010).
+59. Gu, H. and Roy, K. Topical permeation enh-
+ancers efﬁciently deliver polymer micro andnanoparticles to epidermal Langerhans’
+cells. J. Drug Deliv. Sci. Tech. 14, 265 –273
+(2004).
+60. Kim, H., Kim, M., Quan, Y. et al. Novel anti-
+wrinkle effect of cosmeceutical product withnew retinyl retinoate microsphere using
+biodegradable polymer. Skin Res. Tech. 18,
+70–76 (2012).
+61. Haddadi, A., Aboofazeli, R., Erfan, M. and
+Farboud, E.S. Topical delivery of urea encap-
+sulated in biodegradable PLGA microparti-
+cles: O/W and W/O creams. J. Microencapsul.
+25, 379 –386 (2008).
+62. Stevanovic ´, M., Savic ´, J., Jordovic ´, B. and
+Uskokovic ´, D. Fabrication, in vitro degrada-
+tion and the release behaviours of poly(dl-lactide-co-glycolide) nanospheres containing
+ascorbic acid. Colloids Surf., B 59, 215 –223
+(2007).
+63. Alvarez-Roma ´n, R., Naik, A., Kalia, Y., Guy,
+R.H. and Fessi, H. Skin penetration and dis-
+tribution of polymeric nanoparticles. J. Con-
+trol Release. 99,5 3–62 (2004).
+64. Dermabond topical skin adhesive. Int. J.
+Trauma Nurs. 5:29–31 (1999).
+65. Handjani, R.-M. and Ribier, A., Composition
+for the Cosmetic and/or Pharmaceutical Treat-ment of the Upper Layers of the Epidermis by
+Topical Application to the Skin, and Correspond-
+ing Preparation Process . US patent
+20010010824. L’Oreal, Paris, France(2001).
+66. Eichman, J.D., Bielinska, A.U., Kukowska-
+Latallo, J.F., Donovan, B.W. and Baker, J.R.Bioapplications of PAMAM Dendrimers. In:Dendrimers and Other Dendritic Polymers .
+(Frechet, J.M.J. and Tomalia, D.A., eds.), pp.
+441–461. John Wiley & Sons, Ltd,
+New York (2002).
+67. Parveen, S., Misra, R. and Sahoo, S.K.
+Nanoparticles: a boon to drug delivery, ther-apeutics, diagnostics and imaging. Nanomed.
+Nanotechnol. Biol. Med. 8, 147 –166 (2012).
+68. Mourey, T.H., Turner, S.R., Rubinstein, M.,
+Frechet, J.M.J., Hawker, C.J. and Wooley, K.L.Unique behaviour of dendritic macromole-cules - intrinsic viscosity of polyether dendri-
+mers. Macromolecules 25, 2401 –2406
+(1992).
+69. Tournilhac, F. and Simon, P.,
+Cosmetic or
+Dermatological Topical Compositions Compris-
+ing Dendritic Polyesters . US patent
+US6287552. L’Oreal, Paris, France (2001).
+70. Forestier, S., Rollat-Corvol, I. and Rollat, C.I.,
+Deodorant Composition and Use Thereof patent
+US6001342. L’Oreal, Paris, France (1999).
+71. Allard, D. and Forestier, S., Composition
+Comprises Active Self Bronzing Agent and Den-
+drimer Type Polymer –used for Artiﬁcial Tan-
+ning of Skin, gives more Rapid Development ofSkin Colour and Brown Shade which closelyresembles Natural Sun Tanning Patent
+US6399048-B1. L’Oreal, Paris, France
+(2002).
+72. Snyder, F., Wolf, B.A. and Snyden, F., Cos-
+metic Compositions having Keratolytic and Anti-
+©2012 Society of Cosmetic Scientists and the Socie ´te´Franc ¸aise de Cosme ´tologie
+International Journal of Cosmetic Science ,35, 113–124 123Biodegradable polymers as encapsulation materials A. Ammala
+Acne Activity . US patent 5449519. Revlon
+Consumer products Corp. New York, NY,
+(1995).
+73. Filipowicz, A. and Wołowiec, S. Solubility
+and in vitro transdermal diffusion of riboﬂa-
+vin assisted by PAMAM dendrimers. Int. J.
+Pharm. 408, 152 –156 (2011).
+74. Cheng, Y., Qu, H., Ma, M., Xu, Z., Xu, P.,
+Fang, Y. and Xu, T. Polyamidoamine (PA-
+MAM) dendrimers as biocompatible carriersof quinolone antimicrobials: an in vitrostudy. Eur. J. Med. Chem. 42, 1032 –1038
+(2007).
+75. Starpharma Dendrimer Platform Technol-
+ogy. Available at: http://www.starpharma.com/, accessed 9 August 2012.
+76. Sun, M.J., Fan, A.P., Wang, Z. and Zhao, Y.J.
+Dendrimer-mediated drug delivery to theskin. Soft Matter 8, 4301 –4305 (2012).
+77. Bilati, U., Allemann, E. and Doelker, E. Stra-
+tegic approaches for overcoming peptide andprotein instability within biodegradablenano- and microparticles. Eur. J. Pharm.
+Biopharm. 59, 375 –388 (2005).
+78. Perez, C., Castellanos, I.J., Costantino, H.R.,
+Al-Azzam, W. and Griebenow, K. Recenttrends in stabilizing protein structure upon
+encapsulation and release from bioerodible
+polymers. J. Pharm. Pharmacol. 54, 301 –
+313 (2002).
+©2012 Society of Cosmetic Scientists and the Socie ´te´Franc ¸aise de Cosme ´tologie
+International Journal of Cosmetic Science ,35, 113–124 124Biodegradable polymers as encapsulation materials A. Ammala

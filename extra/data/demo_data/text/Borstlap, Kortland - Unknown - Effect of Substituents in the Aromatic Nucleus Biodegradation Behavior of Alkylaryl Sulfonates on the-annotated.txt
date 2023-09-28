@@ -1,0 +1,265 @@
+Effect of Substituents in the Aromatic Nucleus 
+Biodegradation Behavior of Alkylaryl Sulfonates 
+C. BORSTLAP and C. KORTLAND, Koninklijke/Shell-Laboratorium, Amsterdam on the 
+Abstract 
+Taking the results of methylene blue analysis 
+as a yardstick for biodegradability, substituents 
+in the benzene ring of linear alkylaryl sulfonates 
+(CHa, C2H5, OH) greatly deteriorate the aerobic 
+biodegradation characteristics of these products: 
+adaptation time, amount of hard residue, and, 
+to a lesser extent, rate of biodegradation. Replace- 
+ment of one long alkyl chain by two short ones 
+of the same total length also retards biodegrada- 
+tion. When the benzene ring is replaced by a 
+thiophene ring, adaptation is improved. 
+Introduction 
+T IlE RELATION BETWEEN the aerobic biodegradation 
+of an anionic detergent and its structure has in 
+recent years been studied intensively (1-5). The 
+general conclusion is that biodegradation is slower as 
+the hydrophobic part of the molecule is more branched 
+and the hydrophilic group shifts from the end to the 
+middle of the molecule. It is also affected by molec- 
+ular weight. 
+Experiments with alkylbenzene sulfonates reported 
+in the literature were restricted to variations in struc- 
+ture and size of the alkyl chain and position of the 
+hydrophilic group. It was found that not only the 
+aromatic nucleus itself has a retarding effect but also 
+that branching of the alkyl chain affects biodegrada- 
+tion adversely. 
+Whether or not the influence of detergent structure 
+on biodegradation can be established clearly depends 
+on the test method which is employed. The influence 
+of small structural differences will go undetected 
+under severe test conditions but will become apparent 
+when conditions are milder. 
+A mild test was used to study the influence on 
+biodegradation of a) substituents in the benzene 
+nucleus of alkylbenzene sulfonates and b) replacement 
+of the benzene ring by a thiophene ring. The results 
+are presented in this paper. 
+Test Methods 
+The literature describes a wide variety of methods 
+in the study of the aerobic biodegradation of deter- gents in the laboratory. Three categories can be 
+distinguished, viz., dynamic (6,7), semidynamic (8), 
+and static procedures (9-12). 
+An example of the dynamic method is the legal 
+German test. The detergent is fed continuously to 
+the biodegradation system. After an arbitrary time of 
+biodegradation the amount of residual detergent is 
+determined. This operation is repeated several times, 
+and the average percentage of residual detergent is 
+regarded as a measure of biodegradability. 
+In a semidynamic test, detergent feeding is inter- 
+mittent, but for the rest it resembles the dynamic 
+method. 
+The static test method differs from the continuous 
+techniques in that the detergent is added in one pass, 
+and the degradation is followed as a function of time. 
+These procedures all have their merits and de- 
+merits. The continuous and semieontinuous tech- 
+niques more or less simulate an activated-sludge sew- 
+age plant whereas a static method can be taken to 
+represent the behavior of a detergent in public waters. 
+The dynamic method, which only measures the 
+amount of residual detergent, gives no information 
+on the rate of biodegradation and the biological be- 
+havior of ~he residual detergent. In consequence, it 
+might not distinguish between two surfactant systems 
+of which the one biodegrades at a medium rate and 
+the other consists of a mixture of a soft material and 
+a bioresistant detergent. 
+On the other hand, the static method offers the 
+advantage that, in one test, data are obtained on 
+adaptation time, biodegradation rate, and the amount 
+of detergent degrading slowly or not at all (the hard 
+residue). This is why a static die-away test was 
+preferred in the investigation. 
+Analytical Methods 
+To evaluate the biodegradability of anionic deter- 
+gents, various analytical techniques can in principle 
+be used, viz., colorimetric analysis, Warburg manom- 
+etry, B0D determination, GLC analysis after 
+desulfonation, the radioactive-tracer technique, and 
+surface-tension measurements. Although these meth- 
+ods may give valuable data, each has its distinct 
+TABLE I 
+Biodegradation of YariousTypes of Anionic Surfactants According to the River Die-away Test 
+Product Percentage of active matter remaining after .... days 
+1 2 3 6 7 8 9 13 14 16 17 20 21 
+Dodeeylbenzene sulfonate 
+Dodeeylethylbenzene sulfonate 
+Dodecyl-p-xylene sulfenate 
+Dodecyl-m-xylene sulfonate 
+D odecyl-o-xylcne sulfonate 
+Dihexylbenzene sulfonate 
+Dodecylphenol sulfonate 
+D odecylthiophene sulfonate 
+References 
+Lauryl alcohol sulfate 
+Linear alkylbenzene sulfonate 
+(ex-eraeked wax oleflns for ex-n-paraffins) 
+Branched alkylhenzene sulfonate 
+(ex-propylene tetramer) 95 96 94 76 a~ o ................ 
+105 99 99 102 100 98 98 68 53 49 51 49 47 9a 96 .... 95 91 87 8o 1~ .... 9 s 8 s 
+100 101 100 92 99 102 t00 101 .... 96 t00 96 84 101 100 98 99 9~ 9a 95 90 46 a9 a9 a9 
+101 98 99 100 98 91 95 93 89 85 82 81 78 
+106 106 107 108 102 102 96 103 .... 66 42 16 14 
+98 92 6 3 4 2 2 ........................ 
+0 ........................ 
+101 99 92 95 87 92 93 94 .... 82 82 .... 76 
+295 
+
+296 THE JOURNAL OF THE AMERICAN OIL CHEMISTS' SOCIETY YOL. 44 
+limitations, which often make the results difficult to 
+interpret. 
+The method most utilized is the colorimetric method 
+according to Longwell-Maniece (13,14). This tech- 
+nique is based on the capability of a cationic dyestuff 
+to form a complex with the anionic surfactant. The 
+dye is, in general, methylene blue. The complex is 
+extracted with chloroform, and the color intensity is 
+measured. The amount of nondegraded surfaetant is 
+reported. However partially bio-oxidized molecules 
+(intermediate degradation products) do not show up 
+(15). Thus no answer is obtained to the question of 
+how far the bio-oxidation has progressed. For lack of 
+a better method the co]orimetric technique has been 
+adopted internationally and in some countries even 
+legally, which is the reason this procedure was utilized. 
+Experimental 
+The static test employed to compare the rate of 
+biodegradation of anionic detergents with different 
+structures was a river die-away test, in which the 
+bacteria concentration is low. Degradation proceeds 
+slowly, which ensures proper differentiation. 
+Test Procedure 
+Twenty liters of river-water (IJ-water) were sam- 
+pled and filtered through cotton wool to remove solid 
+particles. To 990 ml of filtered water 10 ml of a 
+1000-ppm detergent solution were added so the 
+resultant mixture had an initial detergent concentra- 
+tion of 10 ppm. The solution was stored in the dark 
+at ambient temperature (approximately 20C) in open 
+bottles to allow oxygen uptake. At suitable intervals 
+samples were taken, and the content of nondegraded 
+detergent was determined according to the methylene 
+blue method (12,13). 
+Products Tested 
+Biodegradation studies, known from the literature, 
+refer generally to the effect of substituents in the atkyl A~ LEFT,% I00 9~.- ~ 
+o 
+0 2 4 6 8 10 12 ~4 16 18 20 22 
+DEGRADATION, DAYS 
+FIO. 1. Biodegradation of various types of anionic detergents 
+according to the y-water storage test: 1. lauryl alcohol sulfate, 
+2. dodecylthiophene sulfonate, 3. dodecylbenzene sulfonate 
+(ex-n-dodecene), 4. linear alkylbenzene sulfonate (ex-cracked 
+wax olefins or ex-n-paraflins), 5. dodecyl-p-xylene sulfonate, 
+6. dodecylethylbenzcne sulfonate, 7. dodecyl-o-xylene sulfonate, 
+8. dodecylphenol sulfonate, 9. branched alkylbenzene sulfonate 
+(ex propylene tetramer), 10. dihexylbenzene sulfonate (ex-n- 
+hexene), 11. dodeeyl-m-xylene sulfonate. moiety of the alkylbenzene su]fonate molecule. This 
+study however was to determine whether the presence 
+of extra substituents (CH3, C2H5, OH) in the benzene 
+ring of an alkylbenzene sulfonate has any influence 
+on its biological behavior. Also investigated was the 
+effect of replacement of one long alkyl chain by two 
+short ones of the same total length and that of re- 
+placement of the benzene ring by a thiophene ring. 
+Table I lists the various products which were ex- 
+amined. All substances, except for dihexylbenzene 
+sulfonate, contained a C12 alkyl chain that was intro- 
+duced into the benzene ring by alkylation, using 
+concentrated H2S04 as the catalyst (for the thiophene 
+derivative, BF3 etherate was the catalyst) and n- 
+dodecene-1 as the olefinic base material. Dihexyl- 
+benzene was alkylated with n-hexene and A1C13 as 
+the catalyst. 
+During alkylation, isomerization of the olefinie 
+double bond takes place so the resultant product con- 
+sists of a mixture of position isomers. The alkyl chain 
+can be introduced at any position (ortho, para, or 
+recta) with regard to the substituent already present. 
+It is known that, under mild conditions, the entering 
+group tends to become oriented in the ortho or para 
+positions whereas under severe alkylation conditions 
+meta-substitution predominates. In this study the 
+ratio of ortho, recta, and para-substitution was not 
+determined, but it may be assumed that all types 
+were present. The alkylate was sulfonated with oleum 
+that contained 20% SOy If the position is free, 
+mainly para-substitution will occur. Obviously the 
+ultimate product is a complicated mixture of position 
+isomers. 
+Results 
+Experimental results (Figure 1 and Table I) were 
+evaluated on three points: adaptation time, 1 hard 
+residue, and rate of degradation. The products 
+showed large differences in adaptation time and hard 
+residue; with a few exceptions the differences in 
+biodegradation rate were small. 
+Adaptation time varied from less than one day 
+for lauryl alcohol sulfate to 20 days for dodecyl-m- 
+xylene sulfonate. Intermediate values, ranging from 
+10 to 14 days, were observed for dodecylethylbenzene 
+sulfonate, dodecyl-o-xylene sulfonate, dodecylphenol 
+sulfonate, and dihcxylbenzene sulfonate. Lower 
+values, between two and ten days, were found for 
+dodecylbenzene sulfonate, linear alkylbenzene sul- 
+fonate, dodecyl-p-xylene sulfonate, and branched 
+alkylbenzene sulfonate. Dodecylthiophene sulfonate 
+had an adaptation time of about two days. 
+The amounts of hard residue found were between 
+zero and 80%. The best products in this respect were 
+lauryl alcohol sulfate, dodecytbenzene sulfonate, and 
+linear alkylbenzene sulfonate (hard residue zero), 
+closely followed by dodeeylthiophene sulfonate. Some- 
+what harder (approximately 10% residue) were 
+dodecyl-p-xylene sulfonate and dodecylphenol sul- 
+fonate. A 40% level was found for dodecyl-o-xylene 
+sulfonate, dodccylethylbenzene sulfonate, and heavily 
+branched alkylbenzene sulfonate; dihexylbenzene sul- 
+fonate and dodecyl-m-xylene sulfonate showed up 
+even worse. 
+The rate of biodegradation of the branched alkyl- 
+benzene sulfonate and dihexylbenzene sulfonate was 
+low; the highest rate was found for lauryl alcohol 
+sulfate and dodecylthiophene sulfonate. In all other 
+1 The adaptation period was assumed to be terminated when 10~ 
+of the detergent had degraded. 
+
+MAY, 1967 BORSTLAP AND KORTLAND: SUBSTITUENTS IN ALKYLARYL SULFONATES 297 
+cases degradation was somewhat slower than in the 
+latter two products but much faster than in the two 
+former ones. 
+REFERENCES 
+1. Hammerton, C, J. Applied Chem. (London) 5, 517 (1955). 
+2. Huyser, H. W., Third International Congress of Surface Activity, 
+Lectures, 3, 295 (~ainz: Universitiltsdruekerei, 1961). 
+3. Burnop, Y. C. E., et aL, Centre Belge d'Etude et de Documenta- 
+tion des Eaux 4, 262 (1960). 
+4. Swisher, R. D., J. Water Pollution Control Federation 35, 877 
+(1963). 
+5. Swisher, R. D., JAOCS 40, 648 (1963). 
+6. "Official German test," Bundesgesetzblatt I, p. 1653 (September 
+5, 1961). 7. "Continuous Activated Sludge Test," Sewage and Ind. Wastes 
+gtS, 492 (1956). 
+8. "Semicontinuous Activated Sludge Test," developed by Biodegrada~ 
+tion Committee of the Soap and Detergent Association of the USA, 
+JAOCS 4~, 986 (1965). 
+9. "River Die-away Test," J. Applied Chem. (London) 5, 517 
+(1955). 
+10. "Shake Flask Test," developed by Biodegradation Committee 
+of the Soap and Detergent Association of the USA, JAOCS 42, 986 
+(1965). 
+1L Fischer, W. K., Fette, Seifen, Anstrichmittel 1, 37 (1963). 
+12. Borstlap, C., and P. L. Kooijman, JAOCS 2, 78 (1963). 
+13. Longwell, J., and W. D. Maniece, Analyst 80, 167 (1955). 
+14. Slack, J. G., Analyst 84, 193 (1959). 
+15. Borsttap, C., paper presented at the Fourth International 
+Congress of Surface Activity. 
+[Received October 26, 1966] 
+

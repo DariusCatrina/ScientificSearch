@@ -1,0 +1,269 @@
+Free radical degradation of guar gum
+T. Thimma Reddy, Shekharam Tammishetti )
+Organic Coatings and Polymers Division, Indian Institute of Chemical Technology,
+Tarnaka, Hyderabad Andhra Pradesh 500 007, India
+Received 6 April 2004; received in revised form 25 May 2004; accepted 31 May 2004
+Abstract
+Thermal as well as microwave mediated free radical degradation of Guar gum in to lower molecular weight fragments was
+studied. Swollen suspensions of guar ﬂour, containing either potassium persulphate or hydrogen peroxide, in aqueous isopropyl
+alcohol were heated to eﬀect depolymerisation. From the intrinsic viscosity of the resulting products, molecular weight was
+calculated using the Mark-Houwink equation. It was shown that both hydrogen peroxide and potassium persulphate degrade guargum in a concentration dependent manner and persulphate appeared to reduce molecular weight more eﬀectively than hydrogenperoxide. Microwave heating also promoted the degradation of guar gum and was much faster than conventional thermal reactions.
+Thus prepared lower molecular weight guars are also shown to have better ﬁlm forming properties.
+/C2112004 Elsevier Ltd. All rights reserved.
+Keywords: Guar gum; Degradation; Microwave radiation; Free radical
+1. Introduction
+Guar gum is a polygalactomannan obtained from the
+seeds of a leguminaceae plant, Cyamopsis tetragonalobus ,
+grown mainly in north western India and Pakistan. It is
+a water soluble polysaccharide and because of its lowcost and excellent viscosifying properties, it and itsderivatives are extensively used in industrial applicationsincluding food [1], oil recovery [2], personal care [3], etc.
+Structurally it has a back bone of b-1,4-linked mannose
+units with a-1,6-linked galactose units attached as side
+chains to almost every alternate mannose unit ( Fig. 1 ).
+One of the main uses of guar gum is in food industry
+where its bulking, stabilizing and water binding prop-erties are exploited [4]. It is also used in dietary
+supplements as an indigestible sugar in obesity treat-ment. Another very important industrial use of guargum is as a hydraulic fracturing ﬂuid in oil and gasrecovery [5,6]. In these and other applications guar gumneeds to be degraded in a controlled manner in to lower
+molecular weight fractions.
+Depolymerisation of polysaccharides has been widely
+studied [7]. Though acid [8]and enzymatic hydrolysis
+[9,10] are most common, other methods such as g-
+irradiation, extrusion [11,12] , ultrasonication [13]and
+free radical degradation [14,15] are also reported. Acid
+and enzymatic degradation of guar gum itself was in-vestigated [16]. In practice it is often diﬃcult to make large
+quantities of depolymerised macromolecules with con-trolled degradation. In this study we report thermal andmicrowave mediated free radical degradation of guar
+gum.
+2. Experimental
+Guar gum used was of commercial grade (S.D.
+Finechem, Mumbai, India). Potassium persulphate(KPS), Hydrogen peroxide, methanol and isopropanol(all S.D. Finechem, Mumbai, India) were used asreceived. Peroxy content of hydrogen peroxide wasdetermined to be 55%.
+)Corresponding author. Tel./fax: C91-40-2717-3991.
+E-mail address: shekharam@iict.res.in (S. Tammishetti).
+0141-3910/$ - see front matter /C2112004 Elsevier Ltd. All rights reserved.
+doi:10.1016/j.polymdegradstab.2004.05.017Polymer Degradation and Stability 86 (2004) 455 e459
+www.elsevier.com/locate/polydegstab
+
+2.1. Thermal degradation of guar gum
+In a typical experiment 20 g of puriﬁed guar gum was
+dispersed in 200 ml of isopropanol in a 500 ml roundbottomed ﬂask. While stirring the suspension witha magnetic bead, 40 ml of distilled water containingrequired amount of either potassium persulphate orhydrogen peroxide was added slowly. This freely stirringsuspension was heated to 100 (C and kept at that
+temperature for diﬀerent times. The reaction mixture
+was then allowed to cool to room temperature and
+ﬁltered. The ﬁltrate was washed successively with 30%aq. Methanol, methanol and dried in an air-circulatingoven at 60 (C until constant weight.
+2.2. Microwave degradation
+A total of 100 g of guar gum was added to 200 ml
+distilled water containing 1 g of potassium persulphateinitiator and kneaded well. It was then ground in akitchen mixer cum grinder in to a ﬂuﬀy, soft sponge like
+material. Roughly 10 g of this material was then taken in
+a cylindrical vial made of Teﬂon and subjected tomicrowave radiation in Ethos-1600 machine at 100 (C.
+Power settings and time were the variables experimentedto control the degradation. The products were washedsuccessively with 30% methanol and methanol. Dried inan air-circulating oven at 60 (C until constant weight.
+2.3. Molecular weight determination
+Molecular weights of various depolymerised guar
+gum compounds were determined from their intrinsicviscosity values and its relation to molecular weight via
+Mark Houwink equation as reported earlier [17]. Brieﬂy,
+using a Ubbelohde capillary viscometer the relativeviscosity ( h
+r) was measured ( hryT/T0, where Tis the
+solution ﬂow time and T0is solvent ﬂow time). From
+this the speciﬁc viscosity was calculated ( hspZhr/C2551).
+Intrinsic viscosity ( h) is normally determined by
+measuring reduced viscosity hred(Zhsp/C) at various
+concentrations in dilute solution and extrapolating
+to concentration CZ0. The concentration depen-
+dence is often expressed in terms of the followingrelationship.
+h
+sp=C¼½h/C138CK½h/C1382C
+where Kis known as Huggins constant. For ﬂexible
+polymer molecules in good solvents Kis often near to
+0.35, although somewhat higher values occur in poorsolvents. In the present work, a value of 0.35 wasadopted in the above equation to calculate intrinsicviscosity by measuring speciﬁc viscosity in dilutesolutions
+½h/C138¼½ ð 1C1:4h
+spÞ1=2/C2551/C138=0:7C
+From the intrinsic viscosity, the viscosity-average
+molecular weight ( Mv) was estimated by using the Mark
+Houwink equation,
+½h/C138¼kMa
+v
+with aZ0.732 and kZ3.8!10/C2554[18].
+2.4. Tensile strength
+Tensile strength and elongation at break of native and
+depolymerised guar gum, using 0.5, 1, 2, 3% KPS, were
+studied from dried rectangular ﬁlms (0.08 mm !1c m!
+5 cm) using Universal Testing Machine (Shimadzu,Japan, AGS-10 KNG).
+3. Results and discussion
+Guar gum is a high molecular weight seed gum. It
+forms colloidal solutions, even in cold water, andimparts very high viscosities. Because of this and itswater binding capacity, it is used in such wide rangingapplications such as food, textile, medicine and oil
+exploration. In certain applications where bulking is
+needed it is necessary to depolymerise guar gum. Oneemerging area of application for polysaccharides is theiruse as solvent soluble polyols in coatings applications.For this purpose we needed a simple method to degradeguar gum in to smaller fragments so that they can befurther modiﬁed to achieve solvent solubility. Herein wepresent results of our work on free radical mediated
+degradation of guar gum.O
+O
+O
+OOOH OH
+HO
+HO
+O
+HO
+OHHOOH
+OH
+Fig. 1. Chemical structure of guar gum.456 T.T. Reddy, S. Tammishetti / Polymer Degradation and Stability 86 (2004) 455 e459
+3.1. Thermal degradation of guar gum
+Guar gum was subjected to free radical degradation
+using potassium persulfate and hydrogen peroxide. Theeﬀect of these reagents, their stoichiometry, time ofreaction on speciﬁc and intrinsic viscosity of guar gum ispresented in Table 1 . As can be seen, both the reagents
+smoothly degraded guar gum in a concentration de-pendent manner. Potassium persulphate appeared todegrade guar better than hydrogen peroxide as evi-
+denced by fall in h
+sp. The extent of degradation
+depended more on the concentration of the radical
+generator rather than time. Viscosity average molecular
+weight of diﬀerent guar macromers prepared wascalculated using Mark Houwink equation and resultsare plotted in Fig. 2 . As is evident it was possible to
+prepare a wide M
+vrange of guar gum using potassium
+persulphate and hydrogen peroxide.
+3.2. Microwave degradation
+Microwave heating is the ﬁrst new heating technique
+since the discovery of ﬁre [19]. This heating is based on
+the ability of some materials to convert electromagneticenergy in to heat and it has revolutionised cooking andchemistry [20,21] . The main advantages of using micro-
+waves for heating in chemistry are better yields, shorterreaction times, reduction of by-products and thermaldecomposition. In polymer chemistry several papersdescribing polycondensation [22], resin curing [23,24] ,
+graft copolymerisation [25]have appeared. We investi-
+gated the microwave heating for the free radical degra-dation of guar and the results are presented in Table 2 .
+As can be seen, microwave heating also degraded
+guar gum and it did so at a very rapid pace. Thus it wasTable 1
+Thermal degradation of guar gum
+S.No Reagent Reagent
+concentration
+(%)Time
+(h)hsp [h] Molecular
+weight
+!10/C2556
+e Native guar e 1.29 13.77 1.70
+1H 2O2 1 1 0.95 10.75 1.21
+2H 2O2 1 2 0.92 10.43 1.16
+3H 2O2 1 3 0.90 10.32 1.14
+4H 2O2 2 1 0.86 9.87 1.07
+5H 2O2 2 2 0.83 9.61 1.03
+6H 2O2 2 3 0.79 9.20 0.97
+7H 2O2 3 1 0.78 9.06 0.96
+8H 2O2 3 2 0.75 8.83 0.92
+9H 2O2 3 3 0.67 7.95 0.80
+10 KPS 0.5 1 0.63 7.58 0.75
+11 KPS 0.5 2 0.59 7.15 0.6912 KPS 0.5 3 0.56 6.85 0.6513 KPS 1 1 0.39 5.01 0.42
+14 KPS 1 2 0.38 4.86 0.41
+15 KPS 1 3 0.37 4.72 0.3916 KPS 2 1 0.20 2.71 0.1817 KPS 2 2 0.19 2.59 0.17
+18 KPS 2 3 0.18 2.46 0.16
+19 KPS 3 1 0.10 1.31 0.0720 KPS 3 2 0.09 1.28 0.07
+21 KPS 3 3 0.08 1.16 0.06
+1.80E+061.60E+061.40E+061.20E+061.00E+068.00E+056.00E+054.00E+052.00E+050.00E+00
+Native Guar
+1% H2O2
+2 % H2O23 % H2O2
+0.5% KPS
+1 % KPS2 % KPS
+3 % KPS
+Microwave, 200WMicrowave, 400WMicrowave, 600WMicrowave, 800WMolecular Weight
+Fig. 2. Eﬀect of reagent and its concentration on the molecular weight
+of guar gum. Microwave reactions were run for 5 min with 1% KPS
+and others for 1 h at 100 (C.Table 2
+Eﬀect of microwave heating on guar gum
+S.No Power
+level
+(W)Time
+(min)2% solution
+viscosity
+(cps)hsp [h] Molecular
+weight
+!10/C2556
+Native
+guare >25,000a1.29 13.77 1.69
+1 200 5 3750 0.57 6.92 0.66
+2 200 10 1100 0.36 4.67 0.39
+3 200 15 950 0.34 4.35 0.354 400 5 2000 0.45 5.60 0.505 400 10 900 0.36 4.58 0.38
+6 400 15 900 0.36 4.19 0.33
+7 600 5 1450 0.41 5.22 0.458 600 10 1000 0.39 5.00 0.42
+9 600 15 900 0.36 4.67 0.39
+10 800 5 900 0.35 4.48 0.3611 800 10 900 0.33 4.32 0.3512 800 15 850 0.32 4.20 0.33
+All reactions were done using 1% KPS at 100 (C.
+aWith 2 h hydration.
+Table 3
+Tensile strength and % elongation at break of guar gum and thermally
+degraded guar gum
+Sample Maximum stress
+(N/mm2)Elongation
+at break (%) EB
+Guar 20 0.66
+0.5% KPS 36 1.441% KPS 39 1.39
+2% KPS 40 1.52
+3% KPS 46 1.84457 T.T. Reddy, S. Tammishetti / Polymer Degradation and Stability 86 (2004) 455 e459
+shown that guar gum can be degraded with free radical
+generators like potassium persulphate and hydrogenperoxide in a concentration dependent manner by boththermal as well as microwave heating.
+3.3. Tensile strength
+Guar, because of it’s very high molecular weight,
+forms colloidal solutions. Hence ﬁlms obtained from itssolutions are brittle [26]. For certain applications like
+coatings it is desirable to have true solutions and better
+ﬁlm forming properties. Tensile strength and elongationat break (%) EB of the ﬁlms prepared from aqueous
+solutions of pure guar and depolymerised guar are showninTable 3 . It can be seen that degradation improved the
+tensile strength as well as elongation at break values. Thusdepolymerised guar gum, with high water solubility, lowviscosity and better ﬁlm forming properties, should beuseful in surface coating formulations.
+3.4. IR spectral analysis
+To compare the chemical structural identities of guar
+and degraded guar, we have recorded Infrared spectra.
+400066.5 70.5 74.5 78.5 82.5 86.5 90.53600a
+b
+3200
+WAVENUMBER% TRANSMITTANCE
+2800 2400 2000 1600 1200 800 400
+Fig. 3. FTIR spectra of: (a) native guar; and (b) degraded guar ( Table 1 entry 17).
+0
+1020
+3040
+50
+60
+70
+80
+90
+1000 200 400 600
+Temperature% ConversionNative Guar
+Guar degraded with
+1% KPS
+Guar degraded with3% KPS
+Fig. 4. TGA of guar gum and thermally degraded guar gums.458 T.T. Reddy, S. Tammishetti / Polymer Degradation and Stability 86 (2004) 455 e459
+As can be seen from Fig. 3 , the degraded guar has
+a spectrum superimposable over that of native guar.This suggests that there are no major functional grouptransformations during this reaction and only randomfree radical chain scission might have taken place duringthese transformations.
+3.5. Thermogravimetric analysis
+Thermogravimetric analyses, in air, of native and
+thermally degraded guar gum, using 1 and 2%
+potassium persulphate, are depicted in Fig. 4 . The %
+conversion vs. temperature curves of all these polymersare almost identical. This also suggests that there is nomajor change in chemical structure of these polymersand during free radical depolymerisation no crosslinkinghas taken place.
+4. Conclusions
+It was shown that guar gum can be degraded in to
+lower molecular weight fragments using free radicalgenerators like potassium persulphate and hydrogenperoxide. Though both thermal energy and microwavescould eﬀect depolymerisation, the latter did so at a morerapid rate than the former.
+Acknowledgements
+Authors thank Dr P. Sai Prasad, I&PC Division,
+IICT for providing microwave facility. TRT thanksCSIR, New Delhi for fellowship.References
+[1] Fox JE. In: Imeson A, editor. Thickening and Gelling Agents for
+Food. 2nd ed. New York: Blackie Academic Professional; 1997.p. 262.
+[2] Prodhomme RK, Constein V, Knoll S. Advances in Chemistry
+Series, 89. Washington, DC: ACS Publishers; 1989.
+[3] Brode GL, Goddard ED, Harris WC, Salansky GA. In: Gebelein
+CG, Cheng TC, Yang VC, editors. Cosmatic and Pharmaceutical
+Applications of Polymers. New York: Plenum Press; 1991. p. 117.
+[4] Chiu CW, Henley MJ, Zallie JP, Jeﬀcoat R. Bulking agents and
+processes for preparing them from food gums, United StatesPatent No. 6,229,924, 2001 issued to National Starch and
+Chemical Investment Holding Corporation (Wilmington, DE).
+[5] Tayal A, Kelly RM, Khan SA. Macromolecules 1999;32:294.[6] Cheng Y, Prudhomme RK. Biomacromolecules 2000;1:782.
+[7] Rollis J. Carbohydrate Polym 1985;5:37.
+[8] Alsop RM. Progress in industrial microbiology. In: Bushell ME,
+editor. Microbial Polysaccharides. Amsterdam: Elsevier; 1993.p. 18.
+[9] Cote GL. Carbohydrate Polym 1992;19:249.
+[10] Tsuchiya HM, Hellman NN, Koepsell HJ, Corman J, Stringer CS,
+Rogovin SP, et al. J Am Chem Soc 1955;77:2412.
+[11] Lai LS, Kokini JL. Biotechnol Prog 1991;7:251.
+[12] Willet JL, Millard MM, Jasberg BK. Polymer 1997;38:5983.
+[13] Szu SC, Zon G, Schneerson R, Robbins JB. Carbohydrate Res
+1986;152:7.
+[14] Ofman D, Slim GC, Watt DK, Yorke SC. Carbohydrate Polym
+1997;33:47.
+[15] Hsu SC, Don TM, Chiu WY. Polym Degrad Stab 2002;75:73.[16] Cheng Y, Brown KM, Prudhomme RK. Int J Biol Macromol
+2002;10:47.
+[17] Wang Q, Ellis PR, Ross-Murphy SB. Food Hydrocolloids 2000;
+14:129.
+[18] Robinson G, Ross-Murphy SB, Morris ER. Carbohydrate Res
+1982;107:17.
+[19] Zlotorzynski A. Crit Rev Anal Chem 1995;25:43.[20] Abramovitch RA. Org Prep Proceed Int 1991;23:685.[21] Loupy A, Petit A, Hamelin J, Texier-Boullet F, Jacquault P,
+Mathe D. Synthesis 1998;9:1213.
+[22] Imai Y, Nemoto H, Watanabe S, Kakimoto M. Polym J 1996;28:
+256.
+[23] Mijovic J, Wijaya J. Polym Compos 1990;11:184.
+[24] Boey FYC, Yap BH, Chia L. Polym Test 1999;18:93.[25] Xu WL, Bao JJ, Zhang JC, Shi MW. J Appl Polym Sci 1998;70:
+2343.
+[26] Baveja JM, Misra AN. Pharmazie 1999;54:678.459 T.T. Reddy, S. Tammishetti / Polymer Degradation and Stability 86 (2004) 455 e459

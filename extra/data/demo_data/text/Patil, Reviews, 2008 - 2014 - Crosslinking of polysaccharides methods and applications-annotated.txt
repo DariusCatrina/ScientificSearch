@@ -1,0 +1,433 @@
+See discussions, st ats, and author pr ofiles f or this public ation at : https://www .researchgate.ne t/public ation/26575724
+Crosslinking Of Polysaccharides: Methods And Applications
+Article    in  Pharmac eutic al R eviews · Januar y 2008
+Sour ce: DO AJ
+CITATIONS
+16READS
+11,635
+2 author s:
+Some o f the author s of this public ation ar e also w orking on these r elat ed pr ojects:
+survey on antic ancer drugs  View pr oject
+Emulg el View pr oject
+Sachink umar V asantr ao P atil
+Ashokr ao Mane Colle ge of Pharmac y Pethvadg aon K olhapur MS India
+52 PUBLICA TIONS    392 CITATIONS    
+SEE PROFILE
+Jadg e Dhanr aj
+Womens Colle ge of Pharmac y
+13 PUBLICA TIONS    149 CITATIONS    
+SEE PROFILE
+All c ontent f ollo wing this p age was uplo aded b y Sachink umar V asantr ao P atil on 05 June 2014.
+The user has r equest ed enhanc ement of the do wnlo aded file.
+Crosslinking Of Polysaccharides: Methods And Applications
+By -04/30/2008 in 
+Latest Reviews
+Vol. 6 Issue 2
+2008
+Sachin Patil 
+Polysaccharides are polymers of simple sugar building blocks. Crosslinked polysaccharides are 
+having many applicat ions in pharmaceuticals. Different methods are available for crosslinking of 
+polysaccharides. Different chemical and physical methods are summarized and discussed. 
+Chemical crosslinking of polysaccharide is highly versatile method with good mechanical stab ility. 
+However, the crosslinking agents used are not only affects the integrity of substances but are often 
+toxic compounds, which have been extracted from gel before they can be applied. Such adverse 
+effects are avoided with the use of physically crosslin ked gels. 
+Introduction
+Polysaccharides are polymers of simple sugar building blocks. Polysaccharides functions as 
+thickeners, stabilizers, suspending agents, gelling agents, film formers, aerating agents, flocculants, 
+binders, emulsifiers, lubricants, texturing agents and structuring agents1,2. Polysaccharides are 
+primarily used to thicken or gel water and are frequently classified into two groups thickeners and 
+gelling agents3.Gelling agents are more difficult to use than thickeners and their use is c omplicated 
+by the fact each requires its own set of procedure to produce satisfactory gel4. Thus polysaccharides 
+are hydrated in an aqueous environment thereby creating the gel structure called hydrogel. Aqueous 
+solutions of hydrophilic polymers at low or moderate concentrations, where no substantial 
+entanglement of chains occurs, normally show Newtonian behavior. On the other hand, once 
+crosslinking between different polymer chains are introduced, the so obtained network shows 
+visco -elastic and sometimes p ure elastic behavior. As the term implies, crosslinks have to be 
+present to avoid dissolution of hydrophilic polymer chains into aqueous phase5-13. A great variety of 
+methods for crosslinking has indeed been used. Since it is advantageous for many applicat ions that 
+the hydrogels are biodegradable, labile bonds are frequently introduced in the gel. These bonds can 
+be present either in polymer backbone or in the crosslinks used to prepare gel. The labile bonds can 
+be broken under physiological conditions eith er enzymatically or chemically; in most of cases by 
+hydrolysis13. Crosslinked polysaccharides were used for coating and/or embedding medicinal active 
+substances or drug compositions. The invention furthermore relates to a drug which contains an 
+active subs tance which acts in the large intestine or an active substance which is broken down on 
+passing through the stomach or small intestine could be coated with or embedded in one of the 
+crosslinked polysaccharides14. In this review methods of crosslinking of po lysaccharides are 
+described and discussed. Chemical and physical methods are used for crosslinking of 
+polysaccharides. In physical crosslinking dissolution is prevented by physical interaction which 
+exists between different polymer chains. In chemical cros slinking covalent bonds are present 
+between different polymer chains. 
+
+Physical crosslinking: 
+In recent years there has been increase in interest in physical crosslinking. The main reason is that 
+use of crosslinking agents is avoided. These agents cannot only affect the integrity of substances to 
+be entrapped e.g. proteins, cells, but these agents are often toxic compounds which have to be 
+removed or extracted from the gel before they can be applied. In physical crosslinking, 
+polysaccharides forms crosslin ked network with counterion at the surface. High counterion 
+concentration would require longer exposure times to achieve complete crosslinking of the 
+polysaccharides. For physical crosslinking different methods have been investigated. Crosslinking 
+by ionic interaction: Alginate is a well -known example of polysaccharide that can be crosslinked by 
+ionic interactions. Alginate is a polysaccharide with mannuronic and glucuronic acid residues can 
+be crosslinked by calcium ions15. Crosslinking can be carried out at room temperature and 
+physiological pH. Therefore alginates gels can be frequently used as matrix for the encapsulation of 
+living cells16and for the release of proteins17. The release of proteins from the alginate 
+microparticles obtained by spraying a s olution of sodium alginate into an aqueous solution of 
+calcium chloride can be modulated by coating the particles with cationic polysaccharide for 
+example chitosan18,19. Polycations can be crosslinked by anions. Chitosan is an amino -
+polysaccharide obtained by alkali induced deacetylation of chitin. Chitosan based hydrogels were 
+obtained by croslinking with glycerol -phosphate disodium salt20. Interestingly, in presence of this 
+salt, chitosan solution remains liquid below room temperature, but quickly gel whe n heated. 
+Biological materials, proteins and chondrocytes, were incorporated prior to the injection within the 
+thermogelling solution.20Carrageenan a polysaccharide composed of 1,4 -linked -α-D-galactose and 
+1, 3 linked -β-D-galactose with a variable portion of sulfate groups, forms a gel with potassium ions, 
+but also shows gelation under salt -free conditions. However, gels prepared in the presence of 
+metallic ions were substantially stronger than those obtained under salt -free conditions21. Ionically 
+crossli nked chitosan hydrogels are formed by complex formation between chitosan and polyanions, 
+such as dextran sulfate or polyphosphoric acids22
+.Doxorubicin was encapsulated in nanoparticl esof 
+the chitosan hydrogels. This particle showed a minimal burst release and retained good in vitro 
+cytotoxicity due to released drugs. Alginate was ionically crosslinked by immersing in aqueous 
+solution of calcium acetate of different molarities at time . Permeability of acetaminophen in 
+hydrated calcium alginate film was studied. Permeability depends upon the concentration of 
+calcium acetate solution and immersion time. The highest limiting permeability was observed in 
+film prepared using the highest con centration of calcium acetate for greater time. It is suggested 
+that this is result of rapid croslinking of sodium alginate at the surface which in turn shows the 
+diffusion of calcium ions into the film23. Gellan gum is a linear anionic polysaccharide prod uced by 
+the microorganism Pseudomonas elodea24. Hydrophilic drug, propranolol hydrochloride was 
+encapsulated in gellan gum beads in an aqueous environment by the ionotropic gelation method. 
+Optimal preparation conditions allowed a very high incorporation efficiency (92%). Storage 
+conditions (wet or dry state) and the time of storage did not modify the release of the drug25
+.Cross -
+linked calcium -gellan beads containing diclofenac sodium as model drug, using full 33factorial 
+design were prepared. Drug quantity, pH of cross -linking solution, and speed of agitation were 
+selected as variables for factorial design. Studies indicate that, in addition to drug:polymer ratio, pH 
+of cross -linking solution and speed of agitation also influence the formation and properties of 
+calcium -gellan beads26. Thus ionotropic gelation with gellan gum seems to offer new opportunities 
+in the field of bioencapsulation and could be useful for the encapsulation of fragile drugs. Also 
+crosslinked chitosan and alginat e films are promising for control led drug delivery applications. 
+Crosslinking by crystallization: Poly (vinyl alcohol) (PVA) is a water soluble polymer. When 
+aqueous solutions of PVA are stored at room temperature they gradually form a gel with, however, 
+alow mechanical strength. Interestingly, once aqueous solution of this polymer undergoes freeze -
+thawing process a strong and highly elastic gel is formed27. Addition of alginate to the PVA 
+solution before freeze -thawing, the gel properties could be modulat ed. With increase in 
+concentration of alginate, the mechanical strength of gel increased which was associated with a 
+decrease in release of model drug28. Hydrophobised polysaccharides: Examples of polysaccharides 
+reported in literature used for preparation of physically crosslinked hydrogels by hydrophobic 
+modification are chitosan, dextran, pullulan and carboxy methyl curdlan29-35. This compound forms 
+monodisperse hydrogel nanoparticle of 20 -30 nm with high water content upon dialyzing a solution 
+from DMSO against PBS buffer. Various proteins such as α chymotrypsin, BSA and insulin have 
+been incorporated. As example, the hydrophobic antitumour drug adriamicin (ADR) was taken up 
+inside the particles by simply mixing the pullulan suspension with ADR31. Slow r elease was 
+observed at pH 7.4, which increases at lower pH of the medium due to increased solubility of drug. 
+The stability of the drug was increased, however due to poor cellular uptake of the complexes and / 
+or slow release of ADR, the invitro cytotoxici ty against HeLa cells appeared rather low. Rapid 
+complexation was also observed for insulin approximately 10 molecules of insulin were taken up 
+inside the pullulan particles within 10 minutes after mixing32. The resulting microenvironment 
+protected the pro tein effectively against the thermal denaturation aggregation and enzymatic 
+degradation. Dissociation of insulin occurred on addition of BSA, which may provide a basis for 
+invitro release of the insulin. Indeed the in vivo activity of insulin loaded nanoparticles was similar 
+to that free insulin after i.v. injection. By covalent attachment of lactoside or galactoside to the 
+pullulan backbone, nanoparticles were obtained which show bind ing to the receptor β -D-galactose -
+specific lectin RCA 120, which provides a possibility for a cell -specific targeting. In vitro they were 
+more effectively internalized than conventional nanoparticles by cells expressing galactose -specific 
+receptors such as rat hepatocytes and HepG2 cells, in contrast to cells which lack such receptors33. 
+Moreover, biodistribution studies showed enhanced accumulation in the liver. Self assembled 
+hydrogels nanoparticles have also been prepared from carboxy methyl curdlan, a po lysaccharide 
+having anti -tumor activity, by substitution with a hydrophobic sulfonyl urea35. Release of the anti -
+cancer drug all -trans retinoic acid from these nanoparticles showed first order kinetics. An 
+increased drug -loading and degree of hydrophobic m odification resulted in a slower release. Upon 
+conjugation of lactobionic acid to the CM -curdlan, specific binding to HepG2 cells was observed in 
+vitro. Another example of a hydrophobized polysaccharide is the water soluble glycol chitosan 
+substituted with palmitoyl chains. They assemble into unilamellar polymeric vesicles in the 
+presence of cholesterol36. These polymeric vesicles are found to be biocompatible and 
+haemocompatible and capable of entrapping water -soluble drugs37. Highly porous solid materials
+are obtained after freeze drying, which are hydrated without swelling to 20 x its dry weight in 
+alkaline buffer38. In contrast to most chitosan based materials, the hydration decreased in acidic 
+environment, which was attributed to the higher erosion rate at low pH. Chitosan has been grafted 
+with PL(G) by Qu et. al., in which the hydrophobic polyester side chains are responsible for the 
+hydrophobic interactions in water39, 40. Reversible water uptake of the materials was observed when 
+the pH was switched b etween 2.2 and 7.4, the lowest pH providing the highest swelling due to 
+charge repulsion by protonation of the free amine groups on the polymer backbone. The maximum 
+water uptake in the protonation form depends on the glycolic acid / lactic acid content. O ther 
+chitosan hydrogels that respond to external charges like pH or temperature have been prepared by 
+grafting with poly(acrylic acids) (PAAc)41or poly( N-isopropylacrylamide) (PNIPAAm)42In 
+addition to chitosan, also carboxy methyl dextran has been grafte d with PNIPAAm chains aming at 
+thermosensitive hydrogels43. Cloud point measurements were conducted in this case, indicating a 
+phase transition at around 38°C, but no data on hydrogel characteristics have been reported yet. 
+Chemical crosslinking:
+Chemical crosslinking of polysaccharide is highly versatile method with good mechanical stability. 
+During crosslinking counterions diffused into the polymeric and crosslinking agent reacts with 
+polysaccharides forming either intermolecular or intramolecula r linkages. Factors which affect 
+chemical crosslinking are concentration of crosslinking agent and crosslinking time. The high 
+concentration of crosslinking agent induces rapid crosslinking. Like physical crosslinking high 
+counterion concentration would re quire longer exposure times to achieve complete crosslinking of 
+the polysaccharides44. Chemical crosslinking is carried out by following methods. 
+Crosslinking by radical polymerization: 
+Chemical crosslinking can be carried out by radical polymerization i n presence of crosslinking 
+agent. In particular dextran is used as building block for (degradable) hydrogels. Dextran is a 
+bacterial polysaccharide, consists essentially of -1,6 linked D -glucopyranose residues. The low 
+molecular weight fractions of dextran (Mw between 40 and 100 kDa) have been used as plasma 
+expander45 which has resulted in a good documentation of pharmacological activities and side 
+effects of dextran. Dextran has therefore been investigated for the delivery of drugs, proteins and 
+imaging a gents46. Moreover, due to presence of dextranase in colon, dextran based gels are under 
+investigation as a colon delivery system47. Research on polymerizable dextran was pioneered by 
+Edman et al.48who reacted dextran dissolved in water with glycidylacryla te. A hydrogel was 
+formed after the addition of an initiator system containing of NNNN tetramethylene -diamine and 
+ammonium peroxydisulfate to an aqueous solution of the acryldextran also containing NN 
+methylenebisacrylamide. Enzymes were immobilized with a lmost full retention of their activity by 
+an emulsion polymerization technique in microspheres of polyacryldextarn.48, 49. A method has 
+been developed to synthesize methacrylated dextran. Dextran is dissolved in a suitable aprotic 
+solvent (DMSO) after whic h derivatization with glycidylmethacrylate (GMA) catalyzed by 4 -(N-N-
+dimethyl amino) pyridine, is carried out. Almost quantitative incorporation of GMA was found and 
+the degree of substitution can be fully controlled. A detailed analysis by NMR50and by th e mass 
+spectroscopy of the products obtained after enzymatic degradation51revealed that under the 
+selected conditions the reaction of GMA and dextran was a transesterification resulting in a dextran 
+derivative with the methacyrlate group directly attached to the dextran chain. The synthetic 
+procedure developed was also suitable to derivatize other compounds with methacrylate groups, 
+among which are inulin52and sucrose53. Meth(acrylate) groups can also be introduced in water -
+soluble polymers using (meth)ac ryloyl chloride,54,55methacrylic anhydride,56and by the subsequent 
+reaction of dextran with bromoacetyl bromide and sodium acrylate57. Moreover, using enzymes as 
+catalyst, (meth) acrylic groups have been introduced in mono and disaccharides, which can be used 
+for synthesis of hydrogels58, 59, 60. The synthesis is carried out in anhydrous pyridine and products 
+are normally obtained in a high yield. In contrast to chemical methods, enzymatic synthesis results 
+in a very good regeoselectivity. A polymerizable dextran derivative was obtained by reaction of 
+dextran with maleic anhydride. These dextran derivatives can be converted into a hydrogel by UV -
+induced polymerization of the vinyl groups. The gels were not degradable under physiological 
+conditions. They di d, however, exhibit a strong pH dependant swelling behavior due to the 
+presence of carboxylic acid groups in the network61. In synthesis of methacrylated dextran 
+derivatives the polymerizable groups are connected via a) hydrolytically sensitive group(s) to a 
+dextran backbone. The hydrolysable groups are either a carbonated ester or lactic acid groups. After 
+polymerization these derivatives the gel degraded under physiological conditions due to the 
+presence of (carbonate) ester groups in the crosslinks, yiel ding dextran, lactic acid and short 
+fragments of Poly(2 hydroxy ethyl methacrylate) (pHEMA) as degradation products62. Chitosan 
+undergoes crosslinking by radical induced polymerization in presence of potassium persulfate at 
+60°C, leading to extensive crosslinking of fragmented chains on subsequent cooling at 4°C. As a 
+result a possible conformation change leading to higher crystallinity, as evidenced by IR, X -ray and 
+CNMRwas observed. Chitosan crosslinking leads to formation of permanently covalent ne twork, 
+which may allow the free diffusion of water/bioactive material and also enhance the mechanical 
+properties. Chemical crosslinks are formed by irreversible covalent links as in covalently 
+crosslinked chitosan. Thus allow drug delivery to be efficientl y controlled63. 
+Crosslinking by aldehyde: 
+In order to establish crosslinking, rather drastic conditions have to be applied (low pH, high 
+temperature etc.). This has especially been investigated for the preparation of crosslinked amine 
+containing polysaccharides64. Because glutaraldehyde is a toxic compound that even at low 
+concentration shows cell growth inhibition, alternatives has been developed. Crosslinking of gelatin 
+using polyaldehydes obtained by partial oxidation of dextr an has been reported65. These gels were 
+designed for application in wound treatment and epidermal growth factor (EGF) was incorporated 
+to promote wound healing. The release rate of EFC decreased with increase in storage time which 
+was ascribed to the ongoi ng processes of both chemical crosslinking and physical structuring of the 
+hydrogel matrix. Poly(aldehydeguloronate) obtained by oxidation with periodate of partially 
+depolymerized alginate, can be crosslinked with adipic acid dihydrazide and converted int o a 
+hydrogel. The swelling and degradation of the gel could be controlled by the amount of adipic acid 
+dihydrazide66. These hydrogel films have therefore potential to act as a delivery matrix for 
+sustained release of drug at wound sites67. The procedure fo r the preparation of crosslinked chitosan 
+microspheres coated with polysaccharides or lipid for intelligent drug delivery system is reported. 
+The microspheres were prepared with an inverse emulsion of 5 -FU or its derivative solution of 
+hydrochloric acid of chitosan in toluene containing SPAN 80. Chitosan was crosslinked with 
+Schiff’s salt formation by adding glutaraldehyde toluene solution. At the same time, the amino 
+derivatives of 5 -FU were immobilized, obviously resulting in an increase in the amount of drug 
+within the microspheres. The microspheres were coated with anionic polysaccharides (e. g. 
+carboxymethylchitin, etc.) through a polyion complex formation reaction. The results revealed that 
+the coating layers of microspheres were effective barriers to 5-FU release68. 
+Crosslinking by addition reaction:
+Polysaccharides can be crosslinked with 1,6 -hexa -methylenediisocyanate or 1,6 -hexanedibromide 
+and many other reagents. The network properties can be easily tailored by the concentration of the 
+dissolved p olysaccharide and the amount of crosslinking agent. The crosslinking reactions are 
+preferably carried out in organic solvents, because water can also react with the crosslinking agent. 
+Further, since the crosslinking agents are generally speaking very toxi c, the gels have to be 
+extracted extensively to remove traces of unreacted agents. Once these matrices are aimed for the 
+release of pharmaceutically active agent, they have to be loaded after the gel formation and 
+extraction process. This means that protei n molecules can be loaded in meshes of the gels which are 
+larger than the protein and these systems therefore show typically first -order release. This often 
+results in a limited duration of the release. Finally, between the polymer chains, linkages are 
+established which are stable. This means that degradation only occurs once the polymer backbone 
+is degraded by enzymes69, 70, 71. 
+Crosslinking by condensation reaction:
+A very efficient reagent to crosslink polysaccharides with amide bonds is NN-(3-
+dimethyla minopropyl) -N-ethyl carbodiimide. In order to obtain alginate gels with better mechanical 
+properties than the ionically crosslinked gels, Mooney et al. developed a method to a covalently 
+crosslink this polymer. Alginate and PEG -diamines were crosslinked us ing N-ethyl carbodiimide. 
+The mechanical properties could be controlled by the amount of PEG -diamine in the gel and 
+molecular weight of PEG72. 
+Characterization of crosslinked polysaccharides: 
+Characterization of crosslinked polysaccharides were done by i nfrared spectroscopy, X -ray 
+diffractometry, scanning electron microscopy and by water uptake methods44, 63. 
+References:
+1. R. L. Whistler, J. N. Bemiller, Industrial Gums, 3rdedition, academic press, Newyork, 1993. 
+2. M. Glickman, Origins and classification of hydrocolloids, Food Hydrocolloids, 3, CRC Press, 
+Boca Raton, Florida, 1982, 1, 3 -18. 
+3. D. A. Rees, The shape of molecules, Carbohydrates Polymers, 1967, 57. 
+4. P. A. Sanford, A. Laskin, Extra cellular microb ial polysaccharides -a critical review, American 
+Chemical Society, Washington, D. C., USA, 190 -210. 
+5. N.A. Peppas (Ed), Hydrogels in medicine and pharmacy, Vol. I, II, III, CRC Press, Boca Raton , 
+FL , 1986. 
+6. J. M. Rosiak, F. Yoshii, Hydrogels and thei r medical applications, Nucl. Instrum. Methods Phy. 
+Res. B, 1999, 151, 56 -64. 
+7. I. Y. Galaev, B. Mattiasson, Smart polymers and what they could do in biotechnology and 
+medicine, Trends Biotechnol., 1999, 17, 335 -340. 
+8. S.P. Baldwin, W. M. Saltzman, Mat erials for protein delivery in tissue engineering, Adv. Drug 
+Deliv. Rev ., 1998, 33, 71 -86. 
+9. W. R. Gombotz, D. K. Pettit, Biodegradable polymers for protein an d peptide drug delivery, 
+Bioconjug. Chem., 1995, 6, 332 -351. 
+10. N. A. Peppas, P. Bures, W. Leobandung, H. Ichikawa, Hydrogels in pharmaceutical 
+formulations, Eur. J. Pharm. Biopharm., 2000, 50, 27 -46. 
+11. N. A. peppas, Y. Huang, M. Torres -Lugo, J. H. w ard, J. Zhang, Physicochemical foundations 
+and structural design of hydrogels in medicine and biology, Annu. Rev. Biomed. Eng. , 2000, 2, 9 -
+29. 
+12. S. H. Gehrke, Synthesis and properties of hydrogels used for drug delivery, Drugs Pharm. Sci., 
+2000, 102, 4 73-546. 
+13. K. Park, W. S. W. Shalaby, H. Park (Eds), Biodegradable Hydrogels For Drug Delivery, 
+Technomic, Basle , 1993. 
+14. Bauer, Kurt Heinz, Betzing, Juergen. inventors; BASF Assignee, Crosslinked polysaccharides, 
+process for their preparation and th eir use. US patent 5688776.1997 Nov. 18. 
+15. P. Gacesa, Alginates, Carbohydr. Polym. 1988, 8, 161 -182. 
+16. M.F.A. Goosen, G.M. O’Shea, H. M. Gharapetian, S. Chou, A. M. Sun, Optimization of 
+microencapsulation parameters: semipermiable microcapsules as a bioartificial pancrease, 
+Biotechnol. Bioeng., 1985, 27, 146 -150. 
+17. W. R. Gombotz, S. F. Wee, Protein release from alginate matrices, Adv. Drug. Deliv. Rev., 
+1998, 31, 267 -285. 
+18. A. Polk, B. Amsden, K. DeYao, T. Peng, M. F. A. Goosen , Controlled release of albumin from 
+chitosan -alginate microcapsules, J. Pharm. Sci., 1994, 83, 178 -185. 
+19. L.S. Liu, S.Q. Liu, S.Y. Ng, M. Froix, T. Ohno, J. Heller, Controlled release of interleukin -2 for 
+tumour immunotherapy using alginate/Chitosan p orous microspheres, J. Controlled Release, 1997, 
+43, 65 -74. 
+20. A. Chenite, C.Chaput, D. Wang, C. Combes, M. D. buschmann, C. D. Hoemann, J. C. Leroux, 
+B. L/ Atkinson, F. Binette. A Selmani, Novel injectable neutral solutions of chitosan from 
+biodegradabl e gels in situ, Biomaterials, 2000, 21, 2155 -2161. 
+21. K. S. Hosain, K. Miyanaga, H. Maeda, N. Nemoto, Sol -gel transition behavior of pure 
+carrageenan in both salt free and added salt states, Biomacromolecules, 2001, 2, 42 -449. 
+22. K. A. Janes, M. P. Fre sneau, A. Marazuela, A. Fabra, M. J. Alonso, Chitosan nanoparticles as 
+delivery system for doxorubicin, J. Controlled Release, 2001, 73, 255 -267. 
+23. T. N. Julian, G. W. Radebaugh, S. J. Wisniewski, Permeability characteristics of calcium 
+alginate films, J. Controlled Release, 1988, 7, 165 -169.  
+24. K. S. Kang, G. T. Veeder, P. J. Mirrasoul, T. Kaneko, I. W. Cottrell, Agar -like polysaccharide 
+produced by Pseudomonas species: production and basic properties, Appl.Environ. Microbiol., 
+1982, 43, 1086 –1091.
+25. F. Kedzierewicz, C. Lombry, R. Rios, M. Hoffman, P. Maincent, Effect of the formulation on 
+the in -vitro release of propranolol from gellan beads, International Journal of Pharmaceutics, 1999, 
+178, 129 –136. 
+26. Sachin Patil, Sameer Sharma, Anagha Nim balkar and Atmaram Pawar, Study of formulation 
+variables on properties of drug -gellan beads by factorial design, Drug Development and Industrial 
+Pharmacy, 2006, 32, 315 –
+326.                                                                                                                    
+27. F. Yokoyama, I. Masada, K. Shimamura, T. Ikawa, K. Monobe, Morphology and structure of 
+highly elastic poly (vinyl alcohol) hydrogel prepared by repeated freezing -and-melting, Colloid. 
+polym. Sci., 1986, 264, 595 -601. 
+28. A. Takamura, F. Ishii, H. Hidaka, Drug release from poly (vinyl alcohol) gel prepared by 
+freeze -thaw procedure, J. Controlled Release, 1992, 20, 21 -27. 
+29. K. Akiyoshi, S. Deguchi, N. Moriguchi, S. Yamaguchi, J. Sunamoto, Self -aggregates of 
+hydropho bized polysaccharides in water –formation and characterization of nanoparticles, 
+Macromolecules, 1993, 26, 3062 -3068. 
+30. K. Akiyoshi, S. Deguchi, H. Tajima, T. Nshikawa, J. Sunamoto, Microscopic structure and 
+thermoresponsiveness of a hydrogel nanoparti cle by self assembly of a hydrophobized 
+polysaccharide, Macromolecules, 1997, 30, 857 -861. 
+31. K. Akiyoshi, I. tanuguchi, H. fukui, J. Sunamoto, Hydrogel nanoparticle formed by 
+hydrophobized polysaccharide. Stabilization of adriamycin by complexation, Eur . J. Pharm. 
+Biopharm., 1996, 42, 286 -290. 
+32. K. Akiyoshi, S. Kobayashi, S. Shichibe, D. Mix, M. Baudys, S. W. Kim, J. Sunamoto, Self 
+assembled hydrogel nanoparticle of cholesterol -bearing pullulan as a carrier of protein drugs: 
+Complexation and stabiliza tion of insulin, J. controlled release, 1998, 54, 313 -320. 
+33. K. Akiyoshi, I. tanuguchi, J. Sunamoto, Self -aggregate nanoparticles of cholesteryl and 
+galactoside groups -substituted pullulan and their specific binding to galactose specific lectin, 
+RCA120, Macromol. Chem. Phys., 1999, 200, 1555 -1560. 
+34. K. Akiyoshi, E. C. Kang, S. Kurumada, J. Sunamoto, Controlled association of amphiphilic 
+polymers in water: thermosensitive nanoparticles formed by self -assembly of hydrophobically 
+modified pullulans and p oly(N -iso-propylacrylamides), Macromolecules, 2000, 33, 3244 -3249. 
+35. K. Na, K. H. Park, S. W. Kim, Y. H. Bae, Self -assembled hydrogel nanoparticles from curdlan 
+derivatives: characterization, anticancer drug release and interaction with a hepatoma cell line 
+(HepG2), J. Controlled Release, 2000, 69, 225 -236. 
+36. I. F. Uchegbu, A. G. Schatzlein, L. Tetley, A. I. Gray, J. Sludden, S. Siddique, E. Mosha, 
+Polymeric chitosan based vesicles for drug delivery, J. Pharm. Pharmcol., 1998, 50, 453 -458. 
+37. J. Sl udden, I. F. Uchegbu, A. G. Schatzlein, The encapsulation of bleomycin within chitosan 
+based polymeric vesicles does not alter its biodistribution, J. Pharm. Pharmcol., 2000, 52, 377 -382. 
+38. L. Noble, A. I. Gray, L. Sadiq, I. F. Uchegbu, A non -covelently crosslinked chitosan based 
+hydrogel, Int. J. Phar., 1992, 192, 173 -182. 
+39. X. Qu, A. Wirsen, A. C. Albertsson, Structural change and swelling mechanism of pH sensitive 
+hydrogel based on chitosan and D,L,Lactic acid, J. Appl. Polym. Sci., 1999, 74, 3186 -3192. 
+40. X. Qu, A. Wirsen, A. C. Albertsson, Novel pH sensitive chitosan hydrogel swelling behavior 
+and states of water, Polymer, 2000, 41, 4589 -4598. 
+41. M. Yazdani -Pedram, J. Retuert, R. Quijada, Hydrogels based on modified chitosan, I -Synthesis 
+and swelling behavior of poly(acrylic acid) grafted chitosan, Macromol. Chem. Phys., 2000, 201, 
+923-930. 
+42. S. Y. Kim, S. M. Cho, Y. M. Lee, S. J. Kim, Thermo -and pH sensitive behavior of graft 
+copolymer and blend based on chitosan and N -isopropylacrylamide , J. Appl. Polym. Sci., 2000, 78, 
+1381 -1391. 
+43. K. M. Huh, J. Hashi, t. Ooya, N. Yuvi, Synthesis and characterization of dextran grafted with 
+poly-N-iso-propylacrylamide -co-N,N-dimethyl acrylamide, Macromol. Chem. Phys., 2000, 201, 
+613-619. 
+44. R. L. Ca rmen., B. Roland, Mechanical, water uptake and permeability properties of crosslinked 
+chitosan glutamate and alginate films. J. Controlled release, 1997, 44,215 -225. 
+45. L. Thoren, The dextran, clinical data, Dev. Biol. Stand., 1981, 48, 157 -167. 
+46. R. Mehvar, Dextran for targeted and sustained delivery of therapeutic and imaging agents, J. 
+Controlled release, 2000, 69, 1 -25. 
+47. H. Brondsted, C. Anderson, L. Hovgaard, Crosslinked dextran, a new capsule material for colon 
+targeting of drugs, J. Controll ed Release, 1998, 53, 7 -13. 
+48. P. Edman, B. Ekman, I. Sjoholm, Immobilization of proteins in microspheres of polydextran, J. 
+Pharm. Sci., 1980, 69, 838 -842. 
+49. I. P. Sjoholm, P. Edman, The use of biocompatible microparticles as carriers of enzymes and 
+drugs in vivo, in: S. S. Davies, L. Illum, J. G. Vie, E. Tomlinson (Eds.), Microspheres and drug 
+therapy. Pharmaceutical immunological and Medical Aspects, Elsevier, Amsterdam , 1984, 245 -
+262. 
+50. W. N. E. van Dijk -Wolthuis, J. J. Kettenes -van den Bosch, A. van der Kerk -van Hoof, W. E. 
+Hennik, Reaction of dextran with glycidyl methacrylate: an unexpected transesterification, 
+Macromolecules, 1997, 30, 3411 -3413. 
+51. O. Franssen, R. D. van Ooijen, D. de Boer, R. A. A. Maes, J. N. Herron, W. E. Hennik, 
+Enzym atic degradation of methacrylates dextrans, Macromolecules, 1997, 30, 7408 -7413. 
+52. B. Stubbe, B. Maris, G. van den Mooter, S. C. de Smedt, J. Demeester, The in vitro evaluation 
+of azo -containing polysaccharides gels for colon delivery, J. Controlled Rel ease, 2001, 75, 103 -
+114. 
+53. L. Ferreira, M. M. Vidal, C. F. G. C. Geraldes, M. H. Gil, Prepartion and characterization of 
+gels based on sucrose modified with glycidyl methacryalate, Carbohydr. Polym., 2000, 41, 15 -24. 
+54. E. Marsano, E. Bianchi, S. Gagl iardi, F. Ghioni, Hydroxy -propyl -cellulose derivatives: phase 
+behavior of hydroxyl -propylcellulose methacrlate, Polymer, 2000, 41, 533 -538. 
+55. L. K. Huang, R. C. Metha, P. P. DeLucca, Evaluation of a statistical model for formation of 
+poly(acryloyl hydro xyl-ethyl starch) microspheres, Pharm. Res., 1997, 14, 475 -482. 
+56. S. H. Kim, C. C. Chu, Synthesis and characterization of dextran -methacrylate hydrogels and 
+structural study by SEM, J. Biomed. Mater. Res., 2000, 49, 517 -527. 
+57. S. H. Kim, C. Y. Won, C . C. Chu, Synthesis and characterization of dextran -based hydrogel 
+prepared by photocrosslinking , Carbohydr. Polym., 1999, 40, 183 -190. 
+58. N. S. Patil, J. S. Dordick, D. G. rethwisch, Macroporous poly(sucrose acrylate) hydrogels for 
+controlled release o f macromolecules, Biomaterials, 1996, 17, 2343 -2350. 
+59. B. D. Martin, R. J. Linhardt, J. S. Dordick, Highly swelling hydrogels from ordered galactose -
+based polyacrylates, Biomaterials, 1998, 19, 69 -76. 
+60. N. S. Patil, Y. Li, D. G. rethwisch, J. S. Dord ick, Sucrose diacrylate: A unique chemically and 
+biologically degradable crosslinker for polymeric hydrogels. J. Polym. Sci., Part A Polym. Chem., 
+1997, 35, 2221 -2229. 
+61. S. H. Kim, C. Y. Won, C. C. Chu, Synthesis and characterization of dextran -maleic a cid based 
+hydrogel, J. Biomed. Mater. Res., 1999, 46, 160 -170. 
+62. W. N. E. van Dijk -Wolthuis, S. K. Y. Tsang, J. J. Kettenes -van den Bosch, W. E. hennink, A 
+new class of polymerizable dextrans with hydrolysable groups: hydroxyethyl methacryalated 
+dextran with and without oligolactate spacer, Polymer, 1997, 38, 6235 -6242. 
+63. V. Keelara Harish Prashant, N. Rudrapatnam tharanatham, Crosslinked chitosan -preparation 
+and characterization, Carbohydr. Res., 2006, 341, 169 -173. 
+64. S. R. Jameela, A. Jaykrishnan , Glutarldehyde crosslinked chitosan as a long acting 
+biodegradable drug delivery vehicle: studies on the in vitro release of mitoxantrone and in vivo 
+degradation of microspheres in rat muscle, Biomaterials, 1995, 16, 769 -775. 
+65. J. P. Draye, B. Delaey, A. van de Voorde, A. van den Bulcke, B. Bogdanov, E. Schacht, In vitro 
+release characteristics of bioactive molecules from dextran dialdehyde cross -linked gelatin 
+hydrogel films, Biomaterials, 1998, 19, 99 -107. 
+66. K. Y. lee, K. H. Bouhadir, D. J. Mooney, Degradation behavior of covalently crosslinked 
+Poly(aldehyde guluronate) hydrogels, Macromolecules, 2000, 33, 97 -101. 
+67. Y. Luo, R. K. Kirker, G. D. Prestwich, Crosslinked hyaluronic acid hydrogels films: new 
+biomaterials for drug delivery, J. Controlle d release, 2000, 69, 169 -184. 
+68. K. D. Yao, T. Peng, J. J. Yu, M. X. Xu, M. F. A. Goosen, Microcapsules /microspheres related 
+to chitosan, J. M. S. Rev. Macromol. Chem. Phys., 1995, C -35, 155 -180. 
+69. H. Brondsted, L. Hovgaard, L. Simonsen, Dextran hydr ogels for colon specific drug delivery. 
+Comparative release study of hydrocortisone and prednisolone sodium phosphate, Stp. Pharma. 
+Sci., 1995, 5, 65 -69. 
+70. S. H. Gehrke, L. H. Uhden, J. F. McBride, Enhanced loading and activity retention of bioactive 
+proteins in hydrogel delivery system, J. Controlled release, 1998, 55, 21 -33. 
+71. T. Coviello, M. Grassi, G. Rambone, E. Santucci, M. Carafa, E. Murtas, F. M. Riccieri, F. 
+Alhaique, A novel hydrogel system from sleroglucan: synthesis and characterization, J . Controlled 
+Release, 1999, 60, 367 -378. 
+72. P. Eiselt, K. Y. Lee, D. J. Mooney, Rigidity of two -component hydrogels prepared from 
+alginate and poly(ethylene glycol) diamines, Macromolecules, 1999, 32, 5561 -5566.    
+About Authors:
+Sachin Patil
+Department of Pharmaceutics, Shree Santkrupa College of Pharmacy, A/P Ghogaon, Tal. Karad, 
+Dist. Satara.
+Email: sachinpatil79@rediffmail.com
+D. R. Jadge
+Shree Santkrupa College of Pharmacy, A/P Ghogaon, T al. Karad, Dist. Satara. 415111. 
+View publication statsView publication stats

@@ -1,0 +1,1631 @@
+REVIEW
+published: 22 August 2018
+doi: 10.3389/fphar.2018.00923
+Frontiers in Pharmacology | www.frontiersin.org 1 August 2018 | Volume 9 | Article 923Editedby:
+AdrianoD.Andricopulo,
+UniversidadedeSãoPaulo,Brazil
+Reviewedby:
+JoséPedroCerón-Carrasco,
+UniversidadCatólicaSanAntoniode
+Murcia,Spain
+AndreaMozzarelli,
+UniversitàdegliStudidiParma,Italy
+*Correspondence:
+StefanoMoro
+stefano.moro@unipd.it
+Specialtysection:
+Thisarticlewassubmittedto
+ExperimentalPharmacologyandDrug
+Discovery,
+asectionofthejournal
+FrontiersinPharmacology
+Received: 04May2018
+Accepted: 26July2018
+Published: 22August2018
+Citation:
+SalmasoVandMoroS(2018)
+BridgingMolecularDockingto
+MolecularDynamicsinExploring
+Ligand-ProteinRecognitionProcess:
+AnOverview.
+Front.Pharmacol.9:923.
+doi:10.3389/fphar.2018.00923Bridging Molecular Docking to
+Molecular Dynamics in Exploring
+Ligand-Protein Recognition Process:
+An Overview
+VeronicaSalmasoandStefanoMoro *
+MolecularModelingSection,DepartmentofPharmaceutical andPharmacologicalSciences,UniversityofPadova,Padov a,
+Italy
+Computational techniques have been applied in the drug disc overy pipeline since the
+1980s. Given the low computational resources of the time, th e ﬁrst molecular modeling
+strategiesreliedonarigidviewoftheligand-targetbindi ngprocess.Duringtheyears,the
+evolution of hardware technologies has gradually allowed s imulating the dynamic nature
+of the binding event. In this work, we present an overview of t he evolution of structure-
+based drug discovery techniques in the study of ligand-targ et recognition phenomenon,
+goingfromthestaticmoleculardockingtowardenhancedmol eculardynamicsstrategies.
+Keywords:ligand-proteinbinding,moleculardocking,molec ulardynamics,enhancedsampling,proteinﬂexibility,
+molecular recognition
+INTRODUCTION
+Noproteinisanislandbutexertsitsfunctionthroughtherec ognitionofothermolecularpartners
+(Salmaso, 2018 ). Ligand-protein interactions are involved in many biologi cal processes with
+consequent pharmaceutical implications. Thus, the scientiﬁ c community has been putting a great
+eﬀort into the investigation of the binding phenomenon during the years, leading to the proposal
+ofseveraltheoriescharacterizedbyanincreasingemphasis onthedegreeofﬂexibilityoftheligand
+andproteincounterparts.
+The ﬁrst explanation of binding was provided by Emil Fischer in 1894 (Fischer, 1894 ) with
+the “lock-key” model to interpret enzyme speciﬁcity: the liga nd rigidly recognizes and occupies
+the protein binding site like a key to its lock, because of thei r native shape complementary.
+Since this model could not explain either the behavior of enzy me noncompetitive inhibition or
+allostericmodulation,diﬀerentmodiﬁcationshavebeenpropos ed.Koshland(1958) introducedthe
+“induced-ﬁt”theory:accordingtohisobservationsonenzy me-substrateinteractions,theligandis
+able to induce conformational changes to the protein, optimiz ing ligand-target interactions. Later
+workssuggestedthatproteinsnaturallyexistasanensemble ofconformations( Monodetal.,1965 ),
+describedbyanenergylandscape( Frauenfelderetal.,1991 ),andligandspreferentiallybindtoone
+ofthem(Austinetal.,1975;FooteandMilstein,1994 ).Accordingtothisinterpretationofbinding,
+known as “conformational selection,” the ligand stabilize s one of the protein conformations
+with a consequent shift of the protein population equilibrium ( Kumar et al., 2000 ). These two
+apparently contrasting theories have simply diﬀerent ranges of applicability, and the descriptions
+they provide of molecular binding diﬀer for the chronological s equence of events in which the
+bindingprocessisdecomposed( KobilkaandDeupi,2007;OkazakiandTakada,2008;Zhou,2010 ).
+Newtheoriesareemerging,makingacompromisebetweentheaf orementionedones:accordingto
+Salmaso and Moro Molecular Docking and Dynamics Overview
+the extended conformational selection model, for example,
+the conformational selection is followed by a conformation al
+adjustment(inducedﬁt)( Csermelyetal.,2010 ).
+The evolution of binding models has practical relevance
+besidesanepistemologicalsigniﬁcance;theknowledgeofli gand-
+target binding is at the basis of rational drug design but
+understanding this complex process on a mechanistic level may
+open new scenarios. In addition, to suggest ligand modiﬁcati on
+meant to optimize the ﬁnal bound state, the medicinal chemist
+may look at kinetically relevant intermediate states and tr y to
+aﬀectthem.
+COMPUTATIONAL METHODS TO STUDY
+LIGAND-PROTEIN BINDING
+Since the 1980s, computer technologies have been applied to
+the drug discovery process ( Van Drie, 2007 ), giving rise to
+Computer-Aided Drug Design (CADD). This technique earned
+soon great interest and deserved a cover article on October 5 ,
+1981, Fortune magazine, entitled “Next Industrial Revoluti on:
+Designing Drugs by Computer at Merck” ( Van Drie, 2007 ).
+CADD techniques are used principally for three reasons: virtu al
+screening hit/leadoptimizationanddesignofnovelcompounds.
+In virtual screening a huge database of compounds is examined
+searching for binding capacity for a target and a subset of
+compounds is picked out and suggested for in vitrotesting; the
+purpose is to increase the hitrate of novel drugs by reducing
+the number of compounds to test experimentally. The second
+applicationofCADDistheoptimizationofa hit/leadcompound
+driven by the rationalization of a structure-activity rela tionship.
+Aftertheindividuationofkeyelementsforbinding,thedes ignof
+newcompoundscanbeattempted( Salmaso,2018 ).
+CADD methods may be classiﬁed as ligand-based (LB)
+and structure-based (SB), depending on the availability and
+employment of the target structure ( Sliwoski et al., 2014 ). In
+the framework of CADD, structure-based drug design (SBDD)
+methods take advantage of the abundance of experimentally
+solvedstructuresintheProteinDataBank( Bermanetal.,2000 ),
+which can possibly be used also as templates for homology
+models if the structure of interest is lacking. SBDD is based on
+thepremisethattheknowledgeofthetargetstructurecanhel pto
+rationalize and optimize binding since ligand-target inter actions
+aremediatedbytheircomplementarity.Withtheevolutionof the
+bindingmodels,itisclearthatspeakingof“targetstructur e”isan
+approximation,giventhatproteinsﬂuctuateamonganensemble
+ofstructures( MillerandDill,1997 ).
+The possibility to predict ligand binding modes and to
+interpret binding processes is valuable to individuate, optim ize
+and suggest novel ligands, and for this reason, the scientiﬁ c
+community has been putting great eﬀorts in developing new
+computationaltechniques.
+In the following paragraphs, we will present an excursus
+over the main structure-based computational techniques
+employed in drug discovery. An urgency to simulate protein
+ﬂexibility throughout binding has been experienced over
+the years, arising from the evolution of the binding modelsfrom static to dynamic. The inclusion of ﬂexibility feature s in
+conformational sampling entails an increase in the number
+of degrees of freedom of the system, and consequently in
+the computational eﬀort. For this reason, the development
+of computational tools has been occurring in parallel
+and thanks to the continuous improvement of hardware
+technologies.
+Molecular Docking
+Molecular docking techniques aim to predict the best matching
+binding mode of a ligand to a macromolecular partner (here
+just proteins are considered). It consists in the generation of
+a number of possible conformations/orientations, i.e., poses, o f
+the ligand within the protein binding site. For this reason, t he
+availability of the three-dimensional structure of the mole cular
+target is a necessary condition; it can be an experimentally
+solved structure (such as by X-ray crystallography or NMR)
+or a structure obtained by computational techniques (such as
+homologymodeling)( Salmaso,2018 ).
+Molecular docking is composed mainly by two stages: an
+engine for conformations/orientations sampling and a scori ng
+function, which associates a score to each predicted pose
+(Abagyan and Totrov, 2001; Kitchen et al., 2004; Huang and
+Zou, 2010 ). The sampling process should eﬀectively search the
+conformational space described by the free energy landscape,
+where energy, in docking, is approximated by the scoring
+function. The scoring function should be able to associate t he
+nativebound-conformationtotheglobalminimumoftheenerg y
+hypersurface.
+Scoring Functions
+Scoring functions play the role of poses selector, used to
+discriminate putative correct binding modes and binders fro m
+non-binders in the pool of poses generated by the sampling
+engine.
+Thereareessentiallythreetypesofscoringfunctions:
+1. Force-ﬁeldbasedscoringfunctions:
+Force-ﬁeld is a concept typical of molecular mechanics
+(seeBox1) which approximates the potential energy of
+a system with a combination of bonded (intramolecular)
+and nonbonded (intermolecular) components. In molecular
+docking, the nonbonded components are generally taken into
+account, with possibly the addition of the ligand-bonded term s,
+especiallythetorsionalcomponents.Intermolecularcomponen ts
+include the van der Waals term, described by the Lennard-
+Jones potential, and the electrostatic potential, described by
+the Coulomb function, where a distance-dependent dielectric
+may be introduced to mimic the solvent eﬀect. However,
+additional terms have been added to the force-ﬁeld scoring
+functions, such as solvation terms ( Brooijmans and Kuntz,
+2003).
+ExamplesofforceﬁeldbasedscoringfunctionsareGoldScore
+(Verdonketal.,2003 ),AutoDock( Morrisetal.,1998 )(improved
+as a semiempirical version in AutoDock4, Huey et al., 2007 ),
+GBVI/WSA( Corbeiletal.,2012 ).
+Frontiers in Pharmacology | www.frontiersin.org 2 August 2018 | Volume 9 | Article 923
+Salmaso and Moro Molecular Docking and Dynamics Overview
+2. Empiricalscoringfunctions:
+These functions are the sum of various empirical energy
+terms such as van der Waals, electrostatic, hydrogen
+bond, desolvation, entropy, hydrophobicity, etc., which are
+weighted by coeﬃcients optimized to reproduce binding
+aﬃnity data of a training set by least squares ﬁtting
+(HuangandZou,2010 ).
+The LUDI ( Böhm, 1994 ) scoring function was the ﬁrst
+example of an empirical one. Other empirical scoring functions
+are GlideScore ( Halgren et al., 2004; Friesner et al., 2006 ),
+ChemScore( Eldridgeetal.,1997 ),PLANTS CHEMPLP(Korbetal.,
+2009).
+3. Knowledge-basedscoringfunctions:
+Box 1| Molecular mechanics.
+Molecular mechanics is a method which approximates the trea tment
+of molecules with the laws of classical mechanics, in order t o limit
+the computational cost required for quantum mechanical cal culations
+(Vanommeslaeghe et al., 2014 ). Atoms are considered as charged spheres
+connected by springs, neglecting the presence of electrons , in accordance
+with Born-Oppenheimer approximation ( Born and Oppenheimer, 1927 ). The
+potential energy is approximated by a simple function which is called force-
+ﬁeld; it is the sum of bonded (intramolecular) and nonbonded e nergy terms.
+The basic form of the function comprise bond stretching and b ending
+described by harmonic potential, and torsional potential d escribed by a
+trigonometric function, in the bonded portion. Nonbonded t erms consist of
+van der Waals and Coulomb electrostatic interactions betwe en couples of
+atoms.
+As an example, these basic components of the CHARMM [78] forc e ﬁeld
+are reported in the following equations
+V=Vbonded+Vnonbonded
+Vbonded=∑
+bondsKb(b−b0)2+∑
+anglesKθ(θ−θ0)2
++∑
+dihedralsKχ(1+cos(nχ−δ))
+Vnonbonded =∑
+nonbonded
+pairsijqiqj
+εrij
++∑
+nonbonded
+pairsijεij
+(
+Rmin,ij
+rij)12
+−2(
+Rmin,ij
+rij)6
+
+whereKb,Kθ,and K χare the bond, angle and torsional force constants; b,
+θandχare bond length, bond angle and dihedral angle (those with th e 0-
+subscript are the equilibrium values); nis multiplicity and δthe phase of the
+torsional periodic function; rijis the distance between atoms iandj;qiandqj
+are the partial charges of atoms iandj;εis the effective dielectric constant;
+εijis the Lennard-Jones welldepth and Rmin,ijis the distance between atoms
+at Lennard-Jones minimum.
+These terms may appear slightly different in different forc e-ﬁelds, and
+anharmonicity and cross-terms are generally added.
+The parameters of the force ﬁeld are obtained by ﬁtting quantum
+mechanical or experimental values.These methods assume that ligand-protein contacts statistic ally
+moreexploredarecorrelatedwithfavorableinteractions.St arting
+from a database of structures, the frequencies of ligand-pro tein
+atom pairs contacts are computed and converted into an
+energycomponent.Whenevaluatingapose,theaforementioned
+tabulated energy components are summed up for all ligand-
+proteinatompairs,givingthescoreofthepose.
+DrugScore ( Gohlke et al., 2000; Velec et al., 2005 ) and
+GOLD/ASP ( Mooij and Verdonk, 2005 ) are examples of
+knowledge-basedscoringfunctions.
+Another strategy consists in the combination of multiple
+scoring functions leading to the so-called consensus scorin g
+(Charifsonetal.,1999 ).
+In addition, new scoring functions have been developed: for
+example, based on machine learning technologies, interacti on
+ﬁngerprints and attempts with quantum mechanical scores
+(Yurievetal.,2015 ).
+Sampling
+Theﬁrstmoleculardockingalgorithmwasdevelopedinthe198 0s
+byKuntzetal.(1982) ;thereceptorwasapproximatedbyaseries
+of spheres ﬁlling its surface clefts, and the ligand by another s et
+of spheres deﬁning its volume. A search was made to ﬁnd the
+best steric overlap between binding site and receptor spheres,
+neglectinganykindofconformationalmovement.
+This method belongs to the group of fully-rigid docking
+techniques,accordingtotheclassiﬁcationwhichdividesdo cking
+methods according to the degrees of ﬂexibility of the molecu les
+involvedinthecalculation Halperinetal.,2002 (Figure1):
+1. Rigiddocking:
+Bothligandandproteinareconsideredrigidentities,andjust the
+three translational and three rotational degrees of freedo m are
+consideredduringsampling.Thisapproximationisanalogousto
+the “lock-key” binding model and is mainly used for protein-
+proteindocking,wherethenumberofconformationaldegrees of
+freedom is too high to be sampled. Generally, in these methods,
+thebindingsiteandtheligandareapproximatedby“hot”points
+and the superposition of matching point is evaluated ( Taylor
+etal.,2002 ).
+2. Semi-ﬂexibledocking:
+Justoneofthemolecules,theligand,isﬂexible,whiletheprot ein
+is rigid. Thus, the conformational degrees of freedom of the
+ligand are sampled, in addition to the six translational plus
+rotationalones.Thesemethodsassumethataﬁxedconformat ion
+of a protein may correspond to the one able to recognize the
+ligandstobedocked.Thisassumption,asalreadyreported,is not
+alwaysveriﬁed.
+3. Flexibledocking:
+It is based on the concept that a protein is not a passive rigid
+entity during binding and considers both ligand and protein as
+ﬂexible counterparts. Diﬀerent methods have been introduced
+during the years, some rested on the induced ﬁt binding model
+andothersonconformationalselection.
+Frontiers in Pharmacology | www.frontiersin.org 3 August 2018 | Volume 9 | Article 923
+Salmaso and Moro Molecular Docking and Dynamics Overview
+FIGURE 1 | Molecular docking techniques organized according to
+ligand-protein ﬂexibility and conformational searching en gines.
+Thegreatnumberofdegreesoffreedomintroducedbyﬂexible
+docking makes the potential energy surface to be a function of
+numerous coordinates. Consequently, the computational eﬀor t
+requiredtoperformadockingcalculationisaugmented,butb oth
+samplingandscoringshouldbeoptimizedtogiveagoodbalance
+between accuracy and speed. In fact, virtual screening campai gn
+of millions of compounds depends on the velocity of docking
+calculations.Forthisreason,moreandmoreimprovementsha ve
+been made in the development of the new algorithm, able to
+deeplysearchthephasespacebutnotattheexpenseofvelocity.
+Semi-ﬂexible Docking
+Numerous docking algorithms have been developed since the
+1980s.Oftenitisdiﬃculttoclassifyclearlyeachdockings oftware,
+because diﬀerent algorithms may be integrated into a multi-
+phase approach. However, docking algorithms can be classiﬁed
+asfollows( Kitchenetal.,2004;HuangandZou,2010 ):
+1. Systematicsearchtechniques:
+Inasystematicsearch,asetofdiscretizedvaluesisassoci atedwith
+eachdegreeoffreedom,andallthevaluesofeachcoordinate are
+explored in a combinatorial way ( Brooijmans and Kuntz, 2003 ).
+Thesemethodsaresubdividedinto:
+a.Exhaustive search - it is a systematic search in the strict sense
+since all the rotatable bonds of the ligands are examined in
+a systematic way. A number of constraints and termination
+criteria is generally established to limit the search space a nd
+to avoid a combinatorial explosion. The docking pipeline of
+the software Glide ( Friesner et al., 2004; Halgren et al., 2004 )
+involvesastageoftheexhaustivesearch.b.Fragmentation - the ﬁrst implementation of ligand ﬂexibility
+into docking was introduced by DesJarlais et al. (1986) , who
+proposed a method made of fragmentation of the ligand,
+rigid docking of the fragments into the binding site, and
+subsequent linking of the fragments. In this way, partial
+ﬂexibilityisimplementedatthejointsbetweenthefragment s.
+Other methods, deﬁned as incremental construction, dock
+one fragment ﬁrst and then attach incrementally the others.
+ExamplesofmethodsutilizingfragmentationareFlexX( Rarey
+etal.,1996 )andHammerhead( Welchetal.,1996 ).
+c.Conformational Ensemble - rigid docking algorithms can be
+easily enriched by a sort of ﬂexibility if an ensemble of
+previously generated conformers of the ligand is docked to
+the target, in a sort of conformational selection fashion on
+theligandcounterpart.ExamplesareoﬀeredbyFLOG( Miller
+et al., 1994 ), EUDOC ( Pang et al., 2001 ), MS-DOCK ( Sauton
+etal.,2008 ).
+2. Stochasticmethods:
+Stochasticalgorithmschangerandomly,insteadofsystema tically,
+thevaluesofthedegreesoffreedomofthesystem.Theadvant age
+ofthesetechniquesisthespeed,sotheycouldpotentiallyﬁndth e
+optimal solution really fast. As a drawback, they do not ensur e
+a full search of the conformational space, so the true solutio n
+may be missed. The lack of convergence is partially solved by
+increasing the number of iterations of the algorithm. The mo st
+famousstochasticalgorithmsare( HuangandZou,2010 ):
+a.MonteCarlo(MC)methods -MonteCarlomethodsarebased
+on the Metropolis Monte Carlo algorithm, which introduces
+anacceptancecriterionintheevolutionofthedockingsearc h.
+In particular, at every iteration of the algorithm, a random
+modiﬁcation of the ligand degrees of freedom is performed.
+Then,iftheenergyscoreoftheposeisimproved,thechangeis
+accepted,otherwise,itisacceptedaccordingtotheprobabili ty
+expressedinthefollowingequation:
+P∼exp[−(E1−E0)
+kBT]
+whereE1andE0are the energy score before and after the
+modiﬁcation, kBtheBoltzmannconstant,andTthetemperature
+ofthesystem.
+This is the original form of the Metropolis algorithm, but
+it is implemented in diﬀerent variants within docking softwar e.
+Some example are provided by the earlier versions of AutoDock
+(Goodsell and Olson, 1990; Morris et al., 1996 ), ICM (Abagyan
+et al., 1994 ), QXP (McMartin and Bohacek, 1997 ), MCDOCK
+(Liu and Wang, 1999 ), AutoDock Vina ( Trott and Olson, 2010 ),
+ROSETTALIGAND( MeilerandBaker,2006 ).
+b.Tabu search methods - the aim of these algorithms is to
+prevent the exploration of already sampled zones of the
+conformational/positional space. Random modiﬁcations are
+performed on the degrees of freedom of the ligand at each
+iteration. The already sampled conformations are registered ,
+and when a new pose is obtained, it is accepted only if not
+similartoanypreviouslyexploredpose.PRO_LEADS( Baxter
+Frontiers in Pharmacology | www.frontiersin.org 4 August 2018 | Volume 9 | Article 923
+Salmaso and Moro Molecular Docking and Dynamics Overview
+etal.,1998 )andPSI-DOCK( Peietal.,2006 )aretwoexamples
+ofthiscategory.
+c.Evolutionary Algorithms (EA)-thesealgorithmsarebasedon
+theideaofbiologicalevolution,withthemostfamousGenet ic
+Algorithms (GAs). The concept of the gene, chromosome,
+mutation, and crossover are borrowed from biology. In
+particular, the degrees of freedom are encoded into genes,
+and each conformation of the ligand is described by a
+chromosome (collection of genes), which is assigned a ﬁtnes s
+score. Mutations and crossovers occur within a population of
+chromosomes, and chromosomes with higher ﬁtness survive
+and replace the worst ones. The most famous examples are
+GOLD (Jones et al., 1995, 1997 ), AutoDock 3 & 4 (which
+implement a diﬀerent version of GA, the Lamarckian GA)
+(Morris et al., 1998 ), PSI-DOCK ( Pei et al., 2006 ), rDock
+(Ruiz-Carmonaetal.,2014 ).
+d.Swarm optimization (SO) methods - these methods take
+inspiration from swarm behavior. The sampling of the
+degrees of freedom of a ligand is guided by the information
+deposited by already sampling good poses. For example,
+PLANTS ( Korb et al., 2006 ) adopts an ACO (Ant Colony
+Optimization) algorithm, which mimics the behavior of ants,
+who communicate the easiest way to reach a source of food
+through the deposition of pheromone. Here, each degree of
+freedom is associated with a pheromone. Virtual ants choose
+conformations considering the values of pheromones, and
+successfulantscontributetopheromonedeposition.
+Other examples of SOs are SODOCK ( Chen et al., 2007 ),
+pso@autodock( NamasivayamandGünther,2007 ),PSOVina( Ng
+etal.,2015 ).
+3. Simulationmethods:
+The most famous example of this category is Molecular
+Dynamics, a method that describes the time evolution of a
+system. A wider explanation will be given in section Molecular
+Dynamics.
+Energyminimizationmethodscanbeinsertedinthiscategor y,
+but generally, they are not used as stand-alone search engin es
+(Kitchenetal.,2004 ).Energyminimizationisalocaloptimization
+technique, used to bring the system to the closest minimum on
+thepotentialenergysurface.
+Flexible Docking
+Some attempts have been made to introduce protein ﬂexibility
+into docking calculations. These methods take advantage of
+diﬀerent degrees of approximation and can be divided into
+approaches that consider single protein or multiple protein
+conformations( Alonsoetal.,2006 ).
+1. SingleProteinConformation:
+a. Softdocking:
+This method, ﬁrstly described by Jiang and Kim (1991) , consists
+of an implicit and rough treatment of protein ﬂexibility. The
+van der Waals repulsion term employed in force ﬁeld scoring
+functions is reduced, allowing small clashes that permit a cl oser
+ligand-protein packing. In this way, a sort of induced-ﬁt issimulated. As a drawback, this approach approximates just
+feeble protein movements and could implicate unreal poses
+(Apostolakisetal.,1998;Viethetal.,1999 ).
+b. Sidechainﬂexibility:
+This strategy introduces alternative conformations for so me
+protein side chains ( Leach, 1994 ). This is generally done
+exploitingdatabasesofrotamerlibraries.Somedockingmet hods,
+suchasGOLD,samplesomedegreesoffreedomwithintheirown
+searchengine.Obviously,consideringsidechainﬂexibility ,huge
+conformational variations of the protein are neglected by the se
+methods.
+2. MultipleProteinConformations:
+Multiple experimental structures may be available for the same
+target. Moreover, an ensemble of protein conformations can be
+obtained via computational techniques, such as Monte Carlo or
+Molecular Dynamics simulations. The idea of multiple protein
+conformations docking is to take into account all the divers e
+structures,followingdiﬀerentpossiblestrategies:
+a. Averagegrid:
+The structures of the ensemble are used to construct a single
+average-grid, which can be either a simple or weighted averag e
+combinationofthem( Knegteletal.,1997 ).
+b. Uniteddescriptionoftheprotein:
+In this case, the structures do not collapse into an average gr id
+but are usedtoconstruct thebest performing “chimera”protei n.
+For example, FlexE ( Rarey et al., 1996 ) extracts the structurally
+conservedportionsfromthestructuresoftheensembleanduse s
+themtoconstructanaveragerigidstructure.Thisportionis fused
+to the ﬂexible parts of the ensemble in a combinatorial fashio n,
+givingapoolof“chimeras”thatareusedfordocking.
+c. Individualconformations:
+The structures of the ensemble are considered as conformatio ns
+that can possibly be bound by the ligand, so various docking
+runs are performed, evaluating the ligands of interest on all
+the target conformations ( Huang and Zou, 2007 ). Moreover, a
+preliminary benchmark assessing the performance of diﬀerent
+targetstructuresinacross-dockingexperimentmaybeemploy ed
+toﬁltertheensembleofstructures( Salmasoetal.,2016,2018 ).
+Among the drugs approved by the Food and Drug
+Administration, few examples of successful applications of
+CADD are available ( Talele et al., 2010 ). Among them,
+the renin-inhibitor Aliskiren was developed by means of
+a combination of molecular modeling and crystallographic
+structure analysis ( Wood et al., 2003 ). However, the binding of
+non-peptidomimetic ligands to renin has shown huge structura l
+rearrangement of the protein ( Teague, 2003 ), addressing the
+problem of considering protein ﬂexibility in drug design
+campaigns. Recently, a comparative study evaluating the
+performance of ensemble docking and individual crystal
+structure docking has been proposed for renin ( Strecker and
+Meyer, 2018 ). An ensemble of 4 crystal structures outperformed
+the mean results of individual crystal structures in terms of
+Frontiers in Pharmacology | www.frontiersin.org 5 August 2018 | Volume 9 | Article 923
+Salmaso and Moro Molecular Docking and Dynamics Overview
+binding mode prediction and screening utility. The ensemble
+gave worse results than the best performing crystal structur e,
+which though is not known a priori. Not as good results
+were obtained through a Molecular Dynamics ensemble when
+compared to crystallographic structures, as conﬁrmed in othe r
+cases reported in the literature ( Osguthorpe et al., 2012; Ganser
+et al., 2018 ). However, Molecular Dynamics has proven to be
+eﬀective as a tool to explore molecular conformations and as a
+dockingmethoditself,asreportedinthefollowingparagraphs.
+Molecular Dynamics
+Molecular dynamics (MD) is a computational technique which
+simulates the dynamic behavior of molecular systems as a
+function of time, treating all the entities in the simulatio n box
+(ligand,protein,aslongaswatersifexplicit)asﬂexible( Salmaso,
+2018).
+It was developed to simulate simple systems, with the
+ﬁrst application to study collisions among hard spheres, in
+1957 (Alder and Wainwright, 1957 ). The ﬁrst MD simulation
+of a biomolecule was accomplished in 1977 by McCammon
+et al. (McCammon et al., 1977 ); it was a 9.2 ps simulation
+of a 58-residues Bovine Pancreatic Trypsin Inhibitor (BPTI) ,
+performed in vacuum with a crude molecular mechanics
+potential.
+Molecular dynamics compute the movements of atoms along
+time by the integration of Newton’s equations of motions
+(classicalmechanics),reportedinthefollowingequation( Leach,
+2001;AdcockandMcCammon,2006 ).
+d2ri(t)
+dt2=Fi(t)
+mi
+withFi(t)forceexertedonatom iattimet,ri(t)vectorpositionof
+theatom iattimet,mimassoftheatom( Figure2).
+Inparticular,timeispartitionedintotimesteps( δt),whichare
+usedtopropagatethesystemforwardintime.Severalintegrat ion
+algorithms are available, which derive Newton’s equations by
+a discrete-time numerical approximation. The velocity-Verl et
+integrator is reported in the following equations as an exampl e
+to compute position and velocity of an atom iat the time step
+t+δt,startingfromstep t.
+ri(t+δt)=ri(t)+vi(t)δt+1
+2ai(t)δt2
+vi(t+δt)=vi(t)+1
+2[ai(t)+ai(t+δt)]δt
+whereri(t),vi(t)andai(t)are respectively position, velocity
+and acceleration of atom iat timet, andri(t+δt),vi(t+δt)and
+ai(t+δt)are respectively position, velocity and acceleration of
+atomiattimet+δt.
+Acceleration is calculated from the forces acting on atom i
+accordingtoNewton’ssecondlaw,andforcesarecomputedfro m
+theforceﬁeld,accordingtothefollowingequation:
+ai(t)=d2ri(t)
+dt2=Fi(t)
+mi= −dV(r(t))
+midri(t)whereV(r(t))is the potential energy function retrieved by the
+forceﬁeld(see Box1).
+The most used force ﬁelds in molecular dynamics are
+CHARMM ( MacKerell et al., 1998 ), AMBER ( Cornell et al.,
+1995), OPLS ( Jorgensen and Tirado-Rives, 1988 ) and GROMOS
+(Oostenbrinketal.,2004 ).
+Molecular Dynamics and Exploration of the Phase
+Space
+MD trajectories can be used as sampling engines; in fact, they
+produce protein conformations usable for Multiple Protein
+Conformations docking applications. In particular, McCammon
+et al. developed the so-called Relaxed-Complex Scheme (RCS),
+consisting in docking mini-libraries of compounds with
+AutoDock ( Morris et al., 1998 ) against a large ensemble of
+snapshotsderivedfromunligandedproteinMDtrajectories( Lin
+et al., 2002, 2003; Amaro et al., 2008 ). This approach is based
+on the conformational selection binding model, disregarding
+any inﬂuence of the ligand on the receptor. The application
+of the RCS to the UDP-galactose 4′-epimerase ( TbGalE),
+for example, led to the identiﬁcation of 14 low-micromolar
+inhibitors( Durrantetal.,2010 ).Anothercomputationalpipeline
+integrating MD simulations and virtual screening has proved
+to be eﬀective: the coupling of MD, clustering, and choice of
+the target structure through ﬁngerprints for ligand and prote ins
+(MD-FLAP)improvedVSperformance( Spyrakisetal.,2015 ).
+MD has further applications as a docking-coupled technique
+(Alonso et al., 2006 ) more anchored to the induced-ﬁt model, as
+it can be used to assess stability ( Sabbadin et al., 2014; Yu et al.,
+2018),toreﬁneandtorescoredockingposes( Rastellietal.,2009 ).
+The relevance of MD simulations as source of target
+conformational profusion can be exploited to retrieve insigh ts
+into cryptic pockets or allosteric binding sites ( Durrant and
+McCammon, 2011 ), as reported by Schame et al., who identiﬁed
+an alternative binding site, named “trench,” close to the act ive
+site of the HIV-1 integrase ( Schames et al., 2004 ). Moreover,
+simulationsintheexplicitsolventmaygiveinformationonw ater
+molecules, that can be classiﬁed as “cold” or stable and “hot ” or
+unstable(forarecentandcomprehensiveoverviewontheroleo f
+water in SBDD; see Spyrakis et al., 2017 ). In particular, MD may
+enabletoindividuaterelevantwatermolecules,according totheir
+order (Li and Lazaridis, 2003 ) and stationarity ( Cuzzolin et al.,
+2018), and to estimate their contribution in modulating ligand
+binding(Bortolatoetal.,2013;Betzetal.,2016 ).
+All the aforementioned applications of MD are used as a
+complement to classic molecular docking techniques. however ,
+the simulation of the complete binding process of a ligand,
+from the unbound state in bulk solvent to the bound state,
+be considered a fully-ﬂexible docking in explicit solvent. Th e
+possibility to investigate the whole binding process could giv e
+insights into metastable states reached by the ligand durin g
+the simulation, alternative binding sites, the role of wate r
+during binding and conformational rearrangements precedin g,
+concurrentorconsecutivetobinding.
+However,theobservationofabindingeventduringaclassica l
+MD simulation is very rare, raising the timescale problem. The
+timestep in molecular dynamics has to be compatible with the
+Frontiers in Pharmacology | www.frontiersin.org 6 August 2018 | Volume 9 | Article 923
+Salmaso and Moro Molecular Docking and Dynamics Overview
+FIGURE 2 | Schematic representation of a molecular dynamics cycle.
+fastest motion in the system; in particular, a timestep of 1–2
+fs, corresponding to bond vibrations, has to be used. Thus, a
+highnumberofMDstepsisrequiredtosimulateslowprocesses,
+such as large domain motions and binding ( µs-ms) (Henzler-
+Wildman and Kern, 2007 ), making the computational eﬀort
+really hard. In particular, slow timescale are linked to proce sses
+that require the overcoming of a high energy barrier ( Henzler-
+WildmanandKern,2007 ),correspondingtolowpopulatedstates
+intheconformationalenergylandscape;inthiscasethesimu lated
+system gets trapped in a local minimum, making classical MD
+inadequatetoexplorelargelytheconformationalspace.
+Advances in Classical MD Simulations
+In1998DuanandKollmanperformedtheﬁrst1 µssimulationof
+aproteininexplicitsolvent,observingthefoldingofa36-re sidue
+villin headpiece subdomain from a fully unfolded state. This
+simulation was two orders of magnitude longer than a state-
+of-the-art simulation of that period, and it was made possible
+by advances in massively parallel supercomputers and eﬃcient
+parallelized codes, but still required 2 months of CPU (Centr al
+ProcessingUnits)time( DuanandKollman,1998 ).
+Specializedinformaticinfrastructureshavealsobeendesi gned
+speciﬁcally for MD calculations; for example, a supercomputer
+named Anton was conceived as a “computational microscope”
+andwasdevelopedwiththeideatoreachpreviouslyinaccessible
+simulation timescales within a reasonable computation time
+(Shaw et al., 2008 ). This machine allowed Shaw et al. tocharacterize the folding of FiP35 WW domain from a fully
+extended state in a 100 µs simulation and, in addition, to
+reach the millisecond timescale in a single simulation of BP TI
+in the folded-state ( Shaw et al., 2010 ), followed recently by
+ubiquitin( Lindorﬀ-Larsenetal.,2016 ).Moreover,withunbiased
+simulations in the order of ten microseconds, Shaw’s group
+couldsimulatethecompletebindingprocessofbetablockersan d
+agonists to the β2-adrenergic receptor ( Dror et al., 2011 ) and
+kinaseinhibitorstoSrckinase( Shanetal.,2011 ).
+Asadrawback,theutilizationofsupercomputerisanexpense
+thatnotmanyresearchgroupscanaﬀord.Fortunately,therece nt
+years have been characterized by the development of code able
+toexploitthespeedofGPUs(GraphicsProcessingUnits),which
+has given access to tera-scale performances with the use of a
+common workstation, and a consequent relatively low cost ( Van
+Meeletal.,2008;Friedrichsetal.,2009;Harveyetal.,2009 ;Nobile
+et al., 2017 ). The architecture of a GPU is meant to parallelize a
+computationoverthousandsofcores,withallcoresexecutin gthe
+same instructions on diﬀerent data (“Same Instruction Multiple
+Data,” SIM) ( Nobile et al., 2017 ). For this reason, together with
+few preliminary applications in the ﬁeld of molecular docking
+(Korb et al., 2011; Khar et al., 2013 ), GPUs have been mainly
+exploited for MD simulations, which can be parallelized at the
+level of atoms. In fact, nowadays, simulations of hundreds o f
+nanosecondsareeasilyperformed,andreachingthemicrosec ond
+timescale is an aﬀordable issue on a GPU-equipped workstation
+(Harvey and De Fabritiis, 2012 ). In addition, cloud computing
+Frontiers in Pharmacology | www.frontiersin.org 7 August 2018 | Volume 9 | Article 923
+Salmaso and Moro Molecular Docking and Dynamics Overview
+has been emerging nowadays, not just through the use of web-
+servers intended to make molecular modeling accessible to a
+community of non-developers users, but also with the provisio n
+of computation power scalable and on-demand ( Ebejer et al.,
+2013). As an example, AceCloud is an on-demand service for
+MD simulations, which is accessed through an extension of the
+ACEMDMDcode( HarveyandDeFabritiis,2015 ).
+Moreover, a paradigm shift seems to have been spreading,
+that is the possibility to simulate long processes using
+numerous trajectories shorter than the process itself inste ad
+of a single long trajectory. This idea has been exploited by
+the folding@home project, a worldwide distributed computing
+environment beneﬁtting from the computers of private citizen s,
+whennotinuse( ShirtsandPande,2000 ).Sinceduringaclassical
+MDsimulation,thesystemisstuckinaminimum,waitingforth e
+fortunateeventthattriggerstheovercomingofanenergyba rrier,
+thesimulationofmanytrajectoriesinparallelwouldincrea sethe
+probabilitytomeettheluckyevent.Thus,numeroussimulati ons
+are started from the same initial condition and run in paralle l
+on diﬀerent computers, and when one escapes from the energy
+minimum, all the simulations are stopped and started from the
+newproductiveconﬁguration( Pandeetal.,2003 ).
+The new paradigm has found its best application in the use
+of Markov State Models (MSMs) and adaptive sampling. In
+fact, MSMs are based on an ensemble view of the dynamics,
+from which statistical properties, such as the probability to
+occupy a state and the probability to jump from one state to
+another, are computed. The construction of a Markov model
+is made of the discretization and projection of a trajectory
+into microstates, and of a transition probability matrix T( τ)
+computation at a given time, the lag-time τ, chosen in a
+way that the transition is memory-less (Markovian). Each
+elementT ij(τ)ofthetransitionmatrixrepresentstheconditional
+probability to ﬁnd the system in state jat timet+τwhile
+being in state iat timet. The transition matrix approximates
+the dynamic of the system and enables to extrapolate the
+free energy from the equilibrium probability distribution o f
+the system and the timescale of the slowest processes, even
+if they are not directly explored. In a qualitative fashion, th e
+MSM may individuate diverse metastable states and construct
+multi-states models of the processes ( Prinz et al., 2011 ). As an
+example, an MSM was constructed on an aggregate of nearly
+500 100 ns-trajectories describing benzamidine-trypsin bi nding
+(with 37% productive trajectories); this enabled to charact erize
+the binding process individuating three transition states, and
+to estimate binding free energy with 1 kcal/mol diﬀerence
+from the experimental one (while a higher deviation from
+experiment was associated with the extrapolated k onand koﬀ)
+(Buch et al., 2011 ). Moreover, the computation of MSM on
+the collected data can give a feedback about undersampled
+zones of the phase space, suggesting where to focus further
+simulation, adapting the sampling (adaptive sampling methods)
+and increasing the eﬃciency of simulations ( Bowman et al.,
+2010; Doerr and De Fabritiis, 2014 ). Currently, the major
+diﬃcultiesofthistechniquearerelatedtothetrajectorypa rtition
+into discrete states, the choice of the lagtime and suﬃcient
+sampling to guarantee statistical signiﬁcance ( Pande et al.,
+2010).Several alternative techniques have been developed during
+the years to overcome the time limitation imposed by classical
+MD simulations. A ﬁrst example consists of the Coarse-Grained
+MD simulations, in which groups of atoms are condensed into
+spheres,reducingthedegreesoffreedomofthesystem( Kmiecik
+et al., 2016 ). This simpliﬁes the conformational landscape of
+the system, but, as a drawback, the information on the all-at om
+simulations,thatarepreciousfordrug-discoveryaim,arel ost.
+Additionalstrategiesconsistofenhancedsamplingtechnique s
+that apply a bias to molecular dynamics simulations to increas e
+theaccessibletimescale,enablingthesimulationofslowpro cesses
+like binding, unbinding and folding processes in a reduced
+amountoftime.
+Enhanced Sampling Techniques
+These methods add a bias force/potential to the system to
+increase the rate of escape from local minima, entailing
+an acceleration of conformational sampling. They have
+been conceived primarily to study either folding or binding
+or unbinding processes, sharing the underlying idea of
+enhancementofsamplingandovercominghighenergybarriers.
+Enhanced sampling techniques can be divided into methods
+that make use of collective variables to introduce the bias a nd
+methodsthatdonot( DeVivoetal.,2016 )(Figure3).
+The employment of a collective variable (CV) is based on
+the idea that a complex system can be decomposed into one
+or a combination of reaction coordinates describing the proc ess
+of interest. These coordinates are named as collective vari ables
+sinceitisassumedtheycansummarizethebehavioroftheent ire
+system. After a careful choice of the CVs, the bias is added
+on these coordinates during the simulation enhancing sampli ng
+along the CVs. The phase space is reduced to the space of the
+collective variables, since the conformational space is proj ected
+totheselectedCVs,withaconsequentdimensionalreduction of
+thefreeenergysurface.
+In the following paragraphs, few representative enhanced
+sampling techniques are reported as an example, focusing on
+their application in binding and unbinding and going toward a
+fullydynamicdocking( DeVivoandCavalli,2017 ).
+Collectivevariables-freemethods
+Replica Exchange Molecular Dynamics (REMD) This
+method adopts an increase in temperature to accelerate the
+conformational sampling. The ﬁrst formulation of Replica
+Exchange MD ( Sugita and Okamoto, 1999 ), also known as
+Parallel Tempering (PT), consists of the parallel simulation
+of a number of independent and simultaneous replicas of the
+same system, starting from the same conﬁguration, but at
+diﬀerent temperatures. At regular time intervals, two replicas
+characterized by neighbor temperatures are switched, or, in
+otherterms,theirtemperaturesareexchanged,withaprobabi lity
+determinedbytheenergy( E)andtemperature( T)ofthesystem.
+In particular, the transition probability between simulatio ns
+at temperature T1andT2is determined by the Metropolis
+criterion:
+P(T1:T2)={1 for[β2−β1](E1−E2)≤0
+e−[β2−β1](E1−E2)for[β2−β1](E1−E2)>0
+where β=1/kBT(withkBtheBoltzmannconstant).
+Frontiers in Pharmacology | www.frontiersin.org 8 August 2018 | Volume 9 | Article 923
+Salmaso and Moro Molecular Docking and Dynamics Overview
+FIGURE 3 | Summary of the enhanced sampling techniques described duri ng this work.
+Temperaturesareupdatedbyrescalingthevelocitiesofthepar ent
+simulations ( v1andv2tov1′andv2′) according to the following
+equation:
+
+
+v′
+1=√
+T2
+T1v1
+v′
+2=√
+T1
+T2v2
+The choice of the panel of temperatures is critical, and various
+strategies have been proposed to guide the selection ( Patriksson and
+vanderSpoel,2008 ).
+Further development of REMD has been introduced, such
+as the Hamiltonian Replica Exchange (H-REMD), where
+Hamiltonians are exchanged among replicas instead of temperatu res
+(Fukunishi et al., 2002 ), and Replica Exchange with Solute
+Tempering, where a diﬀerent treatment of the central group
+and the solvent buﬀer is performed ( Liu et al., 2005 ). HREMD
+has been recently combined to conventional MD simulations
+using multi-ensemble Markov models (MEMMs) ( Wu et al.,2016) to investigate the multistate kinetics of Mdm2 and its
+inhibitor peptide PMI ( Paul et al., 2017 ). An ensemble of 500 µs
+unbiased MD simulations conducted from diﬀerent initial states,
+especially dissociated, were combined to HREMD simulations (6
+simulations of 1 µs and with 14 replicas) to enhance sampling
+of rare dissociation events; the results were analyzed through
+the TRAMMBAR estimator, leading to the prediction of a
+residence time beyond the second timescale, despite a sub-
+millisecond simulation time. Moreover, the trajectories were
+furtherly analyzed to investigate the binding mechanism and
+binding-induced folding of PMI ( Paul et al., 2018 ). It appeared
+that a multitude of parallel pathways is possible and that binding
+and folding are coupled, while not temporarily ordered and
+separated.
+Accelerated Molecular Dynamics (aMD) Accelerated MD (aMD)
+facilitates the egress from a low energy basin by adding a bias
+potentialfunction( )Delta1V(r))whenthesystemisentrappedinanenergy
+minimum. In particular, when the potential energy ( V(r)) is lower
+Frontiers in Pharmacology | www.frontiersin.org 9 August 2018 | Volume 9 | Article 923
+Salmaso and Moro Molecular Docking and Dynamics Overview
+thanacertaincut-oﬀ( E),thebiasisaddedgivingamodiﬁedpotential
+(V∗(r)=V(r)+)Delta1V(r)); otherwise the simulation continues in the
+true-unbiasedpotential( V∗(r)=V(r)).
+Thebiasfunctionisreportedinthefollowingequation:
+)Delta1V(r)=(E−V(r))2
+α+(E−V(r))
+whereEis the potential energy cut-oﬀ and αis a tuning parameter
+determiningthedepthofthemodiﬁedpotentialenergybasin.
+Ehas to be at least greater than Vmin(the minimum potential
+energy, close to the starting conﬁguration), while α=E-Vminwill
+allowmaintainingtheunderlyingshapeofthelandscape( Hamelberg
+etal.,2004 ).
+As an example, aMD showed qualitatively similar results to
+classical MD with fewer computational eﬀort in the simulation
+of tiotropium-M 3Muscarinic Acetylcholine Receptor binding:
+tiotropium was observed to recognize the extracellular vestibul e of
+the receptor, as in a previously reported long (16 µs) classical MD
+simulation ( Kruse et al., 2012 ), by accelerating the process of about
+one order of magnitude (three aMD replicas of 200 ns, 500 ns, and 1
+µs)(Kappeletal.,2015 ).
+CollectiveVariables-dependentmethods
+Steered Molecular Dynamics (SMD) Taking inspiration from
+atomic force microscopy experiments, in Steered MD (SMD) an
+external force is applied to a ligand to drive it out of the target
+binding site ( Isralewitz et al., 1997, 2001; Izrailev et al., 1997 ). Other
+possibilities involve the application of forces on diﬀerent CVs, suc h
+asnonlinearcoordinatesthatcanhelptoexploretheconformat ional
+rearrangementofproteindomains( Izrailevetal.,1999 ).
+SMD gives insights into the ligand-target unbinding mechanism,
+which can be investigated through the dynamical evolution of
+the ligand-target pattern of interactions, as reported for a se ries
+of Cyclin-Dependent Kinase 5 (CDK5) inhibitors ( Patel et al.,
+2014). In the same work, the second application of SMD in drug
+discovery is highlighted: since the bias force added during an SMD
+simulation is assumed to be related to the binding strength, the
+binding force proﬁle can be used to discriminate binders from non-
+binders.
+SMDreliesonanapriorideﬁnitionoftheappliedforcedirection,
+whichcanbeﬁxed(forexampleasimplestraightline)orcanchange
+during the simulation. The choice of the direction is not trivial,
+because a ligand may bump into obstructions during its way out of
+the protein, but a method evaluating the minimal steric hindrance
+has been reported ( Vuong et al., 2015 ). Moreover, integration with
+thetargetedmoleculardynamics(TMD)arereported:inTMDabia s
+forceisappliedtoconductthesystemfromaninitialtoadesiredﬁn al
+conﬁguration ( Schlitter et al., 1993 ), leading to the individuation of
+a path that can be used as set of directions for an SMD simulation
+(Isralewitzetal.,2001 ).
+Random Acceleration Molecular Dynamics (RAMD) Random
+Acceleration MD (RAMD), also deﬁned Random Expulsion MD, is
+anextensionofSMD,and,likethis,wasdevelopedtostudytheegr ess
+of a ligand from its target binding site. It consists of the application
+of an artiﬁcial randomly-directed force on a ligand to accelerat e its
+unbinding. In this way, in comparison with SMD, RAMD avoids
+the preliminary choice of the force direction; consequently, if so me
+obstructions are found during the exit pathway, the escape direct ion
+isswitched.Inparticular,thedirectionoftheforceischosenstochastically and
+maintainedforanumberofMDsteps.Ifduringthistimeintervalthe
+average velocity of the ligand is lower than a speciﬁed cut-oﬀ (or , in
+otherterms,ifthedistancecoveredbytheligandislowerthanac ut-
+oﬀdistance, rmin),meaningthatprobablyarigidobstructionhasbeen
+met,anewforcedirectionisassignedtoallowtheligandtosearch for
+alternativeexitpathways( Lüdemannetal.,2000 ).
+As SMD, RAMD is predominantly used to simulate ligand
+unbinding from a molecular target. The egress of carazolol fro m
+β2Adrenergic Receptor was for example described thanks to an
+ensemble of RAMD simulations (100 simulation, with a variable
+length of maximum 1 ns): the extracellular surface opening of the
+receptorwasindividuatedasthepredominantexitroot,entailingth e
+ruptureofasaltbridgelinkingextracellularloop2totransmem brane
+helix7(WangandDuan,2009 ).
+Umbrella Sampling (US) Umbrella Sampling (US) ( Torrie and
+Valleau, 1977 ) consists of restraining the system along one or a
+combination of CVs. Commonly, the range of interest of the CV
+is divided into windows, each characterized by a reference value of
+the CV ( ξref). The bias potential enhances sampling in each window
+by forcing the system to stay close to the respective CV referen ce
+value. The bias isafunctionof the reactioncoordinate, and canha ve
+diﬀerentshapes,butgenerallyconsistsofasimpleharmonic,as inthe
+followingequation:
+V(ξ)=k
+2(ξ−ξref)2
+Wherekisthestrengthofthepotentialand ξisthevalueoftheCV.
+Thestrengthofthebiashastobehighenoughtoletenergybarrie rs
+crossing, but suﬃciently low to enable the overlapping of syste m
+distributions of diﬀerent windows, as required for post-processin g
+analysis.
+The aim of US is to force sampling in each window to collect
+suﬃcient statistics along with the whole reaction coordinate. The n
+the distribution of the system and consequently the free energy is
+calculated along the CV ( Kästner, 2011 ). Diﬀerent post-processing
+methods can be used to perform combination and analysis of the
+data coming from the diﬀerent US windows; the most famous
+is umbrella integration ( Kästner and Thiel, 2005 ), the weighted
+histogram analysis method (WHAM) ( Kumar et al., 1992 ), and
+the more recent Dynamic Weighted Histogram Analysis (DHAM)
+(Rosta and Hummer, 2015 ), which can be used also to derive kinetic
+parameters.
+Integrations of US with other enhanced sampling techniques
+are reported in the literature, such as the replica-exchange
+umbrella sampling method (REUS), where an umbrella potential
+is exchanged among replicas ( Sugita et al., 2000; Kokubo et al.,
+2011). This technique was applied to the prediction of ligand-
+protein binding structures, starting from unbound initial states
+and employing as CV ξthe distance between the centers of
+mass of the ligand and of the backbone of two selected residues.
+This technique resulted to be eﬀective in the prediction of the
+binding mode of a couple of ligands on p38 and JNK3 kinases
+(RMSD minor than 1.7 Å), and outperformed a cross-docking
+experiment, highlighting the importance of considering protein
+ﬂexibility to accurately predict the coordinates of a complex
+(Kokuboetal.,2013 ).
+Frontiers in Pharmacology | www.frontiersin.org 10 August 2018 | Volume 9 | Article 923
+Salmaso and Moro Molecular Docking and Dynamics Overview
+Metadynamics Metadynamics ( Laio and Parrinello, 2002 )
+introduces a bias potential to the Hamiltonian of the system in
+the form of a Gaussian-shaped function of one or more CVs. In this
+case, the bias does not restrain or constrain the system, neither force
+the system along with a preferred direction in the CV space. The
+bias is used to keep the memory of the already explored zones of th e
+phase space, and to discourage the system to visit them again ( Laio
+andGervasio,2008 ).
+At time t, the bias potential ( VG(S,t)) is reported in the following
+equation:
+VG(S,t)=∫t
+0dt′ωexp
+−d∑
+i=1(Si(R)−Si(
+R(
+t′))
+)2
+2σ2
+i
+
+whereS(R)=(S1(R),...,Sd(R))isasetof dCVs(whicharefunctionsof
+thecoordinates Rofthesystem), Si(R(t))isthevalueofthe ithCVat
+timet,σiistheGaussianwidthforthe ithCV,and ωistheenergyrate,
+givenby:
+ω=W
+τG
+withWtheGaussianheightand τGthedepositionrate.
+Thus, the bias is “history-dependent,” because it is the sum of the
+Gaussians that have already been deposited in the CV space during
+thetime.The free energy landscape is explored, starting from the bottom
+of a well, by a random walk; bias-Gaussians are deposited in the CV
+space with a given frequency, and at each iteration, the bias is given
+by the sum of the already deposited Gaussians. As time goes by, th e
+system,insteadofbeingtrappedinthebottomofawell,ispushed out
+by the hill of deposited Gaussians and enters a new minimum. The
+process continues until all the minima are compensated by the bias
+potential( Barduccietal.,2011 ).
+Metadynamics in this way enables to enhance sampling and to
+reconstruct the free energy surface; this can be used to explor e
+binding/unbinding processes ( Gervasio et al., 2005 ), and, with the
+application of funnel metadynamics ( Limongelli et al., 2013 ), to the
+estimationofbindingfreeenergy.
+Unfortunately, it may occur that the free energy surface is
+overﬁlled, but this has been partially solved by well-tempere d
+metadynamics,inwhichtheheightoftheaddedGaussianisrescaled
+by the already deposited bias ( Barducci et al., 2008 ). Another issue
+with metadynamics is the choice of the CVs, which should describe
+the slowest motions of the system and the initial-ﬁnal-relevant
+intermediates. Moreover, a small number of CVs has to be used,
+and a good strategy is a combination with other techniques able to
+enhanced sampling along a great number of transverse coordina tes
+(Barducci et al., 2011 ), such as with parallel tempering ( Bussi
+etal.,2006 ).Usingawell-temperedmultiple-walkerfunnel-restrained
+metadynamics,thebindingpathwayofseveralligandsto5G-prot ein-
+coupled receptors (including X-ray crystal structures and ho mology
+models) has been recently explored, resulting in the prediction o f
+FIGURE 4 | (A) Sketch of a pepSuMD step: the distance between the centers of mass of the ligand (peptide) and the target is computed at reg ular time intervals
+during the SuMD step. The distance values are ﬁtted by a line, w hose slope (m) determines if the current SuMD step (m >0) or a new one (m <0) has to be
+simulated. (B)Representation of the binding pathway bringing BAD peptide to the Bcl-X Lbinding site, occurring in 46.2 ns. The superposition of the ﬁnal pepSuMD
+state with the experimental structure (PDB ID: 1G5J, Petros et al., 2000 ) is reported on the right.
+Frontiers in Pharmacology | www.frontiersin.org 11 August 2018 | Volume 9 | Article 923
+Salmaso and Moro Molecular Docking and Dynamics Overview
+bindingfreeenergieswitharoot-mean-squareerrorminorthan1k cal
+mol−1(Salehetal.,2017 ).
+Supervised Molecular Dynamics
+In the last years, a new method, called Supervised Molecular
+Dynamics (SuMD), has been introduced to accelerate the binding
+process (Sabbadin and Moro, 2014; Cuzzolin et al., 2016 ). SuMD is
+distinguished from enhanced sampling simulations since it does not
+aﬀecttheenergyproﬁleofthesystem.
+A SuMD simulation consists of a series of small MD windows
+(hundredsofpicoseconds),calledSuMDsteps,wherestep n+1isrun
+after the evaluation of step nin terms of ligand-target approaching.
+During each SuMD step, the distance between the centers of mass
+of the ligand and of the target binding site (few selected residues ) is
+computed;distancevaluesarecollectedatregularintervals duringthe
+simulationandareﬁttedbyaline( Figure4A ).Iftheslopeoftheline
+is negative, it means that the ligand is approaching the binding site,
+theSuMDstep(step n)isconsideredproductive,andanewstep(step
+n+1)isstartedfromthelastcoordinatesandvelocitiesofthecurre nt
+step. Otherwise, if the slope is positive, it means that the SuMD step
+is unproductive, thus the current SuMD step simulation is deleted
+and restarted from its initial coordinates (starting conﬁguration of
+stepn). The simulation is concluded after that the distance between
+the centers of mass of ligand and target fall under a certain cut -oﬀ.
+Finally, the consecutive SuMD steps are merged together providin g
+theSuMDtrajectory.
+Inthisway,SuMDenablestoobserveabindingeventinareduced
+timescale, in the orders of tens to hundreds of nanoseconds, wit hout
+the introduction of any energetic bias. Indeed, SuMD simply focuses
+sampling by the introduction of a tabu-like algorithm which favors
+the progress of a simulation toward productive events and avoids
+wastingsimulationtimeinuninterestingportionsofthesearchspac e.
+Certainly, a single SuMD trajectory is not suﬃcient to explain
+the complex binding process, and the retrieval of thermodynamic
+quantities from a single simulation must be avoided. Nevertheless,
+a SuMD trajectory depicts one of the possible binding pathways
+leading a ligand to reach the target, so it can be useful to propos e a
+mechanistichypothesis.
+The technique was ﬁrst applied to Adenosine Receptors, where
+it facilitated the characterization of the binding pathways of seve ral
+ligands toward the receptor, with the exploration of metabinding
+sites (Sabbadin and Moro, 2014; Sabbadin et al., 2015 ). In this
+context, SuMD can be useful in the interpretation of allosteric
+interactions ( Deganutti et al., 2015 ) and has proved to be supportive
+to the identiﬁcation of fragment-like positive allosteric modulat ors
+(Deganutti and Moro, 2017 ). In fact, SuMD turned out to be
+eﬀectiveinsimulatingfragmentcompounds,asshownbytheaccur ate
+prediction of the binding mode of a catechol fragment to human
+peroxiredoxin5(PRDX5),reachingaminimumRMSDof0.7Åfrom
+thecrystallographicpose.
+The applicability spectrum of SuMD has been furtherly enlarged,
+till the development of pepSuMD, a revised version of the techniqu eable to simulate the binding pathway of a peptide ligand toward its
+proteinbindingsite( Salmasoetal.,2017 ).Therecognitionprocessof
+theBADpeptidetoBcl-X Lprotein(Figure4B )andofthep53peptide
+to MDM2 has been recently reported, with the achievement of an
+RMSD less than 5 Å from the experimental conformation in tens of
+nanoseconds in both cases (46.2 and 23.40 ns, respectively). D uring
+the BAD/Bcl-X Lsimulation, the C-terminal helix explored diﬀerent
+conformations, meaning that peptide and protein conformational
+rearrangements can be observed during a SuMD simulation
+when occurring in the same time scale of the SuMD-accelerated
+binding.
+CONCLUSIONS AND PERSPECTIVES
+In this review, an excursus over some relevant computational
+techniques in drug discovery has been performed, highlighting
+how protein ﬂexibility has been introduced into the simulations
+during the years. Starting from simple rigid docking strategies
+justiﬁed by the lock-key model, it was soon necessary to conside r
+conformational degrees of freedom of ligands during docking.
+Experimental data proving the existence of diﬀerent conformations
+of protein structures has made the molecular models to face th e
+problemofinterpretingandsimulatingconformationaltransition sof
+macromolecules.
+Fromroughattemptstoincludeproteinﬂexibilityduringclassical
+molecular docking, the development of hardware technologies and
+of novel MD computational techniques has been allowing more and
+more to simulate huge conformational movements. The possibility
+to simulate contemporary folding and binding phenomena can be
+exploitedtoanswerthelong-standingdebateabout“induced-ﬁt ”and
+“conformational selection” binding models, by giving a mechanistic
+interpretationofbindingpathways.
+Moreover,someoftheenhancedsamplingtechniquesarenomore
+anexclusivemethodologicalexercise,buthasbecomewithinreach of
+many research groups, whit a consequent real applicability in dru g
+discovery.
+AUTHOR CONTRIBUTIONS
+VSandSMdevisedtheorganization,themainconceptualideas,pro of
+outline and wrote the review. The content of the present work ha s
+been largely taken from the PhD thesis entitled Exploring protein
+ﬂexibility during docking to investigate ligand-target recognition
+writtenbyVSunderthesupervisionofSM.
+ACKNOWLEDGMENTS
+MMS lab is very grateful to Chemical Computing Group, OpenEye,
+and Acellera for the scientiﬁc and technical partnership. MMS la b
+gratefullyacknowledgesthesupportofNVIDIACorporationwitht he
+donationoftheTitanXpGPUusedforthisresearch.
+REFERENCES
+Abagyan,R.,andTotrov,M.(2001).High-throughputdockingfor leadgeneration.
+Curr.Opin.Chem.Biol. 5,375–382.doi:10.1016/S1367-5931(00)00217-9
+Abagyan, R., Totrov, M., and Kuznetsov, D. (1994). ICM? A
+new method for protein modeling and design: applicationsto docking and structure prediction from the distorted native
+conformation. J. Comput. Chem. 15, 488–506. doi: 10.1002/jcc.540
+150503
+Adcock, S. A., and McCammon, J. A. (2006). Molecular dynamics: sur vey of
+methods for simulating the activity of proteins. Chem. Rev. 106, 1589–1615.
+doi:10.1021/cr040426m
+Frontiers in Pharmacology | www.frontiersin.org 12 August 2018 | Volume 9 | Article 923
+Salmaso and Moro Molecular Docking and Dynamics Overview
+Alder, B. J., and Wainwright, T. E. (1957). Phase transition for a hard sphere
+system.J.Chem.Phys. 27,1208–1209.doi:10.1063/1.1743957
+Alonso, H., Bliznyuk, A. A., and Gready, J. E. (2006). Combining do cking and
+molecular dynamic simulations in drug design. Med. Res. Rev. 26, 531–568.
+doi:10.1002/med.20067
+Amaro, R. E., Baron, R., and McCammon, J. A. (2008). An improved relaxed
+complex scheme for receptor ﬂexibility in computer-aided drug design. J.
+Comput.AidedMol.Des. 22,693–705.doi:10.1007/s10822-007-9159-2
+Apostolakis, J., Pluckthun, A., and Caﬂisch, A. (1998). Dockin g small ligands in
+ﬂexible binding sites. J. Comput. Chem. 19, 21–37. doi: 10.1002/(SICI)1096-
+987X(19980115)19:1<21::AID-JCC2>3.0.CO;2-0
+Austin, R. H., Beeson, K. W., Eisenstein, L., Frauenfelder, H., a nd Gunsalus, I. C.
+(1975).Dynamicsofligandbindingtomyoglobin. Biochemistry 14,5355–5373.
+doi:10.1021/bi00695a021
+Barducci, A., Bonomi, M., and Parrinello, M. (2011). Metadynamics. WIREs
+Comput.Mol.Sci. 1,826–843.doi:10.1002/wcms.31
+Barducci, A., Bussi, G., and Parrinello, M. (2008). Well-tempered metad ynamics:
+a smoothly converging and tunable free-energy method. Phys. Rev. Lett.
+100:020603.doi:10.1103/PhysRevLett.100.020603
+Baxter, C. A., Murray, C. W., Clark, D. E., Westhead, D. R., and
+Eldridge, M. D. (1998). Flexible docking using tabu search and
+an empirical estimate of binding aﬃnity. Proteins 33, 367–382.
+doi:10.1002/(SICI)1097-0134(19981115)33:3<367::AID- PROT6>3.0.CO;2-W
+Berman, H. M., Westbrook, J., Feng, Z., Gilliland, G., Bhat, T. N., We issig,
+H., et al. (2000). The protein data bank. Nucleic Acids Res. 28, 235–242.
+doi:10.1093/nar/28.1.235
+Betz, M., Wulsdorf, T., Krimmer, S. G., and Klebe, G. (2016). Impact o f surface
+water layers on protein–ligand binding: how well are experimental dat a
+reproduced by molecular dynamics simulations in a thermolysin test case? .J.
+Chem.Inf.Model. 56,223–233.doi:10.1021/acs.jcim.5b00621
+Böhm, H. J. (1994). The development of a simple empirical scoring function
+to estimate the binding constant for a protein-ligand complex of kno wn
+three-dimensional structure. J. Comput. Aided Mol. Des. 8, 243–256.
+doi:10.1007/BF00126743
+Born, M., and Oppenheimer, R. (1927). Zur quantentheorie der moleke ln.Ann.
+Phys.389,457–484.doi:10.1002/andp.19273892002
+Bortolato,A.,Tehan,B.G.,Bodnarchuk,M.S.,Essex,J.W.,an dMason,J.S.(2013).
+Waternetworkperturbationinligandbinding:adenosineA(2A)a ntagonistsas
+acasestudy. J.Chem.Inf.Model. 53,1700–1713.doi:10.1021/ci4001458
+Bowman, G. R., Ensign, D. L., and Pande, V. S. (2010). Enhanced modeling via
+network theory: adaptive sampling of Markov state models. J. Chem. Theory
+Comput.6,787–794.doi:10.1021/ct900620b
+Brooijmans, N., and Kuntz, I. D. (2003). Molecular recognition an d
+docking algorithms. Annu. Rev. Biophys. Biomol. Struct. 32, 335–373.
+doi:10.1146/annurev.biophys.32.110601.142532
+Buch, I., Giorgino, T., and De Fabritiis, G. (2011). Complete reco nstruction of an
+enzyme-inhibitor binding process by molecular dynamics simulations .Proc.
+Natl.Acad.Sci.U.S.A. 108,10184–10189.doi:10.1073/pnas.1103547108
+Bussi,G.,Gervasio,F.L.,Laio,A.,andParrinello,M.(2006).F ree-energylandscape
+forbetahairpinfoldingfromcombinedparalleltemperingandmetadynamics .
+J.Am.Chem.Soc. 128,13435–13441.doi:10.1021/ja062463w
+Charifson, P. S., Corkery, J. J., Murcko, M. A., and Walters, W. P. (1999).
+Consensus scoring: a method for obtaining improved hit rates from do cking
+databases of three-dimensional structures into proteins. J. Med. Chem. 42,
+5100–5109.doi:10.1021/jm990352k
+Chen, H.-M., Liu, B.-F., Huang, H.-L., Hwang, S.-F., and Ho, S.-Y. (2007).
+SODOCK: swarm optimization for highly ﬂexible protein-ligand docki ng.J.
+Comput.Chem. 28,612–623.doi:10.1002/jcc.20542
+Corbeil,C.R.,Williams,C.I.,andLabute,P.(2012).Variability indockingsuccess
+rates due to dataset preparation. J. Comput. Aided Mol. Des. 26, 775–786.
+doi:10.1007/s10822-012-9570-1
+Cornell,W.D.,Cieplak,P.,Bayly,C.I.,Gould,I.R.,Merz,K.M.,Fer guson,D.M.,
+et al. (1995). A second generation force ﬁeld for the simulation of proteins,
+nucleic acids, and organic molecules. J. Am. Chem. Soc. 117, 5179–5197.
+doi:10.1021/ja00124a002
+Csermely, P., Palotai, R., and Nussinov, R. (2010). Induced ﬁt, c onformational
+selection and independent dynamic segments: an extended view ofbinding events. Trends Biochem. Sci. 35, 539–546. doi: 10.1016/j.tibs.2010.
+04.009
+Cuzzolin, A., Deganutti, G., Salmaso, V., Sturlese, M., and Moro, S .
+(2018). AquaMMapS: an alternative tool to monitor the role of water
+molecules during protein-ligand association. ChemMedChem 13, 522–531.
+doi:10.1002/cmdc.201700564
+Cuzzolin, A., Sturlese, M., Deganutti, G., Salmaso, V., Sabbadin , D., Ciancetta,
+A., et al. (2016). Deciphering the complexity of ligand-protein recogn ition
+pathways using supervised molecular dynamics (SuMD) simulations. J. Chem.
+Inf.Model. 56,687–705.doi:10.1021/acs.jcim.5b00702
+DeVivo,M.,andCavalli,A.(2017).Recentadvancesindynamicd ockingfordrug
+discovery. WIREsComput.Mol.Sci. 7:e1320.doi:10.1002/wcms.1320
+De Vivo, M., Masetti, M., Bottegoni, G., and Cavalli, A. (2016) . Role of molecular
+dynamicsandrelatedmethodsindrugdiscovery. J.Med.Chem. 59,4035–4061.
+doi:10.1021/acs.jmedchem.5b01684
+Deganutti, G., Cuzzolin, A., Ciancetta, A., and Moro, S. (2015 ). Understanding
+allosteric interactions in G protein-coupled receptors using supervis ed
+molecular dynamics: a prototype study analysing the human A3 adenosin e
+receptor positive allosteric modulator LUF6000. Bioorg. Med. Chem. 23,
+4065–4071.doi:10.1016/j.bmc.2015.03.039
+Deganutti, G., and Moro, S. (2017). Supporting the identiﬁcatio n of
+novel fragment-based positive allosteric modulators using a supervi sed
+molecular dynamics approach: a retrospective analysis considering the
+human A2A adenosine receptor as a key example. Molecules 22:818.
+doi:10.3390/molecules22050818
+DesJarlais, R. L., Sheridan, R. P., Dixon, J. S., Kuntz, I. D., an d Venkataraghavan,
+R. (1986). Docking ﬂexible ligands to macromolecular receptors by molec ular
+shape.J.Med.Chem. 29,2149–2153.doi:10.1021/jm00161a004
+Doerr, S., and De Fabritiis, G. (2014). On-the-ﬂy learning and sa mpling of ligand
+binding by high-throughput molecular simulations. J. Chem. Theory Comput.
+10,2064–2069.doi:10.1021/ct400919u
+Dror, R. O., Pan, A. C., Arlow, D. H., Borhani, D. W., Maragakis, P.,
+Shan, Y., et al. (2011). Pathway and mechanism of drug binding to G-
+protein-coupled receptors. Proc. Natl. Acad. Sci. U.S.A. 108, 13118–13123.
+doi:10.1073/pnas.1104614108
+Duan, Y., and Kollman, P. A. (1998). Pathways to a protein folding in termediate
+observed in a 1-microsecond simulation in aqueous solution. Science282,
+740–744.doi:10.1126/science.282.5389.740
+Durrant,J.D.,andMcCammon,J.A.(2011).Moleculardynamicssimulat ionsand
+drugdiscovery. BMCBiol. 9:71.doi:10.1186/1741-7007-9-71
+Durrant, J. D., Urbaniak, M. D., Ferguson, M. A., and McCammon, J.
+A. (2010). Computer-aided identiﬁcation of Trypanosoma brucei uri dine
+diphosphate galactose 4’-epimerase inhibitors: toward the developme nt of
+novel therapies for African sleeping sickness. J. Med. Chem. 53, 5025–5032.
+doi:10.1021/jm100456a
+Ebejer,J.-P.,Fulle,S.,Morris,G.M.,andFinn,P.W.(2013).Th eemergingroleof
+cloud computing in molecular modelling. J. Mol. Graph. Model. 44, 177–187.
+doi:10.1016/j.jmgm.2013.06.002
+Eldridge,M.D.,Murray,C.W.,Auton,T.R.,Paolini,G.V.,andMee ,R.P.(1997).
+Empirical scoring functions: I. The development of a fast empirical sco ring
+function to estimate the binding aﬃnity of ligands in receptor co mplexes. J.
+Comput.AidedMol.Des. 11,425–445.doi:10.1023/A:1007996124545
+Fischer, E. (1894). Einﬂuss der conﬁguration auf die wirkung d er enzyme. Ber.
+Dtsch.ChemischenGes. 27,2985–2993.doi:10.1002/cber.18940270364
+Foote, J., and Milstein, C. (1994). Conformational isomerism and the
+diversity of antibodies. Proc. Natl. Acad. Sci. U.S.A. 91, 10370–10374.
+doi:10.1073/pnas.91.22.10370
+Frauenfelder, H., Sligar, S. G., and Wolynes, P. G. (1991). The ene rgy landscapes
+and motions of proteins. Science254, 1598–1603. doi: 10.1126/science.17
+49933
+Friedrichs,M.S.,Eastman,P.,Vaidyanathan,V.,Houston,M.,L egrand,S.,Beberg,
+A. L., et al. (2009). Accelerating molecular dynamic simulation on graph ics
+processingunits. J.Comput.Chem. 30,864–872.doi:10.1002/jcc.21209
+Friesner, R. A., Banks, J. L., Murphy, R. B., Halgren, T. A., Klicic, J. J., Mainz, D.
+T.,etal.(2004).Glide:anewapproachforrapid,accuratedockingan dscoring.
+1. Method and assessment of docking accuracy. J. Med. Chem. 47, 1739–1749.
+doi:10.1021/jm0306430
+Frontiers in Pharmacology | www.frontiersin.org 13 August 2018 | Volume 9 | Article 923
+Salmaso and Moro Molecular Docking and Dynamics Overview
+Friesner, R. A., Murphy, R. B., Repasky, M. P., Frye, L. L., Greenwoo d, J. R.,
+Halgren, T. A., et al. (2006). Extra precision glide: docking and sco ring
+incorporatingamodelofhydrophobicenclosureforprotein-ligandcomplex es.
+J.Med.Chem. 49,6177–6196.doi:10.1021/jm051256o
+Fukunishi, H., Watanabe, O., and Takada, S. (2002). On the hami ltonian replica
+exchangemethodforeﬃcientsamplingofbiomolecularsystems:applicat ionto
+proteinstructureprediction. J.Chem.Phys. 116:9058.doi:10.1063/1.1472510
+Ganser, L. R., Lee, J., Rangadurai, A., Merriman, D. K., Kelly, M. L. , Kansal,
+A. D., et al. (2018). High-performance virtual screening by targeti ng a high-
+resolution RNA dynamic ensemble. Nat. Struct. Mol. Biol. 25, 425–434.
+doi:10.1038/s41594-018-0062-4
+Gervasio, F. L., Laio, A., and Parrinello, M. (2005). Flexible dock ing in solution
+usingmetadynamics. J.Am.Chem.Soc. 127,2600–2607.doi:10.1021/ja0445950
+Gohlke, H., Hendlich, M., and Klebe, G. (2000). Knowledge-based sc oring
+function to predict protein-ligand interactions. J. Mol. Biol. 295, 337–356.
+doi:10.1006/jmbi.1999.3371
+Goodsell, D. S., and Olson, A. J. (1990). Automated docking of
+substrates to proteins by simulated annealing. Proteins 8, 195–202.
+doi:10.1002/prot.340080302
+Halgren,T.A.,Murphy,R.B.,Friesner,R.A.,Beard,H.S.,Frye,L.L. ,Pollard,W.
+T.,etal.(2004).Glide:anewapproachforrapid,accuratedockingan dscoring.
+2. Enrichment factors in database screening. J. Med. Chem. 47, 1750–1759.
+doi:10.1021/jm030644s
+Halperin, I., Ma, B., Wolfson, H., and Nussinov, R. (2002). Principle s of docking:
+anoverviewofsearchalgorithmsandaguidetoscoringfunctions .Proteins47,
+409–443.doi:10.1002/prot.10115
+Hamelberg, D., Mongan, J., and McCammon, J. A. (2004). Accelerated molecular
+dynamics: a promising and eﬃcient simulation method for biomolecules. J.
+Chem.Phys. 120,11919–11929.doi:10.1063/1.1755656
+Harvey, M. J., and De Fabritiis, G. (2012). High-throughput molecu lar dynamics:
+the powerful new tool for drug discovery. Drug Discov. Today 17, 1059–1062.
+doi:10.1016/j.drudis.2012.03.017
+Harvey, M. J., and De Fabritiis, G. (2015). Acecloud: molecular
+dynamics simulations in the cloud. J. Chem. Inf. Model. 55, 909–914.
+doi:10.1021/acs.jcim.5b00086
+Harvey, M. J., Giupponi, G., and Fabritiis, G. D. (2009). ACEMD: accelerating
+biomolecular dynamics in the microsecond time scale. J. Chem. Theory
+Comput.5,1632–1639.doi:10.1021/ct9000685
+Henzler-Wildman, K., and Kern, D. (2007). Dynamic personalities of pro teins.
+Nature450,964–972.doi:10.1038/nature06522
+Huang,S.-Y.,andZou,X.(2007).Ensembledockingofmultipleproteins tructures:
+considering protein structural variations in molecular docking. Proteins66,
+399–421.doi:10.1002/prot.21214
+Huang, S.-Y., and Zou, X. (2010). Advances and challenges in protei n-ligand
+docking.Int.J.Mol.Sci. 11,3016–3034.doi:10.3390/ijms11083016
+Huey, R., Morris, G. M., Olson, A. J., and Goodsell, D. S. (2007). A se miempirical
+free energy force ﬁeld with charge-based desolvation. J. Comput. Chem. 28,
+1145–1152.doi:10.1002/jcc.20634
+Isralewitz, B., Gao, M., and Schulten, K. (2001). Steered molecular dynamics
+and mechanical functions of proteins. Curr. Opin. Struct. Biol. 11, 224–230.
+doi:10.1016/S0959-440X(00)00194-9
+Isralewitz, B., Izrailev, S., and Schulten, K. (1997). Binding pat hway of retinal to
+bacterio-opsin:apredictionbymoleculardynamicssimulations. Biophys.J. 73,
+2972–2979.doi:10.1016/S0006-3495(97)78326-7
+Izrailev, S., Crofts, A. R., Berry, E. A., and Schulten, K. (1999). S teered molecular
+dynamics simulation of the Rieske subunit motion in the cytochrome bc(1)
+complex. Biophys.J. 77,1753–1768.doi:10.1016/S0006-3495(99)77022-0
+Izrailev, S., Stepaniants, S., Balsera, M., Oono, Y., and Schulten , K. (1997).
+Moleculardynamicsstudyofunbindingoftheavidin-biotincomple x.Biophys.
+J.72,1568–1581.doi:10.1016/S0006-3495(97)78804-0
+Jiang, F., and Kim, S. H. (1991). “Soft docking”: matching of molec ular surface
+cubes.J.Mol.Biol. 219,79–102.doi:10.1016/0022-2836(91)90859-5
+Jones, G., Willett, P., and Glen, R. C. (1995). Molecular recogniti on of receptor
+sites using a genetic algorithm with a description of desolvation .J. Mol. Biol.
+245,43–53.doi:10.1016/S0022-2836(95)80037-9
+Jones,G.,Willett,P.,Glen,R.C.,Leach,A.R.,andTaylor,R.(1 997).Development
+and validation of a genetic algorithm for ﬂexible docking. J. Mol. Biol. 267,
+727–748.doi:10.1006/jmbi.1996.0897Jorgensen, W. L., and Tirado-Rives, J. (1988). The OPLS [optimi zed potentials
+for liquid simulations] potential functions for proteins, energy minimizations
+for crystals of cyclic peptides and crambin. J. Am. Chem. Soc. 110, 1657–1666.
+doi:10.1021/ja00214a001
+Kappel, K., Miao, Y., and McCammon, J. A. (2015). Accelerated molecular
+dynamics simulations of ligand binding to a muscarinic G-protein-
+coupled receptor. Q. Rev. Biophys. 48, 479–487. doi: 10.1017/S0033583515
+000153
+Kästner, J. (2011). Umbrella sampling. WIREs Comput. Mol. Sci. 1, 932–942.
+doi:10.1002/wcms.66
+Kästner, J., and Thiel, W. (2005). Bridging the gap between the rmodynamic
+integration and umbrella sampling provides a novel analysis method:
+“Umbrellaintegration”. J.Chem.Phys. 123:144104.doi:10.1063/1.2052648
+Khar, K. R., Goldschmidt, L., and Karanicolas, J. (2013). Fast do cking
+on graphics processing units via Ray-Casting. PLoS ONE 8:e70661.
+doi:10.1371/journal.pone.0070661
+Kitchen, D. B., Decornez, H., Furr, J. R., and Bajorath, J. (2004) . Docking and
+scoringinvirtualscreeningfordrugdiscovery:methodsandapplicat ions.Nat.
+Rev.DrugDiscov. 3,935–949.doi:10.1038/nrd1549
+Kmiecik, S., Gront, D., Kolinski, M., Wieteska, L., Dawid, A. E. , and Kolinski, A.
+(2016).Coarse-grainedproteinmodelsandtheirapplications. Chem.Rev. 116,
+7898–7936.doi:10.1021/acs.chemrev.6b00163
+Knegtel, R. M., Kuntz, I. D., and Oshiro, C. M. (1997). Molecular
+docking to ensembles of protein structures. J. Mol. Biol. 266, 424–440.
+doi:10.1006/jmbi.1996.0776
+Kobilka, B. K., and Deupi, X. (2007). Conformational complexity of
+G-protein-coupled receptors. Trends Pharmacol. Sci. 28, 397–406.
+doi:10.1016/j.tips.2007.06.003
+Kokubo, H., Tanaka, T., and Okamoto, Y. (2011). Ab initio predict ion of protein-
+ligand binding structures by replica-exchange umbrella sampling simulatio ns.
+J.Comput.Chem. 32,2810–2821.doi:10.1002/jcc.21860
+Kokubo, H., Tanaka, T., and Okamoto, Y. (2013). Prediction of prot ein–
+ligand binding structures by replica-exchange umbrella sampling simulatio ns:
+application to kinase systems. J. Chem. Theory Comput. 9, 4660–4671.
+doi:10.1021/ct4004383
+Korb,O., Stützle,T., andExner,T.E.(2006).“PLANTS: applicat ion ofantcolony
+optimization to structure-based drug design,” in Ant Colony Optimization
+and Swarm Intelligence , eds M. Dorigo, L. M. Gambardella, M. Birattari, A.
+Martinoli,R.Poli,andT.Stützle(Berlin;Heidelberg:Springer),247– 258.
+Korb, O., Stützle, T., and Exner, T. E. (2009). Empirical scoring f unctions for
+advancedprotein-liganddockingwithPLANTS. J.Chem.Inf.Model. 49,84–96.
+doi:10.1021/ci800298z
+Korb, O., Stützle, T., and Exner, T. E. (2011). Accelerating molec ular docking
+calculations using graphics processing units. J. Chem. Inf. Model. 51, 865–876.
+doi:10.1021/ci100459b
+Koshland, D. E. (1958). Application of a theory of enzyme speciﬁcity to protein
+synthesis. Proc.Natl.Acad.Sci.U.S.A. 44,98–104.doi:10.1073/pnas.44.2.98
+Kruse, A. C., Hu, J., Pan, A. C., Arlow, D. H., Rosenbaum, D. M., Rosemo nd,
+E., et al. (2012). Structure and dynamics of the M3 muscarinic acety lcholine
+receptor. Nature482,552–556.doi:10.1038/nature10867
+Kumar, S., Ma, B., Tsai, C. J., Sinha, N., and Nussinov, R. (200 0). Folding and
+binding cascades: dynamic landscapes and population shifts. Protein Sci. 9,
+10–19.doi:10.1110/ps.9.1.10
+Kumar, S., Rosenberg, J. M., Bouzida, D., Swendsen, R. H., and K ollman,
+P. A. (1992). THE weighted histogram analysis method for free-ene rgy
+calculationsonbiomolecules.I.Themethod .J.Comput.Chem. 13,1011–1021.
+doi:10.1002/jcc.540130812
+Kuntz, I. D., Blaney, J. M., Oatley, S. J., Langridge, R., and Ferri n, T. E. (1982).
+A geometric approach to macromolecule-ligand interactions. J. Mol. Biol. 161,
+269–288.doi:10.1016/0022-2836(82)90153-X
+Laio, A., and Gervasio, F. L. (2008). Metadynamics: a method to simulate
+rare events and reconstruct the free energy in biophysics, chemistry and
+material science. Rep. Prog. Phys. 71:126601. doi: 10.1088/0034-4885/71/12/
+126601
+Laio,A.,andParrinello,M.(2002).Escapingfree-energyminima. Proc.Natl.Acad.
+Sci.U.S.A. 99,12562–12566.doi:10.1073/pnas.202427399
+Leach,A.R.(1994).Liganddockingtoproteinswithdiscretesi de-chainﬂexibility.
+J.Mol.Biol. 235,345–356.doi:10.1016/S0022-2836(05)80038-5
+Frontiers in Pharmacology | www.frontiersin.org 14 August 2018 | Volume 9 | Article 923
+Salmaso and Moro Molecular Docking and Dynamics Overview
+Leach, A. R. (2001). Molecular Modelling: Principles and Applications . illustrated.
+Pearson Education. Available online at: https://books.google. it/books/about/
+Molecular_Modelling.html?id=kB7jsbV-uhkC&redir_esc=y
+Li, Z., and Lazaridis, T. (2003). Thermodynamic contributions of the ordered
+water molecule in HIV-1 protease. J. Am. Chem. Soc. 125, 6636–6637.
+doi:10.1021/ja0299203
+Limongelli, V., Bonomi, M., and Parrinello, M. (2013). Funnel metadyn amics
+as accurate binding free-energy method. Proc. Natl. Acad. Sci. U.S.A. 110,
+6358–6363.doi:10.1073/pnas.1303186110
+Lin, J.-H., Perryman, A. L., Schames, J. R., and McCammon, J. A. (2002 ).
+Computational drug design accommodating receptor ﬂexibility: the re laxed
+complexscheme. J.Am.Chem.Soc. 124,5632–5633.doi:10.1021/ja0260162
+Lin, J.-H., Perryman, A. L., Schames, J. R., and McCammon, J. A. (2003 ).
+The relaxed complex method: accommodating receptor ﬂexibility for
+drug design with an improved scoring scheme. Biopolymers 68, 47–62.
+doi:10.1002/bip.10218
+Lindorﬀ-Larsen, K., Maragakis, P., Piana, S., and Shaw, D. E. (2016). Picosecond
+to millisecond structural dynamics in human ubiquitin. J. Phys. Chem. B 120,
+8313–8320.doi:10.1021/acs.jpcb.6b02024
+Liu, M., and Wang, S. (1999). MCDOCK: a Monte Carlo simulation approa ch
+to the molecular docking problem. J. Comput. Aided Mol. Des. 13, 435–451.
+doi:10.1023/A:1008005918983
+Liu, P., Kim, B., Friesner, R. A., and Berne, B. J. (2005). Replica e xchange with
+solute tempering: a method for sampling biological systems in explicit wa ter.
+Proc.Natl.Acad.Sci.U.S.A. 102,13749–13754.doi:10.1073/pnas.0506346102
+Lüdemann, S. K., Lounnas, V., and Wade, R. C. (2000). How do subs trates enter
+and products exit the buried active site of cytochrome P450cam? 1. R andom
+expulsion molecular dynamics investigation of ligand access chann els and
+mechanisms. J.Mol.Biol. 303,797–811.doi:10.1006/jmbi.2000.4154
+MacKerell, A. D., Bashford, D., Bellott, M., Dunbrack, R. L., Evanse ck, J.
+D., Field, M. J., et al. (1998). All-atom empirical potential for molecu lar
+modeling and dynamics studies of proteins. J. Phys. Chem. B 102, 3586–3616.
+doi:10.1021/jp973084f
+McCammon, J. A., Gelin, B. R., and Karplus, M. (1977). Dynamics of fold ed
+proteins. Nature267,585–590.doi:10.1038/267585a0
+McMartin, C., and Bohacek, R. S. (1997). QXP: powerful, rapid compute r
+algorithms for structure-based drug design. J. Comput. Aided Mol. Des. 11,
+333–344.doi:10.1023/A:1007907728892
+Meiler, J., and Baker, D. (2006). ROSETTALIGAND: protein-small
+molecule docking with full side-chain ﬂexibility. Proteins 65, 538–548.
+doi:10.1002/prot.21086
+Miller, D. W., and Dill, K. A. (1997). Ligand binding to proteins: th e
+binding landscape model. Protein Sci. 6, 2166–2179. doi: 10.1002/pro.55600
+61011
+Miller,M.D.,Kearsley,S.K.,Underwood,D.J.,andSheridan,R.P. (1994).FLOG:a
+systemtoselect“quasi-ﬂexible”ligandscomplementarytoareceptoro fknown
+three-dimensionalstructure. J.Comput.AidedMol.Des. 8,153–174.
+Monod, J., Wyman, J., and Changeux, J. P. (1965). ON THE NATURE OF
+ALLOSTERIC TRANSITIONS: A PLAUSIBLE MODEL. J. Mol. Biol. 12,
+88–118.doi:10.1016/S0022-2836(65)80285-6
+Mooij,W.T.,andVerdonk,M.L.(2005).Generalandtargetedst atisticalpotentials
+for protein-ligand interactions. Proteins 61, 272–287. doi: 10.1002/prot.
+20588
+Morris, G. M., Goodsell, D. S., Halliday, R. S., Huey, R., Hart, W. E., B elew, R. K.,
+et al. (1998). Automated docking using a Lamarckian genetic algo rithm and
+an empirical binding free energy function. J. Comput. Chem. 19, 1639–1662.
+doi:10.1002/(SICI)1096-987X(19981115)19:14<1639::AID -JCC10>3.0.CO;2-B
+Morris, G. M., Goodsell, D. S., Huey, R., and Olson, A. J. (1996).
+Distributed automated docking of ﬂexible ligands to proteins: paralle l
+applications of AutoDock 2.4. J. Comput. Aided Mol. Des. 10, 293–304.
+doi:10.1007/BF00124499
+Namasivayam,V.,andGünther,R.(2007).pso@autodock:afastﬂ exiblemolecular
+docking program based on Swarm intelligence. Chem. Biol. Drug Des. 70,
+475–484.doi:10.1111/j.1747-0285.2007.00588.x
+Ng, M. C., Fong, S., and Siu, S. W. (2015). PSOVina: the hybrid pa rticle swarm
+optimizationalgorithmforprotein-liganddocking. J.Bioinform.Comput.Biol.
+13:1541007.doi:10.1142/S0219720015410073Nobile, M. S., Cazzaniga, P., Tangherloni, A., and Besozzi, D. ( 2017). Graphics
+processingunitsinbioinformatics,computationalbiologyandsys temsbiology.
+BriefBioinform. 18,870–885.doi:10.1093/bib/bbw058
+Okazaki, K., and Takada, S. (2008). Dynamic energy landscape vi ew of
+coupled binding and protein conformational change: induced-ﬁt ve rsus
+population-shift mechanisms. Proc. Natl. Acad. Sci. U.S.A. 105, 11182–11187.
+doi:10.1073/pnas.0802524105
+Oostenbrink, C., Villa, A., Mark, A. E., and van Gunsteren, W. F. (2 004). A
+biomolecularforceﬁeldbasedonthefreeenthalpyofhydrationandso lvation:
+theGROMOSforce-ﬁeldparametersets53A5and53A6. J.Comput.Chem. 25,
+1656–1676.doi:10.1002/jcc.20090
+Osguthorpe, D. J., Sherman, W., and Hagler, A. T. (2012). Exploring prot ein
+ﬂexibility: incorporating structural ensembles from crystal structure s and
+simulation into virtual screening protocols. J. Phys. Chem. B 116, 6952–6959.
+doi:10.1021/jp3003992
+Pande, V. S., Baker, I., Chapman, J., Elmer, S. P., Khaliq, S., Lars on, S. M.,
+et al. (2003). Atomistic protein folding simulations on the submillise cond
+time scale using worldwide distributed computing. Biopolymers 68, 91–109.
+doi:10.1002/bip.10219
+Pande,V.S.,Beauchamp,K.,andBowman,G.R.(2010).Everything youwantedto
+know about Markov State Models but were afraid to ask. Methods52, 99–105.
+doi:10.1016/j.ymeth.2010.06.002
+Pang,Y.-P.,Perola,E.,Xu,K.,andPrendergast,F.G.(2001).EUD OC:acomputer
+program for identiﬁcation of drug interaction sites in macromolecules and
+drug leads from chemical databases. J. Comput. Chem. 22, 1750–1771.
+doi:10.1002/jcc.1129
+Patel, J. S., Berteotti, A., Ronsisvalle, S., Rocchia, W., and Ca valli, A.
+(2014). Steered molecular dynamics simulations for studying protein -ligand
+interaction in cyclin-dependent kinase 5. J. Chem. Inf. Model. 54, 470–480.
+doi:10.1021/ci4003574
+Patriksson, A., and van der Spoel, D. (2008). A temperature predictor f or
+parallel tempering simulations. Phys. Chem. Chem. Phys. 10, 2073–2077.
+doi:10.1039/b716554d
+Paul, F., Noé, F., and Weikl, T. R. (2018). Identifying conformat ional-selection
+and induced-ﬁt aspects in the binding-induced folding of PMI f rom Markov
+state modeling of atomistic simulations. J. Phys. Chem. B. 122, 5649–5656.
+doi:10.1021/acs.jpcb.7b12146
+Paul, F., Wehmeyer, C., Abualrous, E. T., Wu, H., Crabtree, M. D.,
+Schöneberg, J., et al. (2017). Protein-peptide association kin etics beyond
+the seconds timescale from atomistic simulations. Nat. Commun. 8:1095.
+doi:10.1038/s41467-017-01163-6
+Pei, J., Wang, Q., Liu, Z., Li, Q., Yang, K., and Lai, L. (2006) . PSI-DOCK: towards
+highly eﬃcient and accurate ﬂexible ligand docking. Proteins62, 934–946.
+doi:10.1002/prot.20790
+Petros, A. M., Nettesheim, D. G., Wang, Y., Olejniczak, E. T., Me adows, R. P.,
+Mack, J., et al. (2000). Rationale for Bcl-xL/Bad peptide complex forma tion
+fromstructure,mutagenesis,andbiophysicalstudies. ProteinSci. 9,2528–2534.
+doi:10.1110/ps.9.12.2528
+Prinz, J.-H., Wu, H., Sarich, M., Keller, B., Senne, M., Held, M., et al. (2011).
+Markovmodelsofmolecularkinetics:generationandvalidation. J.Chem.Phys.
+134:174105.doi:10.1063/1.3565032
+Rarey, M., Kramer, B., Lengauer, T., and Klebe, G. (1996). A fast ﬂ exible
+dockingmethodusinganincrementalconstructionalgorithm. J.Mol.Biol. 261,
+470–489.doi:10.1006/jmbi.1996.0477
+Rastelli, G., Degliesposti, G., Del Rio, A., and Sgobba, M. (2009 ). Binding
+estimation after reﬁnement, a new automated procedure for the reﬁneme nt
+andrescoringofdockedligandsinvirtualscreening. Chem.Biol.DrugDes. 73,
+283–286.doi:10.1111/j.1747-0285.2009.00780.x
+Rosta, E., and Hummer, G. (2015). Free energies from dynamic weight ed
+histogram analysis using unbiased Markov state model. J. Chem. Theory
+Comput.11,276–285.doi:10.1021/ct500719p
+Ruiz-Carmona, S., Alvarez-Garcia, D., Foloppe, N., Garmendia-Doval, A. B.,
+Juhos, S., Schmidtke, P., et al. (2014). rDock: a fast, versatile and open source
+programfordockingligandstoproteinsandnucleicacids. PLoSComput.Biol.
+10:e1003571.doi:10.1371/journal.pcbi.1003571
+Sabbadin, D., Ciancetta, A., Deganutti, G., Cuzzolin, A., an d Moro, S. (2015).
+Exploring the recognition pathway at the human A2A adenosine recepto r
+Frontiers in Pharmacology | www.frontiersin.org 15 August 2018 | Volume 9 | Article 923
+Salmaso and Moro Molecular Docking and Dynamics Overview
+of the endogenous agonist adenosine using supervised molecular dynamics
+simulations. Medchemcomm 6,1081–1085.doi:10.1039/C5MD00016E
+Sabbadin, D., Ciancetta, A., and Moro, S. (2014). Bridging molec ular docking to
+membrane molecular dynamics to investigate GPCR-ligand recognition : the
+humanA2Aadenosinereceptorasakeystudy. J.Chem.Inf.Model. 54,169–183.
+doi:10.1021/ci400532b
+Sabbadin, D., and Moro, S. (2014). Supervised molecular dynamics ( SuMD)
+as a helpful tool to depict GPCR-ligand recognition pathway in a
+nanosecond time scale. J. Chem. Inf. Model. 54, 372–376. doi: 10.1021/ci40
+0766b
+Saleh, N., Ibrahim, P., Saladino, G., Gervasio, F. L., and Clark, T. (2017). An
+eﬃcient metadynamics-based protocol to model the binding aﬃnity and the
+transition state ensemble of G-protein-coupled receptor ligands. J. Chem. Inf.
+Model.57,1210–1217.doi:10.1021/acs.jcim.6b00772
+Salmaso, V. (2018) Exploring Protein Flexibility During Docking to Investiga te
+ligand-TargetRecognition. Ph.D.thesis,UniversityofPadova,Padova.
+Salmaso,V.,Sturlese,M.,Cuzzolin,A.,andMoro,S.(2016).DockB enchasdocking
+selector tool: the lesson learned from D3R grand challenge 2015. J. Comput.
+AidedMol.Des. 30,773–789.doi:10.1007/s10822-016-9966-4
+Salmaso, V., Sturlese, M., Cuzzolin, A., and Moro, S. (2017). Explorin g
+protein-peptide recognition pathways using a supervised molecular dy namics
+approach. Structure 25,655.e2–662.e2.doi:10.1016/j.str.2017.02.009
+Salmaso, V., Sturlese, M., Cuzzolin, A., and Moro, S. (2018). Combin ing self-
+and cross-docking as benchmark tools: the performance of DockBench
+in the D3R grand challenge 2. J. Comput. Aided Mol. Des. 32, 251–264.
+doi:10.1007/s10822-017-0051-4
+Sauton, N., Lagorce, D., Villoutreix, B. O., and Miteva, M. A. (2 008).
+MS-DOCK: accurate multiple conformation generator and rigid docking
+protocol for multi-step virtual ligand screening. BMC Bioinformatics 9:184.
+doi:10.1186/1471-2105-9-184
+Schames, J. R., Henchman, R. H., Siegel, J. S., Sotriﬀer, C. A., Ni, H. , and
+McCammon,J.A.(2004).DiscoveryofanovelbindingtrenchinHIVi ntegrase.
+J.Med.Chem. 47,1879–1881.doi:10.1021/jm0341913
+Schlitter, J., Engels, M., Krüger, P., Jacoby, E., and Wollmer, A. ( 1993).
+Targeted molecular dynamics simulation of conformational change-
+application to the T ↔R transition in insulin. Mol. Simul. 10, 291–308.
+doi:10.1080/08927029308022170
+Shan,Y.,Kim,E.T.,Eastwood,M.P.,Dror,R.O.,Seeliger,M.A. ,andShaw,D.E.
+(2011).Howdoesadrugmoleculeﬁnditstargetbindingsite? J.Am.Chem.Soc.
+133,9181–9183.doi:10.1021/ja202726y
+Shaw, D. E., Chao, J. C., Eastwood, M. P., Gagliardo, J., Grossman , J. P., Ho, C.
+R., et al. (2008). Anton, a special-purpose machine for molecular dynami cs
+simulation. Commun.ACM 51,91–97.doi:10.1145/1364782.1364802
+Shaw, D. E., Maragakis, P., Lindorﬀ-Larsen, K., Piana, S., Dro r, R. O., Eastwood,
+M.P.,etal.(2010).Atomic-levelcharacterizationofthestructu raldynamicsof
+proteins. Science330,341–346.doi:10.1126/science.1187409
+Shirts, M., and Pande, V. S. (2000). COMPUTING: screen savers o f the world
+unite!.Science290,1903–1904.doi:10.1126/science.290.5498.1903
+Sliwoski, G., Kothiwale, S., Meiler, J., and Lowe, E. W. (2014).
+Computational methods in drug discovery. Pharmacol. Rev. 66, 334–395.
+doi:10.1124/pr.112.007336
+Spyrakis, F., Ahmed, M. H., Bayden, A. S., Cozzini, P., Mozzarelli, A ., and
+Kellogg, G. E. (2017). The roles of water in the protein matrix: a largely
+untapped resource for drug discovery. J. Med. Chem. 60, 6781–6827.
+doi:10.1021/acs.jmedchem.7b00057
+Spyrakis, F., Benedetti, P., Decherchi, S., Rocchia, W., Cava lli, A., Alcaro, S., et al.
+(2015). A pipeline to enhance ligand virtual screening: integratin g molecular
+dynamics and ﬁngerprints for ligand and proteins. J. Chem. Inf. Model. 55,
+2256–2274.doi:10.1021/acs.jcim.5b00169
+Strecker,C.,andMeyer,B.(2018).Plasticityofthebindings iteofrenin:optimized
+selection of protein structures for ensemble docking. J. Chem. Inf. Model. 58,
+1121–1131.doi:10.1021/acs.jcim.8b00010
+Sugita, Y., Kitao, A., and Okamoto, Y. (2000). Multidimensiona l replica-
+exchange method for free-energy calculations. J. Chem. Phys. 113, 6042–6051.
+doi:10.1063/1.1308516
+Sugita, Y., and Okamoto, Y. (1999). Replica-exchange molecular
+dynamics method for protein folding. Chem. Phys. Lett. 314, 141–151.
+doi:10.1016/S0009-2614(99)01123-9Talele, T. T., Khedkar, S. A., and Rigby, A. C. (2010). Successf ul applications of
+computeraideddrugdiscovery:movingdrugsfromconcepttotheclinic .Curr.
+Top.Med.Chem. 10,127–141.doi:10.2174/156802610790232251
+Taylor, R. D., Jewsbury, P. J., and Essex, J. W. (2002). A review o f protein-
+small molecule docking methods. J. Comput. Aided Mol. Des. 16, 151–166.
+doi:10.1023/A:1020155510718
+Teague,S.J.(2003).Implicationsofproteinﬂexibilityfordrugdi scovery.Nat.Rev.
+DrugDiscov. 2,527–541.doi:10.1038/nrd1129
+Torrie, G. M., and Valleau, J. P. (1977). Nonphysical sampling distrib utions in
+Monte Carlo free-energy estimation: umbrella sampling. J. Comput. Phys. 23,
+187–199.doi:10.1016/0021-9991(77)90121-8
+Trott, O., and Olson, A. J. (2010). AutoDock Vina: improving the spe ed and
+accuracy of docking with a new scoring function, eﬃcient optimiz ation, and
+multithreading. J.Comput.Chem. 31,455–461.doi:10.1002/jcc.21334
+VanDrie,J.H.(2007).Computer-aideddrugdesign:thenext20yea rs.J.Comput.
+AidedMol.Des. 21,591–601.doi:10.1007/s10822-007-9142-y
+Van Meel, J. A., Arnold, A., Frenkel, D., Portegies Zwart, S. F., and B elleman,
+R. G. (2008). Harvesting graphics power for MD simulations. Mol. Simul. 34,
+259–266.doi:10.1080/08927020701744295
+Vanommeslaeghe, K., Guvench, O., and MacKerell, A. D. (2014).
+Molecular mechanics. Curr. Pharm. Des. 20, 3281–3292.
+doi:10.2174/13816128113199990600
+Velec, H. F. G., Gohlke, H., and Klebe, G. (2005). DrugScore(CSD)-kn owledge-
+based scoring function derived from small molecule crystal data with s uperior
+recognition rate of near-native ligand poses and better aﬃnity pre diction.J.
+Med.Chem. 48,6296–6303.doi:10.1021/jm050436v
+Verdonk, M. L., Cole, J. C., Hartshorn, M. J., Murray, C. W., and Taylo r, R. D.
+(2003). Improved protein-ligand docking using GOLD. Proteins52, 609–623.
+doi:10.1002/prot.10465
+Vieth,M.,Hirst,J.D.,Kolinski,A.,andBrooks,C.L.III.(199 9).Assessingenergy
+functionsforﬂexibledocking. J.Comput.Chem. 19,1612–1622.
+Vuong, Q. V., Nguyen, T. T., and Li, M. S. (2015). A new method fo r navigating
+optimal direction for pulling ligand from binding pocket: application to
+ranking binding aﬃnity by steered molecular dynamics. J. Chem. Inf. Model.
+55,2731–2738.doi:10.1021/acs.jcim.5b00386
+Wang, T., and Duan, Y. (2009). Ligand entry and exit pathways
+in the beta2-adrenergic receptor. J. Mol. Biol. 392, 1102–1115.
+doi:10.1016/j.jmb.2009.07.093
+Welch,W.,Ruppert,J.,andJain,A.N.(1996).Hammerhead:fast,fu llyautomated
+docking of ﬂexible ligands to protein binding sites. Chem. Biol. 3, 449–462.
+doi:10.1016/S1074-5521(96)90093-9
+Wood, J. M., Maibaum, J., Rahuel, J., Grütter, M. G., Cohen, N.-C ., Rasetti,
+V., et al. (2003). Structure-based design of aliskiren, a novel ora lly
+eﬀective renin inhibitor. Biochem. Biophys. Res. Commun. 308, 698–705.
+doi:10.1016/S0006-291X(03)01451-7
+Wu,H.,Paul,F.,Wehmeyer,C.,andNoé,F.(2016).MultiensembleMa rkovmodels
+of molecular thermodynamics and kinetics. Proc. Natl. Acad. Sci. U.S.A. 113,
+E3221–E3230.doi:10.1073/pnas.1525092113
+Yu, J., Ciancetta, A., Dudas, S., Duca, S., Lottermoser, J., an d Jacobson, K. A.
+(2018).Structure-guidedmodiﬁcationofheterocyclicantagoni stsoftheP2Y14
+receptor. J.Med.Chem. 61,4860–4882.doi:10.1021/acs.jmedchem.8b00168
+Yuriev,E.,Holien,J.,andRamsland,P.A.(2015).Improvements,trend s,andnew
+ideasinmoleculardocking:2012-2013inreview. J.Mol.Recognit. 28,581–604.
+doi:10.1002/jmr.2471
+Zhou,H.-X.(2010).Frominducedﬁttoconformationalselection:a continuumof
+binding mechanism controlled by the timescale of conformational tran sitions.
+Biophys.J. 98,L15–L17.doi:10.1016/j.bpj.2009.11.029
+Conﬂict of Interest Statement: The authors declare that the research was
+conducted in the absence of any commercial or ﬁnancial relations hips that could
+beconstruedasapotentialconﬂictofinterest.
+Copyright © 2018 Salmaso and Moro. This is an open-access article distributed
+under the terms of the Creative Commons Attribution License (CC BY). The use,
+distribution or reproduction in other forums is permitted, p rovided the original
+author(s) and the copyright owner(s) are credited and that th e original publication
+in this journal is cited, in accordance with accepted academ ic practice. No use,
+distributionorreproductionispermittedwhichdoesnotco mplywiththeseterms.
+Frontiers in Pharmacology | www.frontiersin.org 16 August 2018 | Volume 9 | Article 923

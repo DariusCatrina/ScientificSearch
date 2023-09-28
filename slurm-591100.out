@@ -1,0 +1,539 @@
+[info] welcome to sbt 1.6.2 (Private Build Java 1.8.0_382)
+[info] loading settings for project scientificsearch-build-build-build from metals.sbt ...
+[info] loading project definition from /usr/project/xtmp/dgc26/SyntheticSearch/ScientificSearch/project/project/project
+[info] loading settings for project scientificsearch-build-build from metals.sbt ...
+[info] loading project definition from /usr/project/xtmp/dgc26/SyntheticSearch/ScientificSearch/project/project
+[success] Generated .bloop/scientificsearch-build-build.json
+[success] Total time: 1 s, completed Sep 28, 2023 5:23:51 PM
+[info] loading settings for project scientificsearch-build from plugins.sbt ...
+[info] loading project definition from /usr/project/xtmp/dgc26/SyntheticSearch/ScientificSearch/project
+[success] Generated .bloop/scientificsearch-build.json
+[success] Total time: 2 s, completed Sep 28, 2023 5:23:54 PM
+[info] loading settings for project core from build.sbt ...
+[info] loading settings for project extra from build.sbt ...
+[info] loading settings for project frontend from build.sbt ...
+[info] loading settings for project scientificsearch from build.sbt,version.sbt ...
+[info] set current project to scientificsearch (in build file:/usr/project/xtmp/dgc26/SyntheticSearch/ScientificSearch/)
+[warn] there's a key that's not used by any other settings/tasks:
+[warn]  
+[warn] * ThisBuild / publishMavenStyle
+[warn]   +- /usr/project/xtmp/dgc26/SyntheticSearch/ScientificSearch/build.sbt:130
+[warn]  
+[warn] note: a setting might still be used by a command; to exclude a key from this `lintUnused` check
+[warn] either append it to `Global / excludeLintKeys` or call .withRank(KeyRanks.Invisible) on the key
+[info] compiling 1 Scala source to /usr/project/xtmp/dgc26/SyntheticSearch/ScientificSearch/core/target/scala-2.12/classes ...
+[info] done compiling
+[info] running (fork) ai.lum.odinson.extra.AnnotateText 
+[info] 17:24:47,051 |-INFO in ch.qos.logback.classic.LoggerContext[default] - Could NOT find resource [logback-test.xml]
+[info] 17:24:47,051 |-INFO in ch.qos.logback.classic.LoggerContext[default] - Could NOT find resource [logback.groovy]
+[info] 17:24:47,051 |-INFO in ch.qos.logback.classic.LoggerContext[default] - Found resource [logback.xml] at [jar:file:/usr/project/xtmp/dgc26/SyntheticSearch/ScientificSearch/target/bg-jobs/sbt_aa9e58c2/target/20a5024a/e27371d9/odinson-core_2.12-0.6.2-SNAPSHOT.jar!/logback.xml]
+[info] 17:24:47,062 |-INFO in ch.qos.logback.core.joran.spi.ConfigurationWatchList@3911c2a7 - URL [jar:file:/usr/project/xtmp/dgc26/SyntheticSearch/ScientificSearch/target/bg-jobs/sbt_aa9e58c2/target/20a5024a/e27371d9/odinson-core_2.12-0.6.2-SNAPSHOT.jar!/logback.xml] is not of type file
+[info] 17:24:47,192 |-INFO in ch.qos.logback.classic.joran.action.ConfigurationAction - debug attribute not set
+[info] 17:24:47,193 |-INFO in ch.qos.logback.core.joran.action.AppenderAction - About to instantiate appender of type [ch.qos.logback.core.ConsoleAppender]
+[info] 17:24:47,197 |-INFO in ch.qos.logback.core.joran.action.AppenderAction - Naming appender as [STDOUT]
+[info] 17:24:47,252 |-WARN in ch.qos.logback.core.ConsoleAppender[STDOUT] - This appender no longer admits a layout as a sub-component, set an encoder instead.
+[info] 17:24:47,252 |-WARN in ch.qos.logback.core.ConsoleAppender[STDOUT] - To ensure compatibility, wrapping your layout in LayoutWrappingEncoder.
+[info] 17:24:47,252 |-WARN in ch.qos.logback.core.ConsoleAppender[STDOUT] - See also http://logback.qos.ch/codes.html#layoutInsteadOfEncoder for details
+[info] 17:24:47,253 |-INFO in ch.qos.logback.classic.joran.action.LoggerAction - Setting level of logger [ai.lum.odinson] to DEBUG
+[info] 17:24:47,253 |-INFO in ch.qos.logback.classic.joran.action.LoggerAction - Setting additivity of logger [ai.lum.odinson] to false
+[info] 17:24:47,253 |-INFO in ch.qos.logback.core.joran.action.AppenderRefAction - Attaching appender named [STDOUT] to Logger[ai.lum.odinson]
+[info] 17:24:47,254 |-INFO in ch.qos.logback.classic.joran.action.RootLoggerAction - Setting level of ROOT logger to ERROR
+[info] 17:24:47,254 |-INFO in ch.qos.logback.core.joran.action.AppenderRefAction - Attaching appender named [STDOUT] to Logger[ROOT]
+[info] 17:24:47,254 |-INFO in ch.qos.logback.classic.joran.action.ConfigurationAction - End of configuration.
+[info] 17:24:47,254 |-INFO in ch.qos.logback.classic.joran.JoranConfigurator@4ac3c60d - Registering current configuration as safe fallback point
+[error] [dynet] Loading DyNet from /tmp/libdynet_swig-2952505933659940845.so...
+[error] [dynet] random seed: 2522620396
+[error] [dynet] allocating memory: 512MB
+[error] [dynet] memory allocation done.
+[info] 2023-09-28 17:25:11 [scala-execution-context-global-10] WARN  ai.lum.odinson.extra.AnnotateText$ - /usr/project/xtmp/dgc26/SyntheticSearch/ScientificSearch/extra/data/demo_data/docs/Ghirardelli et al. - 2021 - Organic contaminants in Ganga basin From the Green Revolution to the emerging concerns of modern India-annotated.json.gz already exists
+[info] 2023-09-28 17:25:11 [scala-execution-context-global-10] WARN  ai.lum.odinson.extra.AnnotateText$ - /usr/project/xtmp/dgc26/SyntheticSearch/ScientificSearch/extra/data/demo_data/docs/Tosin et al. - 2012 - Laboratory test methods to determine the degradation of plastics in marine environmental conditions-annotated.json.gz already exists
+[info] 2023-09-28 17:25:11 [scala-execution-context-global-10] WARN  ai.lum.odinson.extra.AnnotateText$ - /usr/project/xtmp/dgc26/SyntheticSearch/ScientificSearch/extra/data/demo_data/docs/Steiner, Schwab - 2012 - Recent advances in rational approaches for enzyme engineering-annotated.json.gz already exists
+[info] 2023-09-28 17:25:11 [scala-execution-context-global-10] WARN  ai.lum.odinson.extra.AnnotateText$ - /usr/project/xtmp/dgc26/SyntheticSearch/ScientificSearch/extra/data/demo_data/docs/Patil, Reviews, 2008 - 2014 - Crosslinking of polysaccharides methods and applications-annotated.json.gz already exists
+[info] 2023-09-28 17:25:11 [scala-execution-context-global-10] WARN  ai.lum.odinson.extra.AnnotateText$ - /usr/project/xtmp/dgc26/SyntheticSearch/ScientificSearch/extra/data/demo_data/docs/Puls Wilson Hölter - 2010 - Degradation of Cellulose Acetate-Based Materials A Review-annotated.json.gz already exists
+[info] 2023-09-28 17:25:11 [scala-execution-context-global-10] WARN  ai.lum.odinson.extra.AnnotateText$ - /usr/project/xtmp/dgc26/SyntheticSearch/ScientificSearch/extra/data/demo_data/docs/Karlsson et al. - 2002 - Enzymatic properties of the low molecular mass endoglucanases Cel12A (EG III) and Cel45A (EG V) of Trichoderma-annotated.json.gz already exists
+[info] 2023-09-28 17:25:11 [scala-execution-context-global-10] WARN  ai.lum.odinson.extra.AnnotateText$ - /usr/project/xtmp/dgc26/SyntheticSearch/ScientificSearch/extra/data/demo_data/docs/Kono - 2017 - Cationic flocculants derived from native cellulose Preparation, biodegradability, and removal of dyes in aqueous solution-annotated.json.gz already exists
+[info] 2023-09-28 17:25:11 [scala-execution-context-global-10] WARN  ai.lum.odinson.extra.AnnotateText$ - /usr/project/xtmp/dgc26/SyntheticSearch/ScientificSearch/extra/data/demo_data/docs/Investigation of endoglucanase selectivity on carboxymethyl cellulose by mass spectrometric techniques .json.gz already exists
+[info] 2023-09-28 17:25:11 [scala-execution-context-global-10] WARN  ai.lum.odinson.extra.AnnotateText$ - /usr/project/xtmp/dgc26/SyntheticSearch/ScientificSearch/extra/data/demo_data/docs/Hrmova, Fincher - 2007 - Dissecting the catalytic mechanism of a plant β-d-glucan glucohydrolase through structural biology using inhibi-annotated.json.gz already exists
+[info] 2023-09-28 17:25:11 [scala-execution-context-global-10] WARN  ai.lum.odinson.extra.AnnotateText$ - /usr/project/xtmp/dgc26/SyntheticSearch/ScientificSearch/extra/data/demo_data/docs/Thimma Reddy, Tammishetti - 2004 - Free radical degradation of guar gum-annotated.json.gz already exists
+[info] 2023-09-28 17:25:11 [scala-execution-context-global-10] WARN  ai.lum.odinson.extra.AnnotateText$ - /usr/project/xtmp/dgc26/SyntheticSearch/ScientificSearch/extra/data/demo_data/docs/Yu et al. - 2018 - Enhanced enzymatic hydrolysis of cellulose from waste paper fibers by cationic polymers addition-annotated.json.gz already exists
+[info] 2023-09-28 17:25:11 [scala-execution-context-global-10] WARN  ai.lum.odinson.extra.AnnotateText$ - /usr/project/xtmp/dgc26/SyntheticSearch/ScientificSearch/extra/data/demo_data/docs/Ayoub, Gruyer, Bliard - 2003 - Enzymatic degradation of hydroxypropyltrimethylammonium wheat starches-annotated.json.gz already exists
+[info] 2023-09-28 17:25:11 [scala-execution-context-global-10] WARN  ai.lum.odinson.extra.AnnotateText$ - /usr/project/xtmp/dgc26/SyntheticSearch/ScientificSearch/extra/data/demo_data/docs/Enzymatic Systems for Cellulose Acetate Degradation .json.gz already exists
+[info] 2023-09-28 17:25:11 [scala-execution-context-global-10] WARN  ai.lum.odinson.extra.AnnotateText$ - /usr/project/xtmp/dgc26/SyntheticSearch/ScientificSearch/extra/data/demo_data/docs/Beier, Bertilsson - 2013 - Bacterial chitin degradation—mechanisms and ecophysiological strategies-annotated.json.gz already exists
+[info] 2023-09-28 17:25:11 [scala-execution-context-global-10] WARN  ai.lum.odinson.extra.AnnotateText$ - /usr/project/xtmp/dgc26/SyntheticSearch/ScientificSearch/extra/data/demo_data/docs/Lehmann, Kleber - 2015 - The contentious nature of soil organic matter-annotated.json.gz already exists
+[info] 2023-09-28 17:25:11 [scala-execution-context-global-10] WARN  ai.lum.odinson.extra.AnnotateText$ - /usr/project/xtmp/dgc26/SyntheticSearch/ScientificSearch/extra/data/demo_data/docs/Cheng, Prud'homme - 2000 - Enzymatic Degradation of Guar and Substituted Guar Galactomannans-annotated.json.gz already exists
+[info] 2023-09-28 17:25:11 [scala-execution-context-global-10] WARN  ai.lum.odinson.extra.AnnotateText$ - /usr/project/xtmp/dgc26/SyntheticSearch/ScientificSearch/extra/data/demo_data/docs/Amann, Minge - 2011 - Biodegradability of Poly(vinyl acetate) and Related Polymers-annotated.json.gz already exists
+[info] 2023-09-28 17:29:28 [scala-execution-context-global-10] INFO  ai.lum.odinson.extra.AnnotateText$ - Annotated /usr/project/xtmp/dgc26/SyntheticSearch/ScientificSearch/extra/data/demo_data/text/Bednarska - Unknown - Kinetic modelling of enzymatic starch hydrolysis-annotated.txt
+[info] 2023-09-28 17:29:28 [scala-execution-context-global-10] WARN  ai.lum.odinson.extra.AnnotateText$ - /usr/project/xtmp/dgc26/SyntheticSearch/ScientificSearch/extra/data/demo_data/docs/Beier, Bertilsson - 2013 - Bacterial chitin degradation—mechanisms and ecophysiological strategies(2)-annotated.json.gz already exists
+[info] 2023-09-28 17:29:28 [scala-execution-context-global-10] WARN  ai.lum.odinson.extra.AnnotateText$ - /usr/project/xtmp/dgc26/SyntheticSearch/ScientificSearch/extra/data/demo_data/docs/Borstlap, Kortland - Unknown - Effect of Substituents in the Aromatic Nucleus Biodegradation Behavior of Alkylaryl Sulfonates on the-annotated.json.gz already exists
+[info] 2023-09-28 17:29:28 [scala-execution-context-global-10] WARN  ai.lum.odinson.extra.AnnotateText$ - /usr/project/xtmp/dgc26/SyntheticSearch/ScientificSearch/extra/data/demo_data/docs/Bashari, Rouhani Shirvan, Shakeri - 2018 - Cellulose-based hydrogels for personal care products-annotated.json.gz already exists
+[info] 2023-09-28 17:29:28 [scala-execution-context-global-10] WARN  ai.lum.odinson.extra.AnnotateText$ - /usr/project/xtmp/dgc26/SyntheticSearch/ScientificSearch/extra/data/demo_data/docs/Korhonen et al. - 2005 - Predictive three-dimensional quantitative structure-activity relationship of cytochrome P450 1A2 inhibitors-annotated.json.gz already exists
+[info] 2023-09-28 17:29:28 [scala-execution-context-global-10] WARN  ai.lum.odinson.extra.AnnotateText$ - /usr/project/xtmp/dgc26/SyntheticSearch/ScientificSearch/extra/data/demo_data/docs/Sieger et al. - 1995 - Biodegradation of carboxymethyl celluloses by Agrobacterium CM-1-annotated.json.gz already exists
+[info] 2023-09-28 17:29:28 [scala-execution-context-global-10] WARN  ai.lum.odinson.extra.AnnotateText$ - /usr/project/xtmp/dgc26/SyntheticSearch/ScientificSearch/extra/data/demo_data/docs/Kotaka et al. - 2008 - Direct ethanol production from barley β-glucan by sake yeast displaying Aspergillus oryzae β-glucosidase and endo-annotated.json.gz already exists
+[info] 2023-09-28 17:29:28 [scala-execution-context-global-10] WARN  ai.lum.odinson.extra.AnnotateText$ - /usr/project/xtmp/dgc26/SyntheticSearch/ScientificSearch/extra/data/demo_data/docs/Itoh, Kimoto - 2019 - Bacterial chitinase system as a model of chitin biodegradation(2)-annotated.json.gz already exists
+[info] 2023-09-28 17:29:28 [scala-execution-context-global-10] WARN  ai.lum.odinson.extra.AnnotateText$ - /usr/project/xtmp/dgc26/SyntheticSearch/ScientificSearch/extra/data/demo_data/docs/Endoglucanase Sensitivity for Substituents in Methyl Cellulose Hydrolysis Studied Using MALDI-TOFMS for Oligosaccharide Analysis and Structural Analysis of Enzyme Active Sites.json.gz already exists
+[info] 2023-09-28 17:29:28 [scala-execution-context-global-10] WARN  ai.lum.odinson.extra.AnnotateText$ - /usr/project/xtmp/dgc26/SyntheticSearch/ScientificSearch/extra/data/demo_data/docs/Endo et al. - 2009 - LFERs for Soil Organic Carbon−Water Distribution Coefficients (KOC) at Environmentally Relevant Sorbate Concentrati-annotated.json.gz already exists
+[info] 2023-09-28 17:29:28 [scala-execution-context-global-10] WARN  ai.lum.odinson.extra.AnnotateText$ - /usr/project/xtmp/dgc26/SyntheticSearch/ScientificSearch/extra/data/demo_data/docs/Mouyna, Hartl, Latgé - 2013 - β-1,3-glucan modifying enzymes in Aspergillus fumigatus-annotated.json.gz already exists
+[info] 2023-09-28 17:29:28 [scala-execution-context-global-10] WARN  ai.lum.odinson.extra.AnnotateText$ - /usr/project/xtmp/dgc26/SyntheticSearch/ScientificSearch/extra/data/demo_data/docs/Tosin et al. - 2012 - Laboratory test methods to determine the degradation of plastics in marine environmental conditions(2)-annotated.json.gz already exists
+[info] 2023-09-28 17:29:28 [scala-execution-context-global-10] WARN  ai.lum.odinson.extra.AnnotateText$ - /usr/project/xtmp/dgc26/SyntheticSearch/ScientificSearch/extra/data/demo_data/docs/Varrone et al. - 2013 - Enrichment of activated sludge for enhanced hydrogen production from crude glycerol-annotated.json.gz already exists
+[info] 2023-09-28 17:29:28 [scala-execution-context-global-10] WARN  ai.lum.odinson.extra.AnnotateText$ - /usr/project/xtmp/dgc26/SyntheticSearch/ScientificSearch/extra/data/demo_data/docs/Jang et al. - Unknown - Effect of UV irradiation on cellulase degradation of cellulose acetate containing TiO2-annotated.json.gz already exists
+[info] 2023-09-28 17:29:28 [scala-execution-context-global-10] WARN  ai.lum.odinson.extra.AnnotateText$ - /usr/project/xtmp/dgc26/SyntheticSearch/ScientificSearch/extra/data/demo_data/docs/Tarasov, Leitch, Fatehi - 2018 - Lignin-carbohydrate complexes Properties, applications, analyses, and methods of extraction A review-annotated.json.gz already exists
+[info] 2023-09-28 17:29:28 [scala-execution-context-global-10] WARN  ai.lum.odinson.extra.AnnotateText$ - /usr/project/xtmp/dgc26/SyntheticSearch/ScientificSearch/extra/data/demo_data/docs/Chen et al. - 2002 - Structure at 1.9 Å Resolution of a Quinohemoprotein Alcohol Dehydrogenase from Pseudomonas putida HK5-annotated.json.gz already exists
+[info] 2023-09-28 17:29:28 [scala-execution-context-global-10] WARN  ai.lum.odinson.extra.AnnotateText$ - /usr/project/xtmp/dgc26/SyntheticSearch/ScientificSearch/extra/data/demo_data/docs/Determination of the substituent distribution along cellulose acetate chains as revealed by enzymatic and chemical methods .json.gz already exists
+[info] 2023-09-28 17:42:58 [scala-execution-context-global-10] INFO  ai.lum.odinson.extra.AnnotateText$ - Annotated /usr/project/xtmp/dgc26/SyntheticSearch/ScientificSearch/extra/data/demo_data/text/Board et al. - Unknown - Advances in Polymer Science-annotated.txt
+[info] 2023-09-28 17:43:24 [scala-execution-context-global-10] INFO  ai.lum.odinson.extra.AnnotateText$ - Annotated /usr/project/xtmp/dgc26/SyntheticSearch/ScientificSearch/extra/data/demo_data/text/Cantarel et al. - 2009 - The Carbohydrate-Active EnZymes database (CAZy) an expert resource for Glycogenomics-annotated.txt
+[info] 2023-09-28 17:43:24 [scala-execution-context-global-10] WARN  ai.lum.odinson.extra.AnnotateText$ - /usr/project/xtmp/dgc26/SyntheticSearch/ScientificSearch/extra/data/demo_data/docs/Review on the current status of polymer degradation: a microbial approach .json.gz already exists
+[info] 2023-09-28 17:43:24 [scala-execution-context-global-10] WARN  ai.lum.odinson.extra.AnnotateText$ - /usr/project/xtmp/dgc26/SyntheticSearch/ScientificSearch/extra/data/demo_data/docs/Gu et al. - 1993 - Degradation and Mineralization of Cellulose Acetate in Simulated Thermophilic Compost Environments-annotated.json.gz already exists
+[info] 2023-09-28 17:43:24 [scala-execution-context-global-10] WARN  ai.lum.odinson.extra.AnnotateText$ - /usr/project/xtmp/dgc26/SyntheticSearch/ScientificSearch/extra/data/demo_data/docs/Schlesselmann et al. - 1982 - Factors Determining Steric Course of Enzymic Glycosylation Reactions Glycosyl Transfer Products Formed fro-annotated.json.gz already exists
+[info] 2023-09-28 17:57:08 [scala-execution-context-global-10] INFO  ai.lum.odinson.extra.AnnotateText$ - Annotated /usr/project/xtmp/dgc26/SyntheticSearch/ScientificSearch/extra/data/demo_data/text/Abbott, Lammerts Van Bueren Editors - Unknown - Protein-Carbohydrate Interactions Methods and Protocols Methods in Molecular Biology 158-annotated.txt
+[info] 2023-09-28 17:58:33 [scala-execution-context-global-10] INFO  ai.lum.odinson.extra.AnnotateText$ - Annotated /usr/project/xtmp/dgc26/SyntheticSearch/ScientificSearch/extra/data/demo_data/text/Salmaso, Moro - 2018 - Bridging molecular docking to molecular dynamics in exploring ligand-protein recognition process An overview(2)-annotated.txt
+[info] 2023-09-28 17:59:18 [scala-execution-context-global-10] INFO  ai.lum.odinson.extra.AnnotateText$ - Annotated /usr/project/xtmp/dgc26/SyntheticSearch/ScientificSearch/extra/data/demo_data/text/Haseg~w~$ And, Kordin, Kirkwood - 1969 - Enzymes That Hydrolyze Fungal Cell Wall Polysaccharides I. PURIFICATION AND PROPERTIES OF AN EN-annotated.txt
+[info] 2023-09-28 17:59:18 [scala-execution-context-global-10] WARN  ai.lum.odinson.extra.AnnotateText$ - /usr/project/xtmp/dgc26/SyntheticSearch/ScientificSearch/extra/data/demo_data/docs/Grün et al. - 2006 - Mechanism of action of the endo-(1 → 3)-α-glucanase MutAp from the mycoparasitic fungus Trichoderma harzianum-annotated.json.gz already exists
+[info] 2023-09-28 17:59:18 [scala-execution-context-global-10] WARN  ai.lum.odinson.extra.AnnotateText$ - /usr/project/xtmp/dgc26/SyntheticSearch/ScientificSearch/extra/data/demo_data/docs/Radwan, Mahrous - 2020 - Docking studies and molecular dynamics simulations of the binding characteristics of waldiomycin and its methyl-annotated.json.gz already exists
+[info] 2023-09-28 17:59:18 [scala-execution-context-global-10] WARN  ai.lum.odinson.extra.AnnotateText$ - /usr/project/xtmp/dgc26/SyntheticSearch/ScientificSearch/extra/data/demo_data/docs/Horvath, Preiss, Lipsky - 1967 - Fast Liquid Chromatography An Investigation of Operating Parameters and the Separation of Nucleotides o-annotated.json.gz already exists
+[info] 2023-09-28 17:59:18 [scala-execution-context-global-10] WARN  ai.lum.odinson.extra.AnnotateText$ - /usr/project/xtmp/dgc26/SyntheticSearch/ScientificSearch/extra/data/demo_data/docs/Bissaro et al. - 2018 - Oxidoreductases and Reactive Oxygen Species in Conversion of Lignocellulosic Biomass-annotated.json.gz already exists
+[info] 2023-09-28 17:59:18 [scala-execution-context-global-10] WARN  ai.lum.odinson.extra.AnnotateText$ - /usr/project/xtmp/dgc26/SyntheticSearch/ScientificSearch/extra/data/demo_data/docs/Ammala - 2013 - Biodegradable polymers as encapsulation materials for cosmetics and personal care markets-annotated.json.gz already exists
+[info] 2023-09-28 17:59:18 [scala-execution-context-global-10] WARN  ai.lum.odinson.extra.AnnotateText$ - /usr/project/xtmp/dgc26/SyntheticSearch/ScientificSearch/extra/data/demo_data/docs/Degli-Innocenti, Tosin, Bastioli - 1998 - Evaluation of the Biodegradation of Starch and Cellulose Under Controlled Composting Condition-annotated.json.gz already exists
+[success] Total time: 2117 s (35:17), completed Sep 28, 2023 5:59:19 PM
+[info] welcome to sbt 1.6.2 (Private Build Java 1.8.0_382)
+[info] loading settings for project scientificsearch-build-build-build from metals.sbt ...
+[info] loading project definition from /usr/project/xtmp/dgc26/SyntheticSearch/ScientificSearch/project/project/project
+[info] loading settings for project scientificsearch-build-build from metals.sbt ...
+[info] loading project definition from /usr/project/xtmp/dgc26/SyntheticSearch/ScientificSearch/project/project
+[success] Generated .bloop/scientificsearch-build-build.json
+[success] Total time: 1 s, completed Sep 28, 2023 5:59:34 PM
+[info] loading settings for project scientificsearch-build from plugins.sbt ...
+[info] loading project definition from /usr/project/xtmp/dgc26/SyntheticSearch/ScientificSearch/project
+[success] Generated .bloop/scientificsearch-build.json
+[success] Total time: 2 s, completed Sep 28, 2023 5:59:38 PM
+[info] loading settings for project core from build.sbt ...
+[info] loading settings for project extra from build.sbt ...
+[info] loading settings for project frontend from build.sbt ...
+[info] loading settings for project scientificsearch from build.sbt,version.sbt ...
+[info] set current project to scientificsearch (in build file:/usr/project/xtmp/dgc26/SyntheticSearch/ScientificSearch/)
+[warn] there's a key that's not used by any other settings/tasks:
+[warn]  
+[warn] * ThisBuild / publishMavenStyle
+[warn]   +- /usr/project/xtmp/dgc26/SyntheticSearch/ScientificSearch/build.sbt:130
+[warn]  
+[warn] note: a setting might still be used by a command; to exclude a key from this `lintUnused` check
+[warn] either append it to `Global / excludeLintKeys` or call .withRank(KeyRanks.Invisible) on the key
+[info] compiling 1 Scala source to /usr/project/xtmp/dgc26/SyntheticSearch/ScientificSearch/core/target/scala-2.12/classes ...
+[info] done compiling
+[info] running (fork) ai.lum.odinson.extra.IndexDocuments 
+[info] 18:00:29,760 |-INFO in ch.qos.logback.classic.LoggerContext[default] - Could NOT find resource [logback-test.xml]
+[info] 18:00:29,760 |-INFO in ch.qos.logback.classic.LoggerContext[default] - Could NOT find resource [logback.groovy]
+[info] 18:00:29,760 |-INFO in ch.qos.logback.classic.LoggerContext[default] - Found resource [logback.xml] at [jar:file:/usr/project/xtmp/dgc26/SyntheticSearch/ScientificSearch/target/bg-jobs/sbt_940c7344/target/20a5024a/8bb498a2/odinson-core_2.12-0.6.2-SNAPSHOT.jar!/logback.xml]
+[info] 18:00:29,771 |-INFO in ch.qos.logback.core.joran.spi.ConfigurationWatchList@34e9fd99 - URL [jar:file:/usr/project/xtmp/dgc26/SyntheticSearch/ScientificSearch/target/bg-jobs/sbt_940c7344/target/20a5024a/8bb498a2/odinson-core_2.12-0.6.2-SNAPSHOT.jar!/logback.xml] is not of type file
+[info] 18:00:29,899 |-INFO in ch.qos.logback.classic.joran.action.ConfigurationAction - debug attribute not set
+[info] 18:00:29,900 |-INFO in ch.qos.logback.core.joran.action.AppenderAction - About to instantiate appender of type [ch.qos.logback.core.ConsoleAppender]
+[info] 18:00:29,904 |-INFO in ch.qos.logback.core.joran.action.AppenderAction - Naming appender as [STDOUT]
+[info] 18:00:29,957 |-WARN in ch.qos.logback.core.ConsoleAppender[STDOUT] - This appender no longer admits a layout as a sub-component, set an encoder instead.
+[info] 18:00:29,957 |-WARN in ch.qos.logback.core.ConsoleAppender[STDOUT] - To ensure compatibility, wrapping your layout in LayoutWrappingEncoder.
+[info] 18:00:29,957 |-WARN in ch.qos.logback.core.ConsoleAppender[STDOUT] - See also http://logback.qos.ch/codes.html#layoutInsteadOfEncoder for details
+[info] 18:00:29,958 |-INFO in ch.qos.logback.classic.joran.action.LoggerAction - Setting level of logger [ai.lum.odinson] to DEBUG
+[info] 18:00:29,958 |-INFO in ch.qos.logback.classic.joran.action.LoggerAction - Setting additivity of logger [ai.lum.odinson] to false
+[info] 18:00:29,958 |-INFO in ch.qos.logback.core.joran.action.AppenderRefAction - Attaching appender named [STDOUT] to Logger[ai.lum.odinson]
+[info] 18:00:29,959 |-INFO in ch.qos.logback.classic.joran.action.RootLoggerAction - Setting level of ROOT logger to ERROR
+[info] 18:00:29,959 |-INFO in ch.qos.logback.core.joran.action.AppenderRefAction - Attaching appender named [STDOUT] to Logger[ROOT]
+[info] 18:00:29,959 |-INFO in ch.qos.logback.classic.joran.action.ConfigurationAction - End of configuration.
+[info] 18:00:29,959 |-INFO in ch.qos.logback.classic.joran.JoranConfigurator@3c41ed1d - Registering current configuration as safe fallback point
+[info] 2023-09-28 18:00:30 [main] INFO  ai.lum.odinson.extra.IndexDocuments$ - Gathering documents from /usr/xtmp/dgc26/SyntheticSearch/ScientificSearch/extra/data/demo_data/docs
+[info] 2023-09-28 18:00:30 [main] INFO  ai.lum.odinson.extra.IndexDocuments$ - Indexing documents
+[info] 2023-09-28 18:00:31 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 133 tokens
+[info] 2023-09-28 18:00:32 [scala-execution-context-global-8] INFO  a.l.o.l.index.OdinsonIndexWriter - Metadata StringField <fileName> will not be queryable using the metadata query language
+[info] 2023-09-28 18:00:34 [scala-execution-context-global-8] INFO  ai.lum.odinson.extra.IndexDocuments$ - Indexed Ammala - 2013 - Biodegradable polymers as encapsulation materials for cosmetics and personal care markets-annotated.json.gz
+[info] 2023-09-28 18:00:34 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 119 tokens
+[info] 2023-09-28 18:00:34 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 136 tokens
+[info] 2023-09-28 18:00:34 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 106 tokens
+[info] 2023-09-28 18:00:34 [scala-execution-context-global-8] INFO  a.l.o.l.index.OdinsonIndexWriter - Metadata StringField <fileName> will not be queryable using the metadata query language
+[info] 2023-09-28 18:00:34 [scala-execution-context-global-8] INFO  ai.lum.odinson.extra.IndexDocuments$ - Indexed Jang et al. - Unknown - Effect of UV irradiation on cellulase degradation of cellulose acetate containing TiO2-annotated.json.gz
+[info] 2023-09-28 18:00:34 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 101 tokens
+[info] 2023-09-28 18:00:34 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 175 tokens
+[info] 2023-09-28 18:00:34 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 212 tokens
+[info] 2023-09-28 18:00:35 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 133 tokens
+[info] 2023-09-28 18:00:35 [scala-execution-context-global-8] INFO  a.l.o.l.index.OdinsonIndexWriter - Metadata StringField <fileName> will not be queryable using the metadata query language
+[info] 2023-09-28 18:00:35 [scala-execution-context-global-8] INFO  ai.lum.odinson.extra.IndexDocuments$ - Indexed Korhonen et al. - 2005 - Predictive three-dimensional quantitative structure-activity relationship of cytochrome P450 1A2 inhibitors-annotated.json.gz
+[info] 2023-09-28 18:00:35 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 113 tokens
+[info] 2023-09-28 18:00:35 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 106 tokens
+[info] 2023-09-28 18:00:35 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 134 tokens
+[info] 2023-09-28 18:00:35 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 134 tokens
+[info] 2023-09-28 18:00:35 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 104 tokens
+[info] 2023-09-28 18:00:35 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 101 tokens
+[info] 2023-09-28 18:00:36 [scala-execution-context-global-8] INFO  a.l.o.l.index.OdinsonIndexWriter - Metadata StringField <fileName> will not be queryable using the metadata query language
+[info] 2023-09-28 18:00:36 [scala-execution-context-global-8] INFO  ai.lum.odinson.extra.IndexDocuments$ - Indexed Tosin et al. - 2012 - Laboratory test methods to determine the degradation of plastics in marine environmental conditions(2)-annotated.json.gz
+[info] 2023-09-28 18:00:36 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 150 tokens
+[info] 2023-09-28 18:00:36 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 106 tokens
+[info] 2023-09-28 18:00:36 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 308 tokens
+[info] 2023-09-28 18:00:36 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 426 tokens
+[info] 2023-09-28 18:00:36 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 114 tokens
+[info] 2023-09-28 18:00:36 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 179 tokens
+[info] 2023-09-28 18:00:37 [scala-execution-context-global-8] INFO  a.l.o.l.index.OdinsonIndexWriter - Metadata StringField <fileName> will not be queryable using the metadata query language
+[info] 2023-09-28 18:00:37 [scala-execution-context-global-8] INFO  ai.lum.odinson.extra.IndexDocuments$ - Indexed Beier, Bertilsson - 2013 - Bacterial chitin degradation—mechanisms and ecophysiological strategies-annotated.json.gz
+[info] 2023-09-28 18:00:37 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 128 tokens
+[info] 2023-09-28 18:00:37 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 199 tokens
+[info] 2023-09-28 18:00:37 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 221 tokens
+[info] 2023-09-28 18:00:37 [scala-execution-context-global-8] INFO  a.l.o.l.index.OdinsonIndexWriter - Metadata StringField <fileName> will not be queryable using the metadata query language
+[info] 2023-09-28 18:00:37 [scala-execution-context-global-8] INFO  ai.lum.odinson.extra.IndexDocuments$ - Indexed Kono - 2017 - Cationic flocculants derived from native cellulose Preparation, biodegradability, and removal of dyes in aqueous solution-annotated.json.gz
+[info] 2023-09-28 18:00:38 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 745 tokens
+[info] 2023-09-28 18:00:38 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 300 tokens
+[info] 2023-09-28 18:00:38 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 126 tokens
+[info] 2023-09-28 18:00:38 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 102 tokens
+[info] 2023-09-28 18:00:38 [scala-execution-context-global-8] INFO  a.l.o.l.index.OdinsonIndexWriter - Metadata StringField <fileName> will not be queryable using the metadata query language
+[info] 2023-09-28 18:00:39 [scala-execution-context-global-8] INFO  ai.lum.odinson.extra.IndexDocuments$ - Indexed Review on the current status of polymer degradation: a microbial approach .json.gz
+[info] 2023-09-28 18:00:39 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 227 tokens
+[info] 2023-09-28 18:00:39 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 162 tokens
+[info] 2023-09-28 18:00:39 [scala-execution-context-global-8] INFO  a.l.o.l.index.OdinsonIndexWriter - Metadata StringField <fileName> will not be queryable using the metadata query language
+[info] 2023-09-28 18:00:39 [scala-execution-context-global-8] INFO  ai.lum.odinson.extra.IndexDocuments$ - Indexed Enzymatic Systems for Cellulose Acetate Degradation .json.gz
+[info] 2023-09-28 18:00:39 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 195 tokens
+[info] 2023-09-28 18:00:39 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 223 tokens
+[info] 2023-09-28 18:00:40 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 120 tokens
+[info] 2023-09-28 18:00:40 [scala-execution-context-global-8] INFO  a.l.o.l.index.OdinsonIndexWriter - Metadata StringField <fileName> will not be queryable using the metadata query language
+[info] 2023-09-28 18:00:40 [scala-execution-context-global-8] INFO  ai.lum.odinson.extra.IndexDocuments$ - Indexed Salmaso, Moro - 2018 - Bridging molecular docking to molecular dynamics in exploring ligand-protein recognition process An overview(2)-annotated.json.gz
+[info] 2023-09-28 18:00:40 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 115 tokens
+[info] 2023-09-28 18:00:40 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 183 tokens
+[info] 2023-09-28 18:00:40 [scala-execution-context-global-8] INFO  a.l.o.l.index.OdinsonIndexWriter - Metadata StringField <fileName> will not be queryable using the metadata query language
+[info] 2023-09-28 18:00:40 [scala-execution-context-global-8] INFO  ai.lum.odinson.extra.IndexDocuments$ - Indexed Endoglucanase Sensitivity for Substituents in Methyl Cellulose Hydrolysis Studied Using MALDI-TOFMS for Oligosaccharide Analysis and Structural Analysis of Enzyme Active Sites.json.gz
+[info] 2023-09-28 18:00:41 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 101 tokens
+[info] 2023-09-28 18:00:41 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 149 tokens
+[info] 2023-09-28 18:00:41 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 129 tokens
+[info] 2023-09-28 18:00:42 [scala-execution-context-global-8] INFO  a.l.o.l.index.OdinsonIndexWriter - Metadata StringField <fileName> will not be queryable using the metadata query language
+[info] 2023-09-28 18:00:42 [scala-execution-context-global-8] INFO  ai.lum.odinson.extra.IndexDocuments$ - Indexed Bashari, Rouhani Shirvan, Shakeri - 2018 - Cellulose-based hydrogels for personal care products-annotated.json.gz
+[info] 2023-09-28 18:00:42 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 101 tokens
+[info] 2023-09-28 18:00:42 [scala-execution-context-global-8] INFO  a.l.o.l.index.OdinsonIndexWriter - Metadata StringField <fileName> will not be queryable using the metadata query language
+[info] 2023-09-28 18:00:43 [scala-execution-context-global-8] INFO  ai.lum.odinson.extra.IndexDocuments$ - Indexed Sieger et al. - 1995 - Biodegradation of carboxymethyl celluloses by Agrobacterium CM-1-annotated.json.gz
+[info] 2023-09-28 18:00:43 [scala-execution-context-global-8] INFO  a.l.o.l.index.OdinsonIndexWriter - Metadata StringField <fileName> will not be queryable using the metadata query language
+[info] 2023-09-28 18:00:43 [scala-execution-context-global-8] INFO  ai.lum.odinson.extra.IndexDocuments$ - Indexed Cantarel et al. - 2009 - The Carbohydrate-Active EnZymes database (CAZy) an expert resource for Glycogenomics-annotated.json.gz
+[info] 2023-09-28 18:00:43 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 206 tokens
+[info] 2023-09-28 18:00:43 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 106 tokens
+[info] 2023-09-28 18:00:43 [scala-execution-context-global-8] INFO  a.l.o.l.index.OdinsonIndexWriter - Metadata StringField <fileName> will not be queryable using the metadata query language
+[info] 2023-09-28 18:00:43 [scala-execution-context-global-8] INFO  ai.lum.odinson.extra.IndexDocuments$ - Indexed Thimma Reddy, Tammishetti - 2004 - Free radical degradation of guar gum-annotated.json.gz
+[info] 2023-09-28 18:00:44 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 103 tokens
+[info] 2023-09-28 18:00:44 [scala-execution-context-global-8] INFO  a.l.o.l.index.OdinsonIndexWriter - Metadata StringField <fileName> will not be queryable using the metadata query language
+[info] 2023-09-28 18:00:44 [scala-execution-context-global-8] INFO  ai.lum.odinson.extra.IndexDocuments$ - Indexed Steiner, Schwab - 2012 - Recent advances in rational approaches for enzyme engineering-annotated.json.gz
+[info] 2023-09-28 18:00:44 [scala-execution-context-global-8] INFO  a.l.o.l.index.OdinsonIndexWriter - Metadata StringField <fileName> will not be queryable using the metadata query language
+[info] 2023-09-28 18:00:44 [scala-execution-context-global-8] INFO  ai.lum.odinson.extra.IndexDocuments$ - Indexed Borstlap, Kortland - Unknown - Effect of Substituents in the Aromatic Nucleus Biodegradation Behavior of Alkylaryl Sulfonates on the-annotated.json.gz
+[info] 2023-09-28 18:00:44 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 113 tokens
+[info] 2023-09-28 18:00:44 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 106 tokens
+[info] 2023-09-28 18:00:45 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 134 tokens
+[info] 2023-09-28 18:00:45 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 134 tokens
+[info] 2023-09-28 18:00:45 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 104 tokens
+[info] 2023-09-28 18:00:45 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 101 tokens
+[info] 2023-09-28 18:00:45 [scala-execution-context-global-8] INFO  a.l.o.l.index.OdinsonIndexWriter - Metadata StringField <fileName> will not be queryable using the metadata query language
+[info] 2023-09-28 18:00:45 [scala-execution-context-global-8] INFO  ai.lum.odinson.extra.IndexDocuments$ - Indexed Tosin et al. - 2012 - Laboratory test methods to determine the degradation of plastics in marine environmental conditions-annotated.json.gz
+[info] 2023-09-28 18:00:45 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 135 tokens
+[info] 2023-09-28 18:00:45 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 117 tokens
+[info] 2023-09-28 18:00:45 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 122 tokens
+[info] 2023-09-28 18:00:45 [scala-execution-context-global-8] INFO  a.l.o.l.index.OdinsonIndexWriter - Metadata StringField <fileName> will not be queryable using the metadata query language
+[info] 2023-09-28 18:00:45 [scala-execution-context-global-8] INFO  ai.lum.odinson.extra.IndexDocuments$ - Indexed Grün et al. - 2006 - Mechanism of action of the endo-(1 → 3)-α-glucanase MutAp from the mycoparasitic fungus Trichoderma harzianum-annotated.json.gz
+[info] 2023-09-28 18:00:45 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 107 tokens
+[info] 2023-09-28 18:00:46 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 335 tokens
+[info] 2023-09-28 18:00:46 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 115 tokens
+[info] 2023-09-28 18:00:46 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 134 tokens
+[info] 2023-09-28 18:00:46 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 141 tokens
+[info] 2023-09-28 18:00:46 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 178 tokens
+[info] 2023-09-28 18:00:46 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 317 tokens
+[info] 2023-09-28 18:00:46 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 102 tokens
+[info] 2023-09-28 18:00:46 [scala-execution-context-global-8] INFO  a.l.o.l.index.OdinsonIndexWriter - Metadata StringField <fileName> will not be queryable using the metadata query language
+[info] 2023-09-28 18:00:46 [scala-execution-context-global-8] INFO  ai.lum.odinson.extra.IndexDocuments$ - Indexed Varrone et al. - 2013 - Enrichment of activated sludge for enhanced hydrogen production from crude glycerol-annotated.json.gz
+[info] 2023-09-28 18:00:46 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 160 tokens
+[info] 2023-09-28 18:00:47 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 122 tokens
+[info] 2023-09-28 18:00:47 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 164 tokens
+[info] 2023-09-28 18:00:47 [scala-execution-context-global-8] INFO  a.l.o.l.index.OdinsonIndexWriter - Metadata StringField <fileName> will not be queryable using the metadata query language
+[info] 2023-09-28 18:00:47 [scala-execution-context-global-8] INFO  ai.lum.odinson.extra.IndexDocuments$ - Indexed Puls Wilson Hölter - 2010 - Degradation of Cellulose Acetate-Based Materials A Review-annotated.json.gz
+[info] 2023-09-28 18:00:47 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 135 tokens
+[info] 2023-09-28 18:00:48 [scala-execution-context-global-8] INFO  a.l.o.l.index.OdinsonIndexWriter - Metadata StringField <fileName> will not be queryable using the metadata query language
+[info] 2023-09-28 18:00:48 [scala-execution-context-global-8] INFO  ai.lum.odinson.extra.IndexDocuments$ - Indexed Gu et al. - 1993 - Degradation and Mineralization of Cellulose Acetate in Simulated Thermophilic Compost Environments-annotated.json.gz
+[info] 2023-09-28 18:00:48 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 104 tokens
+[info] 2023-09-28 18:00:48 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 109 tokens
+[info] 2023-09-28 18:00:49 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 124 tokens
+[info] 2023-09-28 18:00:49 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 217 tokens
+[info] 2023-09-28 18:00:49 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 106 tokens
+[info] 2023-09-28 18:00:49 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 126 tokens
+[info] 2023-09-28 18:00:49 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 110 tokens
+[info] 2023-09-28 18:00:49 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 110 tokens
+[info] 2023-09-28 18:00:49 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 102 tokens
+[info] 2023-09-28 18:00:49 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 110 tokens
+[info] 2023-09-28 18:00:49 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 124 tokens
+[info] 2023-09-28 18:00:49 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 240 tokens
+[info] 2023-09-28 18:00:49 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 244 tokens
+[info] 2023-09-28 18:00:49 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 253 tokens
+[info] 2023-09-28 18:00:49 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 128 tokens
+[info] 2023-09-28 18:00:49 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 239 tokens
+[info] 2023-09-28 18:00:49 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 111 tokens
+[info] 2023-09-28 18:00:50 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 106 tokens
+[info] 2023-09-28 18:00:50 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 118 tokens
+[info] 2023-09-28 18:00:50 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 201 tokens
+[info] 2023-09-28 18:00:50 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 140 tokens
+[info] 2023-09-28 18:00:50 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 140 tokens
+[info] 2023-09-28 18:00:50 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 116 tokens
+[info] 2023-09-28 18:00:50 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 104 tokens
+[info] 2023-09-28 18:00:50 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 212 tokens
+[info] 2023-09-28 18:00:50 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 130 tokens
+[info] 2023-09-28 18:00:50 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 139 tokens
+[info] 2023-09-28 18:00:50 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 147 tokens
+[info] 2023-09-28 18:00:50 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 190 tokens
+[info] 2023-09-28 18:00:50 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 121 tokens
+[info] 2023-09-28 18:00:50 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 107 tokens
+[info] 2023-09-28 18:00:50 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 144 tokens
+[info] 2023-09-28 18:00:50 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 218 tokens
+[info] 2023-09-28 18:00:50 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 254 tokens
+[info] 2023-09-28 18:00:50 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 117 tokens
+[info] 2023-09-28 18:00:51 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 137 tokens
+[info] 2023-09-28 18:00:51 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 110 tokens
+[info] 2023-09-28 18:00:51 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 142 tokens
+[info] 2023-09-28 18:00:51 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 112 tokens
+[info] 2023-09-28 18:00:51 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 132 tokens
+[info] 2023-09-28 18:00:51 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 202 tokens
+[info] 2023-09-28 18:00:51 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 128 tokens
+[info] 2023-09-28 18:00:51 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 108 tokens
+[info] 2023-09-28 18:00:51 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 114 tokens
+[info] 2023-09-28 18:00:51 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 144 tokens
+[info] 2023-09-28 18:00:51 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 159 tokens
+[info] 2023-09-28 18:00:52 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 149 tokens
+[info] 2023-09-28 18:00:52 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 181 tokens
+[info] 2023-09-28 18:00:52 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 131 tokens
+[info] 2023-09-28 18:00:52 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 182 tokens
+[info] 2023-09-28 18:00:52 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 144 tokens
+[info] 2023-09-28 18:00:52 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 110 tokens
+[info] 2023-09-28 18:00:52 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 129 tokens
+[info] 2023-09-28 18:00:52 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 160 tokens
+[info] 2023-09-28 18:00:52 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 121 tokens
+[info] 2023-09-28 18:00:52 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 140 tokens
+[info] 2023-09-28 18:00:52 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 135 tokens
+[info] 2023-09-28 18:00:52 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 169 tokens
+[info] 2023-09-28 18:00:52 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 116 tokens
+[info] 2023-09-28 18:00:52 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 120 tokens
+[info] 2023-09-28 18:00:52 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 124 tokens
+[info] 2023-09-28 18:00:52 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 114 tokens
+[info] 2023-09-28 18:00:52 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 194 tokens
+[info] 2023-09-28 18:00:52 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 274 tokens
+[info] 2023-09-28 18:00:52 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 116 tokens
+[info] 2023-09-28 18:00:52 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 112 tokens
+[info] 2023-09-28 18:00:52 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 249 tokens
+[info] 2023-09-28 18:00:52 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 167 tokens
+[info] 2023-09-28 18:00:52 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 138 tokens
+[info] 2023-09-28 18:00:52 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 177 tokens
+[info] 2023-09-28 18:00:52 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 267 tokens
+[info] 2023-09-28 18:00:52 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 160 tokens
+[info] 2023-09-28 18:00:52 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 314 tokens
+[info] 2023-09-28 18:00:52 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 131 tokens
+[info] 2023-09-28 18:00:52 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 117 tokens
+[info] 2023-09-28 18:00:52 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 182 tokens
+[info] 2023-09-28 18:00:52 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 105 tokens
+[info] 2023-09-28 18:00:52 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 138 tokens
+[info] 2023-09-28 18:00:52 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 105 tokens
+[info] 2023-09-28 18:00:52 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 209 tokens
+[info] 2023-09-28 18:00:52 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 203 tokens
+[info] 2023-09-28 18:00:52 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 228 tokens
+[info] 2023-09-28 18:00:52 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 216 tokens
+[info] 2023-09-28 18:00:52 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 118 tokens
+[info] 2023-09-28 18:00:52 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 212 tokens
+[info] 2023-09-28 18:00:53 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 113 tokens
+[info] 2023-09-28 18:00:53 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 222 tokens
+[info] 2023-09-28 18:00:53 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 140 tokens
+[info] 2023-09-28 18:00:53 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 196 tokens
+[info] 2023-09-28 18:00:53 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 102 tokens
+[info] 2023-09-28 18:00:53 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 125 tokens
+[info] 2023-09-28 18:00:53 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 179 tokens
+[info] 2023-09-28 18:00:53 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 151 tokens
+[info] 2023-09-28 18:00:53 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 102 tokens
+[info] 2023-09-28 18:00:53 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 125 tokens
+[info] 2023-09-28 18:00:53 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 580 tokens
+[info] 2023-09-28 18:00:53 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 318 tokens
+[info] 2023-09-28 18:00:53 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 107 tokens
+[info] 2023-09-28 18:00:53 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 205 tokens
+[info] 2023-09-28 18:00:53 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 220 tokens
+[info] 2023-09-28 18:00:53 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 113 tokens
+[info] 2023-09-28 18:00:53 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 113 tokens
+[info] 2023-09-28 18:00:53 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 124 tokens
+[info] 2023-09-28 18:00:53 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 242 tokens
+[info] 2023-09-28 18:00:53 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 199 tokens
+[info] 2023-09-28 18:00:53 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 111 tokens
+[info] 2023-09-28 18:00:53 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 213 tokens
+[info] 2023-09-28 18:00:53 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 117 tokens
+[info] 2023-09-28 18:00:53 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 105 tokens
+[info] 2023-09-28 18:00:54 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 313 tokens
+[info] 2023-09-28 18:00:54 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 1,340 tokens
+[info] 2023-09-28 18:00:54 [scala-execution-context-global-8] INFO  a.l.o.l.index.OdinsonIndexWriter - Metadata StringField <fileName> will not be queryable using the metadata query language
+[info] 2023-09-28 18:00:55 [scala-execution-context-global-8] INFO  ai.lum.odinson.extra.IndexDocuments$ - Indexed Board et al. - Unknown - Advances in Polymer Science-annotated.json.gz
+[info] 2023-09-28 18:00:55 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 132 tokens
+[info] 2023-09-28 18:00:55 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 110 tokens
+[info] 2023-09-28 18:00:55 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 111 tokens
+[info] 2023-09-28 18:00:55 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 315 tokens
+[info] 2023-09-28 18:00:55 [scala-execution-context-global-8] INFO  a.l.o.l.index.OdinsonIndexWriter - Metadata StringField <fileName> will not be queryable using the metadata query language
+[info] 2023-09-28 18:00:55 [scala-execution-context-global-8] INFO  ai.lum.odinson.extra.IndexDocuments$ - Indexed Hrmova, Fincher - 2007 - Dissecting the catalytic mechanism of a plant β-d-glucan glucohydrolase through structural biology using inhibi-annotated.json.gz
+[info] 2023-09-28 18:00:56 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 125 tokens
+[info] 2023-09-28 18:00:56 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 135 tokens
+[info] 2023-09-28 18:00:56 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 188 tokens
+[info] 2023-09-28 18:00:56 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 168 tokens
+[info] 2023-09-28 18:00:56 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 562 tokens
+[info] 2023-09-28 18:00:56 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 113 tokens
+[info] 2023-09-28 18:00:56 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 140 tokens
+[info] 2023-09-28 18:00:56 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 120 tokens
+[info] 2023-09-28 18:00:56 [scala-execution-context-global-8] INFO  a.l.o.l.index.OdinsonIndexWriter - Metadata StringField <fileName> will not be queryable using the metadata query language
+[info] 2023-09-28 18:00:56 [scala-execution-context-global-8] INFO  ai.lum.odinson.extra.IndexDocuments$ - Indexed Schlesselmann et al. - 1982 - Factors Determining Steric Course of Enzymic Glycosylation Reactions Glycosyl Transfer Products Formed fro-annotated.json.gz
+[info] 2023-09-28 18:00:56 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 160 tokens
+[info] 2023-09-28 18:00:56 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 559 tokens
+[info] 2023-09-28 18:00:56 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 349 tokens
+[info] 2023-09-28 18:00:56 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 102 tokens
+[info] 2023-09-28 18:00:56 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 131 tokens
+[info] 2023-09-28 18:00:56 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 117 tokens
+[info] 2023-09-28 18:00:56 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 137 tokens
+[info] 2023-09-28 18:00:57 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 151 tokens
+[info] 2023-09-28 18:00:57 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 273 tokens
+[info] 2023-09-28 18:00:57 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 701 tokens
+[info] 2023-09-28 18:00:57 [scala-execution-context-global-8] INFO  a.l.o.l.index.OdinsonIndexWriter - Metadata StringField <fileName> will not be queryable using the metadata query language
+[info] 2023-09-28 18:00:57 [scala-execution-context-global-8] INFO  ai.lum.odinson.extra.IndexDocuments$ - Indexed Tarasov, Leitch, Fatehi - 2018 - Lignin-carbohydrate complexes Properties, applications, analyses, and methods of extraction A review-annotated.json.gz
+[info] 2023-09-28 18:00:57 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 514 tokens
+[info] 2023-09-28 18:00:57 [scala-execution-context-global-8] INFO  a.l.o.l.index.OdinsonIndexWriter - Metadata StringField <fileName> will not be queryable using the metadata query language
+[info] 2023-09-28 18:00:57 [scala-execution-context-global-8] INFO  ai.lum.odinson.extra.IndexDocuments$ - Indexed Degli-Innocenti, Tosin, Bastioli - 1998 - Evaluation of the Biodegradation of Starch and Cellulose Under Controlled Composting Condition-annotated.json.gz
+[info] 2023-09-28 18:00:58 [scala-execution-context-global-8] INFO  a.l.o.l.index.OdinsonIndexWriter - Metadata StringField <fileName> will not be queryable using the metadata query language
+[info] 2023-09-28 18:00:58 [scala-execution-context-global-8] INFO  ai.lum.odinson.extra.IndexDocuments$ - Indexed Investigation of endoglucanase selectivity on carboxymethyl cellulose by mass spectrometric techniques .json.gz
+[info] 2023-09-28 18:00:58 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 112 tokens
+[info] 2023-09-28 18:00:58 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 132 tokens
+[info] 2023-09-28 18:00:58 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 202 tokens
+[info] 2023-09-28 18:00:58 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 128 tokens
+[info] 2023-09-28 18:00:58 [scala-execution-context-global-8] INFO  a.l.o.l.index.OdinsonIndexWriter - Metadata StringField <fileName> will not be queryable using the metadata query language
+[info] 2023-09-28 18:00:59 [scala-execution-context-global-8] INFO  ai.lum.odinson.extra.IndexDocuments$ - Indexed Amann, Minge - 2011 - Biodegradability of Poly(vinyl acetate) and Related Polymers-annotated.json.gz
+[info] 2023-09-28 18:00:59 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 106 tokens
+[info] 2023-09-28 18:00:59 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 127 tokens
+[info] 2023-09-28 18:00:59 [scala-execution-context-global-8] INFO  a.l.o.l.index.OdinsonIndexWriter - Metadata StringField <fileName> will not be queryable using the metadata query language
+[info] 2023-09-28 18:00:59 [scala-execution-context-global-8] INFO  ai.lum.odinson.extra.IndexDocuments$ - Indexed Karlsson et al. - 2002 - Enzymatic properties of the low molecular mass endoglucanases Cel12A (EG III) and Cel45A (EG V) of Trichoderma-annotated.json.gz
+[info] 2023-09-28 18:00:59 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 135 tokens
+[info] 2023-09-28 18:00:59 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 163 tokens
+[info] 2023-09-28 18:00:59 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 116 tokens
+[info] 2023-09-28 18:00:59 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 146 tokens
+[info] 2023-09-28 18:00:59 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 171 tokens
+[info] 2023-09-28 18:01:00 [scala-execution-context-global-8] INFO  a.l.o.l.index.OdinsonIndexWriter - Metadata StringField <fileName> will not be queryable using the metadata query language
+[info] 2023-09-28 18:01:00 [scala-execution-context-global-8] INFO  ai.lum.odinson.extra.IndexDocuments$ - Indexed Chen et al. - 2002 - Structure at 1.9 Å Resolution of a Quinohemoprotein Alcohol Dehydrogenase from Pseudomonas putida HK5-annotated.json.gz
+[info] 2023-09-28 18:01:00 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 138 tokens
+[info] 2023-09-28 18:01:00 [scala-execution-context-global-8] INFO  a.l.o.l.index.OdinsonIndexWriter - Metadata StringField <fileName> will not be queryable using the metadata query language
+[info] 2023-09-28 18:01:00 [scala-execution-context-global-8] INFO  ai.lum.odinson.extra.IndexDocuments$ - Indexed Cheng, Prud'homme - 2000 - Enzymatic Degradation of Guar and Substituted Guar Galactomannans-annotated.json.gz
+[info] 2023-09-28 18:01:00 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 119 tokens
+[info] 2023-09-28 18:01:01 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 123 tokens
+[info] 2023-09-28 18:01:01 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 173 tokens
+[info] 2023-09-28 18:01:01 [scala-execution-context-global-8] INFO  a.l.o.l.index.OdinsonIndexWriter - Metadata StringField <fileName> will not be queryable using the metadata query language
+[info] 2023-09-28 18:01:01 [scala-execution-context-global-8] INFO  ai.lum.odinson.extra.IndexDocuments$ - Indexed Ayoub, Gruyer, Bliard - 2003 - Enzymatic degradation of hydroxypropyltrimethylammonium wheat starches-annotated.json.gz
+[info] 2023-09-28 18:01:01 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 170 tokens
+[info] 2023-09-28 18:01:01 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 355 tokens
+[info] 2023-09-28 18:01:01 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 108 tokens
+[info] 2023-09-28 18:01:01 [scala-execution-context-global-8] INFO  a.l.o.l.index.OdinsonIndexWriter - Metadata StringField <fileName> will not be queryable using the metadata query language
+[info] 2023-09-28 18:01:01 [scala-execution-context-global-8] INFO  ai.lum.odinson.extra.IndexDocuments$ - Indexed Mouyna, Hartl, Latgé - 2013 - β-1,3-glucan modifying enzymes in Aspergillus fumigatus-annotated.json.gz
+[info] 2023-09-28 18:01:01 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 115 tokens
+[info] 2023-09-28 18:01:02 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 136 tokens
+[info] 2023-09-28 18:01:02 [scala-execution-context-global-8] INFO  a.l.o.l.index.OdinsonIndexWriter - Metadata StringField <fileName> will not be queryable using the metadata query language
+[info] 2023-09-28 18:01:02 [scala-execution-context-global-8] INFO  ai.lum.odinson.extra.IndexDocuments$ - Indexed Itoh, Kimoto - 2019 - Bacterial chitinase system as a model of chitin biodegradation(2)-annotated.json.gz
+[info] 2023-09-28 18:01:02 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 151 tokens
+[info] 2023-09-28 18:01:02 [scala-execution-context-global-8] INFO  a.l.o.l.index.OdinsonIndexWriter - Metadata StringField <fileName> will not be queryable using the metadata query language
+[info] 2023-09-28 18:01:02 [scala-execution-context-global-8] INFO  ai.lum.odinson.extra.IndexDocuments$ - Indexed Determination of the substituent distribution along cellulose acetate chains as revealed by enzymatic and chemical methods .json.gz
+[info] 2023-09-28 18:01:02 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 117 tokens
+[info] 2023-09-28 18:01:02 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 121 tokens
+[info] 2023-09-28 18:01:02 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 104 tokens
+[info] 2023-09-28 18:01:02 [scala-execution-context-global-8] INFO  a.l.o.l.index.OdinsonIndexWriter - Metadata StringField <fileName> will not be queryable using the metadata query language
+[info] 2023-09-28 18:01:03 [scala-execution-context-global-8] INFO  ai.lum.odinson.extra.IndexDocuments$ - Indexed Radwan, Mahrous - 2020 - Docking studies and molecular dynamics simulations of the binding characteristics of waldiomycin and its methyl-annotated.json.gz
+[info] 2023-09-28 18:01:03 [scala-execution-context-global-8] INFO  a.l.o.l.index.OdinsonIndexWriter - Metadata StringField <fileName> will not be queryable using the metadata query language
+[info] 2023-09-28 18:01:03 [scala-execution-context-global-8] INFO  ai.lum.odinson.extra.IndexDocuments$ - Indexed Ghirardelli et al. - 2021 - Organic contaminants in Ganga basin From the Green Revolution to the emerging concerns of modern India-annotated.json.gz
+[info] 2023-09-28 18:01:03 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 150 tokens
+[info] 2023-09-28 18:01:03 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 106 tokens
+[info] 2023-09-28 18:01:03 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 308 tokens
+[info] 2023-09-28 18:01:03 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 426 tokens
+[info] 2023-09-28 18:01:03 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 114 tokens
+[info] 2023-09-28 18:01:03 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 179 tokens
+[info] 2023-09-28 18:01:03 [scala-execution-context-global-8] INFO  a.l.o.l.index.OdinsonIndexWriter - Metadata StringField <fileName> will not be queryable using the metadata query language
+[info] 2023-09-28 18:01:04 [scala-execution-context-global-8] INFO  ai.lum.odinson.extra.IndexDocuments$ - Indexed Beier, Bertilsson - 2013 - Bacterial chitin degradation—mechanisms and ecophysiological strategies(2)-annotated.json.gz
+[info] 2023-09-28 18:01:04 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 149 tokens
+[info] 2023-09-28 18:01:04 [scala-execution-context-global-8] INFO  a.l.o.l.index.OdinsonIndexWriter - Metadata StringField <fileName> will not be queryable using the metadata query language
+[info] 2023-09-28 18:01:04 [scala-execution-context-global-8] INFO  ai.lum.odinson.extra.IndexDocuments$ - Indexed Yu et al. - 2018 - Enhanced enzymatic hydrolysis of cellulose from waste paper fibers by cationic polymers addition-annotated.json.gz
+[info] 2023-09-28 18:01:04 [scala-execution-context-global-8] INFO  a.l.o.l.index.OdinsonIndexWriter - Metadata StringField <fileName> will not be queryable using the metadata query language
+[info] 2023-09-28 18:01:05 [scala-execution-context-global-8] INFO  ai.lum.odinson.extra.IndexDocuments$ - Indexed Horvath, Preiss, Lipsky - 1967 - Fast Liquid Chromatography An Investigation of Operating Parameters and the Separation of Nucleotides o-annotated.json.gz
+[info] 2023-09-28 18:01:05 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 1,424 tokens
+[info] 2023-09-28 18:01:05 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 265 tokens
+[info] 2023-09-28 18:01:05 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 298 tokens
+[info] 2023-09-28 18:01:05 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 113 tokens
+[info] 2023-09-28 18:01:05 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 122 tokens
+[info] 2023-09-28 18:01:05 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 306 tokens
+[info] 2023-09-28 18:01:06 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 124 tokens
+[info] 2023-09-28 18:01:06 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 245 tokens
+[info] 2023-09-28 18:01:06 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 132 tokens
+[info] 2023-09-28 18:01:06 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 150 tokens
+[info] 2023-09-28 18:01:06 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 180 tokens
+[info] 2023-09-28 18:01:06 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 205 tokens
+[info] 2023-09-28 18:01:06 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 105 tokens
+[info] 2023-09-28 18:01:06 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 229 tokens
+[info] 2023-09-28 18:01:06 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 216 tokens
+[info] 2023-09-28 18:01:06 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 188 tokens
+[info] 2023-09-28 18:01:07 [scala-execution-context-global-8] INFO  a.l.o.l.index.OdinsonIndexWriter - Metadata StringField <fileName> will not be queryable using the metadata query language
+[info] 2023-09-28 18:01:07 [scala-execution-context-global-8] INFO  ai.lum.odinson.extra.IndexDocuments$ - Indexed Bissaro et al. - 2018 - Oxidoreductases and Reactive Oxygen Species in Conversion of Lignocellulosic Biomass-annotated.json.gz
+[info] 2023-09-28 18:01:07 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 137 tokens
+[info] 2023-09-28 18:01:07 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 122 tokens
+[info] 2023-09-28 18:01:07 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 132 tokens
+[info] 2023-09-28 18:01:07 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 346 tokens
+[info] 2023-09-28 18:01:08 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 152 tokens
+[info] 2023-09-28 18:01:08 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 153 tokens
+[info] 2023-09-28 18:01:08 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 153 tokens
+[info] 2023-09-28 18:01:08 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 152 tokens
+[info] 2023-09-28 18:01:08 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 172 tokens
+[info] 2023-09-28 18:01:08 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 146 tokens
+[info] 2023-09-28 18:01:09 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 149 tokens
+[info] 2023-09-28 18:01:09 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 143 tokens
+[info] 2023-09-28 18:01:09 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 127 tokens
+[info] 2023-09-28 18:01:09 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 114 tokens
+[info] 2023-09-28 18:01:09 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 101 tokens
+[info] 2023-09-28 18:01:09 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 252 tokens
+[info] 2023-09-28 18:01:09 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 103 tokens
+[info] 2023-09-28 18:01:09 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 112 tokens
+[info] 2023-09-28 18:01:09 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 195 tokens
+[info] 2023-09-28 18:01:09 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 162 tokens
+[info] 2023-09-28 18:01:10 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 319 tokens
+[info] 2023-09-28 18:01:10 [scala-execution-context-global-8] INFO  a.l.o.l.index.OdinsonIndexWriter - Metadata StringField <fileName> will not be queryable using the metadata query language
+[info] 2023-09-28 18:01:10 [scala-execution-context-global-8] INFO  ai.lum.odinson.extra.IndexDocuments$ - Indexed Bednarska - Unknown - Kinetic modelling of enzymatic starch hydrolysis-annotated.json.gz
+[info] 2023-09-28 18:01:10 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 113 tokens
+[info] 2023-09-28 18:01:10 [scala-execution-context-global-8] INFO  a.l.o.l.index.OdinsonIndexWriter - Metadata StringField <fileName> will not be queryable using the metadata query language
+[info] 2023-09-28 18:01:11 [scala-execution-context-global-8] INFO  ai.lum.odinson.extra.IndexDocuments$ - Indexed Haseg~w~$ And, Kordin, Kirkwood - 1969 - Enzymes That Hydrolyze Fungal Cell Wall Polysaccharides I. PURIFICATION AND PROPERTIES OF AN EN-annotated.json.gz
+[info] 2023-09-28 18:01:11 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 162 tokens
+[info] 2023-09-28 18:01:11 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 202 tokens
+[info] 2023-09-28 18:01:11 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 142 tokens
+[info] 2023-09-28 18:01:11 [scala-execution-context-global-8] INFO  a.l.o.l.index.OdinsonIndexWriter - Metadata StringField <fileName> will not be queryable using the metadata query language
+[info] 2023-09-28 18:01:11 [scala-execution-context-global-8] INFO  ai.lum.odinson.extra.IndexDocuments$ - Indexed Kotaka et al. - 2008 - Direct ethanol production from barley β-glucan by sake yeast displaying Aspergillus oryzae β-glucosidase and endo-annotated.json.gz
+[info] 2023-09-28 18:01:11 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 146 tokens
+[info] 2023-09-28 18:01:11 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 405 tokens
+[info] 2023-09-28 18:01:11 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 614 tokens
+[info] 2023-09-28 18:01:11 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 213 tokens
+[info] 2023-09-28 18:01:11 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 158 tokens
+[info] 2023-09-28 18:01:12 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 112 tokens
+[info] 2023-09-28 18:01:12 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 107 tokens
+[info] 2023-09-28 18:01:12 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 263 tokens
+[info] 2023-09-28 18:01:12 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 208 tokens
+[info] 2023-09-28 18:01:12 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 212 tokens
+[info] 2023-09-28 18:01:12 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 109 tokens
+[info] 2023-09-28 18:01:13 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 261 tokens
+[info] 2023-09-28 18:01:13 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 167 tokens
+[info] 2023-09-28 18:01:13 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 102 tokens
+[info] 2023-09-28 18:01:13 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 173 tokens
+[info] 2023-09-28 18:01:13 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 144 tokens
+[info] 2023-09-28 18:01:14 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 133 tokens
+[info] 2023-09-28 18:01:14 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 156 tokens
+[info] 2023-09-28 18:01:15 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 112 tokens
+[info] 2023-09-28 18:01:15 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 105 tokens
+[info] 2023-09-28 18:01:15 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 242 tokens
+[info] 2023-09-28 18:01:16 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 133 tokens
+[info] 2023-09-28 18:01:16 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 120 tokens
+[info] 2023-09-28 18:01:16 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 265 tokens
+[info] 2023-09-28 18:01:16 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 110 tokens
+[info] 2023-09-28 18:01:16 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 294 tokens
+[info] 2023-09-28 18:01:16 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 397 tokens
+[info] 2023-09-28 18:01:16 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 6,289 tokens
+[info] 2023-09-28 18:01:16 [scala-execution-context-global-8] INFO  a.l.o.l.index.OdinsonIndexWriter - Metadata StringField <fileName> will not be queryable using the metadata query language
+[info] 2023-09-28 18:01:17 [scala-execution-context-global-8] INFO  ai.lum.odinson.extra.IndexDocuments$ - Indexed Abbott, Lammerts Van Bueren Editors - Unknown - Protein-Carbohydrate Interactions Methods and Protocols Methods in Molecular Biology 158-annotated.json.gz
+[info] 2023-09-28 18:01:17 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 122 tokens
+[info] 2023-09-28 18:01:17 [scala-execution-context-global-8] INFO  a.l.o.l.index.OdinsonIndexWriter - Metadata StringField <fileName> will not be queryable using the metadata query language
+[info] 2023-09-28 18:01:17 [scala-execution-context-global-8] INFO  ai.lum.odinson.extra.IndexDocuments$ - Indexed Patil, Reviews, 2008 - 2014 - Crosslinking of polysaccharides methods and applications-annotated.json.gz
+[info] 2023-09-28 18:01:18 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 204 tokens
+[info] 2023-09-28 18:01:18 [scala-execution-context-global-8] INFO  a.l.o.l.index.OdinsonIndexWriter - Metadata StringField <fileName> will not be queryable using the metadata query language
+[info] 2023-09-28 18:01:18 [scala-execution-context-global-8] INFO  ai.lum.odinson.extra.IndexDocuments$ - Indexed Endo et al. - 2009 - LFERs for Soil Organic Carbon−Water Distribution Coefficients (KOC) at Environmentally Relevant Sorbate Concentrati-annotated.json.gz
+[info] 2023-09-28 18:01:18 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 177 tokens
+[info] 2023-09-28 18:01:18 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 212 tokens
+[info] 2023-09-28 18:01:18 [scala-execution-context-global-8] WARN  a.l.o.l.index.OdinsonIndexWriter - skipping sentence with 203 tokens
+[info] 2023-09-28 18:01:18 [scala-execution-context-global-8] INFO  a.l.o.l.index.OdinsonIndexWriter - Metadata StringField <fileName> will not be queryable using the metadata query language
+[info] 2023-09-28 18:01:19 [scala-execution-context-global-8] INFO  ai.lum.odinson.extra.IndexDocuments$ - Indexed Lehmann, Kleber - 2015 - The contentious nature of soil organic matter-annotated.json.gz
+[success] Total time: 93 s (01:33), completed Sep 28, 2023 6:01:19 PM

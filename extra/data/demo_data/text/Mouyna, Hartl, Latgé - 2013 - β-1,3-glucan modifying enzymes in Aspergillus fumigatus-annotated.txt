@@ -1,0 +1,776 @@
+REVIEW ARTICLE
+published: 17 April 2013
+doi: 10.3389/fmicb.2013.00081
+β-1,3-glucan modifying enzymes in Aspergillus fumigatus
+Isabelle Mouyna‡,Lukas Hartl†‡and Jean-Paul Latgé *
+Unité des Aspergillus, Département de Parasitologie et Mycologie, Institut Pasteur, Paris, France
+Edited by:
+Elaine M. Bignell, Imperial CollegeLondon, UK
+Reviewed by:
+Carol Munro, University of
+Aberdeen, UK
+Sven Krappmann,Friedrich-Alexander-UniversitätErlangen-Nürnberg, Germany
+*Correspondence:
+Jean-Paul Latgé, Unité des
+Aspergillus, Département deParasitologie et Mycologie, InstitutPasteur, 25 rue du Docteur Roux,75015 Paris, France.e-mail: jean-paul.latge@pasteur.fr
+†Present address:
+Lukas Hartl, Microsynth AustriaGmbH, Leberstrasse 20, Vienna,
+Austria
+‡These authors have contributed
+equally to this work.InAspergillus fumigatus like in other ﬁlamentous ascomycetes, β-1,3-glucan constitutes a
+prominent cell wall component being responsible for rigidity of the cell wall structure.
+In ﬁlamentous fungi, softening of the cell wall is absolutely required during conidialgermination and hyphal branching. Because of the central structure of β-1,3-glucans, it
+is expected that β-1,3-glucanases play a major role in cell wall softening. Based on in silico
+and experimental data, this review gives an overview of β-1,3-glucan modifying enzymes
+inA. fumigatus genome and their putative role during morphogenesis.
+Keywords: Aspergillus fumigatus , cell wall, β-1,3-glucan, β-1,3-glucan modifying enzyme, endo- β-1,3-glucanase,
+exo-β -1,3-glucanase
+INTRODUCTION
+The cell wall of Aspergillus fumigatus is predominantly composed
+of polysaccharides. The central ﬁbrillar core of the cell wall is
+composed of a polymer of β-1,3-glucan which is a branched glu-
+can with 4% β-1,6 branch points, to which the chitin, the galac-
+tomannan and β-1,3-1,4-glucan are covalently bound ( Fontaine
+et al., 2000 ). All these polysaccharides are speciﬁc of fungal cells,
+and constitute good antifungal target.
+β-1,3-glucans of A. fumigatus are synthesized by a plasma
+membrane-bound glucan synthase complex, which uses UDP-g l u c o s ea sas u b s t r a t ea n de x t r u d e sl i n e a r β-1,3-glucan chains
+through the membrane into the periplasmic space (Beauvais et al.,1993, 2001). Upon arrival in the cell wall space, newly synthe-
+sized polysaccharides are remodeled in order to be incorporated
+in the pre-existing cell wall. An example of the modiﬁcations
+that occur is given in Figure 1. Steps involved in the remodeling
+process are structural modiﬁcations of the linear glucan chains,produced by the glucan synthase complex, followed by branch-
+ing, elongation, and degradation of the β-1,3-glucan of the cell
+wall. Morphogenetic events like conidial swelling (the isodiame-tral growth phase of germination) germ tube emergence and the
+production of lateral hypha during mycelial growth require that
+the cell wall loses its rigidity to allow the emergence of an “addi-
+tional cell.” Two different biochemical events have been suggested
+to be associated with germination: the ﬁrst one is an increased
+intracellular osmotic pressure ( D’Enfert, 1997)a n dt h es e c o n d
+one is the softening of the existing cell wall by glycosylhydrolases.
+Osmotic pressure is high in resting conidia due to their high
+content of trehalose and polyol. The molecules are, however, fullydegraded during the swelling of the conidium which suggests theoccurrence of another biochemical structural modiﬁcation event
+to facilitate the remodeling of the cell wall during germination.
+Glycosylhydrolases are the candidates of choice for these cell wall
+modiﬁcations.
+Here we present a survey of potential endo- β-1,3-glucanases
+and exo- β-1,3-glucanases found in the A. fumigatus genome
+as well as the already identiﬁed glucanases and glucanosyl-transferase activities described in A. fumigatus (Ta b l e 1 ). A
+survey of β-1,3-glucanases was undertaken in the genomes of
+A. fumigatus strain Af293 ( Nierman et al., 2005 )u s i n gt h e
+cadre genome ( http://www.cadre-genom es.org.uk/Aspergillus_
+fumigatus ) and the Carbohydrate-Active enZYme (CAZy)
+Database ( http://www .cazy.org/).
+AREβ–GLUCANASE INVOLVED IN THE CELL WALL
+MODIFICATION?
+β-1,3-Glucan hydrolyzing enzymes can be divided into exo- β-
+1,3-glucanases and endo- β-1,3-glucanases. Endo-β -1,3-glucanase
+activities cleave inside a glucan chain in a more or less randomfashion, while the exo- β-1,3-glucanase activities release glucose
+residues from the non-reducing end ( Figure 1). Theoretically, the
+cleavage of long chains of β-1,3-glucan should cause a softening
+of the cell wall. Therefore, we expect this type of enzyme to be
+involved in cell wall remodeling that occur during the swelling
+and germination of conidia or the branching of hyphae.
+In order to identify all the putative β-1,3-glucanases in
+the A. fumigatus genome sequenced strain Af293 ( Nierman
+et al., 2005 ), we used the classiﬁcation of the Carbohydrates
+enZYmes database [CAZy database ( http://www .cazy.org/)]. This
+database describes the families of enzymes with structurally
+www.frontiersin.org April 2013 | Volume 4 | Article 81 |1
+
+Mouyna et al. β-1,3-glucan modifying enzyme
+FIGURE 1 | Differents steps occurring during the remodeling process of the cell wall: branching of β(1–3)glucan, elongation and degradation of
+β(1–3)glucan chains.
+related catalytic and carbohydrate binding modules (CBM) that
+degrade, modify or create glycosidic bonds. In this classiﬁca-
+tion, we selected and further investigated the families which
+could contain putative β-1,3-glucanases and each potential
+endo/exo β-1,3-glucanase identiﬁed in the A. fumigatus genome
+was used as a query for BLAST searches to identify possi-
+ble homologs using cadre genome ( http://www.cadre-genomes.
+org.uk/Aspergillus_fumigatus ). This search has led to the iden-
+tiﬁcation of twenty nine potential exo- β-1,3-glucanases and
+endo- β-1,3-glucanases that belong to the CAZy GH families
+3, 5, 16, 55, and 81 ( Ta b l e 1 ). The expression of these dif-
+ferent genes in mycelial growth either in liquid or aerial con-
+ditions ( Gibbons et al., 2012 ) has been shown in Ta b l e 1 .
+The molecular characteristics and the phylogenetic tree of
+each of the proteins belonging to these families have been
+investigated.
+EXO- β-1,3-GLUCANASE FAMILIES
+In the CAZy database, family GH5 represent a group of hydro-
+lases with different substrate speciﬁcities such as for example exo
+β-1,3-glucanases, endo β-1,4-glucanases, endo β-1,6-glucanases.
+Four proteins belonging to GH5 family in A. fumigatus have
+been identiﬁed in the genome (AfExg1p =AFUA_1G03600,
+AfExg2p =AFUA_6G09250, AfExg3p =AFUA_7G05610, and
+AfExg4p =AFUA_2G09350). The characteristics of these proteins
+are presented in Figure 2A and Ta b l e 1 .
+AfExg1p and AfExg4p have a signal peptide in contrast to the
+others AfExg2p and AfExg3p. The phylogenetic tree of GH5 pro-
+teins is presented in Figure 2B . Recently the respective orthologs
+inS. pombe have been described ( Duenas-Santero et al., 2010 ).
+SpExg1p is secreted, SpExg2p is bound to the membrane via a
+GPI anchor and SpExg3p is a cytoplasmic protein. Interestingly,
+inS. cerevisiae andC. albicans ,i th a sb e e ns h o w nt h a tE x g 1 pa n dXog1p are able to degrade β-1,3-glucan ( Vazquez de Aldana et al.,
+1991; Chambers et al., 1993 )a n dd i s p l a ye x o β-1,3-glucanase
+activities but Suzuki et al. (2001) showed also that the recombi-
+nant ScExg1p was able to cleave also β-1,6-glucan. SpExg1 and
+SpExg3 are only acting on β-1,6-glucans, while no activity was
+detected for SpExg2 ( Duenas-Santero et al., 2010 ). In S. cerevisiae ,
+the third ortholog SSG1 has been shown to code for a sporu-
+lation speciﬁc exo- β-1,3-glucanase activity ( San Segundo et al.,
+1993 ). In S. cerevisiae , the deletion of SSG1 showed a signiﬁcant
+delay in the appearance of mature asci ( San Segundo et al., 1993 ).
+In contrast, no growth phenotype for the single exg1 and exg2
+deletion strains of S. cerevisiae has been observed ( Larriba et al.,
+1995 ). Moreover, the triple ssg1 exg1 exg2 mutants behave like the
+simple ssg1 mutant. In S. pombe , the phenotype of the triple exg
+mutants behave like the parental strain ( Duenas-Santero et al.,
+2010 ). None of the EXG1–4 gene has been deleted or otherwise
+characterized in A. fumigatus .
+In the CAZy database, family GH55 includes exo- β-
+1,3-glucanases (EC 3.2.1.58) and endo- β-1,3-glucanases
+(EC 3.2.1.39). In A. fumigatus , six proteins belonging
+to this family are present: AfExg5p =AFUA_6G11980,
+AfExg6p =AFUA_6G13270, AfExg7p =AFUA_3G07520,
+AfExg8p =AFUA_1G14450, AfExg9p =AFUA_2G00430,
+AfExg10 =AFUA_4G03350, ( Ta b l e 1 ).
+It has been shown that Af EXG6 encodes a 82 kDa exo β-1,3-
+glucanase enzyme named ExoGI which hydrolyze exclusively a
+β-1,3-glucan chain with a minimal substrate size of four glu-
+cose residues ( Fontaine et al., 1997a ). The characteristics of
+theA. fumigatus proteins are shown in Figure 2C and Ta b l e 1 .
+AfExg6p, AfExg7p, AfExg8p and AfExg10p feature a signal pep-
+tide, while AfExg5p and AfExg9p are intracellular proteins.
+AfExg9p features an additional LT_GEWL (Lytic Transglycosylase
+and Goose Egg White Lysozyme) domain. The exoglucanases
+Frontiers in Microbiology | Fungi and Their Interactions April 2013 | Volume 4 | Article 81 |2
+Mouyna et al. β-1,3-glucan modifying enzyme
+T able 1 | AFUA-number of A. fumigatus genes from Af293 strain ( http://www.cadre-genomes.org.uk/Aspergillus_fumigatus )a n d
+characteristics of modifying cell wall β-1,3-glucanases of A. fumigatus.
+Genes Family Size (aa) SP pI Expressed in vegetative mycelium
+EXO β(1–3)GLUCANASE
+EXG1 AFUA_1G03600 GH5 416 + 4.3 +
+EXG2 AFUA_6G09250 GH5 833 − 7. 9 +
+EXG3 AFUA_7G05610 GH5 470 − 6.1 −
+EXG4 AFUA_2G09350 GH5 396 + 4.8 +
+EXG5 AFUA_6G11980 GH55 822 − 4.5 −
+EXG6 AFUA_6G13270 ExoGI GH55 804 + 4.8 −
+EXG7 AFUA_3G07520 GH55 809 + 4.9 −
+EXG8 AFUA_1G14450 GH55 947 + 5 +
+EXG9 AFUA_2G00430 GH55 1005 − 5 −
+EXG10 AFUA_4G03350 GH55 779 + 5.7 +
+ENDO β(1–3)GLUCANASE
+ENGL1 AFUA_1G04260 GH81 97 4 + 5.8 +
+ENG2 AFUA_2G14360 GH16 652 + 4 +
+ENG3 AFUA_1G05290 GH16 356 + 5 −
+ENG4 AFUA_5G02280 GH16 391 − 5.6 +
+ENG5 AFUA_4G13360 GH16 378 − 6.1 −
+ENG6 AFUA_6G14540 GH16 285 + 4.6 −
+ENG7 AFUA_3G03080 GH16 285 + 4.9 −
+ENG8 AFUA_5G14030 GH16 456 + 5.5 −
+OTHERS EXO- β–GLUCANASE
+EXG12 AFUA_1G05770 ExoGII GH3 873 + 4.8 +
+EXG13 AFUA_7G06140 GH3 739 + 5.8 +
+EXG14 AFUA_7G00240 GH3 767 − 8.4 +
+EXG15 AFUA_1G17 410 GH3 769 + 5 +
+EXG16 AFUA_8G02100 GH3 806 + 5.3 −
+EXG17 AFUA_6G14490 GH3 829 − 6.1 −
+EXG18 AFUA_5G07190 GH3 838 − 5.1 +
+EXG19 AFUA_6G11910 GH3 856 − 5.9 −
+EXG20 AFUA_6G08700 GH3 888 + 5.7 +
+EXG21 AFUA_6G03570 GH3 1033 − 5 +
+BRANCHING ENZYME
+BGT1 AFUA_1G11460 GH17 305 + 4.8 +
+BGT2 AFUA_3G00270 GH17 446 + 4.7 +
+BGT3 AFUA_5G08780 GH17 688 + 4.7 +
+SCW4 AFUA_6G12380 GH17 369 + 7 +
+SCW11 AFUA_8G05610 GH17 +
+ELONGATION ENZYME
+GEL1 AFUA_2G01170 GH72 452 + 4.7 +
+GEL2 AFUA_6G11390 GH72 475 + 4.4 +
+GEL3 AFUA_2G12850 GH72 544 + 4.4 −
+GEL4 AFUA_2G05340 GH72 548 + 4.6 +
+GEL5 AFUA_8G02130 GH72 537 + 4.2 +
+GEL6 AFUA_3G13200 GH72 460 + 4.4 −
+GEL7 AFUA_6G12410 GH72 541 + 4.7 −
+CROSS LINKING ENZYME
+CRH1 AFUA_6G03230 GH16 357 + 4 +
+CRH2 AFUA_2G03120 GH16 443 + 4.4 +
+CRH3 AFUA_3G09250 GH16 363 + 5 +
+CRH4 AFUA_6G08510 GH16 450 + 4.8 +
+CRH5 AFUA_1G16190 GH16 395 + 4.4 +
+SP, Signal peptide; +, Genes expressed and −, Genes not expressed, in either liquid or aerial growth ( Gibbons et al., 2012 ).
+www.frontiersin.org April 2013 | Volume 4 | Article 81 |3
+Mouyna et al. β-1,3-glucan modifying enzyme
+FIGURE 2 | Domain organization and phylogeny of A. fumigatus exo
+β-1,3-glucanases. Protein domains identiﬁed using SignalP 3.0, big-PI,
+TMHMM v. 2.0, and CD search (100 aa: protein length proportional to100 amino acids). Phylogenetic trees of A. fumigatus were built by
+Neighbor Joining. Numbers next to nodes represent bootstrap valuescalculated using 1000 repetitions. A. fumigatus proteins were aligned
+with orthologs identiﬁed in the ﬁlamentous fungi Aspergillus nidulans ,
+Aspergillus niger ,Penicilliu m chrysogenum ,Neurospora crassa ,Magnaporthe grisea , and the yeasts Saccharomyces cerevisiae ,
+Schizosaccharomyces pombe ,Kluyveromyces lactis ,a n d Candida
+albicans .(A) GH5 family domain organization. (B) Phylogeny of GH5
+family, (C) GH55 family domain organization, and (D) Phylogeny of
+GH55 glucanases additionally contains sequences of Cochliobolus
+carbonum EXG1 (Schaeffer et al., 1994 ),Hypocrea rufa LamA1 ( Nobe
+et al., 2004 ),Hypocrea virens Bgn1 and Bgn2 ( Kim et al., 2002 ), and
+Hypocrea lixii Bgn13.1 ( De la Cruz et al., 1995 ).
+AfExg5p to AfExg10p all feature two domains with similarity to
+the pectate lyase 3 domain. GH55 exoglucanases are not found
+in yeasts like S. cerevisiae ,C. albicans and S. pombe .T h ep r o -
+tein sequences of the orthologous genes in Cochliobolus carbonum
+Exg1 ( Schaeffer et al., 1994 ),Hypocrea rufa LamA1 ( Nobe et al.,
+2004 ),Hypocrea virens Bgn1 and Bgn2 ( Kim et al., 2002 ), and
+Hypocrea lixii Bgn13.1 ( De la Cruz et al., 1995 ) were added to
+the alignment of the GH55 family to construct a phylogenetic
+tree ( Figure 2D ). It has been shown that C. carbonum Exg1p and
+H. rufa LamA1p encode for speciﬁc exo- β-1,3-glucanases ( Nobe
+et al., 2004 ) in contrast to Bgn1p, Bgn2p and Bgn13.1p which
+encode for speciﬁc endo- β-1,3-glucanases ( De la Cruz et al., 1995;
+Kim et al., 2002 ). To date, the biological function of the A. fumi-
+gatus GH55 glycosyl-hydrolases is unknown since none of these
+genes have been deleted yet.
+ENDO- β-1,3-GLUCANASE FAMILIES
+The speciﬁcity of the members of the family GH16 in the
+CAZy database is quite wide since members of this GHfamily can act as xyloglucan xyloglucosyltransferases (EC
+2.4.1.207), keratan-sulfate endo-1,4- β-galactosidases (EC
+3.2.1.103), endo-1,3- β-glucanase (EC 3.2.1.39), endo-1,3(4)-
+β-glucanase (EC 3.2.1.6); licheninase (EC 3.2.1.73), β-agarase
+(EC 3.2.1.81), κ-carrageenase (EC 3.2.1.83), or xyloglu-
+canase (EC 3.2.1.151). The GH16 superfamily has been
+divided into nine sub-families based on a phylogenetic
+analysis of conserved domains of members of this super-
+family (cd00413; http://www .ncbi.nlm.nih.gov/Structure/
+cdd/cddsrv .cgi?uid =29534 ): GH16_lichenases (cd02175),
+GH16_XETs (cd02176), GH16_kappa_carrageenases (cd02177),
+GH16_beta_agarases (cd02178), GH16_beta_GRPs (cd02179),
+GH16_laminarinases (cd02180), GH16_MLG1_glucanases
+(mixed-linked glucanases, cd02181), GH16_laminarinase_like
+proteins (cd02182), and GH16_GPI_glucanosyltransferases
+(cd02183).
+InA. fumigatus , seven members Af ENG2 to Af ENG8 are
+present in the genome ( Ta b l e 1 ,Figure 3A ). While AfEng2p to
+AfEng5p belong to the subfamily GH16_MLG1_glucanases, and
+Frontiers in Microbiology | Fungi and Their Interactions April 2013 | Volume 4 | Article 81 |4
+Mouyna et al. β-1,3-glucan modifying enzyme
+AfEng6p and AfEng7p to the subfamily GH16_laminarinase_like
+proteins, AfEng8p was not assigned to a GH16 subfamily. The
+cluster of GH16_MLG1_glucanases from AfEng2p to AfEng5p
+contains four proteins which all share the same catalytic region
+but aside from that feature different protein domains. AfEng2p
+and AfEng3p both exhibit an N-terminal signal peptide but only
+AfEng2p, which is considerably larger than its three homologs,
+holds a GPI signal sequence. AfEng4p and AfEng5p on the otherhand are not predicted to contain a signal peptide but both feature
+a transmembrane helix, suggesting a localization at the plasma
+membrane with the active domain pointing toward the cell wall.
+So while these proteins vary in terms of protein domains all four
+of them might still be localized close to the cell wall, either by
+being secreted or by being bound to the plasma membrane by a
+GPI anchor or a transmembrane domain.
+It has been shown that Af ENG2 encode for a endo β-1,3-
+glucanase protein ( Hartl et al., 2011 ) .T h e s ee n z y m ea c t so n
+β-1,3-glucans and lichenan but no degradation were observed
+with β(1–6)substrate. Eng2p preferentially acts on soluble poly-
+mers like laminarin and shorter β-1,3- linked oligosaccharides
+and have a slight transferase activity with substrates of low
+degree of polymerization (DP4 and DP6). The eng2 mutant is
+similar to the parental strain su ggesting that AfEng2p alone doesnot play a morphogenetic role ( Hartl et al., 2011 ). The two
+GH16_laminarinase_like proteins AfEng6p and AfEng7p exhibit
+the same protein length and almost identical molecular weights.
+Both feature a signal peptide followed by the catalytic domain.
+AfEng7p additionally features a C-terminal GPI signal sequence.
+While the bacterial members of this sub-family often contain a
+CBM such as CBM6 ( Hong et al., 2002 ) or CBM13 (ricin-type
+β-trefoil) ( Asano et al., 2002; Ferrer, 2006; Shi et al., 2010 ), no
+such CBMs were identiﬁed in AfEng 6pa n dA f E n g 7p.
+Although AfEng8p could not be assigned to the licheni-
+nase subfamily with high signiﬁcance, part of the GH16 con-
+served domain of AfEng8p showed some strong homology to
+GH16_lichenases ( Planas, 2000 ), which have been shown to be
+essential for the degradation of extracellular lichenan in Bacillus
+subtilis (Wolf et al., 1995 ). The fact that AfEng8p also features a
+signal peptide suggests a similar role in A. fumigatus .
+In the GH16 family, three clades were identiﬁed
+(Figure 3B ): the predicted GH16_MLG1_glucanases (top),
+GH16_laminarinase_like proteins (middle), and the probable
+lichenases (bottom). S. pombe is the only yeast that possesses
+a GH16 glucanase (NP_595680). In the ﬁlamentous fungi the
+number of GH16 glucanases ranges from one in M. grisea
+(AAX07660) to eight in A. fumigatus . When looking at fungi
+FIGURE 3 | Domain organization and phylogenetic tree of A. fumigatus
+endo- β-1,3-glucanases. Protein domains identiﬁed using SignalP 3.0, big-PI,
+TMHMM v. 2.0, and CD search (100 aa: protein length proportional to 100amino acids). (A)GH16 family domain organization and (B)phylogeny of
+GH16 family (C)GH81 family domain organization and (D)Phylogenetic tree
+of GH81 family.
+www.frontiersin.org April 2013 | Volume 4 | Article 81 |5
+Mouyna et al. β-1,3-glucan modifying enzyme
+f r o mt h es a m eg e n u s( A. fumigatus ,A. nidulans ,a n d A.niger ), the
+total number as well as the number of enzymes present in each
+clade varies. Because of their endoglucanase activity, multiple
+deletion of the enggene is ongoing using the beta six rec cassette
+allowing repetitive round of gene deletion after excision of the
+resistance marker ( Hartmann et al., 2010 ).
+Only endo- β-1,3-glucanase (EC 3.2.1.39) belong to the GH81
+family . A single member of this family has been found in the
+A. fumigatus genome. It is a glycosylated 74 kDa endo- β-1,3-
+glucanases protein that was isolated from A. fumigatus autolysate
+(supernatant of the broken mycelium grown 3 days at 37◦C)
+(Fontaine et al., 1997b ). This enzyme represents 10–15% of
+the total β-1,3-glucanase activity found in the A. fumigatus cell
+wall autolysate (supernatant of the cell wall extract incubated
+3d a y sa t3 7◦C). The enzyme recognized at least ﬁve glucose
+units linked by a β-1,3-bond. The gene encoding this activity
+has been cloned and named ENGL1 (AFUA_1G04260) ( Mouyna
+et al., 2002 ). AfEngl1p has an N-terminal signal peptide and a
+large GH81 domain responsible for the endo-1,3-glucanase activ-
+ity ( Figure 3C ). In contrast to A. fumigatus , two orthologs are
+present in the S. serevisiaie ,S. pombe ,a n d C. albicans genome. The
+phylogenetic tree of this GH81 family is presented in Figure 3D .
+Like for AfEngl1p, it has been shown that SpEng1p, SpEng2p
+(Martin-Cuadrado et al., 2008a )a sw e l la sS c E n g 1 p( Baladron
+et al., 2002 ) exclusively hydrolyze linear β-1,3-glucan chains and
+display the same enzymatic activity as AfEngl1p. Moreover the
+four conserved aspartic and glutamic acid residues necessary for
+enzymatic activity has been determined by site-directed mutage-
+nesis in ScEng2p corresponding to D518, D588, E609, and E613(Martin-Cuadrado et al., 2008a ).
+InS. pombe ,Martin-Cuadrado et al. (2003) showed that
+SpEng1p encodes protein with detectable endo β-1,3-glucanase
+activity whose deletion interfere in cell separation, because cells
+fails to degrade the primary septum that separates the two sis-
+ters cells. SpEng1p localizes to the septum region at the time
+of cell separation. SpEng2p also exhibits endo- β-1,3- glucanase
+activity but mutant /Delta1eng2 do not have a cell separation defect.
+/Delta1eng2 ofS. pombe on the other hand is involved in ascus wall
+degradation after sporulation ( Encinar del Dedo et al., 2009 ).
+Esteban et al. (2005) showed in C. albicans that CaEng1p is also
+involved in cell separation. Similar results has been obtained in
+S. cerevisiae (Baladron et al., 2002 )w h e r e eng1 deletion mutants
+show defects in cell separation. In contrast, the lack of phenotype
+for the /Delta1engl1 mutant suggests that this endo- β-1,3-glucanase
+activity does not play a morphogenetic role in A. fumigatus .
+It has been shown that SpEng1p features a C-terminal CBM
+consisting of three repeats of about 50 amino acids each ( Martin-
+Cuadrado et al., 2008b ). The deletion of this CBM termed
+SpEng1CBM caused a reduction of catalytic activity against insol-
+uble substrates and a defect in targeting of Eng1p to the septum.No such CBM module has been found in other proteins of the
+GH81 family in A. fumigatus
+,S. cerevisiae ,o rC. albicans .
+OTHERS EXO- β-GLUCANASES
+In the CAZy database, family GH3 contains exo-hydrolases
+able to degrade different substrates. They are classiﬁed
+asβ-glucosidase (EC 3.2.1.21); xylan 1,4- β-xylosidase(EC 3.2.1.37); β-N-acetylhexosaminidase (EC 3.2.1.52); glu-
+can 1,3- β-glucosidase (EC 3.2.1.58); glucan 1,4- β-glucosidase
+(EC 3.2.1.74); exo-1,3-1,4-glucanase (EC 3.2.1.-); α-L-
+arabinofuranosidase (EC 3.2.1.55). Ten members of GH3 are
+present in the genome of A. fumigatus (Ta b l e 1 ): AFUA_1G05770,
+AFUA_7G06140, AFUA_7G00240, AFUA_1G17410, AFUA_
+8G02100, AFUA_6G14490, AFUA_5G07190, AFUA_6G11910,
+AFUA_6G08700 and AFUA_6G03570. The characteristics of theproteins encoded by these genes are summarized in Figure 4A
+and Ta b l e 1 . Half of the proteins are secreted. All the proteins of
+A. fumigatus share conserved amino acids residues correspond-
+ing to the GH3 domain of the protein. Eight proteins have a
+Fibronectin like domain3 at the N-terminus. Fibronectin (FN) is
+a multidomain protein with the ability to bind simultaneously
+to cell surface receptors, collagen, proteoglycans, and other FN
+molecules ( Schwarzbauer and De Simone, 2011 ). The phylo-
+genetic tree is described in Figure 4B .T w om a i ng r o u p sa r e
+observed. For most of the ﬁlamentous fungus, we observed a
+high redundancy of gene (from 5 to 11) in contrast to C. albicans
+(2) and S. pombe (only one). No orthologs have been found in
+theS. cerevisiae genome. To date, the only enzymatic activity
+characterized for this family in yeast or ﬁlamentous fungus
+correspond to ExoGII encoded by AFUA_1G05770 of A. fumi-
+gatus (Fontaine et al., 1997a ). ExoGII has been isolated from
+the cell wall autolysate and is a 230 kDa protein able to degrade
+β-1,3-glucan as well as β-1,6-glucan and p-nitrophenyl-glucose
+(pNP-Glc). Such hydrolytic activity is in agreement with the
+classiﬁcation of this enzyme in the GH3 family.
+WHAT MORPHOGENETIC ROLE PLAYS THE
+β(1,3)-GLUCANOSYLTRANSFERASE?
+For many years, glucanosyltransferases were classiﬁed as glycosyl-
+hydrolases because their transglycosidase function was unknown.
+These glucanosyltransferases have indeed a glucanase activity
+because the ﬁrst step in their sequential activity is to cleave lin-
+earβ-1,3-glucans before the structural modiﬁcation of the glucan
+(branching or elongation) in the second step. Because of their
+action on already established β-1,3-glucans, these enzymes could
+play a role in the structural modiﬁcation of the cell wall and favor
+the emergence of a germ tube or an accessory hypha. Such roles
+have been suggested but never demonstrated.
+BRANCHING ENZYME
+A glucanosyltransferase activity encoded by the BGT1 gene
+has been identiﬁed biochemically in the A. fumigatus cell wall
+autolysate, Bgt1p belongs to the Carbohydrate-Active Enzyme
+(CAZy) database Glycosyl hydrolase GH17 ( http://www .cazy.
+org/)(Ta b l e 1 ). Bgt1p cleaves a laminaribiose from the reduc-
+ing end of linear β-(1,3)-glucans and transfers the remaining
+glucan to the end of another β-1,3-glucan acceptor with a β-(1,6)-
+linkage ( Mouyna et al., 1998 ). Such activity had been described
+originally in S. cerevisiae (Klebl and Tanner, 1989 ). We recently
+characterized Bgt2p in A. fumigatus . This protein presents homol-
+ogy with Bgt1p ( Gastebois et al., 2010a ). Using a recombinant
+protein produced in P. pastor is , we showed that the enzymatic
+activity of Bgt2p is a new branching activity, able to cleave two
+residues of a β-1,3-glucan chain and transfer them to the inside
+Frontiers in Microbiology | Fungi and Their Interactions April 2013 | Volume 4 | Article 81 |6
+Mouyna et al. β-1,3-glucan modifying enzyme
+FIGURE 4 | (A) Domain organization of GH3 families of A. fumigatus . Protein domains identiﬁed using SignalP 3.0, big-PI, TMHMM v. 2.0, and CD search
+(100 aa: protein length proportional to 100 amino acids). and (B)Phylogenetic tree of β(1–3)glucanases GH3 family.
+of another chain of β-1,3-glucan with β-1,6-linkage. However, the
+single and double bgt1/bgt2 mutants do not display a phenotype
+distinct from the parental strain ( Mouyna et al., 1998; Gastebois
+et al., 2010a ). Moreover, the amount of the β-1,3-glucan branch-
+ing point has not changed in these mutants in comparison
+to the parental strain. Three other orthologs (AFUA_6G12380,
+AFUA_8G05610 and AFUA_5G08780) belonging to the GH17
+family are currently investigated for their role as branching
+enzymes in the A. fumigatus cell wall.
+ELONGATION ENZYME
+Elongation of β-1,3-glucan is performed through the action of a
+β-1,3-glucanosyltransferase, which were originally discovered in
+A. fumigatus . This enzyme Gel1p splits a β-1,3-glucan molecule
+internally and transfers the newly generated reducing end to the
+non-reducing end of another β-1,3-glucan molecule, resulting in
+the elongation of the glucan chain ( Hartland et al., 1996 ). Gel1p
+belongs to a family of seven members speciﬁcally recognized
+as the unique GH72 family in the Carbohydrate-Active Enzyme
+(CAZy) database ( http://www .cazy.org/)(Mouyna et al., 2000a )
+(Ta b l e 1 ). This enzyme activity has been conﬁrmed among par-
+alogs of Gelp in A. fumigatus (Mouyna et al., 2000b; Gastebois
+et al., 2010b ) and orthologs in other species like the GAS family
+inS. cerevisiae (Vai et al., 1991; Ragni et al., 2007 ), the GAS fam-
+ily in S.pombe (De Medina-Redondo et al., 2008, 2010 )a n d PHRfamily in C. albicans (Saporito-Irwin et al., 1995; Muhlschlegel
+and Fonzi, 1997 ).
+This GH72 family is subdivided in two families corresponding
+t ot h ep r e s e n c eo ra b s e n c eo faC a r b o h y d r a t eB i n d i n gD o m a i n
+( C B M 4 3 )a tt h eC - t e r m i n u s .T h eG e l - f a m i l yp r o t e i n sa r eg l y -
+cosylated and attached to the plasma membrane through a
+glycosylphosphatidylinositol (GPI) anchor. The recent crystalliza-
+tion of Gas2p, a Gelp homolog in S. cerevisiae , allows a better
+understanding of the enzyme’s activity ( Hurtado-Guerrero et al.,
+2009 ). Gas2p is composed of two interacting domains, a β(α)8
+catalytic domain and a cystein-rich domain of the CBM43 fam-
+ily. The catalytic domain contains three disulﬁde bridges that are
+involved in the formation of the acceptor-saccharide binding site.
+T h ea c t i v es i t ei sd e ﬁ n e db yt w oc a t a l y t i cr e s i d u e s ,G l u 1 7 6a n d
+Glu275, and three tyrosine residues, Tyr107, Tyr244 and Tyr307,
+all conserved in the GH72 family. Moreover, although that seven
+homologs are present in the A. fumigatus genome, only GEL1 ,
+GEL2, and GEL4 are expressed at each stage of growth in the
+conditions tested ( Gastebois et al., 2010b ). Deletion of each gene
+has a different effect on the phenotype. The gel1 mutant behaves
+like the wild type, in contrast to the gel2 mutant which showed
+reduced growth with several phenotypical changes and cell wall
+modiﬁcation ( Mouyna et al., 2005 ). In addition, it was shown that
+GEL4 is an essential gene ( Gastebois et al., 2010b ). The morpho-
+genetic role of these transglycosidases does not seem, however,
+www.frontiersin.org April 2013 | Volume 4 | Article 81 |7
+Mouyna et al. β-1,3-glucan modifying enzyme
+associated to their glucanase function since these activity continue
+u n t i lt h ef o r m a t i o no fa ni n s o l u b l e β-1,3-glucan.
+CROSS-LINKING ENZYME?
+The CRH family proteins which are classiﬁed in GH16 were
+originally studied in S. cerevisiae and they have been sug-
+gested biochemically to be involved in the linkage between
+β-1,6-glucan and chitin ( Cabib et al., 2007, 2008 ). Although
+there is no β-1,6-glucan in A. fumigatus cell wall, 5 CRH
+orthologous genes have been identiﬁed in the A. fumigatus
+genome, AFUA_6G03230, AFUA_2G03120, AFUA_3G09250,
+AFUA_6G08510 AFUA_1G16190, and belonging to the
+GH16_GPI_glucanosyltransferase subfamily ( Ta b l e 1 ). Their bio-
+chemical function remains unknown in this fungus. In addition,
+single deletion of these genes was not associated to any growth
+phenotype modiﬁcation (Chabane S, Reichard U, unpublished).
+Their role in morphogenesis will be only understood when the
+quintuple crhmutant will be obtained.
+CONCLUSIONS
+Our understanding of the biochemical events responsible for
+conidial germination or hyphal branching remains incomplete.
+This review summarized the β-1,3-glucan modifying enzymes
+which have been described and the putative β-glucanases iden-
+tiﬁed in A. fumigatus genome. Although the role of glycosyl-
+hydrolases during morphogene tic events has been suggested in
+ﬁlamentous fungus for many years, there is still no real proof oftheir importance during cell wall softening. The corresponding
+β-glucanases mutants obtained did not show any morphological
+differences compared to the wild type. In addition, if modiﬁca-
+tions of the glucanase activity have been seen in these mutants,
+the quantiﬁcation of the activity is always performed in toto
+and never takes into account the localization in situ and their
+degrading capacity at a very speciﬁc cellular site. Such impor-
+tance of the localization of the glycosylhydrolases has been alreadydemonstrated in S. pombe (Martin-Cuadrado et al., 2008b ).
+The redundancy of the putative exo β-or endo-glucanase in the
+genome (at least 29) make their analysis difﬁcult because of
+putative compensatory mechanisms. The expression level of each
+of these putative β-glucanase during germination by RNA seq
+analysis is undergoing. Other hydrolases like chitinases that can
+have also similar function as glucanases will be jointly investi-
+gated. It should could give us some clue in the future to focus
+and study the genes upregulated during these morphogenesis
+events.
+ACKNOWLEDGMENTS
+The research leading to these results has received funding
+from the European Union’s Seventh Framework Programme
+[FP7/2007–2013] under grant agreement n◦HEAL TH-2010-
+260338 (ALLFUN), ERA-Net Pathogenomics Biomarkers
+for prevention, diagnosis and response to therapy of inva-
+sive aspergillosis (AspBIOmics), and ESF (European science
+Foundation) Fuminomics.
+REFERENCES
+Asano, T., Taki, J., Yamamoto, M.,
+and Aono, R. (2002). Cloning andstructural analysis of bglM gene
+coding for the fungal cell wall-lytic
+beta-1,3-glucan-hydrolase BglMof Bacillus circulans IAM1165.
+Biosci. Biotechnol. Biochem. 66,
+1246–1255.
+Baladron, V ., Ufano, S., Duenas, E.,
+Martin-Cuadrado, A. B., del Rey,F., and Vazquez de Aldana, C. R.
+(2002). Eng1p, an endo-1,3-beta-
+glucanase localized at the daughterside of the septum, is involved incell separation in Saccharomyces
+cerevisiae .Eukaryot. Cell 1,
+774–786.
+Beauvais, A., Bruneau, J. M., Mol, P .
+C., Buitrago, M. J., Legrand, R., and
+Latge, J. P . (2001). Glucan synthase
+complex of Aspergillus fumigatus .
+J. Bacteriol. 183, 2273–2279.
+Beauvais, A., Drake, R., Ng, K.,
+Diaquin, M., and Latge, J. P . (1993).Characterization of the 1,3 beta-glucan synthase of Aspergillus
+fumigatus .J. Gen. Microbiol. 139,
+3071–3078.
+Cabib, E., Blanco, N., Grau, C.,
+Rodriguez-Pena, J. M., and Arroyo,J. (2007). Crh1p and Crh2p arerequired for the cross-linking ofchitin to beta(1-6)glucan in theSaccharomyces cerevisiae cell wall.
+Mol. Microbiol. 63, 921–935.
+Cabib, E., Farkas, V ., Kosik, O., Blanco,
+N . ,A r r o y o ,J . ,a n dM c P h i e ,P .(2008). Assembly of the yeast cellwall. Crh1p and Crh2p act as trans-
+glycosylases in vivo and in vitro .
+J. Biol. Chem. 283, 29859–29872.
+Chambers, R. S., Broughton, M. J.,
+Cannon, R. D., Carne, A., Emerson,G. W., and Sullivan, P . A. (1993).An exo-beta-(1,3)-glucanase ofCandida albicans : puriﬁcation of
+the enzyme and molecular cloning
+of the gene. J. Gen. Microbiol. 139,
+325–334.
+D’Enfert, C. (1997). Fungal spore
+germination: insights from themolecular genetics of Aspergillus
+fumigatus and Neurospora
+crassa .Fungal Genet. Biol. 21,
+163–172.
+De la Cruz, J., Pintor-Toro, J. A.,
+Benitez, T., Llobell, A., and Romero,L. C. (1995). A novel endo-beta-1,3-glucanase, BGN13.1, involved inthe mycoparasitism of Trichoderma
+harzianum .J. Bacteriol. 177,
+6937–6945.
+De Medina-Redondo, M., Arnáiz-Pita,
+Y ., Clavaud, C., Fontaine, T., del
+Rey, F., Latgé, J. P ., et al. (2010).β(1,3)-glucanosyl-transferase activ-
+ity is essential for cell wall integrityand viability of Schizosaccharomyces
+pombe .PLoS ONE 18:e14046. doi:
+10.1371/journal.pone.0014046
+De Medina-Redondo, M., Arnaiz-
+Pita, Y., Fontaine, T., del Rey,F., Latge, J. P ., and Vazquez de
+Aldana, C. R. (2008). The beta-
+1,3-glucanosyltransferase gas4pis essential for ascospore wallmaturation and spore viability inSchizosaccharomyces pombe .Mol.
+Microbiol. 68, 1283–1299.
+Duenas-Santero, E., Martin-Cuadrado,
+A. B., Fontaine, T., Latge, J. P ., del
+Rey, F., and Vazquez de Aldana,
+C. (2010). Characterization of
+glycoside hydrolase family 5proteins in Schizosaccharomyces
+pombe . Eukaryot. Cell 9,
+1650–1660.
+Encinar del Dedo, J., Duenas, E.,
+Arnaiz, Y., del Rey, F., and
+Vazquez de Aldana, C. R.
+(2009). beta-glucanase Eng2 isrequired for ascus wall endolysisafter sporulation in the ﬁssionyeast Schizosaccharomyces pombe .
+Eukaryotic Cell 8, 1278–1286.
+Esteban, P . F., Rios, I., Garcia, R.,
+Duenas, E., Pla, J., Sanchez, M.,
+et al. (2005). Characterization of
+the CaENG1 gene encoding an
+endo-1,3-beta-glucanase involvedin cell separation in Candidaalbicans .Curr. Microbiol. 51,
+385–392.
+Ferrer, P . (2006). Revisiting the
+Cellulosimicrobium cellulans yeast-
+lytic beta-1,3-glucanases toolbox: areview. Microb. Cell Fact. 5:10. doi:
+10.1186/1475-2859-5-10
+Fontaine, T., Hartland, R. P ., Diaquin,
+M., Simenel, C., and Latgé, J. P .(1997a). Differential patterns ofactivity displayed by two exo-beta-1,3-glucanases associatedwith the Aspergillus fumiga-
+tus cell wall. J. Bacteriol. 179,
+3154–3163.
+Fontaine, T., Hartland, R. P ., Beauvais,
+A., Diaquin, M., and Latge, J.P . (1997b). Puriﬁcation andcharacterization of an endo-1,3-beta-glucanase from Aspergillus
+fumigatus .Eur. J. Biochem. 243,
+315–321.
+Fontaine, T., Simenel, C., Dubreucq,
+G., Adam, O., Delepierre, M.,Lemoine, J., et al. (2000). Molecularorganization of the alkali-insolublefraction of Aspergillus fumiga-
+tus cell wall. J. Biol. Chem. 275,
+27594–27607.
+Gastebois, A., Mouyna, I., Simenel,
+C., Clavaud, C., Coddeville, B.,
+Delepierre, M., et al. (2010a).Characterization of a new beta(1-3)-glucan branching activity of
+Frontiers in Microbiology | Fungi and Their Interactions April 2013 | Volume 4 | Article 81 |8
+Mouyna et al. β-1,3-glucan modifying enzyme
+Aspergillus fumigatus .J. Biol. Chem.
+285, 2386–2396.
+Gastebois, A., Fontaine, T., Latge, J.
+P ., and Mouyna, I. (2010b). Theβ(1-3)glucanosyltransferase Gel4p
+is essential for Aspergillus fumigatus .
+Eukaryot. Cell 9, 1294–1298.
+Gibbons, J. G., Beauvais, A., Beau,
+R., McGary, K. L., Latgé, J. P .,Rokas, A. (2012). Global transcrip-
+tome changes underlying colony
+growth in the opportunistic humanpathogen Aspergillus fumigatus .
+Eukaryot. Cell 11, 58–68.
+Hartl, L., Gastebois, A., Aimanianda,
+V ., and Latge, J. P . (2011).Characterization of the GPI-
+anchored endo beta-1,3-glucanase
+Eng2 of Aspergillus fumigatus .
+Fungal Genet. Biol. 48, 185–191.
+Hartland, R. P ., Fontaine, T.,
+Debeaupuis, J. P ., Simenel, C.,Delepierre, M., and Latge, J.P . (1996). A novel beta-(1-3)-glucanosyltransferase from the cell
+wall of Aspergillus fumigatus .J. Biol.
+Chem. 271, 26843–26849.
+Hartmann, T., Dumig, M., Jaber, B.
+M., Szewczyk, E., Olbermann, P .,Morschhauser, J., et al. (2010).Validation of a self-excising markerin the human pathogen Aspergillus
+fumigatus by employing the β-
+rec/six site speciﬁc recombination
+system. Appl. Environ. Microbiol. 76,
+6313–6317.
+H o n g ,T .Y . ,C h e n g ,C .W . ,H u a n g ,J .
+W., and Meng, M. (2002). Isolationand biochemical characterization ofan endo-1,3-beta-glucanase fromStreptomyces sioyaensis containing a
+C-terminal family 6 carbohydrate-
+binding module that binds to1,3-beta-glucan. Microbiology 148,
+1151–1169.
+Hurtado-Guerrero, R., Schuttelkopf,
+A. W., Mouyna, I., Ibrahim, A.F., Shepherd, S., Fontaine, T.,
+et al. (2009). Molecular mech-
+anisms of yeast cell wall glucanremodeling. J. Biol. Chem. 284,
+8461–8469.
+Kim, D. J., Baek, J. M., Uribe, P .,
+K e n e r l e y ,C .M . ,a n dC o o k ,D .R .(2002). Cloning and characteriza-tion of multiple glycosyl hydro-
+lase genes from Trichoderma virens .
+Curr. Genet. 40, 374–384.
+Klebl, F, and Tanner, W. (1989).
+Molecular cloning of a cellwall exo-beta-1,3-glucanasefrom Saccharomyces cerevisiae .
+J. Bacteriol. 171, 6259–6264.Larriba, G., Andaluz, E., Cueva,
+R., and Basco, R. D. (1995).
+Molecular biology of yeast exoglu-
+canases. FEMS Microbiol. Lett. 125,
+121–126.
+Martin-Cuadrado, A. B., Duenas, E.,
+Sipiczki, M., Vazquez de Aldana,C. R., and del Rey, F. (2003). Theendo-beta-1,3-glucanase eng1p isrequired for dissolution of the pri-
+mary septum during cell separa-
+tion in Schizosaccharomyces pombe .
+J. Cell. Sci. 116, 1689–1698.
+Martin-Cuadrado, A. B., Fontaine, T.,
+Esteban, P . F., Encinar del Dedo, J.,de Medina-Redondo, M., del Rey,F., et al. (2008a). Characterization
+of the endo-beta-1,3-glucanase
+activity of S. cerevisiae Eng2 and
+other members of the GH81 family.Fungal Genet. Biol. 45, 542–553.
+Martin-Cuadrado, A. B., Encinar del
+Dedo, J., de Medina-Redondo,
+M., Fontaine, T., del Rey, F.,Latge, J. P ., et al. (2008b). The
+Schizosaccharomyces pombe endo-
+1,3-beta-glucanase Eng1 contains anovel carbohydrate binding modulerequired for septum localization.Mol. Microbiol. 69, 188–200.
+Mouyna, I., Hartland, R. P ., Fontaine,
+T., Diaquin, M., Simenel, C.,Delepierre, M., et al. (1998). A 1,3-
+beta-glucanosyltransferase isolated
+from the cell wall of Aspergillus
+fumigatus is a homologue of the
+yeast Bgl2p. Microbiology 144,
+3171–3180.
+Mouyna, I., Monod, M., Fontaine,
+T . ,H e n r i s s a t ,B . ,L e c h e n n e ,B., and Latge, J. P . (2000a).
+Identiﬁcation of the catalytic
+residues of the ﬁrst family of beta(1-3)glucanosyltransferases identiﬁedin fungi. Biochem. J. 347, 741–747.
+Mouyna, I., Fontaine, T., Vai, M.,
+M o n o d ,M . ,F o n z i ,W .A . ,Diaquin, M., et al. (2000b).
+Glycosylphosphatidylinositol-
+anchored glucanosyltransferasesplay an active role in the biosyn-thesis of the fungal cell wall. J. Biol.
+Chem. 275, 14882–14889.
+Mouyna, I., Morelle, W., Vai, M.,
+Monod, M., Lechenne, B., Fontaine,T., et al. (2005). Deletion of
+GEL2 encoding for a beta(1-
+3)glucanosyltransferase affectsmorphogenesis and virulencein Aspergillus fumigatus .Mol.
+Microbiol. 56, 1675–1688.
+Mouyna, I., Sarfati, J., Recco, P .,
+Fontaine, T., Henrissat, B., andLatgé, J. P . (2002). Molecular
+characterization of a cell wall-
+associated beta(1-3)endoglucanase
+of Aspergillus fumigatus .Med.
+Mycol. 40, 455–464.
+Muhlschlegel, F. A., and Fonzi, W.
+A. (1997). PHR2 ofCandida albi-
+cans encodes a functional homolog
+of the pH-regulated gene PHR1
+with an inverted pattern of pH-
+dependent expression. Mol. Cell.
+Biol. 17, 5960–5967.
+Nierman, W. C., Pain, A., Anderson,
+M. J., Wortman, J. R., Kim, H. S.,Arroyo, J., et al. (2005). Genomicsequence of the pathogenic andallergenic ﬁlamentous fungus
+Aspergillus fumigatus .Nature 438,
+1151–1156.
+Nobe, R., Sakakibara, Y ., Ogawa, K.,
+and Suiko, M. (2004). Cloningand expression of a novelTrichoderma viride laminarinase AI
+gene (lamAI). Biosci. Biotechnol.
+Biochem. 68, 2111–2119.
+Planas, A. (2000). Bacterial 1,3-1,4-
+beta-glucanases: structure, functionand protein engineering. Biochim.
+Biophys. Acta 1543, 361–382.
+Ragni, E., Fontaine, T., Gissi, C.,
+Latge, J. P ., and Popolo, L. (2007).The Gas family of proteins ofSaccharomyces cerevisiae :c h a r a c t e r -
+ization and evolutionary analysis.
+Yeast 24, 297–308.
+San Segundo, P ., Correa, J., Vazquez
+de Aldana, C. R., and del Rey,F. (1993). SSG1 ,ag e n ee n c o d -
+ing a sporulation-speciﬁc 1,3-beta-glucanase in Saccharomyces cere-
+visiae .J. Bacteriol. 175, 3823–3837.
+Saporito-Irwin, S. M., Birse, C. E.,
+Sypherd, P . S., and Fonzi, W. A.
+(1995). PHR1 , a pH-regulated gene
+ofCandida albicans ,i sr e q u i r e df o r
+morphogenesis. Mol. Cell. Biol. 15,
+601–613.
+Schaeffer, H. J., Leykam, J., and Walton,
+J. D. (1994). Cloning and targeted
+gene disruption of EXG1 ,e n c o d i n g
+exo-beta 1,3-glucanase, in the phy-topathogenic fungus Cochliobolus
+carbonum .Appl. Environ. Microbiol.
+60, 594–598.
+Schwarzbauer, J. E., and De Simone, D.
+W. (2011). Fibronectins, their ﬁb-
+rillogenesis, and in vivo functions.
+Cold Spring Harb. Perspect. Biol. 16,
+1–19.
+Shi, P ., Yao, G., Yang, P ., Li, N., Luo,
+H., Bai, Y., et al. (2010). Cloning,characterization, and antifungalactivity of an endo-1,3-beta-D:-glucanase from Streptomyces sp .
+Appl. Microbiol. Biotechnol. 85,
+1483–1490.
+Suzuki, K., Yabe, T., Maruyama, Y.,
+Abe, K., and Nakajima, T. (2001).Characterization of recombi-nant yeast exo-beta-1,3-glucanase(Exg1p) expressed in Escherichia coli
+cells. Biosci. Biotechnol. Biochem. 65,
+1310–1314.
+Vai, M., Gatti, E., Lacanà, E., Popolo, L.,
+and Alberghina, L. (1991). Isolationand deduced amino acid sequenceof the gene encoding gp115, ayeast glycophospholipid-anchoredprotein containing a serine-rich region. J. Biol. Chem. 266,
+12242–12248.
+Vazquez de Aldana, C. R., Correa,
+J . ,S a nS e g u n d o ,P . ,B u e n o ,A . ,Nebreda, A. R., Mendez, E., et al.(1991). Nucleotide sequenceof the exo-1,3-beta-glucanase-encoding gene, EXG1 , of the yeast
+Saccharomyces cerevisiae .Gene 97,
+173–182.
+W o l f ,M . ,G e c z i ,A . ,S i m o n ,O . ,
+and Borriss, R. (1995). Genesencoding xylan and beta-glucanhydrolysing enzymes in Bacillus
+subtilis : characterization, mapping
+and construction of strains deﬁcientin lichenase, cellulase and xylanase.
+Microbiology 141, 281–290.
+Conﬂict of Interest Statement: The
+authors declare that the research
+was conducted in the absence of anycommercial or ﬁnancial relationshipsthat could be construed as a potentialconﬂict of interest.
+Received: 27 November 2012; accepted:
+21 March 2013; published online: 17April 2013.Citation: Mouyna I, Hartl L and LatgéJ-P (2013) β-1,3-glucan modifying
+enzymes in Aspergillus fumigatus. Front.
+Microbiol. 4:81. doi: 10.3389/fmicb .
+2013.00081This article was submitted to Frontiers inFungi and Their Interactions, a specialtyof Frontiers in Microbiology.Copyright © 2013 Mouyna, Hartl andLatgé. This is an open-access article dis-
+tributed under the terms of the Creative
+Commons Attribution License ,w h i c h
+permits use, distribution and reproduc-tion in other forums, provided the origi-nal authors and source are credited andsubject to any copyright notices concern-ing any third-party graphics etc.
+www.frontiersin.org April 2013 | Volume 4 | Article 81 |9

@@ -1,0 +1,606 @@
+Structure, Vol. 10, 837–849, June, 2002, 2002 Elsevier Science Ltd. All rights reserved. PII S0969-2126(02)00774-8
+Structure at 1.9 A ˚Resolution of a
+Quinohemoprotein Alcohol Dehydrogenasefrom Pseudomonas putida HK5
+methanol dehydrogenase (MDH) isolated from methylo-
+trophic bacteria [2].
+In nonmethylotrophic bacteria, there are three classes
+of quinoprotein alcohol dehydrogenase (ADH) [3]. Type IADH, isolated from pseudomonads, is a soluble, dimericZhi-wei Chen,
+1Kazunobu Matsushita,2
+Tetsuo Yamashita,2Taka-aki Fujii,2
+Hirohide Toyama,2Osao Adachi,2
+Henry D. Bellamy,3,5and F. Scott Mathews1,4
+1Department of Biochemistry and
+Molecular Biophysics enzyme of identical subunits of /H1160160–65 kDa containing
+PQQ, but no other redox cofactors [4]. Type II ADH is Washington University School of Medicine
+St. Louis, Missouri 63110 a monomeric, soluble quinohemoprotein of /H1160170–75 kDa,
+and it is found in several different pseudomonads and2Department of Biological Chemistry
+Yamaguchi University related strains [5–9]. It contains PQQ and covalently
+bound heme. Type III ADH is a membrane-bound com- Yamaguchi 753-8515
+Japan plex of three subunits that catalyzes the oxidation of
+ethanol and the subsequent reduction of ubiquinone3Stanford Synchrotron Radiation Laboratory
+Stanford, California 94309 within the cytoplasmic membrane [3]. The enzyme is
+found only in acetic acid bacteria. One of the subunits(/H1160175 kDa) contains one PQQ and one heme c per mono-
+mer, another ( /H1160150 kDa) is a three-heme cytochrome, Summary
+and the third ( /H1160114 kDa) has no cofactor.
+Pseudomonas putida HK5 produces three different The type II quinohemoprotein alcohol dehydrogenase
+ofPseudomonas putida is a periplasmic enzyme that quinoprotein ADHs, one type I ADH and two type II ADHs
+[5]. When the bacteria are grown on ethanol, type I ADH oxidizes substrate alcohols to the aldehyde and trans-
+fers electrons first to pyrroloquinoline quinone (PQQ) is produced, whereas growth on butanol induces ADH IIB,
+and ADH IIG is induced by either 1,2-propanediol or and then to an internal heme group. The 1.9 A ˚resolu-
+tion crystal structure reveals that the enzyme contains glycerol. ADH IIB exhibits high activity against long-
+chain primary and secondary alcohols, while ADH IIG a large N-terminal eight-stranded /H9252propeller domain
+(/H1160160 kDa) similar to methanol dehydrogenase and a has a higher activity to diols but not to primary and
+secondary alcohols [5]. small C-terminal c-type cytochrome domain ( /H1160110 kDa)
+similar to the cytochrome subunit of p-cresol methyl- During the reductive half reaction, type I ADH and
+MDH show a similar, relatively narrow specificity for hydoxylase. The PQQ is bound near the axis of the
+propeller domain about 14 A ˚from the heme. A mole- small substrates compared with type II ADHs, although
+MDH is able to oxidize methanol with 10
+4-fold higher cule of acetone, the product of the oxidation of isopro-
+panol present during crystallization, appears to be catalytic efficiency than type I ADH [10]. Type II ADHs
+are much more divergent with respect to substrate spec- bound in the active site cavity.
+ificity, as shown for ADH IIB and ADH IIG, and havealso been found to oxidize secondary alcohols, polyols, Introduction
+heterocyclic alcohols, polyethylene glycol, or polyvinylalcohol, most of which are xenobiotic [7–9]. Thus, struc- Many Gram-negative aerobic bacteria contain periplas-
+mic enzymes that catalyze the oxidation of alcohols and tural analysis of ADH IIB is important for understanding
+its broad substrate specificity. sugars independent of pyridine nucleotides and contain
+noncovalently bound pyrroloquinoline quinone (PQQ) Electron transfer during the oxidative half reaction
+differs among the three types of quinoprotein ADHs. (Figure 1) as their redox cofactor [1]. These quinoprot-
+eins generally follow a ping-pong mechanism in which Type I ADH, like MDH, has been shown to donate elec-
+trons directly to a soluble cytochrome c, while mem- a pair of electrons is transferred from the substrate to
+the PQQ to produce the reduced cofactor intermediate brane-bound type III ADHs are known to donate elec-
+trons into the membranous ubiquinone pool [1]. In the (the reductive half reaction), after which the PQQ is reox-
+idized through delivery of the reducing equivalents one type II ADHs, this process is believed to begin with an
+intramolecular electron transfer from PQQ to the cova- at a time along an electron transfer chain to a terminal
+oxidase in the cytoplasmic membrane (the oxidative half lently bound heme, although this reaction has not been
+thoroughly characterized as yet in the case of the quino- reaction). They are found in both soluble and membrane-
+associated forms. In the soluble enzymes, delivery of hemoprotein ADH IIB. In vitro, potassium ferricyanide
+can serve as an artificial electron acceptor for ADH IIB, the electron to the membrane is generally mediated by
+small electron carrier proteins such as cytochromes and as well as for type III ADH, but not for MDH or type I
+ADH. An azurin, also isolated from P. putida HK5, has cupredoxins, whereas in the membrane-bound en-
+zymes, the electrons are delivered to ubiquinone. The been shown to be an efficient intermolecular electron
+acceptor from ADH IIB, and the interaction between the best-known example of a PQQ-containing enzyme is
+Key words: alcohol dehydrogenase; electron transfer; oxidation-4Correspondence: mathews@biochem.wustl.edu
+5Present address: Center for Advanced Microstructures and De- reduction; pyrroloquinoline quinone; quinohemoprotein; X-ray crys-
+tallography vices, 6980 Jefferson Highway, Baton Rouge, Louisiana 70806.
+Structure
+838
+heme, as well as from heme to the putative exogenous
+azurin electron acceptor, are discussed. A brief compar-ison of the ADH IIB structure to that of ADHCT [17],which appeared after submission of this manuscript forpublication, is also presented.
+Results and Discussion
+Cloning of the Gene Encoding ADH IIB
+The structural gene of ADH IIB was cloned and se-quenced by using several PCR techniques (our unpub-lished data). The structural gene was determined to have
+2073 base pairs encoding 690 amino acid residues (Fig-ure 2). The N-terminal amino acid sequence of the puri-
+Figure 1. Chemical Structure of Pyrroloquinoline Quinonefied enzyme was determined to be AGVDEAAIRATEQAby automated sequence analysis and is completelyidentical to the deduced amino acid sequence starting attwo proteins has been shown to be a freely reversibleposition 23 (Figure 2), indicating that the first 22 residuesbimolecular reaction, which is mediated largely by hy-consist of a signal sequence targeted to the periplasm.drophobic interactions between them [11]. The reducedThe molecular mass of the mature protein (lacking theazurin then transfers electrons to the membrane-boundputative signal sequence) was calculated as 72,603 Da.cytochrome oxidase (our unpublished data).
+The crystal structures of four non-heme PQQ-con-
+taining quinoproteins have been determined. Two of Amino Acid Sequence
+A search of the protein sequence database using the these are MDHs isolated from methylotrophic bacteria
+[12, 13], and the third is a type I ADH (ADH I), specific program BLAST [20] has shown that 21 other proteins
+have significant sequence identity with ADH IIB. Repre- for ethanol, obtained from Pseudomonas aeruginosa
+[10]. The fourth is a soluble glucose dehydrogenase sentative sequences are shown in Figure 2. The closest
+in sequence to ADH IIB is a type II ADH from Pseudomo- (GDH) isolated from Acinetobacter calcoaceticus [14].
+In all four enzymes, the PQQ is bound to a subunit having nas stutzeri reported by Chen and colleagues (PDB Ac-
+cession Number AAG09249), which shares 73% identity a/H9252propeller motif [15] in which the PQQ is located in
+a funnel on the central axis of the propeller. However, in 690 amino acid residues. The next closest are two
+type II alcohol dehydrogenases, tetrahydrofurfuryl alco- in MDH and ADH I the, /H9252propeller consists of eight
+4-stranded antiparallel /H9252sheet propeller “blades” ar- hol dehydrogenase (THFA-DH) from Ralstonia eutropha
+[8] and ethanol dehydrogenase from C. testosteroni [6], ranged around an axis of 8-fold pseudosymmetry. In
+GDH, the /H9252propeller contains only six propeller blades. which are 49% and 52% identical, respectively, in /H11601670
+residues. The third closest are the quinohemoprotein Furthermore, the orientation of the PQQ in GDH is the
+reverse of that found in MDH and in ADH I [16]. The subunits of five membrane-bound type III ADHs from
+acetic acid bacteria. These share /H1160144% sequence iden- ADH I structure is very similar to that of MDH, except
+that it lacks a small subunit ( /H116018 kDa) of unknown func- tity over /H11601715 amino acids. The remaining proteins are
+non-heme-containing type I ethanol dehydrogenase tion found in MDH. In both enzymes, the approximately
+planar PQQ cofactor is sandwiched between a trypto- from P. aeruginosa and methanol dehydrogenase from
+various methylotrophic bacteria. They range from 37% phan side chain and a characteristic disulfide bridge,
+composed from a pair of adjacent cysteine residues, to 33% identical in sequence over 532–624 amino acid
+residues. and it forms hydrogen bonds in its equatorial plane with
+surrounding protein residues. These sequence relations indicate that the two Pseu-
+domonas enzymes are closely similar and are likely to Recently, the structure of a fifth PQQ-containing en-
+zyme, a type II quinohemoprotein ADH from Comamo- be nearly identical in structure. The greater sequence
+disparity with the Ralstonia andComamonas enzymes nas testosteroni (ADHCT), has been reported [17]. In
+addition, two new quinohemoprotein amine dehydroge- suggests that they are less closely related structurally, to
+the same approximate extent as the membrane-bound nases have recently been described [18, 19]. However,
+these latter two enzymes do not contain PQQ, but rather type III ADHs from acetic acid bacteria. The sequence
+conservation within the quinoprotein domains is consid- a new quinone-containing cofactor, cysteine tryptophyl-
+quinone. erably greater than within the cytochrome domain. Al-
+though the cytochrome domains of the two Pseudomo- In this paper we report the three dimensional structure
+of ADH IIB at 1.9 A ˚resolution based on an amino acid nasenzymes are /H1160158% identical to each other, those
+of the type III, the Ralstonia , and the Comamonas en- sequence derived from the genomic DNA isolated from
+the bacterium and amplified by the polymerase chain zymes are considerably more divergent, having /H1160130%
+identity. However, the presence of the hemoprotein do- reaction (PCR). The enzyme consists of a 60 kDa /H9252pro-
+peller domain and a 10 kDa cytochrome domain, each main does indicate considerable evolutionary relat-
+edness among these quinohemoproteins, since the re- containing the PQQ and heme moieties, respectively.
+Structural features relating to substrate specificity, cata- spective quinoprotein domains retain roughly 55%–60%
+identity, nearly twice that with the quinoprotein domains lytic activity, and electron transfer between PQQ and
+Structure of ADH IIB at 1.9 A ˚Resolution
+839
+Figure 2. Sequence Comparison of ADH IIB with Representatives of Four Groups of Quinoprotein ADHs Arranged in Decreasing Order of
+Sequence Identity
+The highest degree of identity (73%) is found for ADH from P. stutzeri (Accession No. AAG09249). The next group comprises THFA-DH and
+ADH II of R. Eutropha [9] and C. testosteroni [6], respectively ( /H1160150%). The third group is represented by ADH III from Acetobacter europaeus
+(Accession No. Q44002) ( /H1160144%), and the fourth by the non-heme quninoproteins ADH I [4] and MDH [12] from P. aeruginosa and M.
+methylotrophus W3A1, respectively ( /H1160135%). Boxed residues labeled “W1” to “W8” contain the “tryptophan docking motif” characteristic of
+the family of quinoprotein ADHs. Residues highlighted in red are identical in at least six of the seven quinoprotein domains; those highlightedin green form the heme binding motif. Residues in dark blue are identical, and those in light blue are highly conserved in sequence within thecytochrome domains.
+of the ethanol and methanol dehydrogenases lacking lent C /H9251positions in the two structures is 1.16 A ˚, and
+the matched residues show 37% sequence identity. the hemoprotein domain.
+Comparison of ADH I with ADH IIB shows that these two
+proteins have slightly closer similarity, with 481 matchedDescription of the Moleculeresidues displaying 1.08 A ˚rmsd and 41% sequenceADH IIB consists of two domains, a 555 residue PQQ-identity. There are five segments showing large struc-containing N-terminal domain (residues 1–555) and antural differences between ADH IIB and MDH (Figure 3B).88 residue C-terminal c-type cytochrome domain (resi-The first segment (labeled S1 in Figure 3B) is found atdues 577–664) (Figure 3A). The two domains are con-the amino terminus. Segments 2 and 3 are located innected by a proline-rich linker segment of 21 residuesconnecting loops between propeller blades, one be-(residues 556–576), seven of which make no contact withtween blades 3 and 4 and the other between blades 5either domain. The PQQ domain is well ordered, having anand 6; segments 4 and 5 are located in loops betweenaverage temperature factor of 18 A ˚2, while the cytochromestrands 2 and 3 of propeller blades 6 and 8, respectively.domain is less well ordered, with /H11021B/H11022/H11005 26 A˚2. The linkerFour of these segments (all but the first) also show largesegment is poorly ordered, with /H11021B/H11022/H11005 44 A˚2.deviations between ADH IIB and ADH I. The structural
+deviation of segment 1 appears to play no obvious func-
+PQQ Domain tional role, nor do those of segments 2 and 3, although
+The PQQ domain of ADH IIB forms an 8-bladed /H9252propel- they may be linked to the presence of the small /H9252subunit
+ler very similar in structure to the methanol dehydroge- of MDH. On the other hand, the large deviations of seg-
+nase (MDH) from Methylophilus methylotrophus W3A1 ments 4 and 5 are probably related to the presence of
+[12] with which it shares /H1160133% sequence identity over- the cytochrome domain in ADH IIB, since portions of
+segments 4 and 5 of ADH IIB appear to interact favorably all. The root mean square deviation (rmsd) of 469 equiva-
+Structure
+840
+Figure 3. Stereo Diagrams of ADH IIB, Its
+Comparison with MDH, and the Electron Den-sity of PQQ
+(A) Ribbon diagram of ADH IIB. The color of
+the ribbon ramps from dark blue at the Nterminus through green, yellow, and orangeto red at the C terminus. Ball-and-stick fig-ures for the heme, PQQ, calcium, and acetoneare drawn with carbon /H11005black, oxygen /H11005
+red, nitrogen /H11005blue, calcium /H11005gray, and
+iron/H11005gray. This diagram was made using
+MOLSCRIPT [53] and RASTER3D [54].(B) Comparison of the quinoprotein domainof ADH IIB with the /H9251subunit of MDH from
+M. methylotrophus W3A1. MDH is yellow and
+ADH IIB is green where the two chains areclosely similar. Where the two chains divergesignificantly, MDH is blue and ADH IIB is red.The eight blades of the /H9252propeller are labeled
+W1-W8. The five polypeptide segments wherethe chains diverge significantly are labeledS1-S5; segment S4 extends from the edge tothe center of the propeller and is labeled inboth regions. The seven conserved trypto-phan residues in the outer strand of eachblade of ADH IIB (all but blade 5) are shownin purple.(C) Electron density of the PQQ, calcium, andacetone molecules of ADH IIB. The densitywas computed using coefficients (2Fo-Fc)and contoured at 1.25 /H9268where Fo and Fc are
+the observed and calculated structure fac-tors, and /H9268is the root mean square value of
+the electron density. Except where noted, thisand subsequent diagrams were made usingTURBO-FRODO [48].
+with its cytochrome domain while segment 5 in MDH c L, might bind to the MDH heterotetramer in a similar
+way and that the ADH IIB molecule could serve as a would clash with the cytochrome domain. The binding
+site for the second /H9251subunit of MDH is not close to good model for the MDH/CytC Linteraction.
+The PQQ (Figure 1) is bound near one end of the /H9252 any of the deviating segments with respect to ADH IIB.
+However, the linker between the propeller and cyto- propeller of ADH IIB near the 8-fold axis of pseudosym-
+metry (Figure 3A). The PQQ ring is essentially planar chrome domains of ADH IIB would pass through the
+second MDH subunit. Despite this, however, there ap- (Figure 3C). Its environment is very similar to that of
+PQQ in MDH and ADH I. It is sandwiched between the pears to be no interference between the cytochrome
+domain of ADH IIB and the second MDH subunit, sug- side chains of Trp232 below it and a vicinal disulfide
+bridge connecting Cys105 and Cys106 above it, making gesting that the electron acceptor for MDH, cytochrome
+Structure of ADH IIB at 1.9 A ˚Resolution
+841
+van der Waals contact at both surfaces. A calcium ion chrome structure had a Z score of 2.3. The A2B-Cyt
+domain and the six most similar structures (with Z scores is tightly bound to PQQ (Figure 3C), being coordinated
+to ring atoms O-5, N-6, and a carboxylate oxygen, O-7a; between 8.8 and 6.6) are compared in Table 1. The
+cytochrome most similar to the A2B-Cyt domain is the the pyrrole nitrogen N-1 forms an intramolecular hydro-
+gen bond to the carboxylate oxygen, O-9b. 78 residue cytochrome subunit of p-cresol methylhy-
+droxylase (PCMH) from P. putida (PCMH-Cyt) (Figure 4A) The calcium ion, as well as the six carboxylate oxygen
+atoms and two quinone oxygens of PQQ (Figure 1), [23]. It, along with cytochrome c 551ifrom P. denitrificans
+(Cyt-C551I) [24], also contains three /H9251helices in the forms electrostatic and hydrogen bonding interactions
+with several protein main and side chain atoms. The cytochrome core structure. They show the smallest
+rmsd of equivalent C /H9251atoms (1.1 A ˚and 1.3 A ˚, respec- three major differences between the PQQ interactions
+with ADH IIB and with MDH and ADH I are the position- tively, compared to 1.5–1.6 A ˚for the remainder) and
+are among the highest in sequence identity of matched ally equivalent substitution of Lys322 by Arg (at O-4 and
+O-5) and of Gly170 by Ser (at O-9a) in MDH and ADH residues. The A2B-Cyt domain and PCMH-Cyt also have
+both propionic acids of their heme groups exposed to I and the positionally nonequivalent replacements of
+Trp383 by a different Trp in MDH and ADH I (at O-2B). In solvent. Of the other cytochrome molecules or domains,
+three (Cyt-C551I, cytochrome c 6(Cyt-C6) [25], and cyto- addition, the side chain of Asn250 in ADH IIB is hydrogen
+bonded to O-7a, but the equivalent asparagines in MDH chrome c 552(CytC-552) [26]) have only one propionate
+(at position D) exposed to solvent while the remainder and ADH I are not. ADH I also differs from both ADH IIB
+and MDH by its interactions of O-7a and O-7b of PQQ have neither propionic acid group exposed. ADH IIB and
+PCMH are both isolated from P. putida , and both utilize with Asp178 and Gly177.
+A repeating pattern of 7 tryptophan residues, each at azurin as a soluble electron acceptor protein [11, 27].
+Cyt-C6 and Cyt-C552 and the two domains of the flavo- the same location in the outer strand of seven of the
+eight propeller blades, is observed in ADH IIB (Figure cy tochrome c sulfide dehydrogenase cytochrome (FCSD-
+Cyt1 and FCSD-Cyt2) subunit [28] have four /H9251helices 3B). This pattern is associated with a partially conserved
+“tryptophan docking motif” that is also found in MDH in the core cytochrome domain. Three are common to
+the three /H9251helices in A2B-Cyt, PCMH-Cyt, and CytC- [12, 13] and in ADH I [10] (as well as in ADHCT [17]) that
+interlocks five of the eight adjacent pairs of propeller 551I, while the fourth helix is located in different chain
+segments in Cyt-C6 and Cyt-C552 compared to the two blades. This motif is contained within a block of 11
+residues in each propeller blade that usually contains FCSD-Cyt domains. The last cytochrome in Table 1,
+yeast cytochrome c isozyme 1 (Cyt-CYI1) [29], is of mito- Ala, Gly, and Trp at positions 1, 7, and 11 (Figure 2) and
+probably helps stabilize the structure of the 8-bladed /H9252 chondrial origin and contains five helices in the core
+cytochrome domain. Three are common to the other propeller.
+cytochromes, while the remaining two are in differentsegments from any of the four-helix cytochromes.
+Cytochrome Domain
+The cytochrome domain contains three /H9251helices that
+make up 40% of the domain. The first /H9251helix, about 5 Ligand Binding and Catalysis
+ADH IIB was crystallized in the presence of isopropanol, turns in length, starts at Pro577 and extends to His595,
+the first heme ligand. The second /H9251helix, about 3 1/2 a substrate for the enzyme [5]. As a consequence, the
+heme group is expected to be in the reduced form. This turns in length, begins at Asp613 and ends at Gln625,
+8 residues before the second heme ligand, Met633. The has been verified by polarized single-crystal absorption
+microspectrophotometry (A. Merli, personal communi- third /H9251helix, nearly 6 turns in length, extends from
+Pro642 to Ala662, near the end of the molecule. The first cation). During the final stages of model building, a flat
+piece of positive density in the (Fo-Fc) difference map and third /H9251helices pack against each other at an angle
+of about 80 /H11034, a structural feature characteristic of c-type was found in the active site that could be modeled as
+acetone, the oxidation product of isopropanol, and was cytochromes [21]. There are also two very short 3
+10heli-
+ces, one immediately following the first /H9251helix and the subsequently refined. Its keto oxygen position was con-
+sistent with the electron density (Figure 3C) and with its other about 3 residues beyond the second /H9251helix, but
+no other secondary structure. close interaction (2.6–3.0 A ˚) with O-4 and O-5 of PQQ
+and with a carboxylate oxygen of Asp295. The remainder The heme group is inserted into a hydrophobic pocket
+formed by the three helices and an extended chain. of the acetone molecule is directed away from the PQQ
+into a cavity lined almost exclusively by hydrophobic The heme group is covalently attached to the domain
+through two thioether linkages from Cys591 and Cys594 side chains (Figure 4B). These side chains consist of
+three phenylalanines, two cysteines, one tryptophan, to the vinyl methylene carbons CAB and CAC, respec-
+tively. Although most of the heme group is buried in the one proline, and one valine, as well as PQQ. The volume
+of the substrate cavity is about 120 A ˚3and appears to interior of the enzyme, the two propionic acid groups
+are exposed to solvent. be about two to three times larger than the volume of
+the acetone molecule, providing a structural basis for In a search of known protein structures using the
+program DALI [22], 11 cytochromes were identified as the rather broad substrate specificity for 4–8 chain pri-
+mary and secondary alcohols and diols. similar in structure to the ADH IIB cytochrome (A2B-Cyt)
+domain. This result was based on a composite score (Z The mouth of the channel leading to the active site
+cavity is composed of two segments from the PQQ bind- score from 8.8 to 4.7) that ranks the degree of structural
+similarity in standard deviation units; the first noncyto- ing domain, residues 403–406 and residues 424–435
+Structure
+842
+Table 1. Structural Comparison of the ADH IIB Cytochrome Domain with Six Other Similar C-Type Cytochromes
+ProteinaA2B-Cyt PCMH-Cyt Cyt-C551I Cyt-C6 Cyt-C552 FCSD-Cyt1 FCSD-Cyt2 Cyt-CYI1
+PDB code 1KV9 1DII 2MTA 1CTJ 1C52 1FCD 1FCD 1YCC
+Z scoreb21.0 7.5 8.1 8.8 6.9 6.6 – 6.7
+Total residues 88 73 147 89 131 83 91 108Core cytochrome
+c577–659 6–74 43–124 3–87 3–92 3–77 88–173 2–103
+Number of helices in core 3 3 3 4 4 4 4 5Sequence identity (%)
+d–2 5 2 01 8 2 5 1 4 – 1 5
+Number of equivalent residuese– 5 4 6 5 6 1 6 1 5 54 95 6
+Number of fragmentse5 4 4 6 545
+Rmsd (A ˚)e– 1.13 1.33 1.58 1.58 1.61 1.52 1.51
+Number of identical residuese–1 9 1 71 4 1 7 1 0 9 1 0
+Identically matched (%)e– 3 5 2 6 2 3 2 7 1 81 81 8
+Exposed propionates both both D only D only D only none none none
+aAbbreviations: A2B-Cyt, cytochrome domain of ADH IIB; PCMH-Cyt, cytochrome subunit of PCMH [23]; Cyt-C551I, cytochrome c 551ifrom P.
+denitrificans [24]; Cyt-C6, cytochrome c 6from Monraphidium Braunii [25]; Cyt-C552, cytochrome c 552from Thermus thermophihlus [26]; FCSD-
+Cyt1, first cytochrome domain of the diheme cytochrome subunit of flavocytochrome c sulfide dehydrogenase (FCSD) [28]; FCSD-Cyt2, secondcytochrome domain of the diheme cytochrome subunit of FCSD; Cyt-CYI1, isozyme 1 of mitochondrial cytochrome c from Saccharomyces
+cerevisiae [29].
+bStrength of the structural similarity in standard deviations above expected, as defined by the DALI server [22]. This quantity was not calculated
+for FCSD-Cyt2.
+cThe core cytochrome extends approximately from the start of the helix just before the CXXCH motif to the end of the helix following the
+methionine ligand.
+dThe overall sequence identity was computed using the DALI server [22]. This quantity was not calculated for FCSD-Cyt2.
+eComputed using LSQMAN [51].
+(Figure 4C). The latter segment is partially in contact cytochromes are generally resistant to oxidation by mo-
+lecular oxygen, and MDH, which is functionally similar with the cytochrome domain and is contained within
+segment S4 (residues 409–437) of ADH IIB, which differs to ADH IIB, is usually isolated in the semiquinone state
+[2]. In fact, ADH IIB isolated in the presence of trace significantly in conformation from a corresponding seg-
+ment in MDH (see Figure 3B). The active site cavity is amounts of contaminating alcohols displays a PQQ
+semiquinone EPR signal (our unpublished data). The blocked from bulk solvent within the channel by the side
+chains of Phe378 and Phe425, which partially line the planar nature of the PQQ ring (Figure 3C) is consistent
+with the semiquinone form, as predicted on the basis entrance channel. Movement of either of these side
+chains would facilitate substrate binding and inter- of quantum mechanical calculations [32].
+Two plausible mechanisms have been proposed for change with product.
+In MDH [30], the active site cavity is small, having a the oxidation of substrate alcohols by PQQ-containing
+ADHs, one involving an addition-elimination reaction volume of /H1160118 A˚3. The active site cavity of ADH I [10]
+is larger, with a volume of /H1160162 A˚3. Examination of the with a hemiketal intermediate, and the other a direct
+hydride transfer from the C-1 of the substrate to PQQ ADH IIB active site cavity ( /H11601120 A ˚3) with MDH and ADH
+I superimposed shows that Trp531 of MDH bisects the [33]. Both mechanisms involve base catalysis in the first
+step for removal of the proton of the O-1 hydroxyl group. ADH IIB cavity, sterically blocking acetone binding, and
+that Leu547 brushes the cavity surface, further reducing The carboxylate group of Asp295 in ADH IIB, to which
+the keto oxygen of acetone is hydrogen bonded, is the the usable volume in MDH (Figure 5A). Trp531 was noted
+by Keitel et al. [10] as limiting the MDH active site volume closest nucleophile to the active site cavity that could
+serve this function. when compared to ADH I, and in ADH IIB, Trp531 is
+replaced by Pro377 and Phe378. In ADH I, three side The next step in the reaction would be either a hydride
+transfer from substrate C-1 to C-5 of PQQ or the tran- chains lie in close proximity to the ADH IIB cavity, re-
+stricting the usable volume for substrate binding in ADH sient formation of a covalent bond between C-5 and
+substrate O-1 to form a hemiketal intermediate. If isopro- I. These are Phe408, Leu409, and Trp557 and are re-
+placed by Pro377, Phe378, and Thr529 in ADH IIB (Figure panol is modeled into the active site of ADH IIB so as
+to be nearly coincident with the acetone, the O-1 atom 5A). Trp577 of ADH I is replaced by Leu547 in MDH and
+was predicted by Keitel et al. [10] to act as a gate in ADH of isopropanol is about 3.4 A ˚from C-5 of PQQ, and the
+C-1 atom is about 4.1 A ˚from C-5. Hemiketal formation I for substrate entry, based on docking experiments.
+The redox potential of the heme of ADH IIB is /H11601/H11001190 would require some reorientation of the substrate; how-
+ever, there are no apparent steric constraints preventing mV [11]. Although the PQQ redox potential in ADH IIB
+has not been measured, its potential in the soluble GDH that from happening. Likewise, the expected position
+for the methylene hydrogen of isopropanol is not very has been measured [31], giving values of /H11601/H1100130 mV for
+the reduced/semiquinone couple and /H11601/H1100210 mV for the well oriented for hydride transfer, although the distance
+and angle can also be improved for hydride transfer by semiquinone/oxidized couple. The redox potential of PQQ
+bound to ADH IIB is likely to be similar. Thus, on binding rotation of the isopropanol model about the O-1 atom
+without disrupting the active site geometry. Thus, the to ADH IIB, isopropanol would deliver a pair of electrons
+to the PQQ, one of which would then be transferred to location of the acetone product molecule does not seem
+to favor one mechanism for catalysis over the other. the heme, leaving the PQQ as the semiquinone. C-type
+Structure of ADH IIB at 1.9 A ˚Resolution
+843
+Figure 4. Stereo Diagrams of the Cytochrome
+Domain, the Active Site Cavity, and the Puta-tive Azurin Binding Site
+(A) Comparison of the cytochrome domain of
+ADH IIB (residues 577–664) with the cyto-chrome subunit of p-cresol methylhydroxy-
+lase (PCMH). The five peptide fragments ofhigh structural homology, indicated by romannumerals, are in blue, and the interveningsegments of low structural homology as wellas the heme groups are in red for ADH IIBand in yellow for PCMH.(B) Active site cavity of ADH IIB shown withchicken wire representation and containingthe reaction product, acetone. The PQQ andthe 13 side chains, mostly hydrophobic, ofthe quinoprotein domain that surround andhelp form the cavity are labeled.(C) C/H9251tracing of ADH IIB showing the active
+site cavity entrance and putative azurin bind-ing site. The quinoprotein and cytochromedomains are green and azure, respectively,and the linker segment is violet. The residueslining the cavity (403–406 and 424–435) areblue, and the residues partially surroundingthe putative azurin binding site (605–631) plusthe heme are red. The cavity is representedas chicken wire, and the side chains separat-ing the cavity from solvent, Phe378 andPhe425, as well as PQQ are also in blue.
+Comparison with Glucose Dehydrogenase ented optimally for transfer of a hydride ion, but unfavor-
+ably for the addition-elimination reaction. In GDH, a hydride transfer mechanism has been firmly
+established for oxidation of the C-1 atom of glucose [14, Figure 5B shows the PQQ moiety of GDH, along with
+the glucose and the histidine and arginine side chains 33, 34] and has been postulated for MDH [30, 35, 36].
+In GDH, the O-1 of bound glucose is hydrogen bonded hydrogen bonded to it, superimposed upon the active
+site of ADH IIB. To do this superposition, it was first to an active site histidine, which could act as a base to
+abstract the hydroxyl proton. Glucose binding is also necessary to reflect the coordinates of these groups
+through the plane of the PQQ, since PQQ binding to the stabilized by hydrogen bonding of O-1 to the side chains
+of two other residues, a glutamine and an arginine. The /H9252propeller of GDH is the reverse of that in ADH IIB [14].
+Isopropanol was then modeled onto the C-1, O-1, C-2, C-1 atom is 3.2 A ˚from the C-5 atoms of PQQ and ori-
+Structure
+844
+Figure 5. Comparisons of Active Sites as
+Well as the Arrangement of Redox Cofactorsin ADH IIB
+(A) Active site cavities of ADH IIB (blue), ADH
+I (green), and MDH (red) with side chains thatlimit access to the cavity in each of the pro-teins: Trp531 and Leu547 in MDH (red);Phe408, Leu409, and Trp557 in ADH I (green);and the replacement side chains Pro377,Phe378, and Thr529 in ADH IIB (blue).(B) Active site of ADH IIB (blue) with the PQQmoiety, glucose substrate, and two inter-acting side chains of GDH (yellow) superim-posed after reflection of the GDH groupsthrough the PQQ plane as described in thetext. A hypothetical model of isopropanol thatwas manually adjusted in position to minimizebad contacts with the ADH IIB side chains isshown in red.(C) The four most likely pathways for electronflow from atom C-5 of PQQ to the heme ironas predicted by the program GREENPATH0.97 [38]. Paths 1–3 involve electron flowthrough water molecules while path 4 doesnot (see text).
+and O-5 atoms of glucose to simulate a binding mode bond to the side chain of Asp295 as observed in the
+binding of acetone. Small manual adjustments of the to the enzyme that might be favorable to hydride transfer
+in ADH IIB. However, the C-2 and C-3 atoms of isopropa- modeled isopropanol could remove some of the strain
+and allow the hydrogen bond between O-1 and Asp295 nol made close contact to the sulfur atoms of Cys105
+and Cys106 and to the side chain of Glu173, a calcium to form, possibly leading to stable binding suitable for
+hydride ion transfer (Figure 5B). ligand; also, the O-1 atom could not form a hydrogen
+Structure of ADH IIB at 1.9 A ˚Resolution
+845
+nonbonded atoms that link the donor and acceptor. The Table 2. Direct Ionic and Hydrogen-Bonded Interactions
+between the Quinoprotein and Cytochrome Domains PQQ and heme group are separated by a covalent chain
+of ADH IIB of five amino acids, residues 102–106, as well as by
+several water molecules that could provide paths for PQQ Domain Cyt Domain Distance (A ˚)
+electron flow along the bonds connecting the atomsArg102 NH2 Asp638 OD1 3.0between the two prosthetic groups (Figure 5C). Ac-Arg102 NH1 Asp638 OD2 3.1
+cording to calculations using GREENPATH 0.97 [38], the Asn535 OD1 Ser601 O 2.9
+most efficient path for electron flow from the C-5 of PQQ Thr529 O Met597 N 2.7
+Gly531 N Ile600 O 3.0 to the heme iron involves a through-space jump from
+the N-1 of PQQ to Cys106 C /H9252, travel through the amide
+nitrogen of Asp107 and along hydrogen bonds throughwaters #57 and #77, followed by a through-space jump PQQ and Heme Domain Interaction
+to S/H9253of Cys594 and then to the heme ring (path 1); and Electron Transfer
+the resulting relative electronic coupling is 1.0 · 10
+/H110026. The cytochrome domain of ADH IIB sits above the /H9252
+Removal of water #77 from the calculation leads to re- propeller domain approximately coincident with its 8-fold
+cruitment of water #23 instead (path 2) and a drop in pseudosymmetry axis (Figure 3A). The heme group is
+the relative coupling to 2.6 · 10/H110027; removal of both waters somewhat displaced from the pseudosymmetry axis,
+#57 and #77 results in utilization of water #23 alone, but with helix 1 of the cytochrome domain occupying the
+via the carbonyl oxygen of Cys105 (path 3), and leads top of the funnel instead. The total surface area of the
+to a relative coupling of 2.3 · 10/H110027. Elimination of all two domains that is buried in the complex is about
+three waters causes a new path to be invoked (path 4) 2200 A ˚2, or about 1100 A ˚2per domain, ignoring any effect
+involving a jump from C-9a of PQQ to the disulfide bond of the linker region. The two domains are linked by one
+of Cys105-Cys106, travel along side and main chain salt bridge pair of hydrogen bonds and three additional
+atoms to the C /H9251of Arg102, followed by a jump to the hydrogen bonds, one between a main chain and side
+heme ring; this path leads to a relative coupling of 1.2 · chain atom and two between pairs of main chain atoms
+10/H110027, 8-fold lower than the best coupling involving hy- (Table 2). In addition, there are 13 bridging water mole-
+drogen bonded water molecules. cules in the interface that form one or more hydrogen
+bonds with both domains as well as with additional water The four pathways for through-bond coupling deline-molecules (Table 3). The iron atom of the heme and the ated above (Figure 5C) all include Cys105 and/or Cys106
+C-5 atom of PQQ are separated by 20.6 A ˚, and the that form a disulfide bridge as part of the path. The
+planes of the two groups are tilted to each other by equivalent vicinal disulfide in MDH was proposed to be
+about 70 /H11034. The distance between the two conjugated involved in the electron transfer from PQQ to cyto-
+rings is about 15 A ˚. chrome c
+Lin MDH during its oxidative half reaction [39].
+In a weakly coupled electron transfer system, the rate It was subsequently shown that carboxymethylation of
+of electron transfer between a donor (D) and an acceptor these two cysteines did not interfere with heme reduc-
+(A) group can be written as tion by reduced MDH [40], suggesting that the disulfide
+bridge is not required for electron transfer. However,kET/H11008(2/H9266//H6036)|TDA|2(F.C.),only path 4 above specifically utilizes the disulfide
+bridge, while the other three paths involve Cys106 only. where /H6036is Plank’s constant, (F.C.) is the Franck-Condon
+Furthermore, this electron transfer step in ADH IIB is nuclear tunneling factor, and TDAis the electronic tunnel-
+intramolecular, to the heme c moiety directly above the ing coupling matrix element between donor and ac-
+disulfide, rather than intermolecular, to an exogenous ceptor [37]. This coupling can be estimated from the
+length of the path along chemical bonds and between cytochrome as in the case of MDH/cytochrome c L. The
+Table 3. Water Molecules that Mediate Hydrogen Bonding Interactions between the Quinoprotein and Cytochrome Domains
+of ADH IIB
+WateraResidue 1 Distance (A ˚) Residue 2 Distance (A ˚) Residue 3 Distance (A ˚) WaterbWaterb
+15 W522 NE2 2.7 M534 O 2.8 G602 O 2.7 – –
+43 F419 N 2.9 Q589 O 2.9 – – 145 49166 T527 O 2.7 L604 N 2.9 – – 96 –77 R56 NH2 2.8 C594 SG 3.3 – – 57 12396 L528 O 2.7 C594 O 2.8 G602 N 3.0 66 –105 K98 O 2.8 G632 O 2.8 – – 123 289111 M539 O 2.8 G602 O 2.8 – – 74116 F419 O 2.8 Q589 O 2.7 – – 147 459125 K417 N 2.9 S639 OG 2.8 – – 535 –221 T429 O 2.8 R655 NH2 2.9 – – – –272 V99 N 3.1 K629 O 2.9 – – 243 710363 T55 O 2.8 L604 O 2.7 – – 206 –531 D427 O 2.7 K584 NZ 3.2 – – – –
+aThe primary bridging water molecule.
+bSecondary water molecules that are also hydrogen bonded to the primary mediating waters.
+Structure
+846
+Table 4. Data Collection and Refinement Statistics
+Data Collection
+Data set Native U1 Hg1 U2p U2e U2h Hg2p
+Wavelength (A ˚) 1.5418 1.5418 1.5418 0.72158 0.72185 0.69723 1.00760
+Resolution 1.9 2.2 2.2 2.0 2.0 2.0 2.45Number of unique 48,675 30,171 31,835 46,952 46,882 46,905 24,994
+reflections
+Average multiplicity 3.5 1.7 2.0 3.4 3.4 3.5 3.3Completeness
+b(%) 87.1 (47.3) 83.9 (47.5) 88.5 (53.9) 96.5 (90.3) 96.2 (88.7) 96.7 (92.7) 95.9 (93.2)
+Rmergec(%) 6.4 (21.5) 7.6 (13.1) 8.0 (14.9) 5.9 (11.9) 5.5 (10.3) 6.1 (9.9) 3.5 (5.7)
+/H11021I//H9268(I)/H11022d18.2 (4.2) 9.0 (4.0) 10.7 (5.0) 19.0 (7.6) 20.5 (9.0) 20.3 (10.4) 27.8 (13.2)
+Phasing statistics Model
+me, phase set 1f0.69 Number of non-H protein atoms 5,172
+me, phase set 2g0.49 Number of solvent molecules 732
+Refinement Number of prosthetic groups 2
+Resolution range (A ˚) 30–1.9 Number of calcium ions 1
+Number of reflections 48,672 Number of additional molecules 3Working set 43,750 Rmsd bond lengths (A ˚) 0.006
+Test set 4,922 Rmsd bond angles (deg.) 1.44R
+crysth(%) 15.4 Mean protein B factor (A ˚2) 20.0
+RfreeI(%) 18.9 Mean solvent B factor (A ˚2) 31.9
+aAbbreviations: U1, uranyl acetate, home detector; Hg1, methyl mercuric chloride, home detector; U2p, uranyl acetate, APS, peak; U2e, uranyl
+acetate, APS, edge; U2h, uranyl acetate, APS, high; Hg2p, methyl mercuric chloride, SSRL, peak.
+bHighest resolution shell in parentheses.
+cRmerge/H11005/H9018 h/H9018i|I(h)/H11002Ii(h)|//H9018h/H9018iIi(h), where I i(h) is the ith measurement and I(h) is the mean measurement of reflection h.
+dI//H9018(I) is the average signal-to-noise ratio for merged reflection intensities.
+em, mean figure of merit.
+fPhase set 1 includes data sets U1, Hg1, U2p, U2e, and U2h and was truncated at 2.5 A ˚resolution and improved by density modification in
+SHARP [45].
+gPhase set 2 includes data sets U1, Hg1, U2p, U2e, and Hg2p and was extended to 1.9 A ˚resolution in SHARP [45] by density modification
+[45].
+hR/H11005/H9018 h|Fo/H11002Fc |//H9018h|Fo |, where Fo and Fc are the observed and calculated structure factor amplitudes of reflection h.
+iRfreeis the test reflection data set; about 10% was selected randomly for crossvalidation during crystallographic refinement.
+functional role of the Cys105-Cys106 disulfide will be of cytochrome c 1in the bc 1complex [42] has been re-
+ported. investigated in the future by site-directed mutagenesis.
+Comparison with ADHCT Electron Transfer from ADH IIB to Azurin
+The recently reported crystal structure of ADHCT [17] Azurin isolated from P. putida HK5 has been shown by in
+appears to be very similar to that of ADH IIB. The overall vitro steady-state kinetic analysis to be a good electron
+rms deviation for 576 equivalent C /H9251atoms is 1.08 A ˚. For acceptor from ADH IIB, with a first order rate constant
+the separately aligned domains, the rms deviations are of approximately 50 s/H110021at 25/H11034C [11]. The apparent K m
+0.85 A ˚for 516 equivalent quinoprotein C /H9251atoms and for the reaction decreases with increasing ionic strength,
+1.28 A ˚for 76 equivalent cytochrome C /H9251atoms. The indicating that the interaction of the two proteins is me-
+sequence identity for equivalent residues in the two diated by hydrophobic forces. In azurin, one of the histi-
+types of domains are 56.8% and 31.6%, respectively. dine ligands to the buried copper atom is exposed to
+Despite the larger rms deviation for the two cytochrome solvent and is surrounded by a surface patch of hy-
+domains, their folding patterns are nearly identical. Sur- drophobic residues. In ADH IIB, the heme group is buried
+prisingly, one of the most significant deviations in the within the cytochrome domain, except for the propionic
+quinoprotein structures corresponds to segment 425– acid-containing edge of the heme, which is exposed to
+435 of ADH IIB, which forms part of the mouth of the solvent. This edge is partially surrounded by a polypep-
+substrate entrance channel. The active site of ADHCT tide segment consisting of residues 605–631 of the cyto-
+contains a molecule in the active site identified as the chrome domain that could form a putative azurin binding
+reaction product tetrahydrofuran-2-carboxylic acid. site (Figure 4C). The electrostatic potential of this puta-
+tive binding surface, computed with the program GRASP[41], exhibits a distinct negative region, centered on the Biological Implications
+exposed propionic acid groups, that is surrounded by acharge-neutral surface formed by the 605–631 segment. Quinoproteins, enzymes containing a quinone redox co-
+factor such as PQQ, have been recognized as the third The interaction of azurin with ADH IIB mediated through
+these charge neutral regions would be consistent with most widespread class of redox enzyme following pyri-
+dine nucleotide- and flavin-dependent dehydrogenases. the observed ionic strength dependence of the reaction.
+A similar interaction between the Rieske iron-sulfur clus- About 20 species of enzyme carrying PQQ or related
+quinone cofactors as the prosthetic group have been ter subunit with the heme propionate-containing region
+Structure of ADH IIB at 1.9 A ˚Resolution
+847
+The native X-ray data were first analyzed by molecular replace- identified so far. Some, called quinohemoproteins, have
+ment (MR) with AMORE [44] using MDH from Methylophilus methylo-heme c moieties as additional prosthetic groups within
+trophus W3A1 [12, 30] as the search molecule. A single peak in thea single protein molecule. ADH is the largest subgrouprotation function established the orientation of the search model inof quinoproteins and includes four different types ofthe unit cell. An anomalous difference electron density map based
+enzyme, methanol dehydrogenase (MDH), quinoprotein on the MR phases contained two prominent peaks. One peak (14 /H9268)
+was/H1160120 A˚from the PQQ position in the MDH search molecule and ADH (type I), quinohemoprotein ADH (type II), and mem-
+was attributed to iron; the other (9 /H9268) was attributed to calcium, being brane-bound quinohemoprotein ADH (type III).
+close to the position of the calcium ion in MDH that bridges PQQStructural and functional studies of MDH, type I ADH,
+and the protein side chains.and other quinoproteins have revealed the unique posi-Two compounds, K 3UO 2F5and CH 3HgCl, showed 12%–15% iso-tion of quinoproteins among redox enzymes with re-morphous structure factor changes. MIR data from both derivatives
+spect to their catalytic and electron transfer properties. were collected on image plates in the home laboratory while MAD
+data from the two derivatives were collected at the APS and SSRL In addition, the unique properties of quinoproteins have
+synchrotrons, respectively (Table 4). Protein phases were calculated also led to biotechnological applications in the fields of
+with SHARP [45] and improved by solvent flattening using the samebiosensors, bioconversion of useful compounds, and
+program. Since the MIR maps were not sufficiently accurate, mapsenvironmental treatment.based on MIR and MAD phases combined in two ways (Table 4)The structural elucidation of a quinohemoprotein typewere used. Before the ADH IIB sequence was known, the sequence
+II ADH presented here has led to three major findings. of the C. testosteroni ADH quinoprotein domain [6] was fit to the
+electron density wherever possible, and polyalanine was fit else- (1) Common structural features observed previously for
+where. The structure was partially refined using CNS [46] (40–3 A ˚PQQ binding in ADHs are conserved. (2) The protein
+resolution, R work/H1100531%, R free/H1100539% [47]).structure just above the PQQ plane can explain the
+When the PCR-derived sequence of ADH IIB was completed, itunique substrate specificity for a broad range of longerwas fitted to the electron density map based on the combinationsalcohol substrates, compared with the narrow specific-of MIR and MAD phases with the TURBO-FRODO program [48]. The
+ity of MDH and type I ADH for smaller substrates. (3) model was refined using CNS first at 3 A ˚resolution and then ex-
+tended to 2.5 A ˚and then to 1.9 A ˚resolution. A few rounds of minimi- The structure around the heme c moiety shows possible
+zation, including bulk solvent correction, B factor refinement, and intramolecular electron transfer paths from PQQ to
+model rebuilding, gave R work/H110050.236 and R free/H110050.261 at 1.9 A ˚heme c and possible intermolecular electron transfer
+resolution. Thereafter, water molecules were added interactively atinteractions between heme c and azurin, an electronthe end of each refinement cycle to peaks over 3 /H9268in height in the Fo-transfer mediator between ADH and cytochrome ox-Fc electron density maps. After several iterations of minimization, B
+idase. factor refinement, bulk-solvent correction, and model refitting, the
+final R workand R freewere 0.154 and 0.189, with rmsd from ideal values
+of 0.006 A ˚for bond lengths and 1.43 /H11034for bond angles, respectively. Experimental Procedures
+The final model includes residues 1–664, one molecule each of PQQ,heme c, acetone, glycerol, HEPES, one calcium ion, and 732 water Protein Purification
+ADH IIB was isolated from extracts of Pseudomonas putida HK5 molecules. Four additional residues at the C terminus (Figure 2)
+and purified as described previously [5]. were disordered and not included in the final model. The refinement
+statistics are summarized in Table 4. The result of PROCHECK [49]indicate that 86.1% of the residues are located in the most favorable Cloning of the Structural Gene
+regions, 13.0% in additional allowed regions, 0.5% in generously Two representative peptides derived by trypsin digestion of purified
+allowed regions, and 0.4% in disallowed regions. ADH IIB were isolated by reverse-phase HPLC. Based on the results
+Solvent-accessible surface areas were calculated by the method of automated amino acid sequence analysis, two oligonucleotide
+of Lee and Richards [50] as implemented in the program GRASP primers were designed, and PCR amplification was performed using
+[41]. Protein alignments and rmsd calculations were carried out the genomic DNA purified from P. putida HK5 as the template. The
+using the program LSQMAN [51]. Cavity volumes were computed resulting 0.44 kb product was cloned and sequenced. New primers
+with the program VOIDOO [52]. were designed based on the nucleotide sequence, and several PCR
+products containing a part of the structural gene of ADH IIB wereobtained. In vitro cloning was done according to the vendor’s man-
+Acknowledgments ual (LA PCR in vitro Cloning Kit [TaKaRa]), although the PCR was
+performed by using Ready.To.Go/PCR Beads Kit (Amersham-Phar-
+This work was supported by USPHS grants GM20530 and GM31611. macia, Piscataway, NJ). Detailed results will be published elsewhere
+This work was also supported by a Grant-in-Aid for Scientific Re- (our unpublished data).
+The nucleotide sequence was determined by the chain termination search (09044228) from the Ministry of Education, Science, Sports
+method using PCR in conjunction with both universal and specific and Culture of Japan to K.M. We thank Ms. N. Aoki and Ms. Petra
+primers and analyzed by using ABI PRISM 310 (PE Biosystems). Baruch for their technical assistance and Professor Angelo Merli
+Sequence data were analyzed by using the GENETYX-MAC program for making single-crystal microspectrophotometric measusre-
+(Software Development). ments. Use of the Argonne National Laboratory Structural Biology
+Center beamlines at the Advanced Photon Source was supportedby the U.S. Department of Energy, Basic Energy Sciences, Office Structure Analysis
+of Energy Research, under contract No. W-31-109-Eng-38. The por- Crystals of ADH IIB were obtained by the sitting drop vapor diffusion
+tions of this research done at SSRL were supported by the U.S. method as described previously [43]. The protein (7.5 mg ml
+/H110021) was
+Department of Energy, Office of Basic Energy Sciences and Office mixed with an equal volume of the reservoir solution (14%–22%
+of Biological and Environmental Research, and by the NIH, National PEG8000, 150 mM sodium citrate, 100 mM HEPES-NaOH [pH 7.5],
+Center for Research Resources, Biomedical Technology Program, and 6% 2-propanol); crystallization was initiated by microseeding.
+and the National Institute of General Medical Sciences. The crystals are triclinic with cell parameters a /H1100554.8 A ˚,b/H1100557.4 A ˚,
+c/H1100567.5 A ˚,/H9251/H1100589.6/H11034,/H9252/H1100569.4/H11034,/H9253/H1100568.4/H11034and contain one molecule
+in the unit cell. X-ray data were collected from a native crystal at
+Received: November 2, 2001 100 K to 1.9 A ˚resolution. The data were 87% complete overall with
+Revised: March 5, 2002 Rmerge/H110056.4% and I/ /H9268(I)/H1100518.2 (47.3% complete, I/ /H9268(I)/H110054.2 in the
+outer shell) as summarized in Table 4 (see [43]). Accepted: March 11, 2002
+Structure
+848
+References I., Hacisalihoglu, A., Okajima, T., Kuroda, S., Adachi, O., Duine,
+J.A. et al. (2002). Crystal structure of quinohemoprotein aminedehydrogenase from Pseudomonas putida . Identification of a 1. Matsushita, K., and Adachi, O. (1993), Bacterial quinoproteins
+glucose dehydrogenase and alcohol dehydrogenase, In Princi- novel quinone cofactor encaged by multiple thioether cross-
+bridges. J. Biol. Chem. 277, 2830–2834. ples and Applications of Quinoproteins, V.L. Davidson, ed. (New
+York: Marcel Decker) pp. 47–63. 20. Altschul, S.F., Madden, T.L., Schaffer, A.A., Zhang, J., Zhang,
+Z., Miller, W., and Lipman, D.J. (1997). Gapped BLAST and PSI- 2. Anthony, C. (1993), Methanol dehydrogenase in Gram-Negative
+bacteria, in Principles and Applications of Quinoproteins, V.L. BLAST: a new generation of protein database search programs.
+Nucleic Acids Res. 25, 3389–3402. Davidson, ed. (New York: Marcel Decker) pp. 17–45.
+3. Matsushita, K., Toyama, H., and Adachi, O. (1994). Respiratory 21. Mathews, F.S. (1985). The structure, function and evolution of
+cytochromes. Prog. Biophys. Mol. Biol. 45, 1–56. chains and bioenergetics of acetic acid bacteria. Adv. Microb.
+Physiol. 636, 247–301. 22. Holm, L., and Sander, C. (1993). Protein structure comparison
+by alignment of distance matrices. J. Mol. Biol. 233, 123–138. 4. Diehl, A., von Wintzingerode, F., and Gorisch, H. (1998). Quino-
+protein ethanol dehydrogenase of Pseudomonas aeruginosa is 23. Cunane, L.M., Chen, Z.-W., Shamala, N., Mathews, F.S., Cronin,
+C.N., and McIntire, W.S. (2000). Structure of the flavocyto- a homodimer: sequence of the gene and deduced structural
+properties of the enzyme. Eur. J. Biochem. 257, 409–419. chrome p-cresol methylhydroxylase and its enzyme-substrate:
+gated substrate entry and proton relays support the proposed 5. Toyama, H., Fujii, A., Matsushita, K., Shinagawa, E., Ameyama,
+M., and Adachi, O. (1995). Three distinct quinoprotein alcohol catalytic mechanism. J. Mol. Biol. 295, 357–374.
+24. Chen, L., Durley, R., Mathews, F.S., and Davidson, V.L. (1994). dehydrogenases are expressed when Pseudomonas putida is
+grown on different alcohols. J. Bacteriol. 177,2442–2450. Structure of an electron transfer complex: methylamine dehy-
+drogenase, amicyanin cytochrome c551i. Science 264, 86–90. 6. Groen, B., van Kleef, M.A.G., and Duine, J.A. (1986). Quinohemo-
+protein alcohol dehydrogenase apoenzyme from Pseudomonas 25. Frazao C., Soares, C.M., Carrondo, M.A., Pohl, E., Dauter, Z.,
+Wilson, K.S., Hervas, M., Navarro, J.A., De la Rosa, M.A., and testosteroni . Biochem. J. 234, 611–615.
+7. Yasuda, M., Cherepanov, A., and Duine, J.A. (1996). Polyethyl- Sheldrick, G.M. (1995). Ab initio determination of the crystal
+structure of cytochrome c6 and comparison with plastocyanin. ene glycol dehydrogenase activity of Rhodopseudomonas aci-
+dophila derives from a type I quinohaemoprotein alcohol dehy- Structure 3, 1159–1169.
+26. Than, M.E., Hof, P., Huber, R., Bourenkov, G.P., Bartunik, H.D., drogenase. FEMS Microbiol. Lett. 138, 23–28.
+8. Shimao, M., Ninomiya, K., Kuno, O., Kato, N., and Sakazawa, C. Buse, G., and Soulimane, T. (1997). Thermus thermophilus cyto-
+chrome- c552: a new highly thermostable cytochrome-c struc- (1986). Existence of a novel enzyme, pyrroloquinoline quinone-
+dependent polyvinyl alcohol dehydrogenase, in a bacterial sym- ture obtained by MAD phasing. J. Mol. Biol. 271,629–644.
+27. Causer, M.J., Hopper, D.J., McIntire, W.S., and Singer, T.P. biont, Pseudomonas sp . strain VM15C. Appl. Environ. Microbiol.
+51, 268–275. (1984). Azurin from Pseudomonas putida : an electron acceptor
+from p-cresol methylhydroxylase. Biochem. Soc. Trans. 12, 9. Zarnt, G., Schrader, T., and Andreesen, J.R. (2001). Catalytic
+and molecular properties of the quinohemoprotein tetrahy- 1131–1132.
+28. Chen, Z.W., Koh, M., Van Driessche, G., Van Beeumen, J.J., drofurfuryl alcohol dehydrogenase from Ralstonia eutropha
+strain Bo. J. Bacteriol. 183, 1954–1960. Bartsch, R.G., Meyer, T.E., Cusanovich, M.A., and Mathews,
+F.S. (1994).The structure of flavocytochrome csulfide dehydro- 10. Keitel, T., Diehl, A., Knaute, T., Stezowski, J.J., Hohne, W., and
+Gorisch, H. (2000). X-ray structure of the quinoprotein ethanol genase from a purple phototrophic bacterium. Science 266,
+430–432. dehydrogenase from Pseudomonas aeruginosa : basis of sub-
+strate specificity. J. Mol. Biol. 297, 961–974. 29. Louie, G.V., and Brayer, G.D. (1990). High-resolution refinement
+of yeast iso-1-cytochrome cand comparisons with other eu- 11. Matsushita, K., Yamashita, T., Aoki, N., Toyama, H., and Adachi,
+O. (1999). Electron transfer from quinohemoprotein alcohol de- karyotic cytochromes c. J. Mol. Biol. 214, 527–555.
+30. Zheng, Y.J. Xia, Z.-X., Chen, Z.-W., Mathews, F.S., and Bruice, hydrogenase to blue copper protein azurin in the alcohol oxi-
+dase respiratory chain of Pseudomonas Putida HK5. Biochemis- T.C. (2001). Catalytic mechanism of quinoprotein methanol de-
+hydrogenase: a theoretical and x-ray crystallographic investiga- try38, 6111–6118.
+12. Xia, Z.-X., Dai, W.-W., Zhang, Y.-F., White, S.A., Boyd, G.D., and tion. Proc. Natl. Acad. Sci. USA 98, 432–434.
+31. Sato, A., Takagi, K., Kano, K., Kato, N., Duine, J.A., and Ikeda, Mathews, F.S. (1996). Determination of the gene sequence and
+the three-dimensional structure at 2.4 A ˚resolution of methanol T. (2001). Ca(2 /H11001) stabilizes the semiquinone radical of pyrrolo-
+quinoline quinone. Biochem. J. 357, 893–898. dehydrogenase from Methylophilus W3A1. J. Mol. Biol . 259 ,
+480–501. 32. Zheng, Y.J., and Bruice, T.C. (1997). Conformation of coenzyme
+pyrroloquinoline quinone and role of Ca2 /H11001in the catalytic mech- 13. Ghosh, M., Anthony, C., Harlos, K., Goodwin, M.G., and Blake,
+C. (1995). The refined structure of the quinoprotein methanol anism of quinoprotein methanol dehydrogenase. Proc. Natl.
+Acad. Sci. USA 94, 11881–11886. dehydrogenase from Methylobacterium extorquens at 1.94 A ˚.
+Structure 3, 177–187. 33. Dewanti, A.R., and Duine, J.A. (2000). Ca2 /H11001-assisted, direct
+hydride transfer, and rate-determining tautomerization of C5- 14. Oubrie, A., Rozeboom, H.J., Kalk, K.H., Olsthoorn, A.J., Duine,
+J.A., and Dijkstra, B.W. (1999). Structure and mechanism of reduced PQQ to PQQH2, in the oxidation of beta-D-glucose by
+soluble, quinoprotein glucose dehydrogenase. Biochemistry 39, soluble quinoprotein glucose dehydrogenase. EMBO J. 18,
+5187–5194. 9384–9392.
+34. Olsthoorn, A.J., and Duine, J.A. (1998). On the mechanism and 15. Murzin, A.G. (1992). Structural principles for the propeller as-
+sembly of beta-sheets: the preference for seven-fold symmetry. specificity of soluble, quinoprotein glucose dehydrogenase in
+the oxidation of aldose sugars. Biochemistry 37, 13854–13861. Proteins 14, 191–201.
+16. Oubrie, A., and Dijkstra, B.W. (2000). Structural requirements of 35. Anthony, C. (1996). Quinoprotein-catalysed reactions. Biochem.
+J.320, 697–711. pyrroloquinoline quinone dependent enzymatic reactions. Pro-
+tein Sci. 9, 1265–1273. 36. Jongejan, A., Jongejan, J.A., and Hagen, W.R. (2001). Direct
+hydride transfer in the reaction mechanism of quinoprotein alco- 17. Oubrie, A., Rozeboom, H.J., Kalk, K.H., Huizinga, E.G., and Dijk-
+stra, B.W. (2002). Crystal structure of quinohemoprotein alcohol hol dehydrogenase: a quantum mechanical investigation. J.
+Comput. Chem. 22, 1732–1749. dehydrogenase from Comamonas testosteroni : structural basis
+for substrate oxidation. J. Biol. Chem. 277, 3727–3732. 37. Beratan, D.N., Betts, J.N., and Onuchic, J.N. (1991). Protein
+electron transfer rates set by the bridging secondary and tertiary 18. Datta, S., Mori, Y., Takagi, K., Kawaguchi, K., Chen, Z.W., Oka-
+jima, T., Kuroda, S., Ikeda, T., Kano, K., Tanizawa, K, et al. structure. Science 252, 1285–1288.
+38. Regan, J.J., Risser, S.M., Beratan, D.N., and Onuchic, J.N. (1993) (2001). Structure of a quinohemoprotein amine dehydrogenase
+with an uncommon redox cofactor and highly unusual crosslink- Protein electron transport: single versus multiple pathways. J.
+Phys. Chem. 97, 13083–13088 ing. Proc. Natl. Acad. Sci. USA 98, 14268–14273.
+19. Satoh, A., Kim, J.K., Miyahara, I., Devreese, B., Vandenberghe, 39. Blake, C.C., Ghosh, M., Harlos, K., Avezoux, A., and Anthony,
+Structure of ADH IIB at 1.9 A ˚Resolution
+849
+C. (1994). The active site of methanol dehydrogenase contains
+a disulphide bridge between adjacent cysteine residues. Nat.Struct. Biol. 1, 102–105.
+40. Avezoux, A., Goodwin, M.G., and Anthony, C. (1995). The role
+of the novel disulphide ring in the active site of the quinoproteinmethanol dehydrogenase from Methylobacterium extorquens .
+Biochem. J. 307, 735–741.
+41. Nicholls, A., Sharp, K.A., and Honig, B. (1991). Protein folding
+and association: insights from the interfacial and thermody-namic properties of hydrocarbons. Proteins 11, 281–296.
+42. Zhang, Z., Huang, L., Shulmeister, V.M., Chi, Y.I., Kim, K.K.,
+Hung, L.W., Crofts, A.R., Berry, E.A., and Kim, S.H. (1998). Elec-tron transfer by domain movement in cytochrome bc
+1. Nature
+392, 677–684.
+43. Chen, Z.-W., Baruch, P., Mathews, F.S., Matsushita, K., Yama-
+shita, T., Toyama, H., and Adachi, O. (1999). Crystallization andpreliminary diffraction studies of two quinoprotein alcohol dehy-drogenases (ADH): a soluble monomeric ADH from Pseudomo-
+nas putida HK5 (ADH IIB) and a heterotrimeric membrane-bound
+ADH from Gluconobacter suboxydans (ADH GS). Acta Crys-
+tallogr. D 55, 1933–1936.
+44. Navaza, J. (1994). AMoRe: an automated package for molecular
+replacement. Acta Crystallogr. A50, 157–163.
+45. de La Fortelle, E., and Bricogne, G. (1997). Maximum-likelihood
+heavy-atom parameter refinement in the MIR and MAD meth-ods. Methods Enzymol. 276, 472–494.
+46. Brunger, A.T., Adams, P.D., Clore, G.M., DeLano, W.L., Gros,
+P., Grosse-Kunstleve, R.W., Jiang, J.S., Kuszewski, J., Nilges,M., Pannu, N.S., et al. (1998). Crystallography & NMR system: anew software suite for macromolecular structure determination.Acta Crystallogr. D Biol. Crystallogr. 54, 905–921.
+47. Kleywegt, G.J., and Brunger, A.T. (1996). Checking your imagi-
+nation: applications of the free R value. Structure 4, 897–904.
+48. Roussel, A., Fontecilla-Camps, J.C., and Cambillau, C. (1990)
+CRYStallize: a crystallographic symmetry display and handlingsubpackage in TOM/FRODO. J. Mol. Graph. 8, 86–88.
+49. Morris, A.L., MacArthur, M.W., Hutchinson, E.G., and Thornton,
+J.M. (1992). Stereochemical quality of protein structure coordi-nates. Proteins 12, 345–364.
+50. Lee, B., and Richards, F.M. (1971). The interpretation of protein
+structures: estimation of static accessibility. J. Mol. Biol. 55,
+379–400.
+51. Kleywegt, G.J., and Jones, T.A. (1997). Detecting folding motifs
+and similarities in protein structures. Methods Enzymol. 277,
+525–545.
+52. Kleywegt, G.J., and Jones, T.A. (1994). Detection, delineation,
+measurement and display of cavities in macromolecular struc-tures. Acta Crystallogr. D 50, 178–185.
+53. Kraulis, P.J. (1991). MOLSCRIPT: a program to produce both
+detailed and schematic plots of protein structures. J. Appl. Crys-tallogr. 24, 946–950.
+54. Merritt, E.A., and Bacon, D.J. (1997). Raster3D: photorealistic
+molecular graphics. Methods Enzymol. 277, 505–524.
+Accession NumbersCoordinates of ADH IIB from Psuedomonas putida HK5 have been
+deposited in the Protein Data Bank with accession code 1KV9.

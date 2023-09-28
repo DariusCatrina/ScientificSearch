@@ -5,18 +5,35 @@ This is the repository used for scientific-search project. Code based on Odinson
 
 # Run
 
-From the main repo:
+## Step 1: Setup
+Clone the repo on the cluster and setup the java/sbt version.
+Once cloned, run from the main repo:
 
-sbt "extra/runMain ai.lum.odinson.extra.ScientificSearcher"
+```sh
+export JAVA_HOME=/usr/lib/jvm/java-8-openjdk-amd64
+export PATH=$JAVA_HOME/bin/:$PATH
+```
 
-to start the syntactic search interface CLI.
+Now you can run the backend by runing this command(from the main repo)
+```
+sbt "frontend/run 8080"
+```
 
-To start the frontend interface, from the main repo:
+## Step 2: Run frontend
 
-sbt "frontend/run". Note that you need to copy and setup the article title database to your machine or error will occur.
+From the local machine set up an ssh tunnel to the cluster:
+```sh
+ssh -L 8080:compsci-login-01.cs.duke.edu:8080 netid@compsci-login-01.cs.duke.edu
+```
 
+Where netid is your netid.
+
+## See the frontend
+
+On your local machine, go to localhost:8080 and you should be able to see it.
 # Note
 
-Make sure to set the doc, text, index paths in extra/src/main/resources/application.conf to FULL paths in your machine (i.e. /usr/....../scientificsearch/extra/data/PubMed/docs, etc) to avoid empty corpus in the engine. Existing indexed PubMed data available in extra/data/PubMed. 
+Make sure to set the doc, text, index paths in extra/src/main/resources/application.conf to FULL paths in your machine (i.e. /usr/....../scientificsearch/extra/data/PubMed/docs, etc) to avoid empty corpus in the engine. 
+Demo Data save in in extra/data/demo_data. 
 
 

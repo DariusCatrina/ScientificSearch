@@ -1,0 +1,675 @@
+H3B03 atpH8.5,and0.150M H3B03 atpH9.0,respectively.
+While allofthepeaks arenotcompletely resolved, anin-
+crease incolumn length would most likely improve resolution
+greatly. Initial chromatograms ofthe same mixture on a
+column 750 mmlong showed celloheptaose and cellohexaose
+barely distinguishable asseparate peaks. Using the same
+resin ina1000-mm column gave thechromatogram inFigure
+9.Allofthecellodextrins except celloheptaose were easily
+soluble in0.10M boric acid adjusted topH 7.0with sodium
+hydroxide. Celloheptaose entered solution completely after
+several hours stirring atabout 40° C.Higher homologs
+ofglucose have notbeen used inthissystem, butitisdoubtful
+ifany beyond the nonaose could bedissolved without in-
+creasing thealkalinity ofthesolvent. This would present
+thepossibility ofsplitting, particularly atthecolumn tem-
+peratures used.
+The peaks inthechromatogram ofthepulp hydrolyzate in
+Figure 10represent thefollowing polymer contents ofthe
+pulp, expressed aspercent byweight ofdrypulp: mannan
+6.9, araban 0.7, galactan 0.9, xylan 5.6, and glucan 69.1.
+While thefirst 2hours ofthechromatogram arenotshown in
+Figure 10,three very small, butsharp and narrow peaks oc-
+curred, twoofwhich corresponded tothefurfural and hy-
+droxymethyl furfural positions, and thethird totheposition
+normally occupied byrhamnose.CONCLUSIONS
+Ion-exchange chromatography ofborate-carbohydrate
+complex anions oncolumns ofstrong-base anion-exchange
+resins offers arelatively rapid method ofquantitative analysis
+ofsugar mixtures, particularly when column effluents are
+monitored forsugars byanautomatic analyzer. There are no
+derivatives toprepare, and aproperly sized column can be
+used simultaneously foranalytical andpreparative purposes.
+The same method isapplicable toother areas ofcarbohydrate
+chemistry, having been shown tohave theability torapidly
+resolve mixtures ofoligosaccharides and hemicelluloses in
+solution. The amounts ofindividual saccharides measurable
+canvary inawide range from lessthan amicrogram, using
+a3-mm diameter column, toseveral decigrams on a1-inch
+column.
+ACKNOWLEDGMENT
+The assistance ofDonald Whitney, Lawrence University,
+andofMargaret Malueg inperformance ofmuch ofthe
+laboratory work isgratefully acknowledged.
+Received forreview June 7,1966. Resubmitted July 13,
+1967. Accepted July 28,1967. Inpartdivision ofCellulose,
+Wood andFiber Chemistry, Winter Meeting, ACS, Phoenix,
+Ariz., January 17,1966.
+Fast Liquid Chromatography: AnInvestigation
+ofOperating Parameters andtheSeparation of
+Nucleotides onPellicular IonExchangers
+C.G.Horvath, B.A.Preiss, and S.R.Lipsky
+Section ofPhysical Sciences, Yale University School ofMedicine, New Haven, Conn.
+Aliquid chromatographic system featuring high inlet
+pressures and asensitive UVdetector was designedforfast analysis ofnonvolatile organic compounds.
+Toestablish optimal operating conditions, band dis-
+persion inthemobile phase was studied byusing
+capillary tubes aswell assmall bore columns packedwith glass beads. Although peak broadening inopentubes was less than predicted bytheory, the useof
+packed columns was more promising forfast separa-tions. Novel pellicular column materials were pre-
+pared bycoating glass beads with Ionexchange resin
+and other solid phases. Rapid separation ofnano-
+mole quantities ofribonucleoside mono-, di-, and
+triphosphates wasachieved byusing apellicular basic
+ionexchanger andgradient elution with aphosphatebuffer. Asshown bycellular extract analyses, the
+stability and efficiency provided bysuch column
+materials makes itpossible toachieve fastseparationofcomplex mixtures by aliquid chromatographic
+technique similar inspeed, resolution, andquantita-tiverange togaschromatography.
+Atechnique fortheseparation ofnonvolatile substances
+which encompasses the speed, efficiency, sensitivity, and
+versatility ofgaschromatography hasyettobedevised. The
+present study was undertaken inaneffort toinvestigate the
+feasibility ofdeveloping aliquid chromatographic system
+which could approach thisgoal. Themethod which evolvedwasthen utilized fortheanalysis ofthenucleoside phosphoric
+acids.
+The time required fortheseparation ofasolute pair is
+conveniently expressed bytheretention time ofthesecond
+peak, t,as
+t=NHIub (1)
+where Nisthenumber ofplates required fortheparticular
+separation, Histheplate height, and istheband velocity.
+Although Histhebasic measure ofthepeak broadening,
+Hjub, thetime perplate, ismore important ifthe speed of
+separation isofconcern, asitisdirectly related tothesepara-
+tion time asshown inEquation 1.Since ub=«/(1+k),
+Equation1can bewritten
+H!ub=tjn=77(1+k)/u (2)
+where kisthecolumn capacity ratio forthesolute, and uthe
+fluid velocity.
+The plate height depends ontheflow velocity (7,2)and,
+asGiddings (3)pointed out,ifthemolecular diffusion isthe
+(1) J.J.vanDeemter, F.J.Zuiderweg, andA.Klinkenberg, Chem.
+Eng. Sci., 5,271(1956).
+(2)M.J.E.Golay, Anal. Chem., 29,928(1957).
+(3) J.C.Giddings, Ibid., 35,2215 (1963).
+1422 ·ANALYTICAL CHEMISTRY
+Downloaded via THE PROCTER & GAMBLE US on January 6, 2021 at 19:40:42 (UTC).
+See https://pubs.acs.org/sharingguidelines for options on how to legitimately share published articles.
+
+sole mass transfer mechanism, analogous operating condi-
+tions ingasandliquid chromatography would require flow
+velocities 10stimes lower inliquid than ingaschromatography
+because diffusion coefficients areoftheorder of10-6 cm2 sec-
+ond-1 inliquids and 10-1 cm2 second-1 ingases: conse-
+quently thetime ofanalysis would beincreased bythe same
+factor. Obviously, high speed liquid chromatography can-
+not occur under those analogous conditions.
+One can express theplate height (neglecting longitudinal
+diffusion) asthe sumofthree terms
+ =f(Hm/u) +Cm2u +Csu (3)
+Hill=Hnju +Cm2+Cs (4)
+Thefirstterm, Hm,represents theplate height contribution due
+topeak dispersion inthemobile phase streaming through the
+column; thedependence ofthisterm onflow velocity isnot
+completely understood. The second term, Cm2u, stems from
+the mass transfer resistance bythestagnant mobile phase in
+theintraparticle pores ofthepacking. Thethird term, Csu,
+isrelated tononequilibrium due tothestationary phase.
+The three terms ofEquation 4should beminimized inorder
+toobtain anincrease inspeed ofanalysis.
+One conceivable approach istoreduce theparticle sizein
+packed columns. With porous granules Cm2, andwith con-
+ventional ionexchange resins, Cm2and Cs,decrease with the
+square oftheparticle diameter. Thus, extremely finesilica
+particles were used forfastseparation inliquid-solid chroma-
+tography (4),and significant acceleration oftheanalysis of
+amino acids and peptides byionexchange chromatography
+(5,6)hasbeen achieved byusing very small uniform spherical
+resins.
+Another approach involves the useofopen tubular columns
+orcolumns packed with afluid-impermeable support where
+Cm2=0,andwhere Cscan besmall ifthedepth oftheproper
+stationary phase issmall. Under these conditions the
+velocity-dependent first term, Hm/u, inEquation 4,which
+arises from thenonuniform flow pattern, becomes very im-
+portant.
+Forlaminar flow instraight open tubes according toTaylor
+(7),
+where disthetube diameter and DMisthediffusion coefficient
+ofthesolute inthemobile phase. This term becomes very
+high for aliquid mobile phase asaconsequence oflowdif-
+fusivity inliquids, and the useofopen tubular columns does
+notappear tobefavorable under laminar flow conditions in
+liquid chromatography.
+Pretorius and Smuts (8)have proposed theoperation of
+open tubular columns with turbulent flow which ischar-
+acterized byvery lowH¡u values. Ingaschromatography,
+this effect ofturbulence has been proved experimentally (9)
+and anabrupt drop inplate height wasfound. Theexploita-
+tionofturbulence inanalytical work, however, islimited by
+theinlet pressure requirements (probably several thousand
+(4)E.W.Piel,Anal. Chem., 38,670(1966).
+(5) P.B.Hamilton, Ibid., 35,2055 (1963).
+(6) J.V.Benson and J.A.Patterson, Ibid., 37, 1108 (1965).
+(7)G.Taylor, Proc. Roy. Soc. (London), 219A, 186(1953).
+(8)V.Pretorius andT.W.Smuts, Anal. Chem., 38,274(1966).
+(9) J.C.Giddings, W.A.Manwaring, and .N.Myers, Science,
+154, 146(1966).Figure 1.Liquid chromatograph with UV-detector for
+gradient elution
+(1) Reservoir forstrong eluent
+(2) Pump
+(3)Mixing chamber with heating
+(4) Magnetic stirrer
+(5) Pump
+(6) Filter
+(7) Pressure gauge
+(8) Sample injection port
+(9) Column
+(10) Airthermostat
+(11) Spectrophotometer with micro flow cell
+(12) Flow meter
+(13) Scale expander
+(14) Recorder
+atmospheres) forthehighliquid velocities necessary toachieve
+turbulence insmall bore columns.
+Under laminar andturbulent flowconditions inhelical open
+tubes radial mass transfer isenhanced bysecondary flow in
+the cross sectional plane (10). Exploitation ofthis effect in
+chromatography hasnotbeen attempted asyet.
+Inpacked columns, thefluid flows intheinterstitial chan-
+nelsofthepacking. Atlowflow velocities, molecular dif-
+fusion isthedominant mass transfer mechanism inthemobile
+phase, butwith increasing flow velocity thecontribution ofa
+convective lateral mixing which depends onthepacking struc-
+ture becomes more significant. The result isaflattening of
+theHvs. ucurve inthehigh velocity region. According to
+Giddings (11) thetwo mechanisms arecoupled. Heorig-
+inally proposed forHmthefollowing expression
+Hm=(V, dv+ ,,/  dp*u)-i (6)
+where Xand  areparameters related topacking structure and
+dpistheparticle size. Giddings has now extended Equation
+9toasummation form which ismuch more general (12).
+Knox (13)studied thiseffect inliquid chromatography using
+columns packed with glass beads andobserved amore gradual
+flattening oftheHvs. ucurve inthehigh velocity region
+than predicted bythecoupling theory. Inliquid chromatog-
+raphy, owing tothelow rateofmolecular diffusion, coupling
+becomes significant atrelatively lowflow velocities and de-
+termines Hm over arange ofseveral orders ofmagnitude inu.
+Inpacked columns there isnosudden onset ofturbulence
+and thedecrease ofhwith increasing fluid velocity isnot as
+pronounced asthatinopen tubes (9).
+(10) J.A.Koutsky and R.J.Adler, Can. J.Chem. Eng., 43, 239
+(1964).
+(11) J.C.Giddings, Nature, 184, 357(1959).
+(12) J.C.Giddings, Anal. Chem., 35,2215 (1963).
+(13) J.H.Knox, Ibid., 38,253(1966).
+VOL. 39, NO. 12, OCTOBER 1967 ·1423
+
+Inthepresent study, theeffect ofvarious parameters on
+Hminhelical capillary tubes andinsmall bore columns packed
+with glass beads wasinvestigated. The results suggested the
+useofglass beads coated with athin skin (pellicle) ofsta-
+tionary phase inapacked column. Therapid separation of
+nucleoside phosphoric acids was then achieved byutilizing
+ionexchange resin-coated glass spheres.
+EXPERIMENTAL
+Figure1shows ablock diagram oftheinstrument used.
+For unsorbed solutes, adifferential refractometer (Emmett
+Watson Associates, Ridgefield, Conn.) having acellvolume
+of7µ was used asdetector.
+For nucleotides, thedetector was aPerkin-Elmer-Hitachi
+UVIS 139spectrophotometer modified toaccommodate a
+specially designed micro flow cellhaving avolume of 8µ\
+and4-mm path length. With ascale expander, afull scale
+signal (1mV) could beobtained at0.04 absorbance unit.
+Inthisvery lowabsorbance range, atconstant flow rate and
+buffer composition, peak areas were considered tobelinearly
+dependent ontheamount ofsolute present. Analyses were
+performed atawavelength of260mgandslitwidth of2mm.
+Thefluid wasforced through thesystem byaMilton Roy
+Minipump which provided leak-free operation atpressures
+upto4000 psiinthelowcapacity range (0-20 mlperhour).
+A300-ml glass cylinder equipped with animmersion heater
+and magnetic stirrer served as asolvent reservoir. For
+gradient elution, asecond Milton Roy Minipump was em-
+ployed toaddthestronger eluent totheweaker eluent placed
+inthereservoir. Incertain experiments aGreer Accumulator
+(Greer Olaer Products, Los Angeles, Calif.) was used to
+generate nonpulsating flow.
+Thetemperature ofthesystem wascontrolled byaStatham
+thermostated chamber, Model SD10-1. A0-10,000 psi
+Helicoid gauge with“capillary bleed” was used formonitoring
+column inlet pressures. Inthe continuous flow mode,
+sampling was performed with amodified Loenco sampling
+valve. Intheintermittent flow mode, a10-gl Hamilton
+syringe was used toinject thesample onto thecolumn.
+The pellicular ionexchange resin used inthis study was
+prepared asfollows. Glass beads (dp¡sa50microns) were
+coated with asolution ofstyrene, divinylbenzene, andbenzoyl
+peroxide inether and thesolvent was evaporated. Polym-
+erization andcrosslinking were carried out at90°Cinan
+aqueous suspension ofthecoated beads. Theproduct was
+washed with water, acetone, benzene, and methanol, then
+converted into theion exchange resin. The anion-active
+resin was prepared bychloromethylating thepolymer and
+reacting theproduct with dimethylbenzylamine. Thepellicu-
+larionexchange resin was then sieved and washed with 2M
+NaOH and HC1 solutions anddried.
+Although the useofthis resin only isdiscussed, other
+resins were prepared and also found tobeuseful. For ex-
+ample, cation-active resin was prepared bysulfonating the
+coating ofglass beads (dp»50microns) with 98% sulfuric
+acid at90° Cfor 30minutes. For making crosslinked
+polyethylene-imine resin, the water from commercial poly-
+ethylene-imine (Dow Chemical Co.) wasremoved bydistilla-
+tion with benzene. Glass beads (dp~100 microns) were
+coated with asolution ofthedry polyethylene-imine in
+methylene chloride and thesolvent was evaporated. The
+coated beads were then exposed tomethylene bromide vapor
+at130° Cfor 10minutes inorder tocrosslink thepolymer.
+Theproduct was washed with acetone, water, diluted hydro-
+chloric acid, then with water, anddried.
+Thedrycolumn material waspacked intostraight stainless-
+steel (No. 316) tubing (1-mm i.d., 0.0625-inch o.d.) byvibra-
+tion and tapping. The outlet ofthecolumn was plugged
+with athin diskofporous Teflon. Toconsolidate thepack-
+ing, deaerated mobile phase waspumped through thecolumn
+inperpendicular position for5-6hours, atinlet pressures ofHmcm
+Figure 2,Plot ofHmagainst flow velocity inhelical
+capillary tubes
+Unbroken lines, calculated forstraight tube; broken lines,
+Column I;dotted lines, Column II
+3500-4000 psi. This treatment caused thepacking tocon-
+tract afew centimeters. The column was then coiled and
+connected totheinstrument.
+After resieving, glass microbeads (Microbeads Inc., Jack-
+son, Miss.) were soaked inchromic sulfuric acid overnight,
+washed with water and methanol, and dried. Although
+reagent grade chemicals were used forthepreparation of
+buffers, some were contaminated with ultraviolet absorbing
+materials which gave rise to asignificant base linedrift
+during gradient elution. Reference mixtures were prepared
+bydissolving the purest available nucleotides inwater.
+Perchloric acid extracts ofmouse brain andliver were made
+intheusual manner andconcentrated bylyophilization.
+Thelinear gradient used inthese analyses wasproduced by
+maintaining theflow rate through thecolumn twice ashigh
+astheflow rate ofthestronger eluent into the reservor.
+Samples were injected with amicrosyringe atintermittent
+flow. After closing thesampling ports, both pumps were
+started atthe same time; however, the sample was first
+eluted with theweak eluent which filled upthevolume ofthe
+system between thereservoir outlet and thecolumn inlet
+(approximately 1.7ml). After each analysis thecolumn was
+regenerated with approximately 15mlofliquid. Thus each
+run was preceded by a25-minute reconditioning period.
+Thecolumn was used over 5months with various acidic and
+neutral saltsolutions andoccasionally with aqueous ethanol.
+Nevertheless, retention times remain reproducible onthe
+properly reconditioned column.
+RESULTS
+Study ofPeak Broadening inColumns without Stationary
+Phase. To assess thesignificance ofsecondary flow (70)in
+capillary columns, solute band spreading incoiled uncoated
+open tubes was investigated. The dimensions ofthe two
+helical columns (IandII)made ofthin-walled stainless-steel
+tubing were asfollows: Column Iwas0.4-mm o.d.by0.276-
+mm i.d.with ahelix diameter (Dh) of85mm. The Dh;i.d.
+was 308. Column IIwas 0.4-mm o.d. by0.287-mm i.d.,
+Dh1.28 mm, and the7),,/i.d. 4.5. The plots ofplate height
+(77m) vs.flowvelocity (u)obtained byinjecting KC1 and sucrose
+astracers inwater onto these columns at38°Caredepicted
+inFigure 2.
+Peak dispersion inColumn I(broken lines) andColumn II
+(dotted lines) islessthan calculated byEquation5(unbroken
+lines) butnevertheless unacceptably large forchromatography.
+1424 ·ANALYTICAL CHEMISTRY
+
+Instead ofthelinear increase ofHwith laminar flow ve-
+locity, aspredicted byTaylor andGolay, theHvs. ucurve
+tends toflatten athigh flow velocities. Contrary totheexist-
+ingbelief inchromatography, adecrease inthehelix-diam-
+eter-to-column-inside-diameter ratio results inadecrease in
+plate height.
+The higher plate heights obtained inboth columns forthe
+more slowly diffusing sucrose indicates that molecular dif-
+fusion plays asignificant roleinmass transfer under these
+conditions.
+Although flattening oftheHvs. ucurves incoiled open
+tubes asshown inFigure 2was expected asaconsequence of
+secondary flow (10), therelatively small effect ofcoil-to-tube-
+diameter ratio incomparison tothestrong effect ofdiffusivity
+suggests that other mechanisms cooperate inreducing H/u.
+Itwasthought that theroughness oftheinner wallofthetube
+orthepulsating character oftheflow might beresponsible
+forthedeparture from theparabolic flow pattern. Thewall
+effect isvery difficult toassess butmicroscopic examination
+ofthetube interior revealed nounusual roughness. Onthe
+other hand, Aris (14) proved theoretically that theeffect of
+pulsation onpeak dispersion inopen tubes atlaminar flow
+isinsignificant unless the mean pressure gradient issmaller
+than theamplitude ofthepressure gradient fluctuations. This
+isingood agreement with ourfindings with packed columns
+under thepresent experimental conditions because neither
+thepulsating northenonpulsating character oftheflow had
+anydemonstrable effect onplate height orretention times.
+Although peak dispersion inopen capillary tubes continues
+tobe aninteresting theoretical problem, the useofopen
+tubular columns under these circumstances does notappear
+tobeapromising approach tohigh speed liquid chromatog-
+raphy because theHm/u values calculated from data shown
+inFigure 2aremuch higher than those ingaschromatography.
+Inorder tofindoptimal conditions formicroanalysis, band
+spreading intwo 150-cm long by1-mm i.d.columns packed
+with uncoated glass beads wasinvestigated. The small tube
+diameter was chosen tolessen trans column effects detri-
+mental tocolumn performance (15). The contribution of
+theinjection and detector system topeak broadening was
+negligible inthese experiments.
+Inthetracer experiments (Figure 3)with these columns,
+solutes ofvarious diffusivities were used inorder toobserve
+theeffect ofparticle size, flow velocity, and molecular dif-
+fusion onpeak spreading. Thus, 10pgofKC1 (Dm=2.43
+X10-5), sucrose (Dm=7.25 X10-6), and albumin (Dm
+=7X10-7) were injected inthecarrier stream ofdeaerated
+water. The column temperature was 38°Candflow was
+laminar. Novariation inplate height wasfound with de-
+creasing thesample sizedown to2pg.
+With Column Btheflattening oftheHm vs. ucurves be-
+comes significant atflow velocities ofabout 0.2 cmsecond-1.
+Aspredicted bythecoupling theory, the curves converge at
+high flow velocities indicating anincreasing contribution to
+lateral mass transfer from convection anddecreasing contribu-
+tion from molecular diffusion. With Column Atheplate
+height issignificantly greater relative totheparticle diameter
+than expected from data from thechemical engineering liter-
+ature orfrom that published byKnox (13). Thediscrepancy
+isattributed tothesmall particle andtube sizes used inthis
+study compared tothose described intheliterature.
+(14) R.Aris, Proc. Roy. Soc. (London) 259A, 370(1960).
+(15) A.B.Little wood, “Gas Chromatography 1964,” A.Goldup,
+Ed., TheInstitute ofPetroleum, London, 1965, pp.77-93.Figure 3.Plots ofHmand pressure drop against flow velocity
+inColumn AandColumn B
+Column parameters were: Particle size, 88-105 microns (A), 44-
+53microns (B). Apperunit length atu=1cmsecond-1 (water 38°
+C)0.064 atm cm-1 (A), 0.27 atm cm-1 (B). Porosity 37.9% (A),
+39.8 %(B). Column toparticle diameter ratio 10(A), 20(B)
+Inchromatography, however, arelatively large surface
+areaofthesupport material isneeded forthefinedistribution
+ofthestationary phase. The surface areaofglass spheres is
+inversely proportional tothe diameter. Thus, the layer
+thickness ofagiven amount ofstationary phase inthecolumn
+decreases with theparticle diameter. Because the plate
+height contribution ofthestationary phase isproportional
+tothesquare ofthelayer thickness, asmall particle size is
+attractive toreduce this term. Ontheother hand, theflow
+resistance ofthecolumn decreases with thesquare ofthe
+particle diameter; therefore, theavailable inlet pressure limits
+particle sizereduction.
+Theparticle sizerange selected forthese experiments repre-
+sents apractical compromise forchromatographic applica-
+tion. Inboth columns Aand B,Hm¡u decreased with flow
+velocity butappeared toapproach aminimum value atthe
+highest velocities, although significant reduction wasachieved
+byincreasing flow velocity to1-2 cmsecond-1. Afurther
+increase inugave only marginal improvement inHm/u with
+alarge increase intheinlet pressure. Thus, 1<u<2cm
+second-1 seems areasonable compromise velocity, compa-
+rable initspractical significance totheoptimum practical
+flow velocity defined byScott (16)ingaschromatography.
+(16) R.P.W.Scott andG.S.F.Hazeldean, “Gas Chromatography
+1960,” R.P.W.Scott, Ed., Butterworths, Washington D.C,
+1960, pp.144-61.
+VOL. 39, NO. 12, OCTOBER 1967 ·1425
+
+Figure 4.Plate number and pressure drop asafunction of
+flow velocity andflow rate obtained with thepellicular anion
+exchanger column
+The comparison ofopen tubular and packed columns in-
+dicates that thelatter aresuperior forliquid chromatography.
+First, more favorable Hmju values areobtained with packed
+columns than with open tubes. Second, because oftheir higher
+sample capacity andperformance, ahigher concentration of
+the emerging solutes isobtained with small-bore packed
+columns than with open tubes. This wasparticularly im-
+portant with respect tothesensitivity ofpresently available
+detection systems.
+Performance ofaPellicular Ion Exchange Column. For
+separation ofnucleotides [ribonucleoside monophosphoric
+acids (2'and3'orifnotindicated, 5'): CMP (cytidylic acid),
+UMP (urydylic acid), AMP (adenylic acid), GMP (guanylic
+acid); ribonucleoside diphosphoric acids: CDP, UDP,
+ADD, GDP; ribonucleoside triphosphoric acids: CTP, UTP,
+ATP, GTP], a193-cm long, 1-mm i.d.column was packed
+with No. 275-325 sieve fraction ofglass beads coated with an
+anion exchanger containing benzyl-dimethylammonium
+groups. The capacity oftheresin was 8microequivalents
+pergram asdetermined bythemethod ofHelfferich (17).
+Figure 4shows plots ofplate number and pressure drop
+against thelinear flowvelocity for 3'UMP and 3'AMP. The
+column capacity ratios (k)forthese solutes were 3and 10,re-
+spectively, large enough fortheplate numbers toreflect the
+resolving power ofthecolumn. The flow rate, F,and the
+flow rate persquare centimeter, /,areindicated inFigure 4
+toallow comparison ofourflow conditions with those in
+other liquid chromatographic systems. The retention time
+ofanunsorbed solute was measured with cytosine, which
+was notsignificantly retarded under theconditions ofthe
+experiment. The plate numbers are50-100 times smaller
+than those measured with unsorbed solutes because ofthe
+stationary phase inthecolumn, andconsequently with 3'AMP
+H/u values were 1-2 orders ofmagnitude greater. Again,
+itwas noteconomical toincrease theflow velocity above the
+practical optimum range, asasmall additional increase in
+speed ofanalysis requires alarge increase ofinlet pressure.
+Therefore, foranalytical work with this column, theflow
+velocity wasfixed atu=1.2cmsecond-1.
+Factors Affecting Retention. Because thecomposition of
+themobile phase greatly influences thebehavior ofsolutes
+inthestationary phase, buffer solutions other than those
+utilized inthisstudy might provide better column performance
+(17) F.Flelfferich, “Ion Exchange,” McGraw-Hill, New York,
+1962, pp.91-2.KH2P04
+Molorily
+Figure 5.Effect ofsaltconcentration onretention
+at60° C
+Figure 6.Effect oftemperature onretention
+Mobile phase: 0.045M KH2P04, 0.002,V H3PQ4
+Figure 7.Separation ofribonucleoside-S'-mono-
+phosphoric acids
+Column: 1-mm i.d., 193-cm length; pellicular strong
+anion exchange resin, sieve fraction No. 270-325, 8
+microequivalent pergram. Eluent: Linear gradient
+ofKH2P04 from 0.025AL to0.325M (starting solution
+2.5 X10~W forH3P04). Temperature: 70° C.
+Flowrate: 24mlperhour. Flow velocity: 2.1cmper
+minute. Pressure: 75atm. Sample: 1Mgof5'CMP,
+5'UMP, 5'AMP, 5GMP
+1426 eANALYTICAL CHEMISTRY
+
+Figure 8.Separation ofribonucleoside-2' and 3'-mono-
+phosphoric acids
+Column: 1-mm i.d., 193-cm length; strong basic pellicular anion
+exchanger, sieve fraction No.270-325, 8microequivalent pergram.
+Eluent: linear gradient ofKH2P04 from 0.05AL to0.35M (starting
+solution 0.005N forH3P04). Temperature: 60° C.Flow rate:
+12mlperhour. Flow velocity: 1cmsecond-1. Pressure: 51atm.
+Sample: 1Mgofeach isomer mixture
+and peak symmetry, but, atpresent, nogood guide exists
+fortheoptimization ofthecomposition ofthemobile phase.
+The effect ofsaltconcentration Contheretardation factor,
+R,isshown inFigure 5fortheelution of3'AMP and3'UMP
+with KH2P04 solutions ofdifferent concentrations. The
+curves correspond totheequation
+R=alogC+b (7)
+where aand bareconstants.
+Thecolumn performance improved with temperature dueto
+increased solute diffusivity inboth phases. Athigh tempera-
+tures, asignificant reduction intailing was also observed.
+Thus, rapid analysis canbeachieved atthehighest temperature
+tolerable forthesolutes, thestationary phase, andthemobile
+phase.
+Because increase oftemperature reduces k,(seeFigure 6),
+thiscombined with improvements inspeed may enable many
+compounds conventionally analyzed atrelatively low tem-
+peratures and residing inthecolumn formany hours tobe
+separated athigher temperatures without decomposition.
+Thus, although nucleotides (particularly nucleoside di-and
+triphosphates) arerelatively labile substances, nodecomposi-
+tion was observed inourwork during thechromatographic
+runs at70°C.
+Columns packed with pellicular ion exchange resins are
+characterized byalarge ratio ofmobile phase tostationary
+phase compared tocolumns packed with theconventional
+ionexchange resin. Thus, theeluent strength ofthemobile
+phase canbemuch lower inthepellicular ionexchange column
+than intheconventional column inorder toobtain the same
+mass distribution ratio.
+Nucleotide Separation. Nucleotides were among thefirst
+biochemical substances tobeseparated byion exchange
+chromatography (18). Amajor advance wasmade byAnder-
+son and hiscolleagues (19)with thedevelopment ofauto-
+mated ionexchange chromatography similar tothat used for
+amino acid analysis (20). Although rapid separation ofrela-
+tively simple nucleotides can beachieved bythin layer chro-
+matography (21), theanalysis ofnucleic acid hydrolyzates
+ismost commonly carried outby means ofconventional
+(18) W.E.Cohn, J.Am. Chem. Soc., 72,1471 (1950).
+(19) N.G.Anderson, J.G.Green, M.L.Barber, and SR. F.C.
+Ladd, Anal. Biochem., 6,153(1963).
+(20) S.Moore andW.H.Stein, J.Biol. Chem., 192, 663(1951).
+(21) K.Randerath, “Thin Layer Chromatography,” Academic
+Press, New York, 1963, pp.188-99.MINUTES
+Figure 9.Separation ofribonucieosides mono-, di-, andtri-
+phosphoric acids
+Column: 1.0-mm i.d., 193-cm length; packed with pellicular anion
+exchanger (strong basic), sieve fraction No. 270-325 ;8micro-
+equivalent pergram. Eluent: linear gradient ofammonium formate
+buffer, pH 4.35 at25° C,from 0.04M to1.5M. Temperature:
+71° C.Flow rate: 12mlperhour. Flow velocity: 1cmsecond-1.
+Pressure: 51atm. Sample: 1.5-3.5 nanomoles (0.6-1.5 Mg)
+percomponent
+MINUTES
+MINUTES
+Figure 10. Separation ofcellular extracts from
+mouse liver (A)and mouse brain (B) onpellicular ion
+exchanger using linear gradient elution with am-
+monium formate buffer, pH4.35
+column chromatography onastrong anion exchanger poly-
+styrene resin. This method usually requires atleast 20hours
+toseparate thenucleoside mono-, di-, and triphosphates.
+Moreover, thecolumn system isnotreusable andrelatively
+large samples arenecessary.
+Recently, automated ion exchange chromatography of
+amino acid andpeptide mixtures hasbeen greatly accelerated
+byintroducing uniform spherical ionexchange resins having
+small particle size (6)and extended fortheanalysis ofnano-
+VOL. 39, NO. 12, OCTOBER 1967 ·1427
+
+mole quantities ofamino acids byusing small-bore columns.
+Recent work ofCohn andUriel (22) shows that theanalysis
+ofnucleic acid bases and nucleosides atthenanomole level
+can beachieved oncolumns packed with afine resin atin-
+creased detector sensitivity.
+Similar modifications must improve the speed and sensi-
+tivity ofanalysis ofnucleotides. However, the useofcon-
+ventional ionexchange resins isbeset bysome inherent dif-
+ficulties. Large differences intheequilibrium constants for
+the mono-, di-, and triphosphate nucleotides require a
+strong gradient oftheeluent: theaccompanying shrinking
+and swelling causes undesirable changes incolumn per-
+meability and column performance. Ion exchange resins
+contain lowmolecular weight contaminants which give rise
+tocolumn bleeding, which isundesirable when one wishes to
+collect eluted compounds and which causes base linedrift
+with ultraviolet detectors.
+These difficulties are overcome bythe useofpellicular ion
+exchange resins which alsopermit thefastanalysis ofminute
+quantities ofnucleoside phosphoric acids. Figures 7-9
+show chromatograms ofnucleotide mixtures analyzed by
+thisliquid chromatography system using gradient elution
+with different buffer solutions. The analysis time compares
+well with thatforgaschromatography. Because theorder
+ofelution isthe same asthatwith Dowex-1 columns, the re-
+tention mechanism fortheclassical and pellicular ion ex-
+change resin isprobably the same.
+(22) W.E.Cohn andM.Uriel, Oak Ridge National Laboratory,
+Oak Ridge, Tenn., personal communication, July 14,1966.The efficiency ofthiscomplete system isalso demonstrated
+bythechromatograms ofcellular extracts ofmouse brain
+andliver inFigure 10. Although theidentification ofthe
+individual peaks hasyettobecompleted, thechromatograitis
+indicate more components tobepresent than arerevealed by
+conventional separation methods.
+Oftheother pellicular resins mentioned above, pellicular
+polyethyleneimine resin was useful forthefastseparation of
+nucleic acid bases and nucleosides. Pellicular alumina and
+carbon black were also effective intheseparation oflipids.
+Column efficiency and optimum operating conditions were
+similar tothose described inthisstudy.
+Inconclusion, the useofpellicular column materials in
+small bore columns arewidely applicable forliquid chroma-
+tography. Thestability andefficiency ofsuch materials make
+itpossible toachieve fastseparation ofcomplex mixtures by
+aliquid chromatographic technique similar inspeed, resolu-
+tion, andquantitative range togaschromatography.
+ACKNOWLEDGMENT
+We extend ourappreciation toR.E.Handshumacher for
+making available tousthecellular extracts, toE.Canellakis
+forhelpful discussions, and toE.Watson Associates forthe
+loanofthedifferential refractometer used inthisstudy.
+Received forreview May 8,1967. Accepted August 3,1967.
+Work supported bygrants from theNational Institutes of
+Health (HE-03558-10&FR00356-01)andtheNational
+Aeronautics and Space Administration (SAR-NGR -07-
+004-067 &NsG-192-61).
+Design ofaNickel-63 Electron Absorption Detector
+andAnalytical Significance ofHigh Temperature Operation
+P.G.Simmonds, D.C.Fenimore, B.C.Pettitt, J.E.Lovelock, andAlbert Zlatkis
+Department ofChemistry, University ofHouston, Houston, Texas 77004
+Anelectron absorption detector which incorporates a
+63Ni source has been designed forsafe operation to
+400° C.Theanalytical advantages ofhightemperature
+operation have been studied soastoextend thegeneral
+utility ofthisclass ofdetector ingaschromatography.
+Expansion ofthepractical temperature range reduces
+detector contamination andprovides abroader insight
+into thetemperature dependency phenomena ob-
+served forcertain compounds. Moreover, the new
+design retains allofthedesirable performance charac-
+teristics oftheestablished Lovelock parallel plate
+electron capture detector when operated inthepulsed
+sampling mode.
+Since itsinception in1960 (7),theelectron absorption de-
+tector hasenjoyed aunique positionasaremarkably sensitive
+andhighly selective detector for gaschromatography. The
+precipitous acceptance ofthisdetector asapowerful adjunct
+togaschromatography tended toobscure some ofthe errors
+inherent initsearlier designs and modes ofoperation. In
+1963 Lovelock described theplane parallel design which,
+when operated with pulse collection potential, substantially
+(1) J.E,Lovelock and S.R.Lipsky, J.Am. Chem. Soc., 82,431
+(1960).freed the device from anomolous responses and errors in-
+duced byacontinuous electrical field (2).
+Wentworth etal.(J)applied akinetic model tothestudy of
+electron attachment phenomena occurring inthe pulse-
+sampled parallel plate detector, which hasconsiderably ex-
+panded ourknowledge ofthefundamental physical processes
+involved. The merit ofthisapproach may bejudged from
+thesuccessful calculation ofelectron affinities andbond dis-
+sociation energies for anumber ofcompounds based onin-
+formation obtained through the useofthedetector atvarious
+temperatures (4-7). These studies hadsignificant analytical
+importance, inthat alinear relationship between detector
+response and sample concentration was derived which was
+(2)J.E.Lovelock, Anal. Chem., 35,474(1963).
+(3)W.E.Wentworth, E.Chen, and J.E.Lovelock, J.Phys. Chem.,
+70,445(1966).
+(4)W.E.Wentworth, E.Chen, and J.C.Steelhammer, Ibid., in
+press.
+(5)W.E.Wentworth, R.S.Becker, and R.Tung, Ibid., 71,1652
+(1967).
+(6)W.E.Wentworth and E.Chen, Ibid., p.1929.
+(7)W. E.Wentworth and E.Chen, J.Gas Chromatog., 5,170
+(1967).
+1428 ·ANALYTICAL CHEMISTRY
+

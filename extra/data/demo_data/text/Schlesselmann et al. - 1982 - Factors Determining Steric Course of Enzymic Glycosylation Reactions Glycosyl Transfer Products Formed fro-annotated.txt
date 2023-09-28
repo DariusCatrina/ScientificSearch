@@ -1,0 +1,947 @@
+6606 Biochemistry 1982, 21,6606-6614
+Factors Determining Steric Course ofEnzymic Glycosylation Reactions:
+Glycosyl Transfer Products Formed from
+2,6-Anhydro-l-deoxy-D-g/MCO-hept-l-enitol by -Glucosidases and an
+Inverting Exo-a-glucanaset
+Peter Schlesselmann, Hans Fritz, Jochen Lehmann, Takao Uchiyama,1 Curtis F.Brewer, andEdward J.Hehre*
+abstract: Glycosyl transfer products were formed from
+2.6-anhydro-l-deoxy-D-g/«co-hept-l-enitol (heptenitol) by
+purified  -glucosidases from Candida tropicalis andriceand
+byaninverting exo-a-glucanase (glucodextranase) from Ar-
+throbacter globiformis. The productswere structurally defined
+through  and 13CNMR (nuclear magnetic resonance)
+spectra oftheir crystalline per-O-acetates incomparison with
+those ofauthentic methyl l-deoxy- - andmethyl l-deoxy-/3-
+D-g/uco-heptuloside. l-Deoxy-a-D-g/«co-heptulosyl-(2—*-7)-
+heptenitol andl-deoxy-a-D-g/Mco-heptulosyl-(2—1-l)-O-gluco-
+heptulose were produced byboth theCandida a-glucosidase
+andtheglucodextranase; l-deoxy-a-D-g/uco-heptulosyl-(2—>5)-
+and 1-deoxy-a-D-g/u<O-heptulosyl-(2-*7)-D-g/wco-heptuloses
+bytherice -glucosidase. These results, together with our
+earlier findings ofsterospecific hydration ofheptenitol cata-
+lyzed bythe same enzymes [Hehre, E.J.,Brewer, C.F.,
+In aprevious report (Hehre etal.,1980), D-glucosyl mobi-
+lizing enzymes ofseveral different types were shown tocatalyze
+specific hydration reactions with theprochiral glycosyl donor
+2.6-anhydro-l-deoxy-D-g/uco-hept-l-enitol (heptenitol).a-
+Glucosidases from Candida tropicalis yeast andfrom rice were
+found toproduce 1-deoxy-a-D-g/wco-heptulose from this
+substrate; the/3-glucosidase from sweet almonds and anin-
+verting exo-a-glucanase from Arthrobacter globiformis pro-
+duced l-deoxy-/3-D-g/»co-heptulose. Inaddition, both a-glu-
+cosidases andtheArthrobacter glucodextranase were observed
+tocatalyze theformation ofsaccharide transfer products from
+theheptenitol. This paper describes thestructures and modes
+offormation ofthese transfer products. Aswill bediscussed,
+acomparison oftheresults with those obtained previously for
+thehydrations catalyzed bythe same enzymes provides unique
+information about thefactors involved indetermining thesteric
+course ofenzymic glycosylation reactions. Evidence that
+acceptor substrates areamong these factors was reported
+earlier (Hehre etal.,1980), onthebasis ofthefinding that
+glucodextranase acting onheptenitol leads totheformation
+ofan -D-g/uco-heptulosylheptenitol transfer product while
+concurrently producing ahydration product ofßconfiguration.
+More complete evidence relating tothispoint has now been
+obtained.
+Traditionally, product configuration hasbeen represented
+asbeing rigidly tied tothatofthesubstrate, inthat reactions
+fFrom theChemisches Laboratorium, Albert Ludwigs Universitát,
+Freiburg (imBreisgau), West Germany (P.S., H.F., andJ.L.), andthe
+Department ofMicrobiology andImmunology, Albert Einstein College
+ofMedicine, Bronx, New York 10461 (T.U., C.F.B., andE.J.H.).
+Received June 24,¡982. This study was supported bytheDeutche
+Forschungsgemeinschaft (J.L.) andbyU.S. Public Health Service Re-
+search Grant GM-25478 (E.J.H.) from theNational Institute forGen-
+eralMedical Sciences.
+*On leave from Osaka Kyoiku University, Osaka, Japan.
+0006-2960/82/0421-6606S01.25/0Uchiyama, T.,Schlesselmann, P.,&Lehmann, J.(1980)
+Biochemistry 19,3557-3564], show theinadequacy ofthe
+long-accepted notion that carbohydrase-catalyzed reactions
+always lead toretention (oralways lead toinversion) ofsub-
+strate configuration. Inparticular, thefinding that gluco-
+dextranase forms transfer products ofaconfiguration and a
+hydration product ofßconfiguration from the same substrate
+provides aclear example ofthefunctioning ofacceptors rather
+than donor substrates inselecting thesteric course ofreactions
+catalyzed byaglycosylase. Thecircumstances under which
+acceptor cosubstrates might beexpected toshow thissignif-
+icant effect arediscussed. Theopportunity presumably would
+exist whenever carbonium ionmediated reactions arecatalyzed
+byglycosylases that provide oppositely oriented approaches
+ofdifferent acceptors tothecatalytic center.
+catalyzed byanygiven carbohydrase have been assumed to
+either always result inretention oralways result ininversion
+ofdonor substrate configuration. Studies with glycosidic
+substrates have provided afewcontrary observations (Shibaoka
+etal.,1971, 1975; Suetsugu etal.,1971; Pazur etal.,1977,
+1978), butthebreakdown ofthislong-accepted generalization
+ismost clearly shown intheglycosylation reactions which are
+catalyzed byvarious carbohydrases with glycals (Lehmann
+&Schróter, 1972; Hehre etal.,1977, 1981; Kanda etal.,
+1981) andother enolic glycosyl donors (Brockhaus &Leh-
+mann, 1977; Hehre etal.,1980). Such actions donotconform
+totheusual notions ofcarbohydrase specificity. Instead, they
+support theconcept that glycoside hydrolases andglycosyl-
+transferases areglycosylases (Hehre etal.,1971, 1973) that
+thus may utilize, asproductive substrates, compounds having
+nomore than theability tobind appropriately attheactive
+siteand toyieldaglycosyl residue onprotonation. Studies
+ofhydration reactions catalyzed bya-and /3-glucosidase with
+D-glucal orwith heptenitol (Hehre etal.,1977, 1980) have,
+infact, furnished unambiguous evidence fortheability ofthese
+glycosylases tocontrol theanomeric configuration ofreaction
+products without reference tothat ofthedonor substrate.
+Gaining information onhow thiscontrol isachieved isamajor
+aimofthisinvestigation ofthestructures ofglycosyl transfer
+products synthesized from heptenitol byC.tropicalis a-glu-
+cosidase, rice -glucosidase, andglucodextranase. Ineluci-
+dation ofthese enzymically produced structures, authentic
+ -methyl and /3-methyl l-deoxy-D-g/wco-heptulosides were
+employedasreference standards. Routes ofchemical synthesis
+ofthese reference heptulosides arereported forthefirst time.
+Experimental Procedures
+General Methods. Optical rotations were measured with
+aPerkin-Elmer 141polarimeter. Melting pointsare uncor-
+rected. TLC1 wasperformedonsilica gel F254(Merck); the
+&copy;1982 American Chemical Society
+Downloaded via THE PROCTER & GAMBLE US on September 14, 2020 at 14:22:59 (UTC).
+See https://pubs.acs.org/sharingguidelines for options on how to legitimately share published articles.
+
+STERIC COURSE OF ENZYMIC GLYCOSYLATION REACTIONS VOL. 21, NO. 25,1982 6607
+solvent used forcompounds with freeOH groups wasethyl
+acetate-methanol (10:1 v/v) andforfully acetylated com-
+poundswasethyl acetate-petroleum ether (bp60-70 °C) (1:1
+v/v). Detection waseffected bycharring with sulfuric acid.
+GLC wasconducted inglass columns containing Chromosorb
+Gcoated with silicone rubber (SE-52, 3%), with nitrogen as
+carrier gas, andwith flame-ionization detection. Forcolumn
+chromatography, Kieselgel 60(Merck, 230-400 mesh) was
+used. Infrared spectra (KBr) were obtained with aPerkin-
+Elmer 137spectrometer. ‘HNMR data (CDC13, internal
+Me4Si) were recorded with Bruker WM 250(250-MHz) and
+Bruker HX 360(360-MHz) spectrometers, and 13CNMR
+spectra were obtained with aBruker HX 360, at90.58 MHz.
+Transfer Product Isolation. Saccharide products syn-
+thesized from 2,6-anhydro-1 -deoxy-D-g/«co-hept-1 -enitol (4)
+(Hehre etal.,1980) bypurified C.tropicalis a-glucosidase
+(Sawai, 1967; Hehre etal,1977), A.globiformis gluco-
+dextranase (Sawai etal.,1976; Ohya etal.,1978), andrice
+ -glucosidase (Makor Chemicals Inc., Jerusalem, Israel) were
+recovered from replicate 1-mL digests with each enzyme.
+Digests with Candida  -glucosidase (C,totaling 16mL)
+comprised 270mM substrate (4)and 0.3mg/mL enzyme
+buffered with 0.05Macetate atpH5.15; incubation was at
+30°Cfor 5h.Glucodextranase digests (GD, 20-mL total)
+contained 300mM 4and 1.0mg/mL enzyme atpH5.7;
+incubation was at30°Cfor 5h.Rice  -glucosidase digests
+(R,30mL) comprised 360mM 4and 1.8mg/mL enzyme
+atpH5.5;incubation was at30°Cfor2.25 h.Following
+incubation, each 1-mL digest wasapplied asa20-cm band
+toprewashed Whatman No. 3MM paper, along with adjacent
+D-glucose markers. Chromatography (descending) waswith
+1-butanol-ethanol-water (13:8:4 v/v/v) for65-68 h.When
+dry, endguide strips were stained with silver nitrate (papers
+hung inairfor 10minfollowing application oftheNaOH
+reagent) tolocate thereaction products (Hehre etal.,1980).
+Dry methanol was used toelute l-deoxy-D-g/uco-heptulose
+(J?glc 1-47) andproducts migrating atRGlc 1-25 (C,and
+GD[), Rqlc 0.90 (R2), andRqlc 0.64 (C3, R3,and GD3).
+Eluates ofeach product, accumulated from thereplicate di-
+gests, were kept at-20°C,protected from moisture. Each
+combined eluate wasfinally passed through afinefritted glass
+filter, evaporated under vacuum at30°C,anddried under
+vacuum from absolute ethanol. Thetransfer products obtained
+from digests included thefollowing: with Candida a-gluco-
+sidase, Q71mg(8.5% oftheavailable heptenitol substrate)
+and C3100mg(12%); with glucodextranase, GDt 116mg
+(10%) and GD3 59mg(5%); with rice -glucosidase, R289
+mg(4%) and R340mg(2%).
+Enzymic Hydrolysis ofTransfer Products. Each product
+(CbGDh R2,C3,GD3, R3) wasexamined forsusceptibility
+toenzymic hydrolysis. Test mixtures buffered with 0.05 M
+acetate atpH5.4contained 0.4mg/mL saccharide product
+andeither 0.3mg/mL Candida a-glucosidase, 4mg/mL rice
+ -glucosidase,1.2mg/mL glucodextranase, 1.7mg/mL highly
+purified sweet almond ß-glucosidase (40IU/mg, Boehringer
+Mannheim, NY), orbuffer alone. After incubation at30°C
+for 5and 48h,  -µ  samples were chromatographedon
+Whatman No. 1paper (descending, 26h)with 1-butanol-
+ethanol-water (13:8:4 v/v/v) andstained with silver nitrate.
+Acetylation ofTransfer Products ChGDh R2, C3,i?3,and
+GDy Each oftheproducts (40mg)was dissolved inpyri-
+dine-acetic anhydride (1:1v/v) (5mL), inthe caseofR2,C3,
+R3,and GD3 under addition of4-(dimethylamino)pyridine (5
+1Abbreviations: TLC, thin-layer chromatography; GLC, gas-liquid
+chromatography; NMR, nuclear magnetic resonance.mg). After 24hthereaction mixture waspoured onice(10
+mL), extracted with chloroform (10mL), and washed with
+asodium bicarbonate solution (2X5 mL) andwater (10mL).
+ The chloroform layer wasdried over magnesium sulfate and
+evaporated todryness under diminished pressure. The residue
+waspurified bycolumn chromatography (7X0.5cm)with
+ether assolvent. The following products were obtained in
+crystalline form from ether: I,fromQandGD, (73%),
+3,4,5,3',4',5',7'-hepta-0-acetyl-l-deoxy-a-D-g/uco-heptulo-
+pyranosyl-(2-*-7)-2,6-anhydro-l-deoxy-D-g/Mco-hept-l-enitol;
+2,from C3, R3,and GD3 (78%), 3,4,5,6,3',4',5',7'-octa-0-
+acetyl-l-deoxy-a-D-g/uco-heptulopyranosyl-(2—>-7)-l-deoxy-
+2-keto-D-g/«co-heptulose; 3, from R2 (58%),
+3,4,6,7,3',4',5',7'-octa-0-acetyl-l-deoxy-a-D-g/wco-heptulo-
+pyranosyl-(2—*-5)-l-deoxy-2-keto-D-g/wc0-heptulose.
+Methyl 3,4,5,7-Tetra-O-acetyl-l-deoxy-a-O-gluco-heptu-
+lopyranoside (6). (Synthesis a)3,4,5,7-Tetra-0-acetyl-2,6-
+anhydro-D-g/uco-Ae/rt-l-enitol (5),1mmol (344 mg),was
+dissolved inabsolute methanol (5mL). At-15°C, amixture
+ofHC1 inmethanol [acetyl chloride (0.5mL) andmethanol
+(5mL)] was added. After 1hthereaction mixture was
+evaporated todryness invacuo at0°Cand subsequently
+acetylated with amixture ofpyridine-acetic anhydride (1:1)
+(20mL). After 15hatroom temperature thereaction solution
+was poured onice(10mL), extracted with chloroform (20
+mL), washed with asodium bicarbonate solution (10mL) and
+water (10mL), anddried over magnesium sulfate. After
+evaporation todryness under diminished pressure, thecolorless
+syrup crystallized from ether, yield 286mg(76%). (Synthesis
+b)5,1.033 g,wastreated with absolute methanol (10mL)
+andmercury(II) acetate (3mmol, 956mg). After 1h,sodium
+cyanoborohydride (200 mg) and acetic acid (1mL) were
+added. Thesolution wasfiltered offtheblack residue and
+extracted with amixture ofchloroform (30mL) and water
+(10mL), dried over magnesium sulfate, andevaporated in
+vacuo. 6crystallized from ether with ayield of767mg(68%).
+Methyl 3,4,5,7-Tetra-O-acetyl-l-deoxy-l-bromo-a-O-
+gluco-heptulopyranoside (8)andMethyl 3,4,5,7-Tetra-O-
+acetyl-1 -deoxy-1 -bromo-$-X)-gluco-heptulopyranoside (9). 5,
+1.153 g,was treated with a0.01 Mmethanolic sodium
+methoxide solution (10mL). After 3hthereaction mixture
+wasdeionized byfiltration through asilica gelcolumn (5.0
+X0.9cm). Subsequently, thesolution wastreated with N-
+bromosuccinimide (660 mg). After 1.5h,thereaction mixture
+wasevaporated todryness under diminished pressure andthen
+acetylated byaddition ofpyridine (20mL) andacetic anhy-
+dride (20mL). After 24hthereaction solution waspoured
+onice(20mL), extracted with chloroform (30mL), washed
+with asodium bicarbonate solution (2X20mL) and water
+(20mL), dried over magnesium sulfate, and evaporated to
+dryness invacuo. The products were separated by“flash”
+chromatography (Still etal,1978) onasilica gelcolumn (10
+X5cm) andwith ethyl acetate-petroleum ether (bp60-70
+°C) (1:2v/v)assolvent. First 9wasobtained (23.1%) and
+then 8(33.3%). Compound 8:mp96°C; [a]1 252$+71.8° (c
+1.0,chloroform; >HNMR (250 MHz)  2.04 and 2.10 (2s,
+12H,OAc), 3.42 (s,OCH3), 3.59 and 3.71 (2d,H-l,H-l'),
+3.89 (ddd,1 ,H-6), 4.18 (dd,1 ,H-7), 4.29 (dd,1H,
+H-7'), 5.17-5.27 (m, 2 ,H-3, H-4), 5.32-5.39 (dd,1H,
+H-5), JUy=10.5 Hz, J3 4=9Hz, /4|5=9Hz,=9Hz,
+J61=2.5Hz,J6T=4.5Hz,Jir=12Hz. Anal. Caled for
+CÍ6H23O10Br (455.3): C,42.21;  ,5.09. Found: C,42.19;
+ ,5.13. Compound 9:mp 103°C; [a]378 +54° (c1.0,
+chloroform);  NMR (250MHz)  2.00, 2.05, and 2.11 (3
+s,12H,OAc), 3.39 (s,3H,OCH3), 3.41 and 3.56 (dd, 2H,
+
+6608 BIOCHEMISTRY SCHLESSELM ANN ET AL.
+H-l, H-V), 3.89 (ddd, H-6), 4.18-4.21 (m, 2 ,H-7, H-7'),
+5.11 (dd,H-4), 5.36 (d,H-3), 5.45 (dd,H-5), JIX=10.5Hz;
+/34=10Hz,/45=9Hz, J56=10Hz, J61=3Hz,J6r=
+4Hz. Anal. Caled forC16H23O10Br (455.3): C,42.21; H,
+5.09. Found: C,42.33; H,5.26.
+Methyl 3,4,5,7-Tetra-O-acetyl-l-deoxy-l-iodo-a-D-gluco-
+heptulopyranoside (10). 5,110mg, wasdeacetylated with
+0.01Mmethanolic sodium methoxide solution (5mL). The
+reaction mixture wasfiltered through asilica gelcolumn (5
+X0.5cm) andsilver acetate (58mg) added tothesolution.
+Subsequently, iodine inmethanol (85mgin4mL) was added
+dropwiseover aperiod of15min. After 1htheinsoluble
+residue wasfiltered offandwashed with methanol (5mL) and
+thefiltrate evaporated todryness under diminished pressure.
+Theproductwaspurified byflash chromatographyonasilica
+gelcolumn (7X1.5cm) andwith ethyl acetate-methanol
+(10:1 v/v)assolvent, yield 100mg. Foridentification, the
+product wasacetylated inpyridine (5mL) with acetic anhy-
+dride (5mL). After 15hthereaction solution wasstirred onto
+ice(10mL), extracted with chloroform (10mL), washed with
+asodium bicarbonate solution (10mL) andthen with water
+(10mL), dried over magnesium sulfate, and evaporated to
+dryness invacuo toyield crystalline 10,110mg(69%): mp
+91°C;[a]$8 +59.8° (c1.0,chloroform);  NMR (250
+MHz)  1.99, 2.04, and2.09 (3s,12H,OAc), 3.19 (d,1H,
+H-l), 3.35 (s, 3H,OCH3), 3.45 (d,1H,H-V), 3.82 (ddd,
+H-6), 4.11-4.26 (m,H-7, H-7'), 5.12 (dd,1 ,H-4), 5.35 (d,
+1 ,H-3), 5.43 (dd,1H,H-5), J1X=11.5Hz, /3>4=10Hz,
+/4 5=8.5Hz, J56=10Hz, J6 7=4Hz, J67,=3Hz. Anal.
+Caled forC,6H23O,0I (502.3): C,38.26;  ,4.61. Found: C,
+38.51; H,4.47.
+Dehalogenation of8,9,and 10.The bromide oriodide (1
+mmol) was dissolved inethanol (10mL) andboiled under
+reflux with triethylamine (250 /uL) andRaney nickel (2.5mL)
+for 1h.Inorganic material wasfiltered offandthefiltrate
+evaporated todryness under diminished pressure. Thesyrupy
+residue was dissolved inchloroform (20mL), washed with
+water (10mL), anddried over magnesium sulfate. After
+evaporation todryness invacuo, theresidue wastaken upin
+ether, andpetroleum ether (bp60-70 °C) was added cau-
+tiously. At-20°Ccolorless crystals were obtained inthe case
+of6(73%) andinthe case of7(71%).
+3.4.5.6.7- Penta-0-acetyl-l-deoxy-2-keto-O-gluco-heptulose
+(B). 1-Deoxy-D-g/Mco-heptulose (200 mg) was dissolved in
+pyridine-acetic anhydride (1:1) (10mL) andtreated with
+4-(dimethylamino)pyridine (20mg). After 18hthereaction
+mixture wasworked upasusual. Theresulting light brown
+syrupwastaken upinalittle ethyl acetate andsubmitted to
+column chromatography (10X1.5cm) inethyl acetate-pe-
+troleum ether (bp60-70 °C)(1:2). Crystallization from ethyl
+acetate-petroleum ether (bp60-70 °C) yielded colorless
+crystals, 279mg(69%): mp92°C[lit.(Wolfram etal.,1957)
+mp91-92 °C]; [a]$8 +6.1° (c1.0,CHC13) [lit.(Wolfram
+etal.,1957) [a]^9 +7.0° (c1.0,CHC13)].
+3.4.5.7- Tetra-0-acetyl-2,6-anhydro-l-deoxy-D-gluco-[l-
+3H]heptenitol. 3,4,5,7-Tetra-0-acetyl-2,6-anhydro-D-
+glycero-D-gulo-heptose (100 mg) wasdissolved inacetic acid
+(2mL) andhydrogenated with Adams catalyst andtritium
+gas (1Ci)(Amersham-Buchler). After 15hthereaction was
+completed with hydrogen gas. The product tetra-O-acetyl-
+2,6-anhydro-D-glycero-D-gulo-hepütolwasconverted to[1-
+3H]heptenitol tetra-O-acetate (5) asfortheunlabeled com-
+pound (Hehre etal.,1980). [1-3H]Heptenitol acetate was
+purified bycocrystallization with 3,4,5,7-tetra-0-acetyl-2,6-
+anhydro-l-deoxy-D-g/um-heptenitol, unlabeled material (50mg), togive aspecimen of58^Ci/mmol (76mg).
+l-Deoxy-O-gluco-ll^H^heptulose. 1-3H-Labeled heptenitol
+tetra-O-acetate (80µ     , 0.058µ  /µ    )wasdeacetylated
+in1.6mLof0.015 Msodium methoxide indrymethanol (3
+h,25°C). The[1-3H]heptenitol, recovered bysolvent evap-
+oration under diminished pressure, washydrated in1.2mL
+of0.025 Nsulfuric acid (pH 1.5, 100°C, 10min) andthen
+neutralized toprovidea48mM solution ofl-deoxy-D-g/uco-
+[1-3H]heptulose. For use,0.25-mL aliquots (12µ    ) were
+dried under vacuum at30°C.
+Enzymic Digests ofHeptenitol inthe Presence of1-
+Deoxy-O-gluco-[l-lH\heptulose. Paired reaction mixtures (0.4
+mL) contained 120µ     ofheptenitol (4), 12µ     of1-
+dcoxy-D-gluco- [1-3H] heptulose, andeither enzymeorboiled
+enzyme. Mixtures with Candida  -glucosidase (0.3mg/mL)
+were incubated atpH5.2, 30°C, 5h;those with ricea-glu-
+cosidase (1.8mg/mL) atpH5.5, 30°C, 2.25 h;those with
+glucodextranase (1.0mg/mL) atpH5.7, 30°C, 5h.Fol-
+lowing incubation, each digest was chromatographedasa
+19-cm band onWhatman No. 3MM paper (65h,descending)
+in1-butanol-ethanol-water (13:8:4 v/v/v). End guide strips
+were stained with silver nitrate tolocate thepositions ofthe
+D-g/wco-heptulose andofindividual saccharide products, which
+were then eluted with methanol. Control chromatograms were
+sectioned andeluted atthe same levels asthose ofthetest
+digests. Eluates ofsaccharides C,,GD,, C3,R3,GD3, and R2
+were treated asfollows. Known portions were dried under
+reduced pressure, hydrolyzed in0.025 Nsulfuric acid (100
+°C, 10min), neutralized, andanalyzed forreducing power
+byacuprimetric method (Hehre etal.,1980) standardized
+with l-deoxy-D-g/uco-heptulose. Allvalues were adjusted to
+theoriginal digest volume. Inaddition, known portions ofthe
+eluates were subjected toscintillation counting, onaBeckmann
+LS-230 counter. Allcounts were corrected forbackground
+andadjusted totheoriginal digest volume.
+Results
+Theformation ofsaccharide products aswell as1-deoxy-
+D-g/wco-heptulose indigests ofheptenitol with C.tropicalis
+and rice  -glucosidases, andwith A.globiformis gluco-
+dextranase, wasfirst recognized when stained chromatograms
+ineach case showed thepresence ofproducts that migrated
+more slowly than theheptulose (7?glc V47). Upon elution
+allofthese products were found tobecompletely converted
+totheheptulose bymild acid treatment (0.025 Nsulfuric acid,
+100°C, 10min). Measurement ofthequantity ofreducing
+sugar thus derived from theeluted saccharides was then used
+tofind, foreach enzyme, thebest reaction conditions for
+recovering these lesser components fordetailed analysis. The
+digest conditions andisolation proceduresaregiven under
+Experimental Procedures.
+Digests ofheptenitol with C.tropicalis  -glucosidase yielded
+products C,(71mg) and C3(100 mg), with ricea-glucosidase
+R2(98mg) and R3(40mg), andwith glucodextranase GD,
+(116 mg) and GD3 (59mg). Preliminary investigations in-
+dicated C,andGD, tobeheptulosylheptenitols indistin-
+guishable from each other inchromatographic mobility (7?Glc
+1.26) and inshowing <5% ofthereducing power of1-
+deoxy-D-g/uco-heptulose (Hehre etal.,1980) andinfrared
+absorption (>C=CH2 band at1660 cm™1), indicative ofan
+intact heptenitol moiety.2 Ontheother hand, R2, C3,R3,and
+2The presence ofaheptenitol terminal was also indicated bythe
+observation that C,andGD, were converted bygentle acid treatment
+(0.01 Nsulfuric acid, 40°C, 7min) toasaccharide product with the
+same reducing power andchromatographic mobility ( 0   0.61) asthose
+ofC3and GD3.
+
+STERIC COURSE OF ENZYMIC GLYCOSYLATION REACTIONS VOL. 21, NO. 25, 1982 6609
+Table I:Properties ofCrystalline Acetylated Derivatives ofTransfer Products 1-3andofAuthentic Methyl
+l-Deoxy-D-g/tvco-heptulosides 6and 7
+transfer product orglycosideacetylated mp
+derivative (°C) (deg)  18
+(deg) formula (mol wt) caled found
+C,=GD,1 146 +99.4 644 C28H40O„ (648.6) C,51.85;  ,6.21 C,51.34;  ,6.21
+C3=R3=GD3 2 119 +62.4 441C30H42O19 (706.67) C,50.99; H,5.99 C,50.91; H,5.93
+r2 3 113 +45.1 319 C30H4A9 (706.67) C,50.99; H,5.99 C,51.18;  ,6.21
+methyl 1-deoxy-»-D-g/ivco-heptuloside 6 156 +99.8 375C16H24O10 (376.4) C,51.06; H,6.43 C,51.00; H,6.52
+methy11-deoxy-d-D g/wco-heptuloside 7 83 +28.4 106C16H24O10 (376.4) C,51.06; H,6.43 C,51.16; H,6.44
+01,6, and 7(c1.0,chloroform); 2and 3(c0.75, chloroform).
+Chart I
+GD3 were found tohave areducing endgroup andappeared
+tobeheptulosylheptuloses. C3,R3,andGD3 showed 47-56%
+ofthereducing power of 1-deoxy-D-g/wcoheptulose and were
+further indistinguishable from each other chromatographically
+(Rqi_c 0.61). R2differed from them inmigrating more rapidly
+(Rqlc 0.86) andinshowing lessreducing power (31% relative
+tothatoftheheptulose).
+Onacetylation with acetic anhydride andpyridine, and
+GD[ gave identical crystalline hepta-O-acetates (1): mp 146
+°C;[ ]378 +99.4° (Table I).Complete acetylation ofC3,R3,
+GD3, and R2could only beachieved under more drastic con-
+ditions [inthepresence of4-(dimethylamino)pyridine]. Inall
+ofthese compounds, thereducing endmoiety wasacetylated
+intheopen-chain, freeketo form. Thecrystalline octa-O-acetyl
+derivatives ofC3,R3,andGD3 (2),with mp119°Cand [a]378
++62.4°, were identical; they differed from the oneobtained
+from R2and designated (3): mp 113°C;[ ]^ +45.1°.
+Further results, providing detailed evidence fortheassigned
+structures of1,2,and 3,arediscussed below (Chart I).
+Theanomeric configuration ofthenonreducing (glyconic)
+heptulosyl residue oftheproducts synthesized from heptenitol
+bythethree enzymes wasinitially examined bytesting each
+product (ClGDh R2,C3,R3,andGD3) forsusceptibility to
+hydrolysis byenzymes known toattack D-glucosidic substrates
+ofonlya(oronly ß)configuration. Test mixtures contained
+0.4mg/mL saccharide andeither Candida  -glucosidase, rice
+ -glucosidase, glucodextranase, sweet almond /3-glucosidase,
+orbuffer without enzyme. Chromatograms (80-µ  samples)
+made after 5-hincubation at30°Cshowed allproductsChart II
+RO
+RO---^bR^CHzR=H(4)
+R=Ac(5)
+completely converted to 1-deoxy-D-g/«co-heptulose (RoLC 1.47)
+bytheglucodextranase, partly converted totheheptulose by
+theCandida andrice -glucosidases, andunaffected bythe
+0-glucosidase. By48h,alloftheproducts were completely
+hydrolyzed bythe -glucosidases aswell asbyglucodextranase;
+allremained unaffected bythe0-glucosidase. These results
+suggest thatallofthesaccharides recovered from thedigests
+ofheptenitol with  -glucosidases andglucodextrase are 1-
+deoxy-a-D-g/uco-heptulosyl compounds.
+The second method used todetermine theconfiguration of
+theglycosidically linked residue oftheenzymically formed
+products wascomparison ofthe and 13CNMR spectra of
+their acetylated derivatives 1,2,and 3with thespectra of
+authentic reference compounds ofknown anomeric configu-
+ration. Thefollowing reactions were used tosynthesize the
+reference compounds, starting with heptenitol (4)oritsper-
+O-acetate (5).
+Synthesis ofaand ßMethyl 1-Deoxy-O-gluco-heptulosides
+(6and7).Theacid-catalyzed addition ofmethanol tohep-
+tenitol per-O-acetate (5) was found togive ananomeric
+mixture (detected byGLC) ofthemethyl glycosides, 95% a
+(6)and 5%ß(7)(Chart II). Methoxy mercuriation of5and
+methoxy iodination of4with subsequent acetylation, yielded
+acetylated intermediates that, onreduction, gave the aanomer
+(6)exclusively. Incontrast, methoxy bromination of4yielded
+after per-O-acetylation themethyl1-deoxy-1 -bromo-D-
+g/uco-heptuloside derivatives 8and 9,which could beseparated
+bycolumn chromatography onsilica gelandcrystallized; 8
+and 9were obtained inaratio of1:1.25. The pure 1-bromo
+derivatives were idividually subjected toreductive dehalo-
+genation andyielded 6and 7,respectively.
+Assignments ofthe a-and0-anomeric configuration to6
+and 7,respectively, were carried outbycomparing their 13C-
+*Hcoupling constants (Wehrli &Wirthlin, 1976; H.Fritz et
+al.,unpublished results). The 37i3C.1_H.3 of6is1.6Hz,in-
+dicating asynclinal arrangement, whereas 7shows a37of2.5
+Hz,which isrepresentative ofanantiperiplanar arrangement
+
+6610 BIOCHEMISTRY SCHLESSELMANN ET AL.
+Table II:‘HNMR Spectra (360 MHz) Recorded for1,A,0 2,B,b3,6,and 7inCDC13
+(A) Chemical Shifts (ppm) Relative toTetramethylsilane Internal Standard
+1 Aa 2 Bb 3 6 7
+H'-l 1.34 (s) 1.39 (s) 1.53 (s) H-l 1.35 is) 1.47 is)
+H'-3 5.00 (d) 5.02 (d) 5.01 (d) H-3 5.01 (d) 5.14 (d)
+H'-4 5.49 (dd) 5.38 (dd) 5.38 (dd) H-4 5.46 (dd) 5.23 (dd)
+H'-5 5.09 (dd) 5.08 (dd) 5.10 (dd) H-5 5.08 (dd) 5.11 (dd)
+H'-6 4.27 (ddd) 3.89 (ddd) 4.15 (ddd) H-6 3.82 (ddd) 3.82 (ddd)
+H'-7 4.10 (dd) 4.09 (dd) 4.07 (dd) H-7 4.10 (dd) 4.15 (dd)
+H'-7' 4.17 (dd) 4.23 (dd) 4.24 (dd) H-7' 4.23 (dd) 4.22 (dd)
+H-l 4.56 (dd) 4.57 (dd) c c c och3 3.28 (s) 3.35 (s)
+H-l' 4.89 (dd) 4.85 (dd) c c c
+H-3 5.42 (ddd) 5.47 (ddd) 5.41 (d) 5.26 (d) 5.46 (d)
+H-4 5.18 (dd) 5.16 (dd) 5.76 (dd) 5.62 (dd) 5.47 (dd)
+H-5 5.08 (dd) 5.24 (dd) 5.46 (dd) 5.47 (dd) 4.33 (dd)
+H-6 3.92 (ddd) 3.84 (dd) 5.06 (ddd) 5.07 (ddd) 5.31 (ddd)
+H-7 3.48 (dd) 4.20 (dd) 3.49 (dd) 4.13 (dd) 4.28 (dd)
+H-7' 3.62 (dd) 4.30 (dd) 3.73 (dd) 4.34 (dd) 4.49 (dd)
+OAc 1.99-2.16 (5s)2.04-2.13 (4s) 1.96-2.27 (8s)2.05-2.20 (4s) 1.47-2.22 (9s) OAc 1.98-2.095 (4s)2.01-2.09 (4s)
+(B) Coupling Constants VH_H (Hz)
+J 1 A 2 B 3 J 8 7
+H'-3-H'-4 10 10 10 H-3-H-4 10 ~9
+H'-4-H'-5 9 9.5 9.5 H-4-H-5 9.5 ~9
+H'-5-H'-6 10 10 10 H-5-H-6 10 -9
+H'-6-H'-7 2 2 2 H-6-H-7 2.5 2.5
+H'-6-H'-7' 5 4 4 H-6-H-7' 5 4
+H'-7-H'-7' 12 12 12 H-7-H-7' 12.5 12
+H-l-H-V 1.5 1.5
+H-l-H-3 1.5 1.5
+H-T-H-3 1.5 1.5
+H-3-H-4 9 8.5 4 3.8 4
+H-4-H-5 8 9 4 6 ~4
+H-5-H-6 10 9.8 4 5 ~4
+H-6-H-7 3 2.5 4 3.5 4
+H-6-H-7' 8 4 7 5 7
+H-7-H-7' 10 12.5 12 12 12
+a3,4,5,7-Tetra-Oacetylheptenitol (5).b3,4,5,6,7-Penta-0-acetyI-l-deoxy-2-keto-D-g/uco-heptulose.cInthe areaoftheacetyl proton
+resonances H-l isrepresented byasinglet. Itsposition cannot clearly bedetermined.
+Table III: 13CNMR Spectra (90.58 MHz) Recorded for 1,2,6,and 7inCDC13“
+-
+2 6 7
+C’-l 20.34 20.35 C-l 19.49 17.98
+C-2 99.47 99.89 C-2 99.53 100.28
+C-3 73.75 73.34 C-3 73.86 70.30
+C-4 71.17 70.83 C-4 71.24 72.63
+C-5 68.93 69.21 C-5 69.03 68.93
+C-6 68.48 68.78 C-6 68.54 70.43
+C-7 62.19 62.08 C-7 62.28 62.48
+C-l 96.49 27.05 och3 48.24 48.99
+C-2 152.84 201.30
+C-3 69.18 75.66
+C-4 73.16 68.86
+C-5 69.71 70.62
+C-6 77.22 68.78
+C-7 61.49 58.97
+c=o 169.25-170.64 169.44-170.60 oIIo 169.51-170.57 169.22-
+ch3-c=o 20.63-20.71 20.58-20.71 ch3-c=o
+aChemical shifts (ppm) relative totetramethylsilane internal standard. Insufficient amount ofcompound 3wasavailable foraproper 13C
+NMR investigation.
+(Chart III). The same assignments were provided bythe 13C
+chemical shifts ofC-6(68.54 ppm for6;70.43 ppm for7)since
+the 13C resonance ofthisparticular ring carbon atom ina
+glycoside isatlower field when theaglycon isaxial than when
+itisequatorial; e.g., the 13Cchemical shiftofC-5 is67.41 ppm
+formethyl 2,3,4,6-tetra-O-acetyl-a-D-glucopyranoside and
+71.71 ppm fortheßanomer (Gagnaire etal.,1976; H.Fritz
+etal.,unpublished results). Polarimetric measurements,
+likewise, indicated 6([ ]3^ +99.8°) tobethe aanomer and
+7([a]578 +28.4°) theßanomer (Table I).Anomeric Configuration ofGlyconic Moiety ofl,2,and
+3ontheBasis ofNMR Spectra. Tables IIandIIIpresent,
+respectively, the and 13CNMR data obtained forthe
+acetylated derivatives 1,2,and 3oftheenzymically produced
+transfer products andforthemethyla-andß-heptuloside
+tetraacetate standards 6and 7.Asevident from the NMR
+chemical shifts (italic inTable IIA), theH'-l resonance of
+1,at1.34 ppm, corresponds tothatoftheH-lofthemethyl
+a-glycoside, 6.In2and 3theH'-l signal isatlower field.
+Obviously, theacetyl groups close totheC-lmethyl group
+
+STERIC COURSE OF ENZYMIC GLYCOSYLATION REACTIONS VOL. 21, NO. 25 ,1982 661 1
+Table IV: Specific Radioactivity ofSaccharides Recovered from Enzymic Digests ofHeptenitol inthePresence of
+l-Deoxy-D-gZuco-[l-3H]heptulose
+caled, saccharide with
+foundoneresidue two residues
+labeled labeled
+saccharide cpm° µ$  cpm/Mg (cpm^g)b (cpm/Mg)c
+heptulosylheptenitol c, 250 198 1 32-85
+GD, 2750 335 8 23-89
+heptulosylheptuloses c3 25600 554 46 32-85 64-170
+r3 1800 55 33 31-90 62-180
+gd3 23800 816 29 23-89 46-178
+r2 14200 274 52 31-90 62-180
+°Corrected forsmall values found with eluates from corresponding sections ofchromatograms ofincubated control mixtures with boiled
+enzyme.bRange between 0.5ofthespecific radioactivity oftheheptulose separated from incubated testdigests and 0.5ofthatof
+heptulose recovered from incubated controls with boiled enzyme.cRange between thespecific activity ofheptulose recovered from incu-
+bated testdigests andthatofheptulose from incubated controls.
+inthese partly open-chain derivatives cause asignificant
+downfield shift intheH'-l resonance compared with thesignals
+inthemethyl glycosides orin1.TheH'-l resonance of2is
+downfield oftheH-l resonance ofthemethyl a-glycoside 6
+only can becorrelated with it.TheH'-l resonance of3is
+downfield ofthe -1 resonances ofboth 6and 7and, thus,
+isnotable tobespecifically correlated with one vs.theother.
+However, theH'-3, H'-4, andH'-7 signals of3correspond to
+theH-3, H-4, andH-7 resonances ofthemethyl a-glycoside,
+6,rather than tothose ofthe/3-glycoside, 7.
+Further information onconfiguration isprovided bythe 13C
+NMR spectra (Table III,italic figures). The 13Cchemical
+shifts ofC-3andC-6intheanomeric heptulosides show sig-
+nificant dependenceontheanomeric configuration (H.Fritz
+etal.,unpublished results) and can, bythemselves, beused
+forstructural assignment in1and 2.Inboth compounds the
+C'-3 andC'-6 chemical shifts correspond tothose ofthemethyl
+a-glycoside 6and nottothe/3-glycoside 7.Onthebasis of
+theabove specific findings andthestrong overall agreement
+between thecorresponding *Hand 13CNMR signals inthe
+acetylated transfer products 1,2,and 3,andinthemethyl
+tetra-0-acetyl-l-deoxy-a-D-g/uco-heptuloside 6,weregard 1,
+2,and 3asallbeing aanomers.
+Position ofAttachment ofthe 1-Deoxy-a-D-gluco-heptu-
+losyl Moiety. Significant differences in*Hchemical shifts
+intheaglyconic partoftheperacetylated saccharide products
+1,2,and 3indicate thepoints ofattachment. Asshown by
+theunderlined figures inTable II,theH-7 andH-7' resonances
+ofcompound1appear atappreciably higher field than those
+oftetra- 0-acetylheptenitol (A). Likewise, theH-7 andH-7'
+resonances of2show thisrelationship incomparison tothose
+ofpenta-O-acetyl-l-deoxy-2-keto-D-g/uco-heptulose (B).
+Similarly, theH-5 resonance ofcompound 3appears atap-
+preciably higher field than H-5ofpenta-O-acetyl-1 -deoxy-2-
+keto-D-g/ucoheptulose. These results show 1and 2tobe2—7
+linked and 3tobe2—5 linked.
+Mode ofFormation ofSaccharides. Experimentswere
+carried outtolearn whether thesaccharides produced inen-
+zymic digests ofheptenitol arise directly from thelatter as
+glycosyl donor orareformed indirectly from itshydration
+product (heptulose) byreactions representing reversals of
+hydrolysis. Mixtures ofCandida  -glucosidase, ricea-glu-
+cosidase, orglucodextranase, corresponding tothose yielding
+saccharide products from heptenitol, gave nosignofsuch
+products when examined chromatographically. Further ex-
+periments were made with paired mixtures containing hep-
+tenitol andenzyme (orboiled enzyme) intheconcentrations
+used inisolating thesaccharides, plus1-deoxy-D-g/wco- [1-
+3H]heptulose atone-tenth theconcentration oftheheptenitol.After incubation, themixtures were chromatographed, and
+identical sections ofthetest andcontrol chromatograms,
+corresponding toheptulose andtoeach saccharide evident in
+stained guide strips oftheformer, were eluted. The heptulose
+content (following mild acid hydrolysis inthe case ofthe
+saccharides) andradioactivity ofeach product were measured.
+Asshown inTable IV,theheptulose recovered from the
+mixtures with boiled enzyme showed aspecific activity of
+170-180 cpm/Vg; heptulose from thetestmixtures hadlower
+activity (46-64 cpm/#tg) duetodilution with thesugar formed
+bytheenzymic hydration oftheunlabeled heptenitol. The
+very lowspecific activities ofCjandGD, indicate that these
+products arise primarily bythetransfer oftheheptulosyl
+moiety from oneheptenitol molecule toanother. Similarly,
+theradioactivities found forC3,R3,GD3, and R2allfallwithin
+therange expected ifthese heptulosylheptuloseswere produced
+byheptulosyl transfer from theunlabeled heptenitol toa
+molecule of[1-3H] heptulose. Although thefindings donot
+exclude thepresence ofsome proportion ofheptulosylheptulose
+labeled inboth moieties asexpected forcondensation products,
+they doindicate that theobserved saccharides areprimarily
+glycosyl transfer products with heptenitol asthedonor.3
+Discussion
+l-Deoxy-a-D-g/wco-heptulosyl transfer productswere shown
+tobeformed from 2,6-anhydro-1 -deoxy-D-g/uco-hept-1 -enitol
+(heptenitol) bypurified  -glucosidases ofC.tropicalis andrice
+andbyaninverting exo-a-glucanase (glucodextranase) from
+Arthrobacter globiformis. These results, coupled with our
+previous findings ofstereospecific hydration ofheptenitol by
+the same enzymes (Hehre etal.,1980) provide new insight
+into thecatalytic capabilities ofeach andinto thefactors
+involved indetermining thesteric course ofthereactions they
+catalyze. The occurrence ofproductive glycosylation reactions
+with heptenitol is,byitself, highly significant inthatitcon-
+tradicts thetraditional assumption that carbohydrases have
+anabsolute requirement forsubstrates ofonlya-(oronly ß-)
+anomeric configuration. The reactions with heptenitol,aswith
+theenzymic utilization ofother prochiral glycosyl donors
+(Lehmann &Schroter, 1972; Brockhaus &Lehmann, 1977;
+Hehre etal.,1977, 1981; Kanda etal.,1981), show thegreater
+generality ofadifferent concept ofcarbohydrase action that
+3With glucodextranase, itisdifficult toenvision a-saccharide for-
+mation occuring from theheptenitol hydration product (1-deoxy-^-D-
+g/uco-heptulose) asaglycosyl donor. The position oftheaxial 1-methyl
+group ofthiscompound inthedonor sitewould beexpected topreclude
+proximate binding oftheacceptor’s hydroxyl group inanorientation
+leading toformation ofan -linked transfer product.
+
+6612 BIOCHEMISTRY SCHLESSELMANN ET AL.
+Scheme I
+redefines glycoside hydrolases andglycosyltransferasesasin-
+terrelated glycosylases, i.e.,catalysts oftheinterchange ofa
+glycosyl residue and aproton (Hehre etal.,1971, 1973). In
+order toundergo sosimple achemical change, adonor sub-
+strate would need nomore than theability tobind appro-
+priately atanactive siteand toyield aglycosyl residue on
+protonation.
+Onthebasis ofthestereochemical nature oftheproducts
+formed from heptenitol bytheactions ofCandida andrice
+ -glucosidases, andofglucodextranase, possible mechanisms
+forthehydration andglycosyl transfer reactions catalyzed by
+theenzymes areshown inScheme I.We assume thecatalytic
+functions ofeach enzyme tobeserved bytwosuitably disposed
+functional groups, possibly carboxyl groups, attheactive
+center. One group would serve asaspecificorgeneral acid
+while theother, asacarboxylate anion, could act asa
+charge-stabilizing group ornucleophilic-specific base. Hep-
+tenitol (as aglycosyl donor) isenvisioned asbinding atthe
+active sitewith itsexocyclic enolic bond positioned between
+these groups. Thefirst stepineither hydrationorglycosyl
+transfer byeach enzyme (Scheme I)would involve protonation
+ofthevinylic double bond andformation ofatransient glycosyl
+carbonium ion-enzyme complex. Protonation byeach enzyme
+could arise, asillustrated, from the same carboxyl group that
+protonates theglycosidic oxygen atom of -D-glucosidic sub-
+strates. Thepossibility cannot beexcluded that theopposite
+catalytic group may betheprotonating source, asfound inthe
+Candida  -glucosidase-catalyzed hydration ofD-glucal (Hehre
+etal.,1977) andintheglucodextranase-catalyzed utilization
+of/3-D-glucosyl fluoride (Kitahata etal.,1981). However, H.
+Fritz etal.(unpublished results) have recently found that in
+thed-galactosidase-catalyzed utilization ofaCgD-gaiacto-enitol, which resembles heptenitol inpossessing anexocyclic
+double bond [butwith aprochiral =C(CH3)D group inplace
+ofthesymmetric =CH2 ofheptenitol], thedirection ofpro-
+tonation isopposite that found with D-galactal (Lehmann &
+Zieger, 1977) andthus isthe same asthedirection ofpro-
+tonation for0-D-galactosides.
+Scheme IAshows theproposed second glycosyl-proton in-
+terchange stepinthereactions catalyzed bythea-glucosidases.
+Breakdown oftheheptulose-enzyme complex inboth hydra-
+tion andglycosyl transfer reactions would beeffected bya
+similarly directed attack ofwater orbound carbohydrate, at
+C-2, possibly with assistance (general base catalysis) from one
+ofthecarboxyl groups, tocreate aproduct ofaconfiguration
+ineach case. This mechanism isconsistent with theobserved
+formation ofl-deoxy-a-D-g/wco-heptulose byboth Candida
+andrice -glucosidases (Hehre etal.,1980), ofa-O-gluco-
+heptulosyl-(2—*-7)-heptenitol (C,) anda-D-g/uco-heptulosyl-
+(2—*-7)-D-g7«co-heptulose (C3) byCandida  -glucosidase, and
+ofa-D-g/uco-heptulosyl-(2—*-5)- and a-D-g/uco-heptulosyl-
+(2—*-7)-D-gluco-heptuloses (R2and R3)byricea-glucosidase.
+Parts BandCofScheme Ishow, respectively, theproposed
+mechanism ofbreakdown ofthecomplex inthereactions of
+hydration andglycosyl transfer catalyzed byglucodextranase.
+Inhydration (Scheme IB)theintermediate would besubjected
+tostereospecific attack atC-2bysolvent togive theobserved
+product, l-deoxy-/3-D-g/«co-heptulose (Hehre etal.,1980). In
+theglycosyl transfer reactions (Scheme IC), C-2would be
+subjected toanoppositely directed attack bythe7-hydroxyl
+group ofamolecule ofheptenitol (orofD-g/uco-heptulose)
+bound attheenzyme’s acceptor siteinproximity tothecat-
+alytic groups, providing theobserved a-D-g/«co-heptulosyl-
+(2—>-7)-heptenitol (GDt) anda-D-g/uco-heptulosyl-(2—*-7)-d-
+
+STERIC COURSE OF ENZYMIC GLYCOSYLATION REACTIONS VOL. 21, NO. 25,1982 6613
+gluco-heptulose (GD3) transfer products. The occurrence of
+these stereocomplementary andessentially irreversible reactions
+isstrong evidence that thecatalytic groups ofglucodextranase
+arefunctionally flexible beyond therequirements ofthe
+principle ofmicroscopic reversibility. Such functional flexi-
+bility, envisioned byHehre etal.(1979) asanattribute ofthe
+catalytic groups ofglycosylases ingeneral, has, bynow, been
+shown with avariety ofglycosidases andglycanases (Rupley
+etal.,1969; Lehmann &Zieger, 1977; Hehre etal.,1977,
+1979, 1980, 1981; Kitahata etal.,1981; Kanda etal.,1981).
+Theability ofglucodextranase tocatalyze theformation of
+both 1-deoxy-|S-D-g/Mco-heptulosyl and 1-deoxy-a-D-gluco-
+heptulosyl transfer products with heptenitol shows anunder-
+lying similarity with therecently discovered ability ofthis
+enzyme toproduce /3-o-glucose from  -o-glucosyl fluoride and
+ -D-glucosyl transfer products from /3-o-glucosyl fluoride
+(Kitahata etal.,1981). Ineach case aproduct ofßconfig-
+uration isformed when theacceptor iswater; oneofacon-
+figuration when itisbound carbohydrate. This similarity in
+endresult, obtained with both chiral andprochiral glycosyl
+donors, would indicate that glucodextranase issostructured
+astolimit theapproach ofwater andcarbohydrate acceptors
+tothecatalytic center from opposing directions, possibly by
+means ofaspecific binding siteforwater oriented oppositely
+tothatforcarbohydrate acceptors.
+With heptenitol asdonor substrate, itisevident that the
+presence ofeither typeofacceptor suffices byitself toselect
+which oftwosterically different reaction paths will becata-
+lyzed bytheenzyme. This result, thedemonstration that
+acceptor molecules canfunction assoleexternal determinants
+oftheanomeric configuration ofproducts, contradicts the
+long-accepted notion that enzymic reaction products always
+have the same (oralways have theopposite) configuration as
+thedonor substrate. Since thedonor inthis instance isa
+prochiral compound, thequestions that arise arewhether it
+ispossible foracceptors tohave a“steering role” inreactions
+with chiral donor substrates or,more broadly, todefine the
+circumstances under which acceptors may have astereose-
+lective function. With respect tothefirst question, Pazur et
+al.(1977,1978) have shown theability ofanAspergillus niger
+glucosyltransferase toconvert maltose (with D-glucose asac-
+ceptor) to -D-glucobiosyl transfer products, aswell asto
+produce 1,6-anhydro-/3-D-glucose (levoglucosan) from maltose
+inareaction inwhich theglyconic D-glucosyl residue ofthe
+donor becomes a“self-acceptor”, inabinding siteoriented to
+thecatalytic center differently from theusual acceptor sites.
+Ontheother hand, itisevident that, under certain circum-
+stances, thedonor rather than theacceptor substrate represents
+theexternal factor thatlimits thecatalyzed reaction(s) toa
+particular steric course. Glucodextranase, forexample, directly
+hydrolyzes  -D-glucosyl fluoride toform /3-o-glucose buteffects
+reactions leading to -o-glucosyl transfer products when ß-
+o-glucosyl fluoride isthedonor substrate (Kitahata etal.,
+1981); however, though theappropriate acceptors arepresent,
+theenzyme appears unable tocatalyze thedirect hydrolysis
+of/3-o-glucosyl fluoride (Kitahata etal.,1981) ortoeffect
+glucosyl transfer reactions from  -o-glucosyl fluoride orfrom
+dextran (Ohya etal.,1978). Apparently, theconditions re-
+quired before acceptors ofdifferent types canlead tosterically
+different reactions from agiven donor include notonly some
+provision foropposing binding orientations fordifferent ac-
+ceptors butalso areaction mechanism allowing product con-
+figuration tobedetermined atalast step. The reactions
+catalyzed byglucodextranase with heptenitol areeffected by
+such amechanism (Scheme IB,C), andlikewise, carboniumionmediation hasbeen proposed forthereactions catalyzed
+byA.niger glucosyltransferase with maltose (Pazur etal.,
+1978). Incontrast, theglucodextranase-catalyzed reactions
+with a-and/3-o-glucosyl fluoride areenvisioned asproceeding
+byaconcerted displacement mechanism (Kitahata etal.,
+1981). Here, theconfiguration oftheglycosyl donor deter-
+mines thesteric course ofanyreaction thatmight becatalyzed
+with that donor.
+Itistobenoted that, byvirtue ofitscatalytic group flex-
+ibility, glucodextranase hastheability topromote reactions
+with different substrates bydifferent mechanisms. Aclose
+parallel isfound inthe caseofsweet potato /3-amylase, which
+catalyzes reactions with a-and/3-maltosyl fluoride that appear
+toproceed byaconcerted displacement mechanism (Hehre
+etal.,1979); butalso reactions with maltal (Hehre etal.,1981)
+andmaltenitol (M.Gábelein etal.,unpublished results) that
+appear tobecarbonium ionmediated. Theutilization of
+different glycosidic substrates bydifferent mechanisms also
+hasbeen reported forhen’s egglysozyme acting onvarious
+para-substituted di-iV-acetyl-/3-chitobiosides (Tsai etal.,1969)
+andforBacillus subtilis  -amylase acting onvarious para-
+substituted phenyl  -maltosides (Shibaoka etal.,1971; Sue-
+tsugu etal.,1971). The present findings thus provide further
+support fortheview (Kitahata etal.,1981) emphasizing that
+aglycosylase may actbymore than onemechanism andthat,
+although ithasbeen customary tospeak of“the mechanism”
+ofaglycosylase, thelatter appears tobeatoo narrow sim-
+plification.
+Acknowledgments
+We aregrateful toProfessor Teruo Sawai, Department of
+Biology, Aichi Kyoiku University, Kariya, Aichi Prefecture,
+Japan, forthegenerous gifts ofpurified C.tropicalis a-glu-
+cosidase andpurified A.globiformis glucodextranase used in
+thisstudy.
+References
+Brockhaus, M.,&Lehmann, J.(1977) Carbohydr. Res. 53,
+21-31.
+Gagnaire, D.Y.,Travel, F.R.,&Vignon, M.R.(1976)
+Carbohydr. Res. 51,157-168.
+Hehre, E.J.,Genghof, D.S„&Okada, G.(1971) Arch.
+Biochem. Biophys. 142, 382-393.
+Hehre, E.J.,Okada, G.,&Genghof, D.S.(1973) Adv. Chem.
+Ser. No. 117, 309-333.
+Hehre, E.J.,Genghof, D.S.,Sternlicht, H.,&Brewer, C.F.
+(1977) Biochemistry 16,1780-1787.
+Hehre, E.J.,Brewer, C.F.,&Genghof, D.S.(1979) J.Biol.
+Chem. 254, 5942-5950.
+Hehre, E.J.,Brewer, C.F.,Uchiyama, T.,Schlesselmann, P.,
+&Lehmann, J.(1980) Biochemistry 19,3557-3564.
+Hehre, E.J.,Kitahata, S.,&Brewer, C.F.(1981) Abstracts
+ofPapers, 182nd National Meeting oftheAmerican
+Chemical Society, New York, NY, Aug 23-28, 1981,
+CARB 36,American Chemical Society, Washington, D.C.
+Kanda, T.,Brewer, C.F.,Okada, G.,&Hehre, E.J.(1981)
+Abstracts ofPapers, 182nd National Meeting oftheAm-
+erican Chemical Society, New York, NY, Aug 23-28,1981,
+CARB 37,American Chemical Society, Washington, D.C.
+Kitahata, S.,Brewer, C.F.,Genghof, D.S.,Sawai, T.,&
+Hehre, E.J.(1981) J.Biol. Chem. 256, 6017-6026.
+Lehmann, J.,&Schróter, E.(1972) Carbohydr. Res. 23,
+359-368.
+Lehmann, J.,&Zieger, B.(1977) Carbohydr. Res. 58,73-78.
+Ohya, T.,Sawai, T.,Uemura, S.,&Abe, K.(1978) Agrie.
+Biol. Chem. 42,571-577.
+
+6614 Biochemistry 1982, 21,6614-6618
+Pazur, J.H.,Tominaga, Y.,&Forsberg, L.S.(1977) Arch.
+Biochem. Biophys. 182, 774-775.
+Pazur, J.H.,Tominaga, Y.,deBrosse, C.W.,&Jackman,
+L.M.(1978) Carbohydr. Res. 61,279-290.
+Rupley, J.A.,Gates, V.,&Bilbrey, R.(1969) J.Am. Chem.
+Soc. 90,5633-5635.
+Sawai, T.(1967) Proceedings oftheAmylase Symposium,
+1967, pp111-117, Society ofAmylase Researchers, Osaka,
+Japan.
+Sawai, T.,Yamaki, T.,&Ohya, T.(1976) Agrie. Biol. Chem.
+40,1293-1299.
+Shibaoka, T.,Suetsugu, N.,Hiromi, K.,&Ono, S.(1971)
+FEES Lett. 16,33-36.Shibaoka, T.,Ishikura, K.,Hiromi, K.,&Watanabe, T.
+(1975) J.Biochem. (Tokyo) 77,1215-1222.
+Still, W.C.,Kahn, M.,&Mitra, A.(1978) J.Org. Chem.
+43,2923-2925.
+Suetsugu, N.,Hiromi, K.,&Ono, S.(1971) J.Biochem.
+(Tokyo) 70,595-601.
+Tsai, C.S.,Tang, J.Y.,&Subbarao, S.C.(1969) Biochem.
+J.114, 529-534.
+Wehrli, F.W., &Wirthlin, T.(1976) Interpretation of
+Carbon-13 Nuclear Magnetic Resonance Spectra, pp53-65,
+Heyden, London andNew York.
+Wolf rom,M.L.,Weisblatt, D.J.,Evans, E.F.,&Miller, J.
+B.(1957) /.Am. Chem. Soc. 79,6454-6460.
+Kinetics ofCytochrome bOxidation inAntimycin-Trented
+Submitochondrial Particlest
+Youssef Hatefi* andTakao Yagi
+abstract: Ithasbeen shown that inbovine heart submito-
+chondrial particles, antimycin and2-heptyl-4-hydroxyquinoline
+fV-oxide (HQNO) inhibit theoxidation ofNADH, succinate,
+and reduced ubiquinone incompletely, theuninhibited rate
+being about 20-40 nmol ofsubstrate oxidized min"1 (mgof
+protein)"1. Bycontrast, rotenone, cyanide, BAL (2,3-di-
+mercaptopropanol), and 5-z/-undecyl-6-hydroxy-4,7-dioxo-
+benzothiazole [Trumpower, B.L.,&Haggerty, J.G.(1980)
+J.Bioenerg. Biomembr. 12,151-164] caused essentially
+complete inhibition when added alone orafter maximal in-
+hibition byantimycin orHQNO. Having thus ascertained
+that theelectron leakthrough theantimycin block appeared
+tofollow thenormal path through complex III(ubiquinol:
+cytochromecoxidoreductase) andcytochrome oxidase, the
+reduction ofthe bcytochromes bysubstrates andtheir oxi-
+dation through theleak intheantimycin block bymolecular
+oxygen were studied. Itwas shown that atnormal electron
+fluxfrom NADH andsuccinate, both cytochromes ¿562and
+¿566 were reduced inantimycin-treated submitochondrialparticles. Their oxidation after substrate exhaustion was
+biphasic, however. At565minus 575nm, 56%ofthetotal
+reduced cytochrome bwasoxidized through theleak inthe
+antimycin block atamore rapid rate, while theremaining 44%
+wasoxidized about 10times slower. When electron fluxfrom
+substrates tocomplex III was slowed down bythe useof
+inhibitors orsubstrates at<0.1Km concentration, then only
+reduced¿562accumulated inantimycin-treated particles. The
+oxidation of¿562after substrate exhaustion orinhibition of
+substrate oxidation byanappropriate inhibitor occurred ata
+rate comparable tothatoftheslower reoxidation phase de-
+scribed above. These results indicated, therefore, that cyto-
+chromes¿566 and¿562 areoxidized through theleak inthe
+antimycin block attwodifferent rates, thereoxidation rate
+of¿566 being about 10times faster than thatof¿562. The
+implications ofthese findings onthekinetic relationship of
+these twocytochromes intherespiratory chain have been
+discussed.
+eelectron transport system ofbovine heart mitochondria
+contains three spectroscopically distinct bcytochromes (Davis
+etal.,1973). Alowpotential cytochrome b(b}60) fractionates
+intothesuccinate:ubiquinone oxidoreductase complex (complex
+II). This cytochrome has been purified inapreparation
+composed oftwopolypeptides ofM,13500and 15000(Hatefi
+&Galante, 1980). Theroleofcytochrome b560 isnotclear,
+even though thepurified preparation hasbeen shown tore-
+combine ina1:1molar ratio with succinate dehydrogenase
+andreconstitute ahighly active succinate:ubiquinone oxido-
+reductase system (Hatefi &Galante, 1980). Inaddition, it
+hasbeen shown that incomplex IIdithionite-reduced¿560 is
+rapidly oxidized byfumarate viasuccinate dehydrogenase or
+byubiquinone. Theother two bcytochromes (¿562 and b¡66)
+occur intheubiquinohcytochromecoxidoreductase complex
+fFrom theDepartment ofBiochemistry, Scripps Clinic andResearch
+Foundation, LaJolla, California 92037. Received July 28, 1982.
+Supported byU.S. Public Health Service Grant AM 08126.
+0006-2960/82/0421-6614S01.25/0(complex III).1 Although involved inelectron transfer from
+substrates tocytochromes c,+c,theprecise roles ofcyto-
+chromes¿562and¿566inelectron transfer through complex III
+arenotclear either. Cytochrome ¿562 isreduced when sub-
+mitochondrial particles aretreated with substrates, and is
+oxidized when thereduced particles aretreated with oxygen.
+Reduction ofb566 isnotobserved under these conditions and
+requires treatment oftheparticles with antimycin, which
+creates anoxidation-reduction “crossover” between theband
+the ccytochromes. Even inthepresence ofantimycin, the
+reduction ofb566bysubstrates requires that cytochromes c,
++candthecomplex IIIiron-sulfur protein beoxidized (this
+effect isreferred toasoxidant-induced extra reduction of
+1Inaddition to¿>562 andZ>566, acytochrome blikechromophore with
+anabsorption peak at558 nmat77Kwasidentified incomplex IIIby
+Davis etal.(1973). Recently, Briquet etal.(1981) have observed a
+similar component inyeast mitochondria and have designated itcyto-
+chrome¿>558.
+&copy;1982 American Chemical Society
+

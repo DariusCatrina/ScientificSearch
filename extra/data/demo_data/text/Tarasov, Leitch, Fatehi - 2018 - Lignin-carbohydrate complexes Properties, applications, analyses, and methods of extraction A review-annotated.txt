@@ -1,0 +1,1493 @@
+Tarasov  et al. Biotechnol Biofuels  (2018) 11:269  
+https://doi.org/10.1186/s13068-018-1262-1
+REVIEW
+Lignin–carbohydrate complexes: 
+properties, applications, analyses, and methods 
+of extraction: a review
+Dmitry  Tarasov1,2, Mathew  Leitch2 and  Pedram  Fatehi1* 
+Abstract  
+The complexity of lignin and hemicellulose segmentation has been known since the middle of the ninetieth century. 
+Studies confirmed that all lignin units in coniferous species and 47–66% of lignin moieties in deciduous species are 
+bound to hemicelluloses or cellulose molecules in lignin–carbohydrate complexes (LCC). Different types and propor -
+tions of lignin and polysaccharides present in biomass lead to the formation of LCC with a great variety of composi-
+tions and structures. The nature and amount of LCC linkages and lignin substructures affect the efficiency of pulping, 
+hydrolysis, and digestibility of biomass. This review paper discusses the structures, compositions, and properties of 
+LCC present in biomass and in the products obtained via pretreating biomass. Methods for extracting, fractionating, 
+and analyzing LCC of biomass, pulp, and spent pulping liquors are critically reviewed. The main perspectives and chal-
+lenges associated with these technologies are extensively discussed. LCC could be extracted from biomass follow-
+ing varied methods, among which dimethyl sulfoxide or dioxane (Björkman’s) and acetic acid (LCC-AcOH) processes 
+are the most widely applied. The oxidation and methylation treatments of LCC materials elucidate the locations and 
+frequency of binding sites of hemicelluloses to lignin. The two-dimensional nuclear magnetic resonance analysis 
+allows the identification of the structure and the quantity of lignin–carbohydrate bonds involved in LCC. LCC applica-
+tion seems promising in medicine due to its high anti-HIV, anti-herpes, and anti-microbial activity. In addition, LCC was 
+successfully employed as a precursor for the preparation of spherical biocarriers.
+Keywords:  Lignin–carbohydrate complex (LCC), Sustainable chemicals, Milled wood lignin, NMR, Fractionation
+© The Author(s) 2018. This article is distributed under the terms of the Creative Commons Attribution 4.0 International License 
+(http://creat  iveco  mmons  .org/licen  ses/by/4.0/ ), which permits unrestricted use, distribution, and reproduction in any medium, 
+provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, 
+and indicate if changes were made. The Creative Commons Public Domain Dedication waiver ( http://creat  iveco  mmons  .org/
+publi  cdoma  in/zero/1.0/ ) applies to the data made available in this article, unless otherwise stated.Background
+Biomass shows great potential for fuel and non-fuel 
+applications. It is a mixture of cellulose, hemicellulose, 
+lignin, and extractives [ 1], which are considered as the 
+most common natural polymers on earth [ 2].
+Lignin, hemicellulose, and cellulose form unique and 
+complex structures in wood. Softwood species include 
+33–42% cellulose, 22–40% hemicellulose, 27–32% lignin, 
+and 2–3.5% extractives [ 3, 4]. Hardwood species con -
+tain 38–51% cellulose, 17–38% hemicellulose, 21–31% 
+lignin, and 3% extractives [ 4, 5]. The amount of lignin, hemicelluloses, cellulose, and extractives in herbaceous 
+plants are 0–40%, 20–50%, 25–95%, and 4–9%, respec -
+tively [ 5–7].
+These polymers are widely applied for manufacturing 
+different products. For example, hemicelluloses are used 
+for ethanol or xylitol production [ 8, 9]. Lignin is used for 
+producing carbon fibers and dispersants [ 10, 11]. Cel -
+lulose is used in pharmaceuticals and the papermaking 
+industry [ 12–14].
+To produce value-added products, biomass’ compo -
+nents should be separated. Hydrolysis, pulping, and 
+bioconversion processes are considered the dominant 
+fractionation processes of biomass. Hydrolysis aims at 
+separating hemicelluloses from other components of bio -
+mass. Pulping processes are common methods to obtain 
+cellulosic materials used for producing various paper Open Access
+Biotechnology for Biofuels
+*Correspondence:  pfatehi@lakeheadu.ca 
+1 Chemical Engineering Department, Lakehead University, 955 Oliver 
+Road, Thunder Bay, ON P7B 5E1, Canada
+Full list of author information is available at the end of the article
+Page 2 of 28 Tarasov et al. Biotechnol Biofuels  (2018) 11:269 
+grades. Bioconversion procedures can also be applied for 
+separating cellulosic sugars from biomass. These meth -
+ods are based on the liberation of the bonds of lignin and holocellulose.
+Despite its effectiveness, biomass fractionation is char
+-
+acterized by some challenges, one of which is the dif -
+ficulty in separating lignin from carbohydrates [15, 16]. 
+Lignin and carbohydrate moieties are chemically bound in native biomass forming a lignin–carbohydrate com
+-
+plex, LCC [17, 18]. LCC linkage plays a crucial role in 
+wood structure, since all lignin moieties in softwoods [19] and 47–66% of lignin fragments in hardwoods [20] are bound to carbohydrates, mainly to hemicellulose [21]. Numerous studies report the presence of LCC in native biomass materials in coniferous, deciduous, and non-wood plants [19, 22–25]. Due to its strong bonding, the 
+presence of LCC affects the overall extraction of lignin and carbohydrates [16, 24, 26]. For example, a low yield 
+of kraft pulping process is related to the challenge in breaking lignin–carbohydrate linkages in hardwood spe
+-
+cies [27], which can be attributed to the alkaline stability of LCC bonds. In addition, the formation of lignin–hemi
+-
+cellulose linkages in kraft pulp has been suggested [28, 29]. Several studies confirm the existence of lignin–hemi
+-
+cellulose linkages in softwood [30] and in hardwood kraft pulps [20, 31]. Chen et al. [32] report that autohydroly
+-
+sis of hardwood results in extracting xylan in the initial stage of autohydrolysis, whereas the isolated xylan units are found to be associated with lignin in the later stage of autohydrolysis. Another study reports that the efficiency of enzymatic hydrolysis of poplar is significantly affected by LCC linkages [33]. Carbohydrates are covalently anchored and shielded by lignin in plant cell walls, which reduces the area of cellulose accessible for enzymatic attacks [34, 35]. The cleavage of LCC bonds is reported to 
+improve the enzyme accessibility to biomass [36, 37]. In 
+addition, the existence of covalent cross-linkages in for
+-
+age grasses significantly affects the ability of ruminants to digest, due to the limited access of rumen fermentation microorganisms to carbohydrates in the fodders [36]. Therefore, a better understanding of LCC structure may help to determine appropriate processes to break lignin–carbohydrate bonds, and thus to extract lignocelluloses from biomass effectively and selectively [18].
+The molecular weight (MW) of lignin is reported to be 
+an essential parameter for its application as a flocculant and dispersant [38]. The low content of methoxyl groups reduces the heat capacity (C
+p) of lignin and increases its 
+glass transition temperature (Tg) [39, 40]. The heating 
+values of lignocellulosic material are, to a large extent, dictated by the presence of inorganic compounds [41], which also affect the T
+g value of lignin [42]. Lignin with 
+a low Cp and a high heating value can be utilized as fuel or a binder for pellet production [42]. The hydrophilic -
+ity and structural plasticity of lignin is reported to have a positive correlation with its phenolic groups [39, 43].
+The properties of hemicelluloses and cellulose also 
+impact their applications. It is reported that low-molec
+-
+ular-weight (MW) sugars are favorable for biofuel pro -
+duction [44, 45], while hemicelluloses with a high MW 
+can be used in cosmetics and pharmaceutical products [46, 47]. Moreover, high MW polysaccharides can be 
+employed in the food industry. For example, galactoglu
+-
+comannan obtained from process waters of thermome -
+chanical pulping process demonstrates an MW between 39,000 and 46,000  g/mol [48] and can be applied as a replacement for gear or xanthan gums [47]. However, the relatively low heating values of hemicelluloses and cellu
+-
+lose [49, 50] limit their applications as fuel.
+According to our knowledge, there is no report avail -
+able to discuss the properties of LCC and their impact on its end-use applications. This study intends to (1) introduce LCC and its properties, (2) describe methods followed in literature to produce LCC, (3) describe the methods used to quantify and analyze the compositions, structures, and properties of LCC, and (4) review the proposed LCC applications.
+Lignin–carbohydrate linkages
+In 1838, Paymen proposed an “incrustation theory” , which assumes that lignin crusted cellulosic materials. The “incrustation theory” is based on the observation that cellulose in the cell walls has different properties when non-cellulosic materials are isolated from wood [51]. Erdmann [52] explained the complexity of disunit
+-
+ing lignin from carbohydrates by the fact that these poly -
+mers were associated with “glycolignose” materials [53]. Recent research has confirmed that lignin and hemicel
+-
+luloses are covalently bound and form lignin–carbohy -
+drate complexes [1, 54]. There is now more information 
+about the bonds between lignin and cellulosic molecules. Eriksson et al. [55] suggests a fractional bonding between lignin and cellulose units in softwoods. Lam and Iiyma [56] propose lignin–cellulose linkages in rice straw. Jin et  al. [54] report that over 50% of lignin units in soft
+-
+woods and 17% in hardwoods are covalently (molecu -
+larly) bound to cellulose moieties in wood. The linkages between lignin and pectin units are also suggested in wood [57, 58].
+Linkages between lignin and carbohydrates are gener
+-
+ated under the conditions of lignin biosynthesis. During nucleophiles supplement to quinone methides, the inter
+-
+mediate connections are developed due to p-hydrox -
+ycinnamyl alcohol oxidation [59]. There are eight different types of lignin–carbohydrate (L–C) bonds, i.e., benzyl ether, benzyl ester, glycosidic or phenyl glycosidic, 
+Page 3 of 28
+ Tarasov et al. Biotechnol Biofuels  (2018) 11:269 
+hemiacetal or acetal linkages, and ferulate or diferulate 
+esters that are linked to lignin at 4-OH and 4-O positions [37, 55, 60–62]. Figure  1 presents the structures of the 
+main types of LCC bonds. Benzyl ester bonds connect lignin and carbohydrate moieties through uronic acid of sugars and hydroxyl group of lignin; benzyl ether and phenyl glycosidic link glycosyl or mannosyl residues of carbohydrates and phenolic or hydroxyl groups of lignin [53, 62]. Glycosidic bonds link carbohydrates and side 
+chain hydroxyl groups of lignin [37]. Acetal bond is the linkage generated by the carbonyl groups of phenylpro
+-
+pane structural fragments of lignin and hydroxyl groups of carbohydrates [51]. Ferulate and deferulate esters present the major part of LCC linkages in grasses and other non-wood plants [37]. It has been found that high amounts of ferulate and coumarate acids are bound to 
+O
+LigninOCH3O
+Carbohydrat eOLigninOHa
+OO O
+OHOCH3LigninOH
+Carbohydrat eb
+Carbohydrate
+OHOCH3OOc
+Carbohydrat eOOCH3Lignin d
+Carbohydrat eOO
+OMeOOH
+OHβ4
+OMe
+O
+LigninfCarbohydrat e
+O
+O
+Carbohydrat e
+OMeOHOHOMe55e
+O
+Fig. 1 Main types of LCC linkages: a benzyl ether; b benzyl ester; c ferulate ester; d phenyl glycosidic; e diferulate ester (5′–5′ linkage) f diferulate 
+ester (4-O-β linkage) (after Ref. [62])
+Page 4 of 28 Tarasov et al. Biotechnol Biofuels  (2018) 11:269 
+carbohydrates in cell walls in different herbaceous plants 
+[62]. Ferulic acid demonstrates the ability to oxidatively couple with lignin, proteins, and other ferulic acids [63]. Due to the presence of carboxylic acid groups at the end of propenyl groups, ferulate acid is able to produce ester linkage with polysaccharides [63]. Consequently, ferulate esters of polysaccharides are linked with lignin via oxida
+-
+tive coupling and form “lignin–ferulate–polysaccharide” (LFP) complexes [24, 64]. Due to the abundance of ferulic 
+acids in herbaceous plants and lack of information about ferulic acid existence in the wood fibers, there are lim
+-
+ited studies about ferulate linkages in wood. The bark of softwood materials is reported to possess some ferulate esters [65]. Reiter et al. [66] propose ferulic acid forma
+-
+tion in the kraft pulping process due to the cleavage of aryl parts of ethers.
+Benzyl ether (BE), ester, and phenyl glycosidic (PhyGlc) 
+are the most typical lignin–carbohydrate linkages [21, 62], showing varying strengths under different condi
+-
+tions. Benzyl ether bonds are reported to be alkaline-sta -
+ble [53, 59]. However, benzyl ether linkages with phenolic 
+hydroxyl groups are proposed to be alkali-liable [67].
+Benzyl ester linkages are easily cleaved in alkaline con -
+ditions [53, 59]. Silva et  al. [27] report that hardwoods 
+with a high content of PhyGlc linkages show the lowest kraft pulping yield performance, which could be related to the alkaline-stable nature of the PhyGlc bonds [68, 69]. 
+In another study, it is noted that the hydrolysis of PhyGlc bond leads to only 4% cleavage in neutral aqueous con
+-
+ditions, whereas 96% of the bond can be cleaved via acid treatment, which is proposed to be generated dur
+-
+ing hydrothermal treatment of hardwood species [70]. Consequently, a high acid liability and alkali resistance of PhyGlc linkages are suggested. Benzyl ether and ester bonds are also not stable under acid hydrolysis condi
+-
+tions [67, 71].
+Ferulate esters are highly alkali-liable and can be 
+cleaved by alkaline hydrolysis at room temperature [53]. However, due to the affinity of ferulate acid to generate ester bonds with hemicelluloses and ether linkages with lignin, the alkali treatment of herbaceous plants results in the extraction of lignin and ferulic acid molecules [53, 72].
+Quantity of lignin–carbohydrate bonds in wood 
+and non‑wood species
+It can be postulated that the benzyl ether bonds are 
+dominant in softwood LCC [17, 21, 73]. The phenyl 
+glycosidic linkages are prevalent in hardwood LCC, while the amount of ester linkages greatly varies in different species [21, 74]. Herbaceous plants show sig
+-
+nificantly higher amounts of LCC linkages than woody materials. The quantification of lignin–carbohydrate linkages in herbaceous plants demonstrates the exist
+-
+ence of a vast majority of phenyl glycosidic linkages in LCC [23, 24]. The quantification of lignin–carbohy
+-
+drate linkages in various LCC is presented in Table  1. 
+Each lignin monomeric unit contains aromatic rings, which is equivalent to mol percentage of aromatic hydrogen or carbon atoms [18, 75–77]. The estima
+-
+tion of lignin’s substructures and LCC bonds is mostly expressed as number per 1 or 100 aromatic units (Ar) [21, 75, 76].
+Softwood LCC structure
+Table  2 depicts the compositions of LCC fractions 
+extracted from various biomass sources. There are a few hypotheses about the LCC structures and compositions for softwoods. Balakshin et  al. [21] stated that the ben
+-
+zyl ether linkages in softwood LCC mainly involve man -
+nose. In another study, Giummarella et  al. [73] suggest that xylose is the main carbohydrate with ether bonds, whereas mannose is linked by PhyGlc bonds. Lawoko et  al. [19] suggest that lignin involved in LCC has two different structures: one type attached to xylan and the other one connected to glucomannan. It is proposed that xylan is linearly linked to lignin, while GM–L complexes have branched structures [19].
+Another study reports that Xyl–L and Glu–L fractions 
+isolated from spruce wood have condensed and linear structures, respectively [17]. Oinonen et al. [78] hypoth
+-
+esize random crosslinks between galactoglucomannans, xylans, and lignin in Norway spruce. It is reported that the glucomannan–lignin fraction is water soluble, which suggests a low crosslinking degree in this complex, since extensively cross-linked polymers are typically insoluble 
+Table 1 Quantification of  lignin–carbohydrate linkages 
+in LCC
+LCC preparation Amounts of LCC linkages per 100 Ar
+Benzyl ether PhyGlc γ-Ester
+Softwood LCC
+ Pine LCC-AcOH [21] 4.3 6.8 4.5
+ Spruce GM–L [17] 3.8 4.4 ND
+ Spruce Xyl–L [17] 6.1 ND ND
+Hardwood LCC
+ Birch LCC-AcOH [21] 0.7 5.4 5.6
+ Eucalypt LCC-AcOH [74] 0.3–0.9 5.0–7.9 ND
+Herbaceous LCC
+ A. Donax Björkman LCC [24] 251 42 3
+ Wheat Björkman LCC [23] 50 2 14
+ A. Donax LCC-AcOH [24] 4 ND 0.14
+Page 5 of 28
+ Tarasov et al. Biotechnol Biofuels  (2018) 11:269 
+in water [53]. Takahashi and Koshijima [69] also assume 
+that softwood LCC consists of small and repeating lignin units bound to the polysaccharide chain.Hardwood LCC structure
+Dammstrom et al. [22] propose that xylan in hardwood presents in three forms, one of which is glucuronoxy
+-
+lan attached to cellulose units, the second form xylan is a part of xylan–lignin complexes, and the third one Table 2 Compositions of LCC fractions from wood and herbaceous plants
+a Converted to % based on the data presented in the source
+b 12/24 h of ball milling
+c Calculated by authors by subtraction the portion of lignin (%) presented in the LCC fraction from 100%LCC fraction Relative composition of LCC fraction, % Relative carbohydrate composition, %
+Acid-soluble lignin Total carbohydrates Ara Xyl Man Gal Glu
+Softwood (Spruce) [19]
+ GGM–L–Pectin 39 56.9 5.6a4.2a58.9a22.1a9.1a
+ GM–L–Xyl 56 36.8 3.3a8.4a52.2a10.9a25.3a
+ Glu–L 7 89.8 1.1a1.0a2.8a0.22a94.9a
+ GM–L–Xyl 41 51.8 1.3a6.2a64.7a3.5a24.1a
+ Xyl–L–GM 65 32 9.7a58.4a13.4a7.2a11.2a
+ Xyl–L–GM 29 59.1 6.9a59.0a24.0a7.11a2.9a
+Softwood (Spruce) [17]
+ Glu–L 19.3 80.7 1.9 2.5 8.6 1.2 85.8
+ GM–L 29.2 70.8 4.7 10.6 30.9 4.4 49.4
+ Xyl–L 42.7 57.3 13.0 65.3 3.2 3.0 15.6
+Hardwood (Eucalyptus globules) [31]
+ Glu–Xyl–L 14.2/15.8a85.8/84.2a,b0.6/0.7 18.1/18.9 2.3/2.2 1.3/1.5 77.2/76.3
+ Xyl–Glu–L 34.7/39.6a60.4/65.3a,b2.0/2.2 42.7/44.4 2.9/3.3 4.1/4.9 44.6/47.1
+Hardwood (Eucalyptus globules) [20]
+ Xyl–Glu–L 29.0 71c1.2 40.8 10.4 8.0 39.6
+ Glu–Xyl–L 53.2 46.8c5.4 19.2 6.7 6.7 62
+ Glu–L 9.5 90.5c0.8 4.8 0.6 0.5 94.1
+ Xyl–L 37.5 62.5c1.1 91.3 2.7 1.9 3.0
+ Xyl–Glu–L 13.8 86.2c0 58.7 12.1 2.3 26.9
+Hardwood (Betula verrucosa) [20]
+ Glu–Xyl–L 29.2 70.8c0 41.7 11.8 10.0 36.6
+ Glu–Xyl–L 15.9 84.1c0.9 16.2 0.5 0.7 81.7
+ Xyl–L–Gal 35.8 64.2c1.0 75.9 2.2 2.7 18.2
+Herbaceous plant (Maize stem) [83]
+ Xyl–L–Ara 38.3 50.3 10.5 83.0 ND 076.4
+ Xyl–L–Glu 18.7 70.7 5.9 82.6 ND 0711.5
+Herbaceous plant (Sisal) [85]
+ Glu–L 7.8 92.2c1.5 9.0 0.9 0.2 88.4
+ Xyl–L 24.1 75.9c0.6 89.4 2.6 0.3 7.1
+Herbaceous plant (Abaca) [85]
+ Glu–L 4.4 95.6c0.3 4.1 0.5 0.1 95.0
+ Xyl–L 29.4 70.6c3.4 75.5 13.0 0.3 7.8
+Not fractionated LCC from herbaceous plants
+ LCC-AcOH (Bamboo) [25] 19.9 48 3.8 32.9 3.1 1.0 59.2
+ Björkman LCC (A. donax) [24] 34.8 65.2 6.2 59.2 0.1 3.3 28.9
+ Björkman LCC (Wheat straw) [23] 16.03 75.1a9.3a75.1a2.2a0a13.4a
+ LCC-WE (Rice straw) [82] 27.7 63.9 13 80.1 0.4 2.3 13
+Page 6 of 28 Tarasov et al. Biotechnol Biofuels  (2018) 11:269 
+is free xylan. Koshijima and Watanabe [53] state that 
+xylose is the main sugar for benzyl ether linkages. In other research, it is reported that 50% of glucan moie
+-
+ties are involved in benzyl ether linkages with 5–10% xylan contribution [18]. Takahashi and Koshijima [68] state that lignin and glucuronoxylan are linked by benzyl ester bonds with 30% uronic acid. Takahashi and Koshi
+-
+jima [69] propose hardwood LCC structure in the form of a very long polysaccharide chain linked to a few large lignin moieties.
+Non‑wood LCC structure
+The LCC of grasses mainly includes arabinoxylans bridged to lignin via ferulate esters [62, 79]. Arabinoxy
+-
+lans play an important role in LCC linkage formation, due to the conceivable existence of covalent bonding between arabinose, xylan, and lignin moieties in forage crops [80]. In addition, xylan is reported as a main com
+-
+ponent-binding lignin and carbohydrates in bamboo, rice straw, and ryegrass [72, 81–83]. It is proposed that lignin 
+in wheat straw is bound to glucan and xylan moieties via ferulate acid and PhyGlc linkages, respectively [23, 84]. In 
+another study, You et al. [24] suggest that PhyGlc bonds exist between cellulose and lignin in herbaceous plants due to the abundance of these bonds. However, Rio et al. [85] report that no signs of benzyl ether, ester, or PhyGlc linkages are found in a glucose–lignin fraction of sisal and abaca. It is also proposed that xylan is linked to lignin via PhyGly bonds in bamboo [25]. Other work confirms that PhyGlc is bound to guaiacyl and syringyl lignin units with xylan moieties in abaca and sisal [85].
+LCC in softwood pulp
+As stated earlier, LCC can exist in pulp, and it can also be extracted from spent liquor. The analysis of pulp reveals that 85–90% of lignin remains in softwood kraft pulp linked to carbohydrates in LCC forms [30, 86]; whereas, 
+in oxygen-delignified pulp, all lignin units are involved in LCC [86].
+Due to the galactoglucomannan decomposition dur
+-
+ing kraft pulping, LCC is present in kraft pulp as Glu–L, GM–L–Xyl, and Xyl–L–GM fragments with 12, 45, and 27% of total relative amounts of lignin found in pulp, respectively [19]. It is apparent that hemicellulose–lignin complexes contain both xylan and glucomannan in dif
+-
+ferent proportions, implying that lignin crosslinks with xylan and glucomannan in softwood kraft pulp [30]. Ten
+-
+kanen et  al. [29] reported that the degradation of xylan during the enzymatic hydrolysis of pine kraft pulp sig
+-
+nificantly enhances the decomposition of glucose, while the hydrolysis of glucomannan does not improve the decomposition of cellulose in the same manner as that of xylan. In addition, it is found that the hydrolysis of glucomannan increases after a considerable removal of xylan. These results imply that xylan is partially covered by glucomannan, whereas, in pine kraft pulp, xylan is entrapped by glucose [29]. The increment in the degree of oxygen delignification leads to the degradation of Glu–L complexes, whereas the GM–L–Xyl and Xyl–L fractions obtained from oxygen-delignified softwood pulp included 80% and 20% of total lignin content in pulp, respectively [19, 86]. Therefore, it is proposed that 
+GM–L–Xyl complex is resistant to oxygen delignification, which might be attributed to the high alkali resistance of phenyl glycosidic and benzyl ether bonds present in this complex.
+In addition, with the increment of oxygen delignifica
+-
+tion intensity, the relative amount of xylan in the GM–L–Xyl fraction decreases, while the relative content of lignin in these complexes increases. At the highest severity of oxygen delignification, almost all lignin moieties in pulp have been found to be linked to glucomannan units. This leads to the conclusion that the main issue of oxygen delignification of softwood species is attributed to glu
+-
+comannan LCC [86].
+LCC in hardwood pulp
+LCC fractionation of eucalyptus kraft pulp shows that Glu–Xyl–L and Xyl–L fractions include 8% and 12% of total lignin present in the eucalyptus pulp, respectively. The compositional analysis of LCC fractions present in birch kraft pulp shows that Xyl–L–Glu contains 34% of total lignin and Xyl–L contains 16% of lignin units [20]. Table  3 lists the composition of LCC fractions extracted 
+from softwood and hardwood kraft pulps.
+LCC in spent liquors
+It is suggested that lignin–carbohydrate complexes can be extracted and dissolved along with lignin and hemi
+-
+celluloses in the spent liquors of biomass pretreatment [19, 87]. Tamminen et al. [88] proposed the existence of 
+xylan–lignin and galactan–lignin complexes in the spent pulping liquor (black liquor) of the kraft process. It is proposed that some of xylan and glucomannan moieties are dissolved in black liquor along with lignin [29].
+In another study, Fatehi et al. [89] propose LCC’s pres
+-
+ence both in prehydrolysis liquor (PHL) generated in pre -
+treatment of hardwood chips with saturated steam and in the spent liquor (SL) of neutral sulfite semichemical pulping (NSSC) process, in which hardwood biomass is treated with sodium sulphite and carbonate. In addition, Tarasov et al. [42] reported the existence of LCC in the hydrolysate obtained via flow-through autohydrolysis of softwood chips. It was found that the hydrolysate pro
+-
+duced with a high liquid-to-solid (L/S 10/1 wt./wt.) ratio contains 19% of lignin in the LCC form. Furthermore, 
+Page 7 of 28
+ Tarasov et al. Biotechnol Biofuels  (2018) 11:269 
+89% of lignin moieties bound to carbohydrates in the 
+hydrolysate are generated under a high temperature and lower L/S ratio [90].
+LCC properties
+The MW of LCC is not widely discussed in the literature. Table  4 tabulates the properties of LCCs extracted from 
+various sources. The MW of LCC prepared from pop
+-
+lar is reported to range from 9800 to 17,500 g/mol [91]. LCC extracted from non-wood species features a very wide range of molecular weights. The MW of LCC from Prunella vulgaris is estimated to be 8500  g/mol [92], whereas the MW of wheat straw LCC is around 38,700 g/mol [23].
+The molecular weights of xylan (Xyl)- and glucan 
+(Glu)-rich LCC complexes obtained from softwood kraft pulp are estimated to be in the range of 8000–35,000 g/mol and 15,000–45,000  g/mol, respectively [86]. It is reported that the MW of lignin and hemicelluloses pre
+-
+sent in these LCC fractions is related to the relative lignin content of kraft pulp. The Xyl–L fraction obtained from pulp with lower lignin content possesses lignin and hemi
+-
+celluloses with a higher MW [86]. In addition, hardwood PHL and SL of NSSC process are reported to contain LCC with the molecular weights of 2000 and 1500 g/mol, respectively [89].
+The thermal stability of LCC is affected by various fac
+-
+tors, such as interunit structures, functional groups, degree of condensation, and molecular weights [93]. Experimental conditions also impact LCC’s thermal sta
+-
+bility. In one study, Nassar and MacKay [94] report that LCC from spruce starts to decompose in the tempera
+-
+ture range from 220 to 260 °C, whereas the degradation onset temperature (T
+onset) of spruce lignin is reported 
+to be 210–220  °C. This difference could be related to the hemicellulose presence in LCC, as hemicelluloses contain more inherent moisture than does lignin [94]. Another study states that softwood LCC possessed T
+onset  
+of 236  °C, whereas LCC and carbohydrate-free lignin from bagasse started to decompose at 277 and 268  °C, Table 3 Composition of LCC fractions from softwood and hardwood kraft pulp
+a Converted to % based on the data presented in the source
+b Calculated by authors by subtraction the portion of lignin (%) presented in the LCC fraction from 100%LCC fraction Relative composition of LCC fraction, % Relative carbohydrate composition, %
+Acid-soluble lignin Total carbohydrates Ara Xyl Man Gal Glu
+Softwood Kraft pulp (Spruce) [19]
+ Glu–L 2.4 96.0 0.5a3.6a4.2a0.0a91.7a
+ GM–L–Xyl 35 41.7 2.9a26.7a48.4a4.1a17.8a
+ Xyl–L–GM 23 75.6 5.8a75.1a8.3a0.5a10.2a
+Oxygen-delignified softwood pulp (Spruce) [19]
+ GM–L–Xyl 22.8 77.0 1.4a11.5a62.8a4.2a20.1a
+ Xyl–L 5.1 97.9 2.5a20.2a58.8a3.3a15.3a
+Hardwood kraft pulp (Eucalyptus globules) [20]
+ Glu–Xyl–L 0.5 99.5b0.7 10.6 0.3 0.1 88.4
+ Xyl–Glu–L 0.83 99.2b0.4 92.4 0.9 0.7 5.6
+ Glu–L 1.48 98.5b1.5 0.8 0.2 0.2 97.3
+Hardwood kraft pulp (Betula verrucosa) [20]
+ Xyl–Glu–L 1.2 98.8b0.2 86.9 0 0 12.9
+ Xyl–L 0.33 99.7b0 97.7 1.2 0 1.1
+ Glu–L 0.6 99.4b0.5 0.6 0.2 0 98.8
+Table 4 LCC properties
+LCC source Mw, g/mol Thermal properties [94, 95, 99] Elemental analysis, % [95, 102]
+Tonset ,  °C Degradation 
+at 590 °C, wt %Tg,  °C, C H N S O
+Hardwood 9800–17,600 [91] ND ND ND 51.9 5.8 ND ND 42.4
+Softwood 12,000 [101] 220–260 45.7 ND 59.6 6.3 1.1 2.2 ND
+Non-wood 8500–38,700 [23, 92] 277 55.6 166 62.8 5.4 ND ND ND
+Page 8 of 28 Tarasov et al. Biotechnol Biofuels  (2018) 11:269 
+respectively [95]. At 590 °C, the weight of softwood LCC 
+decreases by 45.7%, whereas LCC isolates from bagasse and carbohydrate-free lignin experiences 55.6 and 52.5% weight loss, respectively [95]. A lower degradation of softwood LCC could be related to their bonding extent, which decomposes slowly at elevated temperatures [95]. Molecular weight, molecular weight distribution, and degree of crosslinking impact  T
+g value of LCC [96]. 
+In the past, lignin was reported to have Tg between 80 
+and 193  °C [97], while hemicellulose and cellulose had T
+g in the range of 200–250  °C and 150–220  °C, respec -
+tively [98]. The Tg of LCC from bamboo is reported to be 
+166 °C [99].
+The elemental analysis of softwood and bagasse LCC 
+is reported by Singh et  al. [95]. Carbon and hydrogen contents of both LCCs are estimated as 63–60% and 5.4–6.3%, respectively. These values are similar to carbo
+-
+hydrate-free bagasse and softwood kraft lignin [95, 100].
+Another important parameter of LCC is anti-UV 
+activity. The anti-UV activity is determined by selec -
+tive index (SI) [103, 104]. SI is defined as the ratio of two 
+parameters: 50% cytotoxic concentration  (CC50), which 
+is defined as the amount of the compound (μg/mL) required for the reduction of the number of living cells by 50%, and 50% effective concentration  (EC
+50) that raises 
+the viability of UV-irradiated cells by 50% [105, 106]. In 
+other words, SI quantitatively expresses the ability of the compound (LCC) to defend cells from UV-induced dam
+-
+age [104].
+It is reported that the LCC produced from pine cone 
+and pine seed shell extracts shows anti-UV activity with SI of 24.8–38.1 and 25.6, respectively. A similar anti-UV activity (SI = 38.5) is reported for herbaceous LCC (Sasa 
+senanensis Rehder leaves), whereas the lignin extracted via alkali treatment shows a significantly higher anti-UV activity with an SI of 61.5 [103].
+LCC extraction
+Different researchers claim the presence of LCC for altered materials in different studies. In 1935, Hibbert and coworkers proposed the presence of lignin–xylan complexes in spent liquor obtained from extraction of spruce saw meal treated with a mixture of anhydrous ethylene alcohol glycol and hydrogen chloride [107]. In a later study, Merewether [108] reported the presence of xylan–lignin complexes in the spent liquor produced via ethanolysis (in the presence of sodium bicarbonate) of eucalyptus wood meal. In 1953, Traynard [109] and coworkers reported the extraction of LCC from poplar species via water hydrolysis at 140 °C [53]. However, the extraction of LCC via fractionation studied by Björkman systematically for the first time [110, 111].Björkman LCC
+The methods for LCC extractions established by Björk -
+man [110, 111] became a milestone in the investigation 
+of lignin and LCC’s structure and composition. Figure  2 
+outlines Björkman’s procedure for LCC preparation. In this method, biomass is saturated with toluene prior to milling for 48 h [111, 112]. Afterward, the milled mate
+-
+rial is mixed with 1,4-dioxone/water (96/4 vol./vol.) solution in a wood/solvent ratio of 1/10 wt/wt and is stirred for 24 h at ambient temperature under a nitrogen atmosphere [112]. Then, the solution is centrifuged. The evaporation of its solvent from supernatants will help separation of milled wood lignin (MWL) [112].
+It is reported that MWL represents up to 50% of total 
+lignin content of wood [51, 111]. The precipitates of the 
+centrifugation are then extracted with dimethylforma
+-
+mide  (C3H7NO) or dimethyl sulfoxide ((CH3)2SO)). The 
+obtained material is purified by dissolution in 50/50 vol/
+Dioxane/H 2O Milled sampleExtractive-free biomas s
+Ball millin g
+Extraction
+MWL
+CH 2Cl2/C2H6OAcOH/H 2OC3H7NO
+ResidueSupernatantSupernatantExtraction
+Dissolutio n
+Precipitatio n
+Björkman LC CResidue
+SolutionSupernatant
+Residue
+Fig. 2 Björkman’s method for LCC preparation [111, 112]
+Page 9 of 28
+ Tarasov et al. Biotechnol Biofuels  (2018) 11:269 
+vol acetic acid/water (AcOH/H2O) mixture followed by 
+precipitation via washing with a dichloromethane/etha -
+nol  (CH2Cl2/C2H6O) mixture. The produced precipitates 
+are considered as Björkman LCC. This product is com -
+prised of 16–34 wt% lignin and 66–84 wt% carbohydrates 
+[111, 112].
+LCC extraction via acetic acid (LCC‑AcOH)
+Björkman’s procedure uses solvents with high boiling points, such as dimethylformamide or dimethylsulfoxide [53]. Balakshin et al. [15, 21] and You et al. [24] reported 
+the procedures for LCC extraction from softwood (pine), hardwood (birch), and herbaceous biomass (A. donax). Figure  3 presents the process of LCC preparation using 
+acetic acid (AcOH). In this method, extractive-free wood sawdust is ground by planetary ball milling for 5  h and 600 rpm [21]. In case of herbaceous biomass, the extrac
+-
+tive-free material is subjected to planetary ball milling for 12 h and 450 rpm [24]. Then, the produced material is treated by 96/4 vol./vol. 1,4-dioxane/water mixture in accordance with the Björkman’s procedure. Afterward, the solvent is evaporated in vacuum, and then, a few drops of deionized water are added to the solid material to remove traces of dioxane followed by rotary evapora
+-
+tion. The dried material is considered as MWL. Then, MWL is dissolved in 90% aqueous AcOH (at 20  mL/g ratio). The addition of water to the mixture leads to pre
+-
+cipitations of purified MWL. Then, the supernatant of this process is collected and lyophilised. Furthermore, the dried material is treated with a few drops of water for AcOH removal. After repeating the purification proce
+-
+dure three times, the dried material is considered to be LCC-AcOH [21, 24].
+LCC extraction with hot and cold water treatment
+Another method for LCC extraction was developed by Watanabe [113] and coworkers in 1987. Figure  4 outlines 
+the procedure for LCC-WE preparation. In this method, woody materials are ground, and then, MWL is extracted using an 80/20 vol./vol. dioxane/water solution. The obtained residue is first treated with cold water (20 °C), and washed and then treated again with hot water (at 80 °C). The dissolved materials of these processes are pre
+-
+cipitated with ethanol  (C2H6O) and considered as LCC-
+WE [53, 113].
+LCC fractionation
+Softwoods, hardwoods, and non-woods have different 
+morphologies and compositions of lignin and carbohy -
+drates, which results in variations in their LCC proper -
+ties. LCC extracted from softwood is claimed to have hemicelluloses, such as galactoglucomannan (GGM), glucomannan (GM), arabino-4-O-methylglucoronox
+-
+ylan (Xyl), and arabinogalactan (Gal), bound to lignin (L) moieties [82]. Sugars of LCC in hardwoods consist of 4-O-methylglucoronoxylan, whereas LCC from non-woods are composed of arabino-4-O-methylglucoron
+-
+oxylans [82]. LCC fractionation procedures reveal more detailed information regarding the structure and com
+-
+position of various LCCs, which present in biomass and pulps.
+LCC fractionation via enzymatic hydrolysis 
+and barium hydroxide
+Lawoko proposes a combination of ball milling, enzy -
+matic hydrolysis, and treatment with barium hydroxide 
+(Ba(OH)2) for fractionating LCC [19, 30, 86, 114]. The pro -
+cedure for LCC fractionation via this method is shown in Fig.  5. First, the extractive-free spruce wood species are 
+ball-milled for 3  h. Next, the milled substance is treated with endoglucanase enzymes (Novozyme 476) followed by centrifugation. Then, the hydrolysate of this enzymatic treatment is treated with 5% aqueous barium hydrox
+-
+ide ((Ba(OH)2) for 2 h after centrifugation, which leads to 
+the precipitation of solid material [114, 115]. The gener -
+ated precipitate is dissolved in 1/1 AcOH/H2O solution Extractive-free biomas s
+SupernatantDioxane/H 2OMilled sampleBall millin g
+Extraction
+LCC-AcOHSolutionAcOH/H 2O Dissolutio n
+Precipitatio n
+Purified
+MWLH2O
+SupernatantResidue
+Drying
+MWL
+Residu e
+Fig. 3 LCC-AcOH preparation procedure [21, 24]
+Page 10 of 28 Tarasov et al. Biotechnol Biofuels  (2018) 11:269 
+and then precipitated again via ethanol supplement. After 
+dialysis and drying, the produced material is considered GGM–L–Pectin fraction [2 , 114]. The precipitates of enzy
+-
+matic hydrolysis are swollen in urea for 24–48  h at room temperature. Afterward, the soluble part of the urea mix
+-
+ture is mixed with Ba(OH)2, resulting in the formation of 
+two LCC fractions; GM–L–Xyl is found in residue due to its poor solubility, and highly soluble Xyl–L–GM fraction dissolves in supernatant. Next, GM–L–Xyl and Xyl–L–GM fractions are separated by centrifugation. Then, GM–L–Xyl fraction is purified with AcOH/H
+2O solution and re-pre -
+cipitated in ethanol as described above. Xyl–L–GM por -
+tion, remaining in the barium hydroxide solution, is also dissolved in 50% aqueous AcOH solution and precipitated in ethanol. Afterward, the obtained fractions are dialysed and freeze-dried [2 , 114].
+LCC fractionation via DMSO/tetrabutylammonium 
+hydroxide (TBAH) mixture
+The degradation of β-O-4 interunits of syringyl lignin 
+and high solubility of these lignin segments in water after endoglucanase hydrolysis and urea treatment indicates the fact that the procedure should be modi
+-
+fied for hardwood LCC preparation [20]. Li et  al. [31] proposed a method for fractionation of hardwood LCC, which includes ball milling for 12–24 h and dissolution in 50/50 vol./vol. DMSO/tetrabutylammonium hydroxide (TBAH) mixture. This leads to the dissolution of cellulose components of hardwood, but the lignin structures in LCCs remain intact [31]. Mixing the product with water results in the precipitation of LCC. The lyophilisation of the precipitates generates Glu–L fraction in the precipi
+-
+tates and Xyl–L in the solution.
+LCC fractionation via alkaline extraction 
+and enzymatic hydrolysis
+Sipponen et al. [83] reported an efficient method for the 
+isolation of alkali-soluble LCC fractions from non-wood plants (Maize stem) via combined application of alkaline extraction and enzymatic hydrolysis. Figure  6 depicts the 
+procedure for alkali-soluble LCC isolation. This proce
+-
+dure describes the extraction of extractive-free biomass with 0.5 M sodium hydroxide (NaOH) solution for 24 h at room temperature under nitrogen  (N
+2) atmosphere. 
+This treatment leads to the formation of precipitates and 
+dissolved substances. The product is centrifuged, and the generated residue and supernatant are separated. Then, the pH level of the obtained supernatant is adjusted to 2 by hydrochloric acid (HCl) supplement. The acidified solution is kept for 16 h in the dark and then centrifuged for collection of the insoluble part. The generated sus
+-
+pension is lyophilised, and the obtained solid material is considered as Xyl–L–Ara complex. The precipitate pro
+-
+duced from the initial NaOH solutions is treated with Novozyme 476 enzyme, which leads to the generation of hydrolysed suspension. The suspension is centrifuged, and hydrolysed solids are precipitated, washed, and lyophilised. Then, the dried residue is extracted with 2 M NaOH at ambient temperature under  N
+2 atmosphere. 
+Afterward, Xyl–L–Glu complex is isolated from alkaline extract via acidification, as described above [83].
+LCC fractionation via universal method
+Du et al. [115] reported a universal fractionation process for LCC from lignocellulosic biomass, which combines the procedures developed by Lawoko et  al. [19] and Li et  al. [31]. Figure  7 depicts the procedure for universal 
+fractionation of LCC. In this method, the extractive-free biomass is first ground by ball milling and then dis
+-
+solved in DMSO/TBAH solution in accordance with the method developed by Li et  al. [31]. It is reported that, after 12  h of ball milling, the milled materials of hard
+-
+wood, softwood, and herbaceous species entirely dis -
+solve in DMSO/TBAH mixture [31, 115]. The obtained 
+solution is diluted with water, generating two phases Residu eDioxane/H 2O Milled biomas sExtractive-free biomas s
+Ball millin g
+Extraction
+Extraction
+PrecipitationResidue MWL
+20°C H2O
+Residue
+C2H6O
+LCC-WESupernatan t
+Extraction 80°C H2O
+Residue
+Supernatan tSupernatan t
+Fig. 4 LCC-WE preparation procedure [113]
+Page 11 of 28
+ Tarasov et al. Biotechnol Biofuels  (2018) 11:269 
+of residue and supernatant. The generated residue is 
+washed with water and lyophilised to obtain the Glu–L fraction. The produced supernatant is saturated with Ba(OH)
+2, which leads to the aggregation of barium ions 
+with GM–L fraction and its further precipitation. Both the precipitate and the supernatant are neutralized with HCl, then purified and dried. The materials collected from the precipitate and supernatant are considered as GM–L and Xyl–L fractions of LCC, respectively [115]. It is also reported that the molecular weight of LCC gener
+-
+ated in this process is extremely high. Glu–L, GM–L, and Xyl–L fractions have the MW of 490,000 g/mol, 63,000–160,000 g/mol and 18,000 g/mol, respectively [115]. Con
+-
+sidering the complete dissolution of the examined wood and herbaceous species in DMSO/TBAH mixture, it is suggested that this method can be applied for the frac
+-
+tionation of LCCs present in pulp and other processed lignocellulosic materials [115].
+Fractionation of pulp LCC
+It is well known that the pulping process leads to a sig -
+nificant delignification of biomass. As stated earlier, benzyl ether and phenyl glycosidic lignin–carbohydrate linkages are alkali-stable, and, hence, will persist through the pulping process [30]. Gierer and Wannstrom [28] suggest the formation of new LCC bonds during the pulping process. In another study, Tenkanen et  al. [29] investigated the existence of linkages between lignin and ResidueResidueSupernatantSolution
+SolutionSupernatant
+Saturation Ba(OH)2
+Centrifuging
+Residue
+GGM -L-PectinResidue
+Precipitatio n C2H6OHDissolutio n
+C2H6OH Precipitatio n
+GM-L -Xyl Xyl-L-GMDissolutio nSupernatant
+Supernatant Residue
+AcOH /
+H2OUrea Swelling
+Residue
+Saturation Ba(OH)2
+Centrifuging
+AcOH/ H2ODissolutio n AcOH/H2O
+Precipitatio n C2H6OH
+Solution SolutionSolutionExtractive-free biomas s
+HydrolysisBall-milling
+Novo zyme 476
+CentrifugingMilled biomas s
+Residue
+Fig. 5 LCC fractionation with combined application of enzymatic hydrolysis and barium hydroxide solution [2, 114]
+Page 12 of 28 Tarasov et al. Biotechnol Biofuels  (2018) 11:269 
+carbohydrates in softwood and hardwood kraft pulp via 
+selective enzymatic hydrolysis of cellulose, xylan, and mannan units. The association between lignin and xylan, glucomannan, and glucose units in pine kraft pulp and lignin–xylan bonding in birch kraft pulp is proposed [29]. To quantify LCC formation in these processes, Lawoko and et al. [30] designed a protocol for fractionation of the LCC obtained from softwood kraft pulp and oxygen-del
+-
+ignified pulp. Figure  8 outlines the protocol for fractiona -
+tion process of LCC material present in pulp.
+In this process, pulp is hydrolysed with endoglucanase 
+(Novozyme 476) enzyme for 48  h. Then, the produced hydrolysate is centrifuged and the precipitated mate
+-
+rial is separated. The residue is swollen in urea solution CentrifugingSolution pH 2Solution pH 2Extractive-free biomas s
+Xyl-L-Gl cHydrolysisResidue
+Centrifugin g
+Residue
+Extraction NaOH
+Centrifugin g
+pH adjustment HClResidue
+ResidueSupernatantNaOH Extraction
+Novoz ym e 476
+SupernatantCentrifuging
+Supernatant
+SupernatantSupernatant
+Xyl-L-Ar apH adjustment HCl
+Centrifuging
+ResidueN2
+Solution 
+Fig. 6 Procedure for isolation of alkali-soluble LCC fractions [83]
+Page 13 of 28
+ Tarasov et al. Biotechnol Biofuels  (2018) 11:269 
+overnight at room temperature. Afterward, the mate -
+rial is centrifuged to separate the insoluble part from 
+the supernatant. The insoluble part is then washed with water for the removal of urea and is dissolved in alkaline (18% NaOH) borate (4%  H
+3BO3) solution for 4 h at ambi -
+ent temperature for the dissolution of mannose polysac -
+charides [20]. The precipitate generated via centrifuging of the alkaline borate solution is washed and recycled to enzymatic hydrolysis stage. The supernatant obtained via centrifugation of alkaline borate solution is subjected to pH adjustment via acetic acid supplement causing pre
+-
+cipitation of Glu–L fraction at pH 12. Glu–L fraction is separated with centrifugation; where the pH of the solu
+-
+tion drops to 7. Since no precipitate is formed at pH 7, the solution is dialyzed and lyophilised, and then, the dried material is dissolved in 0.2 M NaOH. The produced solution is treated with 5% aqueous Ba(OH)
+2, which leads 
+to the precipitation of glucomannan rich material. The obtained fraction is collected and re-dissolved in 0.2  M NaOH and again is precipitated with barium hydroxide solution. After that, the precipitate is mixed with 1/1 AcOH/H
+2O vol./vol. solution and then precipitated via 
+ethanol supplement. After the generated solid material is dialyzed and freeze-dried, it is considered GM–L–Xyl fraction. The suspension obtained after the second treat
+-
+ment with aqueous Ba(OH)2 and GM–L–Xyl fraction 
+separation is mixed with 50% aqueous AcOH solution and then precipitated as described above. After the pro
+-
+duced substance is purified, it is considered Xyl–L–GM portion. The application of this procedure for fractiona
+-
+tion of LCC present in oxygen-dignified softwood pulp results in Xyl–L–GM fraction [30, 86].
+The method established by Björkman is a widely used 
+procedure for LCC extraction. However, this technique is time-consuming and involves the usage of solvents with a high boiling point. The application of AcOH or dioxane significantly reduces the time required for LCC extraction. LCC fractionation with enzymatic hydrolysis Residue pH 7Extractive-free biomas s
+H2O    H2ODMSO/TBAH Milled biomas sBall millin g
+SupernatantResidue
+Glu-LResidueBa(OH) 2Dissolutio n
+Solution
+Washin g Saturation 
+HCl HClResidue pH 7Mixing
+pH
+adjustmentpH
+adjustment
+GM-L Xyl-LSupernatant
+Supernatant pH 7
+Fig. 7 Procedure for universal LCC fractionation [115]
+Page 14 of 28 Tarasov et al. Biotechnol Biofuels  (2018) 11:269 
+in combination with Ba(OH)2 or alkaline treatment is a 
+suitable method for softwood and herbaceous species. 
+However, syringyl lignin moieties became water soluble after enzymatic hydrolysis, which makes enzymatic treat
+-
+ment inapplicable for fractionation of hardwood LCC. The application of DMSO/TBAH along with Ba(OH)
+2 
+is considered a universal method for LCC fractionation. However, the LCC fragments obtained after universal LCC fractionation demonstrate extremely high molecular weights, which hinders its analysis with NMR due to its low solubility in solvents required for NMR analysis. For facilitating NMR analysis and molecular weight reduc
+-
+tion, the obtained LCC fractions could be hydrolyzed with enzymes, but enzymatic treatment can be expensive Residu ePulp
+SupernatantSupernatant
+UreaResidueHydrolysis
+Swelling
+Dissolutio nResidueNovo zyme 476
+Centrifugin gNaOH/H 3BO 3
+AcOH
+Residue at pH 12Supernatant Residue
+Fractionation
+Glu-LSupernatant further pH drop to 7
+AcOH/H2O AcOH/H2OSaturation Ba(OH)2
+Precipitatio nSupernatant Residu e
+C2H6OHDissolutio n NaOH
+Dissolutio n
+C2H6OH Precipitatio n
+GM-L -Xyl Xyl-L-GMDissolutio n
+SolutionDialysis
+SolutionResidu e
+SolutionDrying
+Residu eSolution
+Fig. 8 Procedure for pulp LCC fractionation [30, 86]
+Page 15 of 28
+ Tarasov et al. Biotechnol Biofuels  (2018) 11:269 
+and time-consuming. A new or improved method is 
+needed for fractionating LCC more effectively.
+Analysis of LCC
+NMR has primarily been used for analyzing the structure of LCC. However, other methods such as alkaline, acidic degradation, oxidation, methylation, and enzymatic anal
+-
+ysis are also useful for LCC structure’s analysis [18, 116, 
+117].
+Ester linkage analysis via alkali degradation of LCC
+Alkali degradation is widely applied for ester bond iden -
+tification in hardwood [68] and softwood LCC [118]. The analysis is based on ester bond saponification, lignin, and polysaccharide disassociation [118, 119]. The pro
+-
+cedure for alkali degradation of LCC is presented in Fig.  9a. According to this methodology, LCC is dissolved 
+in sodium hydroxide (0.1 M NaOH) solution for 1.5–2 h at room temperature [68, 118]. The solution is then neu
+-
+tralized with AcOH to pH 6.5 and centrifuged. The pre -
+cipitate is washed with water and lyophilised [118]. The comparative IR analysis of untreated LCC and alkali-treated LCC demonstrates the absence of 1730  cm
+−1 in 
+the spectrum of alkali-treated LCC, which confirms the complete saponification of ester bonds in alkali-treated LCC preparation [68, 118]. Obst [118] reported that 
+10–20% of linkages in LCC are presented in the form of esters in the alkali degradation method.
+Moreover, the existence of ester linkages can be esti
+-
+mated via sodium borohydride  (NaBH4) reduction 
+method [68, 118]. In this method, LCC is dissolved in 
+water with the addition of  NaBH4 and NaOH [118]. This 
+treatment leads to the reduction of esters to the neutral sugars [68]. In one analysis, the comparison of glucuronic acid concentration before and after borohydride reduc
+-
+tion reveals that approximately 30% of linkages in beech LCC are ester-type [68]. However, the linkages degraded due to the alkali treatment are not necessary ester bonds, as benzyl ethers with hydroxyl groups are also alkali-lia
+-
+ble [67].
+Ether linkage analysis via acid degradation of LCC
+The existence of ether bonds in LCC is investigated via the combined application of sodium borohydride reduc
+-
+tion, followed by acid treatment of reduced LCC [55, 120]. This method is based on the analysis of new phe
+-
+nolic and benzyl alcohol hydroxyl groups generated due to the hydrolysis of ether linkages [55, 120]. The proce
+-
+dure for the combined acid and alkali degradation of LCC is shown in Fig.  9b. In this method, enzymatically 
+(enzyme hemicellulase 680) treated spruce LCC is first subjected to the sodium borohydride treatment for the reduction of esters as described above [55, 68]. Then, the reduced LCC is subjected to the selective hydroly
+-
+sis of linkages between arabinose side chains and xylan (arabinofuranosidic bonds) by dissolution of the mate
+-
+rial in aqueous mixture of  H2SO4/AcOH 1/1 vol./vol. at 
+90  °C for 2  h. Hydrolyzed LCC is precipitated from the 
+obtained solution via treating with ethyl ether  (C4H10O) 
+followed by centrifugation. Afterward, the produced resi -
+due is washed with ethyl ether and dried [55, 120]. The 
+obtained material of acidified LCC is dissolved in 1  M NaOH under  N
+2 conditions at ambient temperature for 
+40 h [55, 120]. Then, the pH of the obtained solution is 
+adjusted to 4 by supplement of 2 M HCl solution and the material is precipitated as described above [120]. This treatment is supposed to saponify all remaining glucu
+-
+ronic acid ester bonds between glucuroxylan and lignin [55, 68]. It is suggested that xylan units remaining in the 
+LCC after this treatment are bound to lignin by ether bonds to xylose moieties [55, 120].
+Phenyl glycosidic linkage analysis via Smith 
+degradation of LCC
+The glycosidic linkages in softwood LCC are studied via 
+the degradation method developed by Smith and et  al. [121]. This method allows the conversion of glycosidic linkages into acyclic acetal bonds, which are liable to acid hydrolysis and can be decomposed via mild acid hydroly
+-
+sis treatment [55]. The procedure for Smith degradation of LCC is presented in Fig.  10. This method involves peri
+-
+odate oxidation, borohydride reduction, and acid hydrol -
+ysis stages. It is proposed that sugar moieties, remained in LCC after these treatments, are bound to lignin [55, 122]. The LCC is first dissolved in 1/1 vol./vol. of  H
+2SO4/
+AcOH solution at the approximate LCC/solution ratio of 10/1 wt/wt. The solution is then mixed with sodium peri
+-
+odate  (NaIO4) and kept for 72 h at 5 °C in a dark place. 
+Afterward, the insoluble material generated in the oxida -
+tion is collected and subjected to treatment with sodium borohydride  (NaBH
+4) in water for 12 h. Then, the treated 
+material is suspended in  H2O/AcOH mixture and then 
+hydrolyzed with 0.25 M  H2SO4 solution for 8 h at ambi -
+ent temperature. The precipitates of this process are col -
+lected, washed with water, and treated with sulfuric acid at 100 °C for 12 h [55]. In a related work [122], the oxida
+-
+tion of LCC is performed for 220  h. Then, the solution is purified via dialysis and treated with  NaBH
+4 for 15 h; 
+after which the solution is treated with  H2SO4 for 15  h 
+followed by centrifugation for precipitate separation. The collected precipitate is washed with water and ethanol, and then dried [122].
+Enzymatic treatment is used as the preparation proce
+-
+dure prior to analysis. This method is widely applied for sugar content reduction of wood and non-wood LCC [17, 55, 80, 120]. In addition, glucuronyl and feruloyl esterases 
+Page 16 of 28 Tarasov et al. Biotechnol Biofuels  (2018) 11:269 
+SupernatantNaOHLCC  
+Mixing
+Solution
+pH adjustment
+Centrifugin g
+Alkali-LCCSolution pH 6. 5AcOH
+ResidueDissolutio na
+Hemicellulase 68 0LCC  
+NaOH/NaB H4
+H2SO 4/AcOH  
+SolutionDissolutio nHydrolysis
+Hydrolysed LC C Supernatant
+Reductio n
+Reduced LC C
+SupernatantMixing
+Acidified/alkali-LCCC4H10O
+ResidueDissolutio n NaOH N2
+Solution
+HCl pH adjustmentSupernatantMixing
+Acidified-LC CC4H10O
+Solution pH 4b
+Centrifuging
+Centrifuging
+Fig. 9 a Alkali-LCC [68, 118] and b acid/alkali-LCC [55, 120] degradation procedure
+Page 17 of 28
+ Tarasov et al. Biotechnol Biofuels  (2018) 11:269 
+enzymes could be applied for benzyl ester and ferulic 
+acid ester bond studies of LCC [123, 124].
+Paper electrophoresis
+LCC structure was studied via paper electrophoresis in 1958 by Lindgren [51, 53, 125]. Electrophoresis is the 
+method of separating ionic particles and its migration with certain velocity as a result of the application of the external electric field [126, 127]. In the paper elec
+-
+trophoresis system, two chambers (anode and cath -
+ode) are filled with a conductive medium (electrolyte) and connected by paper strip, which is soaked in the electrolyte at the opposite ends [126]. The velocity of migration is determined by the mobility of charged particles and field strength. The electrophoretic mobil
+-
+ity depends on charge density, size, and shape of par -
+ticles [127]. In this analysis, Björkman LCC and MWL isolated from fir wood are pre-colored with Procion dye and then deposited on the glass–fiber paper strips near the anodic side at two different spots [51, 53, 128]. 
+Then, the ends of the paper strips are placed in the 0.05  N sodium hydroxide solution and the current of 1.8 kV is applied for 45 min [51, 53]. In this work, the 
+LCC was separated into two parts: the slower moving part is composed of carbohydrates and the faster part contained both lignin and hemicellulose moieties. LCC spot was found to move slower than the MWL spot, which confirmed the hypothesis that MWL is a product 
+of dissociation of L–C bonds [51, 53].
+Determination of LCC structure via methylation
+In the 60s, the methylation analysis was employed as a 
+standard procedure for identifying the chemical struc -
+tures of oligosaccharides and polysaccharides [129, 130]. This method is based on carbohydrate treatment with methylsulphinyl carbanion and methyl iodide, which leads to the complete hydrolysis of methylated polysaccharides into partially methylated monosaccha
+-
+rides and acetylation of hydroxyl groups [130]. Meth -
+ylation analysis could be employed as an alternative to NMR spectroscopy for structural analysis of poorly soluble carbohydrates and LCCs [69, 131, 132]. Meth
+-
+ylation is also used for studying lignin–carbohydrate linkages [69, 131– 133]. The protocol for methylation of 
+LCC of biomass or pulp is presented in Fig.  11a. LCC 
+produced is methylated in accordance with the pro
+-
+cedure described by Hakomori [134]. In this method, LCC is dissolved in dimethyl sulphoxide (DMSO) in a nitrogen atmosphere. Afterward, a mixture of sodium hydride (NaH) and methyl iodide  (CH
+3I) is added to the 
+solutions. Then, the solution is mixed with chloroform and filtered for sodium iodide removal (NaI). Finally, DMSO is removed from the solution via extraction with water and chloroform is evaporated via drying over anhydrous sodium sulfate  (Na
+2SO4) [134].
+The methylation of LCC generated from kraft pulp 
+can be performed via the method developed by Ciu -
+cane and Kerek [135]. In this process, LCC is dissolved in DMSO and mixed with NaOH and  CH
+3I solution 
+[131, 132]. The mixture is sonicated for 30 min at ambi -
+ent temperature for carbohydrate suspension. Then, the sample is mixed with water until a pH of 2.5 is reached. The suspension is then centrifuged at 6000g  for 20 min 
+[132]. The generated precipitate can be lyophilised 
+and considered as methylated LCC. The success of the methylation process is confirmed by reduction of absorption in hydroxyl group region at 3400 cm
+−1 [133] 
+and increment of absorption in methyl group regions, 2930 cm
+−1 in FTIR analysis [132].
+After the methylation, an acid methanolysis of the 
+methylated samples is performed [131, 132] to yield 
+methylated monosugars [18]. The solution is then acet -
+ylated, and the obtained alditol acetate mixture is sub -
+jected to GC/MS and gas–liquid chromatogram (GLC) analysis [18] for the identification of carbohydrates bond
+-
+ing in acetylated LCCs [68]. The nature of carbohydrate bonding is specified in accordance with unmethylated (but acetylated) sites of monosaccharides [18].SupernatantSupernatantH2SO 4/AcO HLCC  
+Dissolutio n
+Solution
+Oxidatio n NaIO 4
+ReductionResidu e
+NaBH 4/H2O
+HydrolysisSolution
+H2SO 4
+Residu e
+Smith degraded  
+LCCSolution
+Centrifuging
+Fig. 10 Procedure for Smith degradation of LCC [55, 122]
+Page 18 of 28 Tarasov et al. Biotechnol Biofuels  (2018) 11:269 
+Determination of LCC structure via combined 
+oxidation and methylation
+Methylation analysis allows for studying the nature of 
+LCC bonds. The relative amount of carbohydrates and the specification of linkage in sugars involved in benzyl ether can be determined following another approach. Watanabe and coworkers [136] designed a proce
+-
+dure that included methylation and oxidation with of 2,3-dichloro-5,6-dicyanobenzoquinone (DDQ) for identifying the location and frequency of the bonding sites of sugars to lignin. It is also reported that DDQ particularly attacks nonphenolic benzyl ether linkages, but is neutral to glycosidic bonds in LCC [101, 137].Figure  11b outlines the procedure of combined appli
+-
+cation of methylation and DDQ oxidation for the LCC analysis. In this process, methylation is conducted with methyl trifluoromethanesulphonate  (CF
+3SO3CH3) [138] 
+along with the cleavage of ether linkages by DDQ oxida -
+tion [136, 139]. The softwood LCC is first acetylated with 
+acetic anhydride ((CH3CO)2O)) and pyridine  (C5H5N) at 
+40  °C for 18  h for hydroxyl group protection. Then, the 
+acetylated material is treated in solution of 50% aqueous dioxane and 50% of DDQ at 40 °C for 24 h. This treatment does not affect the acetyl group and glycosidic bonds between sugars, but it separates benzyl ethers from elec
+-
+tron-donative benzene skeleton due to oxidation. In this LCC 
+Dissolutio n DMSO
+Solution
+NaOH/C H3I Mixing
+Solution
+Sonication
+pH adjustmen t H2O
+Centrifuging
+Supernatant
+Meth ylated LC CSolution 2.5 pH
+Residu eaLCC b
+Carbohydrates-DD QAcetylation(CH3CO)2O/
+C5H5N
+Acetylated LC C
+(Dioxane /H2O)
+/DDQDDQ-oxidatio n
+DDQ neutralization C6H8O6
+Meth ylation CF 3SO 3CH 3
+Centrifuging
+Supernatant
+Oxidized/Methyl ated 
+carboh ydratesResidueSolution
+Fig. 11 Procedures for LCC analysis by a methylation [132] and b DDQ/methylation techniques [136]
+Page 19 of 28
+ Tarasov et al. Biotechnol Biofuels  (2018) 11:269 
+analysis, carbohydrates bound to lignin by ether and ester 
+linkages at the α- and γ-conjugated positions are released due to disruption of lignin–carbohydrate linkages caused by DDQ oxidation [15]. The new hydroxyl groups of car
+-
+bohydrates liberated from the cleaved LCC bonds are subjected to a methylation procedure for further analysis. For this purpose, the effect of DDQ oxidation is termi
+-
+nated by ascorbic acid  (C6H8O6) supplement. Then, the 
+obtained carbohydrates are methylated, in accordance with Prehm [138] by  CF
+3SO3CH3 at 50  °C for 3  h, and 
+methylated carbohydrates are recovered via centrifuga -
+tion [138]. Afterward, the obtained methylated samples are hydrolysed, reduced with sodium borohydride, and acetylated [136, 138]. This product contains partially 
+methylated alditol acetates, which are subjected to the GC/MS analysis [136]. The position of methoxyl group specifies the location of monosaccharide bonding to lignin [18]. Monosaccharides are indicated in accordance with their retention times by mass spectrometry [136, 138]. Thus, a combined application of methylation and DDQ oxidation allows for the identification of positions and types of carbohydrate bonds to lignin in LCC by α- and γ-ether and ester linkages [68, 136].
+Determination of LCC presence with gel 
+permeation chromatography (GPC) analysis
+In other work, the existence of LCC is identified with 
+gel permeation chromatography (GPC) via applying the triple detection technique [87, 89, 90]. The molecular 
+weight of lignin is estimated via UV detector at 280 nm wavelength; the MW of carbohydrates is analyzed using reflective index (RI) and intrinsic-differential pressure (IV-DP) detectors [89]. Similar retention times obtained for UV, IR, and IV-DP pulses suggest the interlinkages between lignin and hemicelluloses, and, hence, the pres
+-
+ence of LCC [87, 89]. This method is employed for the 
+investigation of LCC presence in SL of NSSC process, PHL, auto hydrolysis liquor, and hydrothermally treated biomass [87, 89, 90]. In addition, the application of this 
+method allows the estimation of the MW of LCC and carbohydrate-free lignin [89, 90].
+However, the GPC analysis does not disclose any 
+specific perception about the nature and amount of lignin–carbohydrate linkages present in the analyzed materials. The presence of ester, ether, and phenyl gly
+-
+cosidic linkages and approximate quantification of these bonds could be determined via alkali, acid, and Smith degradation methods, respectively. In addition, the structure of LCC fractions and location of lignin–car
+-
+bohydrate bonds could be estimated by methylation or combined with 2,3-dichloro-5,6-dicyanobenzoquinone oxidation/methylation treatment via gas chromatogra
+-
+phy–mass spectrometry and gas–liquid chromatography analyses. The main drawback of these methods, in com -
+parison with NMR technology, is the complexity of sam -
+ple preparation.
+Application of NMR technology for LCC analysis
+The nuclear magnetic resonance spectroscopy (NMR) technology is widely employed for analysis of the chemi
+-
+cal structure and composition of biomass [76, 140, 141]. 
+The main principle of NMR is based on the fact that all atomic nuclei are electrically charged and many of them have a spin moment, which is the result of unpaired spins of the protons and neutrons generating a nuclear mag
+-
+netic moment [142]. An evaluation of LCC structure and composition via NMR technology is a major landmark in the LCC analysis [18]. Different LCCs have different solu
+-
+bility in various solvents; some LCCs could be dissolved in deuterium oxide  (D
+2O), deuterated dimethyl sulfoxide 
+(DMSO-d6) or 50/50 vol./vol.  D2O/THF-d8 solutions, 
+but some are insoluble in organic solvents, such as tet -
+rahydrofuran-d8 (THF-d8) and chloroform [143]. In gen -
+eral, the high solubility of LCC in DMSO-d6 makes the application of this solvent attractive for the NMR analysis [24].
+1H NMR, 13C NMR, and 2D NMR are widely used 
+for lignin and hemicelluloses analysis [76, 140, 141]. 
+Recently, due to the superimposition of 1H and 13C fre -
+quencies of LCC linkages with other signals of carbohy -
+drates and lignin, the two-dimensional heteronuclear single quantum coherence (HSQC) 
+1H–13C NMR tech -
+nology has been applied for the structural analysis of LCC bonds [21, 144]. The main advantage of two-dimen
+-
+sional technology over one-dimensional technology is its affinity to avoid the overlapping of signal from 
+1H nucleus 
+by correlating it with signals from 13C nucleus [145]. This 
+is critical in LCC bond analysis due to a significantly higher dispersion of lignin and carbohydrates signals [146], which leads to a noticeably improved resolution of 
+NMR spectra [145] and more accurate determination of the structure of LCC [146].
+1H-NMR is reported to provide information on the 
+presence and compositions of the hydroxyl groups in LCC. In one study, Skurikin [147] suggests the exist
+-
+ence of carbohydrate units in lignin extracted from oak wood (via ethanol treatment) based on the higher signal intensity of aliphatic hydroxyl protons in LCC than in other lignin samples [148]. Merewether et  al. [102] reported that the amount of aliphatic, phenolic 
+hydroxyl groups and free carboxylic groups in hard
+-
+wood LCC is 0.6, 0.9, and 0.1 per phenylpropane unit (C9), respectively. The lignin present in hardwood con
+-
+tains around 0.32 phenolic hydroxyl groups per C9 unit [149]. The excess of phenolic groups in LCC could be 
+related to the cleavage of alkali-liable linkages during 
+Page 20 of 28 Tarasov et al. Biotechnol Biofuels  (2018) 11:269 
+the LCC formation/extraction [102]. In another study, 
+Kosikova et al. [148] investigated the effect of alkaline and acid hydrolysis on the composition of LCC isolated from beech wood via 
+1H-NMR spectroscopy. It is found 
+that both types of hydrolysis do not affect the structure of insoluble lignin in LCCs as no significant changes in distribution of protons in aromatic region are observed [148]. Prior to the 
+1H-NMR studies, LCC samples could 
+be acetylated [102] for a better resolution in NMR anal -
+ysis [21, 115]. However, acetylation may cause chemi -
+cal modifications of lignin, which is undesirable [150]. 
+1H NMR analysis takes only a few minutes [151], but 
+the data obtained during 1H-NMR assessment may be 
+indistinct due to signal overlapping [53] originating from the short chemical shift dispersion (δ
+H 12–0 ppm) 
+of 1H NMR spectra [150].
+13C-NMR is reported to provide information on the 
+composition of lignin or carbohydrate parts of LCC [18, 24] and the positions of lignin–carbohydrate bonds on lignin’s side chains [152]. In one study, lignin–carbohy
+-
+drate bonds are reported to be located at the  Cα-position 
+of lignin moieties in the LCCs isolated from Ginkgo wood [152]. In another study, 
+13C-NMR analysis of the LCC 
+isolated from oat wheat confirms sugar bonds with lignin at α-position of lignin [153]. The natural abundance of 
+13C isotope is as low as 1.1%, which leads to the losses of 
+magnitude in sensitivity [145]. 13C NMR technology has 
+a significantly wider shift range (δC 0–200 ppm) than 1H-
+NMR spectroscopy. However, in the LCC analysis, inten -
+sive signals of carbons present in carbohydrates could impede the accurate designation of signals from carbons present in lignin moieties of LCC [152]. Xie et al. [152] apply a method where LCCs are chemically modified for 
+13C-enrichment of the side chain carbons of lignin. This 
+alteration allows for increasing the intensity of signals produced from LCC linkages [152]. Barakat et  al. [153] also observed a peak at 81  ppm of 
+13C-NMR spectrum 
+of non-wood LCC, which is assigned to benzyl ether groups. However, these results are not conclusive, as these signals could also be attributed to aryl glycerol and spiro-dienone substructures of lignin and carbohydrates [15, 154]. The 
+13C NMR analysis of lignin material iso -
+lated via ball milling can be used for the structural analy -
+sis of LCC [155]. It is reported that phenyl glycosidic, benzyl ether, and ester linkages can be indicated by the clusters at δ
+C 103–96 ppm, 90–78 ppm, and 65–58 ppm 
+in 13C NMR spectra, respectively [155]. However, Bal -
+akshin et  al. [18] stated that 13C-NMR analysis cannot 
+be considered as a dependable method for LCC linkage analysis as its signals overlap the signals from lignin or carbohydrate units. In addition, 
+13C-NMR is a very time-
+consuming analysis, as it takes more than 24 h to obtain a reliable spectrum [151].Qualitative analysis using NMR technology
+For the accurate investigation and detection of lignin carbohydrate bonds, a combined analysis of signals from both protons and carbons should be conducted. This analysis can be executed with the use of two-dimensional 
+1H–13C NMR technology. Numerous two-dimensional 
+NMR techniques are applied for investigating LCC’s structure and composition, such as heteronuclear mul
+-
+tiple bond coherence (HMBC) [15], total correlation spectroscopy (TOCSY) [156], and heteronuclear single quantum coherence (HSQC) [17, 21, 140]. The HSQC 
+technology is the most widely employed method due to its diversity in representing structural features and modifications of lignin and carbohydrate units [151]. The HSQC NMR is reported to provide information on lignin carbohydrate linkages in LCC obtained from various softwoods [17, 21, 73], hardwoods [21, 144], and herba
+-
+ceous plants [23–25]. Balakshin and colleagues reported the direct detection of phenyl glycosidic linkages in the LCC of eucalyptus [18] and pine [15]. In addition, two-dimensional NMR analysis of pine LCC indicates the presence of benzyl ether linkages [15], which confirms the findings reported by Watanabe et al. [136] via DDQ oxidation technique. The absence of signals from α-ester linkage is reported in two-dimensional NMR studies of LCC [15, 17, 141]. Balakshin et al. [15] observed a signifi
+-
+cant presence of γ-ester in pine LCC, whereas Yuan et al. [144] reported that the signals of γ-esters on the two-dimensional NMR spectra of poplar LCC are indistinct. The two-dimensional NMR technology is also applied for investigating the presence of γ-ether in LCC linkages. However, the region, where these linkages may be located (δ
+C/δH 65–75/3.0–4.5 ppm), extensively overlapped other 
+areas of the spectrum [18]. Three-dimensional (3D) NMR technology could be employed for deeper investigation of lignin and carbohydrates structural features [18, 157]. 3D 
+HSQC-TOCSY technology provides a combined analy
+-
+sis of 1H–1H and 1H–13C correlations. HSQC spectros -
+copy demonstrates the interconnectivity of protons and carbons spectroscopy, while TOCSY projection associ
+-
+ates these with other hydrogen nuclei of the 1H–1H spin 
+system [158]. Thus, the three-dimensional NMR analysis allows collection of more accurate information regarding certain structural features of lignin and carbohydrates. However, long experimental period (24–48 h) [145] and ability to collect the majority of structural data of lignin and carbohydrates via one-dimensional and two-dimen
+-
+sional NMR spectroscopies impede the application of three-dimensional NMR technology [151].
+Application of the latest advances in NMR technol
+-
+ogy, such as inverse detection and CryoProbes, signifi -
+cantly increases the sensitivity and reduces the duration of experimental periods [145, 159]. Inverse detection 
+Page 21 of 28
+ Tarasov et al. Biotechnol Biofuels  (2018) 11:269 
+technology reduces the time required for 2D 13C–1H sig -
+nificantly [145] and increases sensitivity of the analysis 
+[160]. CryoProbes increases sensitivity by a factor of 4 in compassion with the standard probes [161]. This would result in reducing the experimental duration possibly by 16-fold and the required concentration of materials by fourfold [145, 161]. Recently, Nishimura et  al. [162] 
+employed the 2D HSQC-TOCSY and 3D TOCSY-HSQC CryoProbe technologies for identifying the α-ether link
+-
+age existing between mannose in glucomannan and lignin in the LCCs of Japanese red pine. Ralph and Lan
+-
+ducci [145] suggest that experiments in inverse detection mode allow studying the materials with a small concen
+-
+tration (≈ 1%).
+The concentration of LCC used in 2-D HSQC NMR 
+analysis seems to be different in altered experiments. Yuan et  al. [144] solubilized 90  mg of Björkman LCC sample in 0.5  mL of DMSO-d6, whereas Du et  al. [17] dissolved 20 mg of enzymatically treated LCC in 0.75 mL of DMSO-d6. Table  5 lists two-dimensional HSQC NMR 
+signal assignments for LCC linkages with DMSO-d6 used as a solvent.
+Quantitative analysis of LCC linkages using NMR
+A quantitative evaluation of LCC linkages in NMR analy -
+sis became possible with a method developed by Zhang and Gellerstedt [92]. This procedure involves a combined application of 
+13C and HSQC NMR technologies. The 
+main aspect of this approach is the use of certain clus -
+ters of 13C spectra as internal references for conversion of 
+the corresponding signals which present in two-dimen -
+sional spectra into absolute values [18, 144]. The region 
+between 102 and 162 ppm in 13C NMR spectrum is con -
+sidered as reference, since the peaks belong to 6 aromatic carbon rings and 0.12 vinylic carbons [76]. To obtain a number of substructures present in the region of interest per 1 aromatic unit, the integral areas of these peaks should be divided by 6.12 [76]. Integration of clusters at 
+103.6–96.0 ppm, 90.0–78.0 ppm, and 64.5–58.5 ppm in a 
+13C NMR spectrum should be applied for the quantitative 
+analysis of PhyGlc, BE and ester linkages, respectively [21, 144]. Amounts of PhyGlc, BE, and ester linkages in 
+Björkman LCC [144] and LCC-AcOH [21] per 100 Ar can be estimated in accordance with the following equations:
+where,  2D
+PhyGlc ,  2DBE, and  2DEst are the volumes of the 
+signals assigned to the PhyGlc, BE, and ester linkages, 
+respectively (Table  5);  2D103–96/5.5–3.8 ,  2D90–78/5.7–3.0 , and 
+ 2D65–85/5.0–2.5  are the total resonance of signals in the cor -
+responding areas of the 2D spectra; 13C103–96 , 13C90–78 , 
+and 13C65–58  are the volume of specified clusters signals 
+in the 13C spectra and 600 (or 612) is the number of aro -
+matic carbons in 100 monomeric lignin moieties [21].
+Another strategy for LCC linkages and lignin interunit 
+quantification is to use the data from HSQC spectra and aromatic units  (C
+9) as an internal standard [156]. This 
+approach uses the specific clusters of signals in HSQC spectra, which include all aromatic units. The total amount of  C
+9 units in softwood, hardwood, and non-
+wood species can be quantified by integration values, in accordance with Eqs. 4, 5, and 6, respectively [160, 163]:
+where  IG
+2 is the integration value of cluster assigned to 
+guaiacol lignin  (G2) units in HSQC spectra [163]. The 
+correlations of the  C2–C6 position of syringyl units  (S2,6) 
+are twice the amount of syringyl units (S-type lignin); hence, to prevent an overestimation of  C
+9 units, half of 
+ S2,6 integration value  (IS2,6) was used for  C9 quantification 
+[163]. Aromatic units in herbaceous species, in addition to G and S units, include hydroxyphenyl units (H-type lignin). Therefore, for the quantification of  C
+9 units that 
+present in grasses, half of the integral value of the clusters assigned to  C
+2–C6 hydroxyphenyl moieties  (H2,6) is also (1)PhyGlc =2DPhGlc
+2D103−96/5.5−3.8×13C 103−96
+13C 163−106×600
+(2) BE=2DBE
+2D90−78/5.7−3.0×13C 90−78
+13C 163−106×600
+(3) Ester=2DEst
+2D65−85/5.0−2.5×13C 65−58
+13C 163−106×600,
+(4) IC9=G2
+(5) IC9=0.5IS 2,6+G2
+(6) IC9=0.5IS 2,6+G2+0.5IH 2,6,Table 5 Two ‑dimensional HSQC NMR shift in  DMSO ‑d6 
+for LCC linkages
+LCC linkage δC/δH, ppm
+Benzyl ether
+ C1-α lignin-C-6 of Glu, Gal, Man, and C-5 of Ara 80–81/4.5–4.7 [160]
+ C2-α lignin-Xyl 80–81/5.1–4.7 [160]
+ C2–α lignin-Xyl 81.2/5.1 [21]
+Ester
+ α-Ester 75/6.1 [160]
+ γ-Esters 65–62/4.0–4.5 [21, 160]
+Phenyl glycosidic
+ PhyGlc1 100.2/5.03 [17]
+ PhyGlc2 100.3/4.85 [17]
+ PhyGlc3 101.9/4.86 [17]
+Page 22 of 28 Tarasov et al. Biotechnol Biofuels  (2018) 11:269 
+included [164]. Then, the amount of LCC linkages per 
+100 Ar could be estimated by Eq. 7 [25]:
+where AX is the amount of LCC linkages per 100 Ar; IX 
+is the integration value of the objective bond. Zhang et al. [25] applied this method for the estimation of LCC link
+-
+ages in LCC-AcOH preparation from bamboo.
+Another method for the evaluation of LCC linkages 
+involves the integration of a corresponding region of two-dimensional spectra assuming the sum of identified substructures to be 100% [165]. The main disadvantage of this method is its inability to evaluate LCC linkages and other substructures in absolute values [21]. The com
+-
+bined application of data from 13C and HSQC NMR pro -
+vides more reliable information about LCC linkages due to more accurate quantification of aromatic units with 
+13C NMR spectroscopy.
+The 1H-NMR spectroscopy facilitates the analysis of 
+phenolic hydroxyl groups’ abundance before and after alkali or acid treatment of LCC preparations, which demonstrates the presence of benzyl ester or phenyl glycosidic linkages, respectively. The 
+13C-NMR technol -
+ogy could be also employed for L–C linkages analysis. However, due to the overlapping of carbon signals of lignin, carbohydrates, and L–C bonds, the LCC prepa
+-
+ration method for NMR analysis should be modified via chemical treatment [152]. This procedure increases the intensity of signals from the carbons in L–C bonds in the 
+13C-NMR analysis and allows for the identification of 
+LCC structure. On the other hand, the obtained results are not completely reliable as signals arising from the L–C linkages can be obstructed by other lignin-related signals. The application of 2D NMR technology prevents signals’ overlapping, and the accurate quantification of LCC linkages via 2D and 
+13C NMR spectroscopies is 
+one promising method to analyze the structure of LCC. For more detailed investigation of LCC structures, such as γ-ether bonds, 3D HSQC-TOCSY spectroscopy was reported to be an effective method. This technology uses 
+1H–1H and 1H–13C NMR analysis, which leads to more 
+detailed spectra of the heavily overlapped region where γ-ether linkages may be located. In addition, the applica
+-
+tion of CryoProbes in an inverse detection mode could elucidate the structure and composition of LCCs with very low lignin concentration requirement.
+LCC application
+Anti-microbial and anti-HIV effects of LCC
+LCC isolated from Lentinus edodes mycelia, pinecone, and pine nut shells via alkaline extraction and acid (7) AX=IX
+IC9×100,precipitation show a high anti-UV effect, which could be applied for manufacturing sunscreens [166]. It is articu
+-
+lated that LCC from Sasa senanesis Rehder leaves have a 
+higher anti-UV activity comparing with natural polyphe -
+nols [104].
+In addition, different medicobiologic applications of 
+LCC are suggested [167–169]. Zhang et  al. [167] note a high anti-herpes activity of LCC of pine cone and Prunella plant. Sakagami et  al. [168] reported anti-HIV, anti-influenza virus, and anti-herpes effects of LCC extracted from pine cones. The antiviral and immu
+-
+nostimulatory effects of LCC from herbaceous plant (P. anisum ) are also reported by Lee et al. [169]. It is assumed 
+that the mechanism of anti-HIV activity is related to the ability of LCC to inhibit the HIV adsorption and penetra
+-
+tion into cells [168]. It is found that the lignin units are more important for anti-HIV activity than sugar moie
+-
+ties. However, the application of phenylpropanoid mono -
+mers does not demonstrate any anti-HIV activity, which implies the significance of highly polymerized struc
+-
+ture of LCC [168]. Different LCCs from softwood cone or seed shells demonstrate the ability to stimulate anti-microbial activity. It is reported that the anti-microbial activity of LCC is considerably reduced with the carbohy
+-
+drate unit degradation, which indicates the importance of sugar units for anti-microbial activity of LCC [168].
+LCC-based biological carriers
+Lignin–carbohydrate complexes demonstrate good bio -
+logical compatibility and mechanical resistance [170, 
+171]. These properties are attributed to a combination of water-repellent, inelastic lignin units, and hydrophilic, flexible carbohydrates in LCCs [91]. Zhao et al. [91, 172] 
+applied LCC fractions from poplar wood for the prepa
+-
+ration of spherical biocarriers. Biocarriers are inactive compounds able to attract, keep, and biomagnify certain microorganisms [173]. Zhao et  al. [91, 172] estimated 
+the proliferation of liver cells after application of biocar
+-
+riers prepared from various species of hardwood (Pop -
+lar) and softwood (Ginkgo biloba L.). Galactose units of LCC are able to recognize liver cells due to the pres
+-
+ence of asiaglycoprotein receptors (ASGPR) on hepato -
+cytes, as galactose functions as ligand and bind hepatic cells with these receptors. LCC–hepatocyte complexes are proposed to be able to culture hepatocytes due to the interaction of galactose and ASGPR [172]. The effect of LCC biocarriers on metabolic activity of hepatocytes is evaluated; the results demonstrate the improvement of liver cells proliferation. It is reported that the cell number of human hepatocytes cultured in hardwood LCC carriers and control groups (without application of LCC biocarriers) in a definite time period is 1.84–1.68 × 10
+5 cells/mL and 1.32 × 105 cells/mL, respectively 
+Page 23 of 28
+ Tarasov et al. Biotechnol Biofuels  (2018) 11:269 
+[91]. The implementation of softwood LCC biocarriers 
+increases the number of cells cultured to 6.5 × 104 cells/
+mL, whereas the control group shows cell numbers of 5.5 × 10
+4 cells/mL [172]. The hepatocytes cultured in the 
+LCC biocarriers show significantly higher values of albu -
+min secretion and blood urea nitrogen released from the hepatocytes, which indicates a better biocompatibility and higher metabolic activity of cells cultured in LCC biocarriers [91]. The results show that LCC biocarriers are highly biocompatible and can be applied as a pre
+-
+cursor of biomaterial for culturing human liver cells [91, 172].
+Other applications
+Due to the abundance of hydroxyl groups, LCC can also be applied in composite production as a component in polyurethane polymers and epoxy resins [95]. LCC could be used in polymer composites, as carbohydrate moie
+-
+ties are able to adhere to other ingredients in the polymer system [95].
+The combination of rigid, hydrophobic lignin units, and 
+flexible hydrophilic sugar moieties results in a good bio
+-
+logical compatibility and strength in LCC material. Soft -
+wood and hardwood LCC preparations were successfully tested as biocarrier for liver cells’ culturing. In addition, the high concentration of hydroxyl groups provides an opportunity to employ LCC materials for composite pol
+-
+ymer production. However, to our best knowledge, the industrial application of LCCs is still at the research and development stage.
+Conclusions
+The compositions, structures, and properties of LCC presented and extracted from different biomass sources are described in this review paper. In softwoods, all lignin moieties are involved in LCC, whereas, in hard
+-
+woods and herbaceous plants, LCC constitutes 47–66% and 16–35% of total lignin, respectively. The predomi
+-
+nance of benzyl ether linkages is reported in softwood LCC, whereas esters and phenyl glycosidic bonds were found to be dominant in deciduous species. Likewise, in the case of non-wood plants, phenyl glycosidic link
+-
+ages are dominant. A high amount of benzyl ether and phenyl glycosidic bonds negatively affect kraft pulping and the delignification performance due to alkali resist
+-
+ance of these linkages, while the ester bonds are alkali-liable. Softwood species contain LCC with two different structures of lignin, namely lignin–xylan and lignin–glu
+-
+comannan. However, hardwood species contain xylan–lignin and cellulose–lignin complexes. Herbaceous LCC mainly contains arabinoxylan linked with lignin moieties via ferulate esters. The application of DMSO/TBAH mix
+-
+ture with Ba(OH)2, followed by an enzymatic hydrolysis, allows for the separation of three LCC fractions and is considered to be a universal method of LCC fractionation from biomass. Alkali and combined acid/alkali degrada
+-
+tion strategies can be employed for ester and ether link -
+age analysis. The Smith degradation method is applied for the estimation of phenyl glycosidic bonds of LCC. The application of DDQ and methylation allows for the iden
+-
+tification of the bonding sites of sugars involved in benzyl ether and ester linkages. GPC analysis reveals LCC exist
+-
+ence in black liquor, hydrolysates, PHL, and SL of NSSC process. 
+1H-NMR technology is applied to research 
+alkali-liable and acid-liable bonds existence in LCC. 13C-
+NMR spectroscopy analysis elucidates the bonding sites of sugar units to lignin moieties. However, for accurate determination and quantification of lignin–carbohy
+-
+drate linkages, a combined application of 2D HSQC and 
+13C-NMR technologies is required. LCC materials show 
+promising results as anti-HIV agents due to their abil -
+ity to inhibit HIV adsorption and to penetrate into cells. Moreover, LCCs seem to be efficient as precursors for biocarrier production.
+List of symbols
+Abbreviations and symbols
+A. donax: Arundo donax; Ar: aromatic unit; Ara: arab -
+inose; ASGPR: asiaglycoprotein receptors; BE: benzyl ether; C: carbon;  C
+9: phenylpropane unit; Carbohydrates-
+DDQ: carbohydrates liberated from LCC due to DDQ application;  CC
+50: cytotoxic concentration; Cp: heat 
+capacity; DDQ: 2,3-dichloro-5,6-dicyanobenzoquinone; DMSO: dimethyl sulfoxide; DMSO-d6: deuterated DMSO;  EC
+50: effective concentration; FTIR: Fourier-
+transform infrared spectroscopy;  G2: guaiacyl lignin 
+units; Gal: arabinogalactan (Galactan); GC/MS: gas chromatography–mass spectrometry; GGM–L: galacto
+-
+glucomannan–lignin; GGM–L–Pectin: galactoglucoman -
+nan–lignin–pectin; GLC: gas–liquid chromatogram; Glu: glucan; Glu–L: glucan–lignin; Glu–Xyl–L: glucan–xylan–lignin; GM: glucomannan; GM–L: glucoman
+-
+nan–lignin; GM–L–Xyl: glucomannan–lignin–xylan; GPC: Gel permeation chromatography; H: hydrogen;  H
+2,6: hydroxyphenyl lignin units; HIV: Human immu -
+nodeficiency virus; IR: infrared spectroscopy; IV-DP: intrinsic-differential pressure; L: lignin; L–C bonds: Lignin–carbohydrate bonds; LCC: lignin–carbohydrate complex; LCCs: lignin–carbohydrate complexes; LCC-AcOH: LCC extracted with acetic acid (AcOH); LCC-We: LCC extracted in accordance with the method devel
+-
+oped by Watanabe et  al. [113]; LFP complex: Lignin–ferulate–polysaccharide complex; Man: mannan; MW: molecular weight; MWL: milled wood lignin; N: nitro
+-
+gen; ND: not detected; NMR: nuclear magnetic reso -
+nance; NSSC: neutral sulphite semichemical process; O: 
+Page 24 of 28 Tarasov et al. Biotechnol Biofuels  (2018) 11:269 
+oxygen; PhyGlc: phenyl glycosidic; PHL: prehydroly -
+sis liquor; RI: reflective index; S: sulfur;  S2,6: syringyl 
+lignin units; SI: selective index; SL: spent liquor; TBAH: 
+tetrabutylammonium hydroxide;  Tg: glass transition tem -
+perature; THF-d8: deuterated tetrahydrofuran; Tonset:  
+degradation onset temperature; UV: ultraviolet; Xyl: 
+arabino-4-O-methylglucoronoxylan (Xylan); Xyl–Glu–L: xylan–glucose–lignin; Xyl–L: xylan–lignin; Xyl–L–Ara: xylan–lignin–arabinose; Xyl–L–Gal: xylan–lignin–galactan; Xyl–L–Glu: xylan–lignin–glucan; Xyl–L–GM: xylan–lignin–glucomannan; δ
+c: 13C NMR chemical shift; 
+δH: 1H NMR chemical shift; 13C NMR: carbon NMR 
+spectroscopy; 1H NMR: proton NMR spectroscopy; 2D 
+HMBC NMR: two-dimensional heteronuclear multiple bond coherence NMR; 2D HSQC NMR: two-dimen
+-
+sional heteronuclear single quantum coherence NMR; 2D TOCSY NMR: two-dimensional total correlation NMR; 3D HSQC-TOCSY NMR: three-dimensional HSQC-TOCSY NMR
+Chemical compounds
+(CH3CO)2O: acetic anhydride; AcOH: acetic acid; 
+Ba(OH)2: barium hydroxide;  C2H6OH: ethanol;  C4H10O: 
+ethyl ether;  C5H5N: pyridine;  C6H8O6: ascorbic acid; 
+ CF3SO3CH3: trifluoromethanesulphonate;  CH3I: methyl 
+iodide;  D2O: deuterium oxide;  H2O: water;  H2SO4: sul -
+phuric acid;  H3BO3: boric acid; HCl: hydrochloric acid; 
+ N2: nitrogen gas;  Na2SO4: sodium sulfate;  NaBH4: sodium 
+borohydride; NaH: sodium hydride; NaI: sodium iodide;  NaIO
+4: sodium periodate; NaOH: sodium hydroxide
+Authors’ contributions
+DT was the main author of this work. ML was the cosupervisor of DT on this research. PF was the lead supervisor of the group on this project. All authors read and approved the final manuscript.
+Authors’ information
+Dr. Dmitry Tarasov obtained his Ph.D. in 2018 at Lakehead University. He performed research on the production and application of lignin–carbohydrate complexes and lignocelluloses generated via hydrolysis process of biomass. He is currently an associate researcher at Biorefining Research Institute of Lakehead University. Dr. Mathew Leitch is an associate professor of Lakehead University and has been working on developing non-destructive methods for analyzing wood properties. Dr. Pedram Fatehi is an associate professor, Canada Research Chair (Tier II), and Industrial Research Chair of Chemical Enginerring Department at Lakehead University. He has been working on the extraction, purification, and generation of hemicelluloses, lignin, and lignin–carbohydrate complexes from various resources and pulping spent liquors. He has also been working on the valorization of hemicelluloses and lignin.
+Author details
+1 Chemical Engineering Department, Lakehead University, 955 Oliver Road, 
+Thunder Bay, ON P7B 5E1, Canada. 2 Natural Resource Management Faculty, 
+Lakehead University, 955 Oliver Road, Thunder Bay, ON P7B 5E1, Canada. Competing interests
+The authors declare that they have no competing interests.
+Availability of supporting data
+Not applicable.Consent for publicationNot applicable.
+Ethics approval and consent to participate
+Not applicable.
+Funding
+The authors would like to thank NSERC, Canada Research Chairs, Northern Ontario Heritage Corporation Fund, and Canada Foundation for Innovation for supporting this research.
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in pub -
+lished maps and institutional affiliations.
+Received: 26 June 2018   Accepted: 19 September 2018
+References
+ 1. Santos RB, Hart PW, Jameel H, Chang H-M. Wood based lignin reaction important to the biorefinery and pulp and paper industries. BioRes. 2013;8(1):1456–77.
+ 2. Lawoko M. Unveiling the structure and ultrastructure of lignin carbohy-drate complexes in softwoods. Int J Biol Macromol. 2013;62:705–13.
+ 3. Sjöström E. Wood chemistry, fundamentals and applications. 2nd ed. San Diego: Academic Press; 1993.
+ 4. Nhuchhen DR, Basu P , Acharya B. A compressive review on biomass torrefecation. Int J Renew Erg Biofuel. 2014;2014:1–57.
+ 5. Menon V, Rao M. Trends in bioconversion of lignocellulose: biofuels, platform chemicals and biorefinery concept. Prog Energ Comb Sci. 2012;38:522–50.
+ 6. Arsene M-A, Bilba K, Savastano H, Ghavami K. Treatments of non-wood plant fibers used as reinforcement in composite materails. Mater Res. 2013;16(4):903–23.
+ 7. Smit A, Huijgen W. Effective fractionation of lignocellulose in her -
+baceous biomass and hardwood using a mild acetone organosolv process. Green Chem. 2017;19:5505.
+ 8. Pothiraj C, Kanmani P , Balaji P . Bioconversion of lignocellulose materials. Mycobiology. 2006;34(4):159–65.
+ 9. Chandel A, Chandrasekjar G, Radhika K, Ravinder R, Ravindra P . Biocon-version of pentose sugars into ethanol: a review and future directions. Biotechnol Mol Biol Rev. 2011;6(1):8–20.
+ 10. Lora J, Glasser W. Recent industrial applications of lignin: a sustainable alternative to nonrenewable materials. J Polym Env. 2002;10(112):39–48.
+ 11. Vishtal A, Kraslawski A. Challenges in industrial applications of technical lignins. BioResources. 2011;6(3):3547–68.
+ 12. Zheng Y, Pan Z, Zhang R. Overview of biomass pretreatment for cel-lulosic ethanol production. Int J Agric Biol Eng. 2009;2(3):51–68.
+ 13. Shokri J, Adibkia K. Application of cellulose and cellulose derivatives in pharmaceutical industries. In: van de Ven T, Godbout L, editors. Cellulose-medical, pharmaceutical and electronic applications. InTech: New York; 2013. p. 47–66.
+ 14. Garcia J, Zamudio M, Perez A, Feria M, Gomide J, Coledette J, Lopez F. Soda-AQ pulping of paulownia wood after hydrolysis treatment. BioRe -
+sources. 2011;6(2):971–86.
+ 15. Balakshin M, Capanema E, Chang H. MWL fraction with a high concentration of lignin–carbohydrate linkages: isolation and 2D NMR spectroscopic analysis. Holzforchung. 2007;61:1–7.
+ 16. Kim JS, Lee YY, Kim TH. A review on alkaline pretreatment technol-ogy for bioconversion of lignocellulosic biomass. Bioresour Technol. 2016;199:42–8.
+ 17. Du X, Perez-Boada M, Fernandez C, et al. Analysis of lignin–carbohy-drate and lignin–lignin linkages after hydrolase treatment of xylan–lignin, glucomannan-lignin and glucan–lignin complexes from spruce wood. Planta. 2014;239:1079–90.
+ 18. Balakshin M, Capanema E, Berlin A. Isolation and analysis of lignin–carbohydrate complexes preparations with traditional and advanced 
+Page 25 of 28
+ Tarasov et al. Biotechnol Biofuels  (2018) 11:269 
+methods: a review. In: Atta-ur-Rahman A, editor. Studies in natural 
+products chemistry 42. Amsterdam: Elsevier; 2014. p. 83–111.
+ 19. Lawoko M, Henriksson G, Gellerstedt G. Structural differences between the lignin–carbohydrate complexes present in wood and in chemical pulps. Biomacromolelules. 2005;6:3467–73.
+ 20. Henriksson G, Lawoko M, Martin M, Gellerstedt G. Lignin–carbohydrate network in wood and pulps: a determinant for reactivity. Holz-forschung. 2007;61:668–74.
+ 21. Balakshin M, Capanema E, Gracz H, Chang H-M, Jameel H. Quanti-fication of lignin–carbohydrate linkages with high-resolution NMR spectroscopy. Planta. 2011;233:1097–110.
+ 22. Dammstrom S, Salmen L, Gatenholm P . On the interactions between cellulose and xylan, a biomimetic simulation of the hardwood cell wall. BioResources. 2009;4(1):3–14.
+ 23. Yao L, Chen C, Zheng X, Peng Z, Yang H, Xie Y. Determination of lignin–carbohydrate complexes structure of wheat straw using carbon-13 isotope as a tracer. BioResources. 2016;11(3):6692–707.
+ 24. You T-T, Zhang L-M, Zhou S-K, Xu F. Structural elucidation of lignin–car -
+bohydrate complex (LCC) preparations and lignin from Arundo donax Linn. Ind Crop Prod. 2015;71:65–74.
+ 25. Zhang B, Fu G-Q, Niu Y-S, Peng F, Yao C-L, Sun R-C. Variations of lignin–lignin and lignin–carbohydrate linkages from young Neosinocalamus affinis bamboo culms. RSC Adv. 2016;6:15478–84.
+ 26. Shevchenko SM, Bailey GW. Life after death: lignin–humic relationships reexamined. Crit Rev Environ Sci Technol. 1996;26:95–153.
+ 27. Silva V, Jameel H, Gomes F, Batalha L, Coura M, Colodette J. Effect of lignin carbohydrate complexes of hardwood hybrids on the kraft pulp -
+ing process. J Wood Chem Technol. 2017;37:52–61.
+ 28. Gierer J, Wannstrom S. Formation of ether bonds between lignins and carbohydrates during kraft pulping. Holzforschung. 1986;40:347–52.
+ 29. Tenkanen M, Tamminen T, Hortling B. Investigation of lignin–carbohy-drate complexes in kraft pulps by selective enzymatic treatments. Appl Microbiol Biotechol. 1999;51:241–8.
+ 30. Lawoko M, Henriksson G, Gellersted G. New method for quantita-tive preparation of lignin–carbohydrate complex from unbleached softwood kraft pulp: lignin–polysaccharide networks I. Holzforschung. 2003;57:69–74.
+ 31. Li J, Martin-Sampedro R, Pedrazzi C, Gellerstedt G. Fractionation and characterization of lignin–carbohydrate complexes (LCC) from eucalyp -
+tus fibers. Holzforschung. 2011;65:43–50.
+ 32. Chen X, Lawoko M, van Heininhen A. Kinetics and mechanism of auto -
+hydrolysis of hardwoods. Bioresour Technol. 2010;101:7812–9.
+ 33. Balan V, da Costa L, Chundawat S, Marshall D. Enzymatic digestibility and pretreatment degradation products of AFEX-treated hardwoods (Populus nigra). Biotechnol Prog. 2009;25(2):365–75.
+ 34. Laureano-Perez L, Teymouri F, Akizadeh H, Dale B. Understanding factors that limit hydrolysis of biomass. Appl Biochem Biotechnol. 2005;124(1):1081–99.
+ 35. Chandra RP , Bura R, Mabee W, Berlin A, Pan X, Saddler JN. Subsrate pre -
+treatment: the key of effective enzymatic hydrolysis of lignocellulosics? Adv Bioechem Eng Biotechnol. 2007;108:67–93.
+ 36. Lam T, Iiyama K, Stone B. Hot alkali–labile linkages in the walls of the forage grass Phalaris aquatica and Lolium perenne and their relation to in vitro wall digestibility. Phytochem. 2003;64:603–7.
+ 37. Zhao X, Qi F, Liu D. Hierarchy nano-abd ultrastructure of lignocellulose and its impact on the bioconversion of cellulose. In: Rai M, da Silva S, editors. Nanotechnology for bioenergy and biofuel production. Cham: Springer; 2016. p. 117–52.
+ 38. Aro T, Fatehi P . Production and application of lignosulfonates and sulfonated lignin. Chemsuschem. 2017;10:1861–77.
+ 39. Olsson A-M, Salmen L. The effect of lignin composition on the viscoe -
+lastic properties of wood. Nordic Pulp Pap Res J. 1997;12:140–4.
+ 40. Li H, McDonald AG. Fractionation and characterization of industrial lignins. Ind Crop Prod. 2014;62:67–76.
+ 41. Obernberger I, Thek G. The pellet handbook: the production and ther -
+mal utilization of biomass pellets. London-Washnigton: Earthscan; 2010.
+ 42. Tarasov D, Leitch M, Fatehi P . Thermal properties of lignocellulosic precipitates from neutral sulfite semichemical pulping process. Fuel Process Technol. 2017;158:146–53.
+ 43. Li M, Pu Y, Ragauskas AJ. Current understanding of the correlation of lignin structure with biomass recalcitrance. Front Chem. 2016;4(45):1–8. 44. Shevchenko SM, Chang K, Robinson J, Saddler JN. Optimization of monosaccharide recovery by post-hydrolysis of the water-soluble hemicellulose component after steam explosion of sowtwood chips. Bioresour Technol. 2000;72:207–11.
+ 45. Liu S, Lu H, Hu R, Shupe A, Lin L, Liang B. A sustainable woody bio -
+mass biorefinery. Biotechnnol Adv. 2012;30:785–810.
+ 46. Wilfor S, Sundberg K, Tenkanen M, Holmbom B. Spruce-derived man-nans: a potential raw material for hydrocolloids and novel advanced natural materials. Carboh Polym. 2008;72:197–210.
+ 47. Rissanen J, Grenman H, Xu C, Willfor S, Murzin D, Salmi T. Obtaining spruce hemicelluloses of desired molar mass by using pressurized hot water exctraction. Chemsuschem. 2014;7:2947–53.
+ 48. Xu C, Willfor S, Holmbom B. Rheological properties of mixtures of spruce galactoglucomannans and konjac glucomannan or some other polysaccharides. BioResources. 2008;3(3):713–30.
+ 49. Pathak P , Kaur P , Bhardwaj N. Microbial enzymes for pulp and paper industry: prospects and developments. In: Shukla P , editor. Microbial biotechnology: an interdisciplinary approach. Boca Raton: CRC Press Taylor & Francis Group; 2016. p. 163–240.
+ 50. Kaupp A, Goss JR. Fuel. In: Kaupp A, Goss JR, editors. Small scale gas producer-engine systems. Springer: Berlin; 2013. p. 100–41.
+ 51. Grushnikov OP , Shorygina NN. The present state of the problem of lignin–carbohydrate bonds in plants tissues. Rus Chem Rev. 1970;39(8):684–94.
+ 52. Erdmann J. Ueber die concretion in den pyrus. Ann Chem Pharm. 1866;138:1–19.
+ 53. Koshijima T, Watanabe T. Association between lignin and carbohy-drates in wood and other plant tissues. Berlin: Springer; 2003.
+ 54. Jin Z, Katsumata K, Lam T, Iiyama K. Covalent linkages between cel-lulose and lignin in cell walls of coniferous and nonconiferous wood. Biopolymers. 2006;83(2):103–10.
+ 55. Eriksson O, Goring D, Lindgren B. Structural studies on the chemical bonds between lignins and carbohydrates in spruce wood. Wood Sci Technol. 1980;14:267–79.
+ 56. Lam T, Iiyma K. Characteristics of senescent straw cell walls of dwarf, semidwarf, and normal strains of rice (Oryza sativa) plants. J Wood Sci. 2000;46:376–80.
+ 57. Meshitsuka G, Lee ZZ, Nakano J, Eda S. Studies of the nature of lignin–carbohydrate bonding. J Wood Chem Technol. 1982;2(3):251–67.
+ 58. Minor J. Chemical linkage of pine polysaccharides to lignin. J Wood Chem Technol. 1982;2:1–16.
+ 59. Brunow G, Lundquist K. Functional groups and bonding patterns in lignin (including the lignin–carbohydrate complexes). In: Heitner C, Dimmel D, Schmidt J, editors. Lignin and lignas: advances in chemis-try. Boca Raton: CRC Press, Taylor & Francis Group; 2010. p. 267–301.
+ 60. Kosikova B, Ebringerova A. Lignin–carbohydrate bonds in a residual soda spruce pulp lignin. Wood Sci and Technol. 1994;28:291–6.
+ 61. Lawoko M. Lignin polysaccharide networks in softwood and chemi-cal pulps: characterization, structure and reactivity. Doctoral disserta-tion. Stockholm: Royal Institute of Technology; 2005.
+ 62. Albersheim P , Darvill A, Roberts K, Sederoff R, Staehelin A. Biochem-istry of the cell wall molecules. In: Albersheim P , Darvill A, Roberts K, Sederoff R, Staehelin A, editors. Plant cell walls: from chemistry to biology. New York: Taylor & Francis Group; 2010. p. 67–118.
+ 63. Oliveira D, Finger-Teixeira A, Mota T, et al. Ferulic acid: a key compo -
+nent in grass lignocellulose recalcitrance to hydrolysis. Plant Biotech-nol J. 2015;13:1224–32.
+ 64. Ralph J, Grabber JH, Hatfield RD. Lignin-ferulate cross-links in grasses: active incorporation of ferulate polysaccharide esters into ryegrass lignins. Carbohydr Res. 1995;275:167–78.
+ 65. Virgili F, Pagana G, Bourne L, et al. Feruluc acid excerption as a marker of consumption of a French maritime pine (Pinus Maritima) bark extract. Free Radic Biol Med. 2000;28(8):1249–56.
+ 66. Reiter J, Strittmatter H, Wiemann LO, Shieder D, Sieber V. Enzymatic cleavage of lignin β-O -4 aryl ether bonds via internal hydrogen 
+transfer. Green Chem. 2013;15:1373–81.
+ 67. Kosikova B, Joniak D, Kosakova L. On the properties of benzyl ether bonds in the lignin–saccharidic complex isolated from spruce. Holz-forschung. 1979;33:11–4.
+Page 26 of 28 Tarasov et al. Biotechnol Biofuels  (2018) 11:269 
+ 68. Takahashi N, Koshijima T. Ester linkages between lignin and glucuron-
+oxylan in a lignin–carbohydrate complex from beech (Fagus crenata) wood. Wood Sci Technol. 1988;22:231–41.
+ 69. Takahashi N, Koshijima T. Molecular properties of lignin–carbohydrate complexes from beech (Fagus crenata) and pine (Pinus densiflora) woods. Wood Sci Technol. 1988;22:177–89.
+ 70. Lawoko M, Deshpande S, van Heiningen A. Pre-hydrolysis of the phenyl glycosidic bond in a model compound. Lenzinger Berichte. 2009;87:77–87.
+ 71. Cheng C, Wang J, Shen D, Xue J, Guan S, Gu S, Luo KH. Catalytic oxida-tion of lignin in solvent systems for production of renewable chemicals: a review. Polymers. 2017;9(6):240.
+ 72. Buranov A, Mazza G. Lignin in straw of herbaceous crops. Ind Crops Prod. 2008;28:237–59.
+ 73. Giummarella N, Zhang L, Henriksson G, Lawoko M. Structural features of mildly fractionated lignin carbohydrate complexes (LCC) from spruce. RSC Adv. 2016;48:42120–31.
+ 74. Zhao B-C, Chen B-U, Yang S, Yuan T-Q, Charlton A, Sun R-C. Structural variation of lignin and lignin–carbohydrate complex in Eucalyptus grandis × E. urophylla during its growth process. ACS Sustainable Chem Eng. 2016;5:1113–22.
+ 75. Balakshin M, Capanema E. Comprehensive structural analysis of biorefinery lignins with a quantitative 
+13C NMR approach. RSC Adv. 
+2015;106:87187–99.
+ 76. Capanema EA, Balakshin MY, Kadla JF. A comprehensive approach for quantitative lignin characterization by NMR spectroscopy. J Agric Food Chem. 2004;52:1850–60.
+ 77. Speight JG. Analysis of liquid effluents. In: Speight JG, editor. Environ-mental analysis and technology for the refining industry. New York: Wiley; 2005. p. 257–82.
+ 78. Oinonen P , Zhang L, Lawoko M, Henriksson G. On the formation of lignin polysaccharide networks in Norway spruce. Phytochem. 2015;111:177–84.
+ 79. Moore KJ, Jung H-J. Lignin and fiber digestion. J Range Manage. 2001;54:420–30.
+ 80. Kondo T, Hiroi T, Mizuno K, Kato T. Characterization of lignin–car -
+bohydrate complexes of Italian ryegrass and alfalfa. Can J Plant Sci. 1990;70:193–201.
+ 81. Peng H, Luo Q, Ruan R, Zhang J, Liu Y. Structural features of lignin and lignin–carbohydrate complexes from bamboo (Phyllostachys pubescens Mazel). BioResources. 2014;9(1):1276–89.
+ 82. Azuma J-I, Koshijima T. Lignin–carbohydrate complexes from various sources. Methods Enzymol. 1988;161:12–8.
+ 83. Sipponen MH, Lapierre C, Mechin V, Baumberger S. Isolation of structurally distinct lignin–carbohydrate fractions from maize stem by sequential alkaline extractions and endoglucanase treatment. Bioresour Technol. 2013;133:522–8.
+ 84. Zikeli F, Ters T, Fackler K, Srebotnik E, Li J. Wheat straw lignin fractiona-tion and characterization as lignin–carbohydrate complexes. Ind Crop Prod. 2015;85:309–17.
+ 85. Rio J, Prinsen P , Cadena EM, Martinez AT, Gutierrez A, Rencoret J. Lignin–carbohydrate complexes from sisal (Agave sisalana) and abaca (Musa textilis): chemical composition and structural modifications during the isolation process. Planta. 2016;243(5):1143–58.
+ 86. Lawoko M, Berggren R, Berthold F, Henriksson G, Gellerstedt G. Changes in the lignin–carbohydrate complex in softwood kraft pulp during kraft and oxygen delignification. Holzforschung. 2004;58:603–10.
+ 87. Tunc MS, Lawoko M, van Heininggen A. Understanding the limitation of removal of hemicelluloses during autohydrolysis of a mixture of southern hardwoods. BioResources. 2010;5(1):356–71.
+ 88. Tamminen T, Vuorinen T, Tenkanen M, Hausalo T, Hortling B. Analysis of lignin and lignin–carbohydrate complexes isolated from black liquor. In: 8th ISWPC, Helsinki, 6–9 June, vol II. Jyvaskyla: Gummerus Kirjapaino Oy; 1995. p. 297–302.
+ 89. Fatehi P , Gao W, Sun Y, Dashtban M. Acidification of prehydrolysis liquor and spent liquor of natural sulfite semichemical pulping process. Biore -
+sour Technol. 2016;218:518–25.
+ 90. Tarasov D, Leitch M, Fatehi P . Flow through autohydrolysis of spruce wood chips and lignin carbohydrate complex formation. Cellulose. 2018;25(2):1377–93. 91. Zhao H, Feng Q, Xie Y, Li J, Chen X. Preparation of biocompatible hydrogel from lignin–carbohydrate complex (LCC) as cell carriers. BioResources. 2017;12(4):8490–504.
+ 92. Zhang L, Gellerstedt G. Quantitative 2D HSQC NMR determination of polymer structures by selecting suitable internal standard references. Magn Reson Chem. 2007;45:37–45.
+ 93. Chen X, Li H, Sun S, Cao X, Sun R. Effect of hydrothermal pretreat -
+ment on the structural changes of alkaline ethanol lignin from wheat straw. Sci Rep. 2016;6:1–9.
+ 94. Nassar MM, MacKay GDM. Mechanism of thermal decomposition of lignin. Wood Fiber Sci. 1984;16(3):441–53.
+ 95. Singh R, Singh S, Trimukhe KD, Pandare KV, Bastawade KB, Gokhale DV, Varma AJ. Lignin–carbohydrate complexes from sugarcane bagasse: preparation, purification, and characterization. Carbohydr Polym. 2005;62:57–66.
+ 96. Hatakeyama H, Hatakeyama T. Thermal properties of isolated and in situ lignin. In: Heitner C, Dimmel D, Schmidt J, editors. Lignin and lignas advances in chemistry. Boca Raton: CRC Press, Taylor & Francis Group; 2010. p. 301–19.
+ 97. Trajano HL, Engle NL, Foston M, Ragauskas AJ, Tschaplinski TJ, Wyman CE. The fate of lignin during hydrothermal pretreatment. Biotechol Biofuels. 2013;6:110–27.
+ 98. Stokke DD, Wu Q, Han G. Consolidation behavior of lignocellulosic materials. In: Stokke DD, Wu Q, Han G, editors. Introduction of wood and natural fiber composites. Chichester: Wiley; 2014. p. 85–127.
+ 99. Youssefian S, Rahbar N. Molecular origin of strength and stiffness in bamboo fibrils. Sci Rep. 2015;5:1–13.
+ 100. Lourencon TV, Hansel FA, da Silva TA, et al. Hardwood and softwood kraft lignins fractionation by simple sequential acid precipitation. Sep Purif Technol. 2015;154:82–8.
+ 101. Koshijima T, Watanabe T, Yaku F. Structure and properties of the lignin–carbohydrate complex polymer as an amphipathic substance. In: Glasser G, Sarkanen S, editors. ACS Symposium Series 397. Wash-ington DC: American Chemical Society; 1989. p. 11–28.
+ 102. Merewether J, Samsuzzaman L, Calder I. Studies on a lignin–carbohy-drate complex. Part II: characterization of the water-soluble lignin–carbohydrate complex. Holzforschung. 1972;26(5):180–5.
+ 103. Nanbu T, Shimada J, Kobayashi M, Hirano K, Koh T, Machino M, Ohno H, Yamamoto M, Sakagami H. Anti-UV activity of lignin–carbohydrate complex and related compounds. Vivo. 2013;27(1):133–9.
+ 104. Sakagami H, Sheng H, Okudaira N, et al. Prominent anti-UV activity and possible cosmetic potential of lignin–carbohydrate complex. In Vivo. 2016;30:331–40.
+ 105. Kato T, Hino S, Horie N, Shimoyama T, Kaneko T, Kusama K, Sak -
+agami H. Anti-UV activity of Kampo medicines and constituent plant extracts: re-evaluation with skin keratinocyte system. Vivo. 2014;28(4):571–8.
+ 106. Ueki J, Sakagami H, Wakabayashi H. Anti-UV activity of newly-synthe -
+sized water-soluble azulenes. Vivo. 2013;27(1):119–26.
+ 107. Gray KR, King EG, Brauns F, Hibbert H. Studies on lignin and related compounds: XIII the structure and properties or glycol lignin. Can J Res. 1935;13(B):35–47.
+ 108. Merewether JWT, Lignin XII. The isolation of lignin by alcoholysis in the absence of air. Holzforschung. 1954;8(4):116–23.
+ 109. Traynard P , Ayround AM, Eymery A. Existence d’une liaison lignine-hydrates de carbone dans le bois. Assoc Tech Ind Papetiere Bull. 1953;2:45–52.
+ 110. Björkman A. Isolation of lignin from finely divided wood with neutral solvents. Nature. 1954;174:1057–8.
+ 111. Björkman A. Studies on finely divided wood. Part 1. Extraction of lignin with neutral solvents. Svensk Papperstidn. 1956;59:477–85.
+ 112. Holtman K, Chang H, Jameel H, Kadla JF. Quantitative 
+13C NMR 
+characterization of milled wood lignins isolated by different milling techniques. J Wood Chem Technol. 2006;26:21–34.
+ 113. Watanabe T, Azyma J, Koshijima T. A convenient method for prepar -
+ing lignin–carbohydrate complex from Pinus densiflora wood. Moku-zai Gakkaishi. 1987;33:798–803.
+ 114. Lawoko M, Henriksson G, Gellerstedt G. Characterization of lignin–carbohydrate complex (LCCs) of spruce wood (Picea abies L.) isolated 
+with two methods. Holzforschung. 2006;60:156–61.
+Page 27 of 28
+ Tarasov et al. Biotechnol Biofuels  (2018) 11:269 
+ 115. Du X, Gellerstedt G, Li J. Universal fractionation of lignin–carbohydrate 
+complexes (LCC) from lignocellulosic biomass: an example using spruce wood. Plant J. 2013;74(2):328–38.
+ 116. Iversen T. Lignin–carbohydrate bonds in a lignin–carbohydrate com-plex isolated from spruce. Wood Sci Technol. 1985;19:243–51.
+ 117. Azuma J-I, Nomura T, Koshijima T. Lignin–carbohydrate complexes containing phenolic acids isolated from the clums of bamboo. Agric Biol Chem. 1985;49(9):2661–9.
+ 118. Obst J. Frequency and alkali resistance of lignin–carbohydrate bonds in wood. Tappi. 1982;65(4):109–12.
+ 119. Bolker HI. A lignin carbohydrate bond as revealed by infra-red spectros-copy. Nature. 1963;197:489–90.
+ 120. Eriksson O, Lindgren BO. About the linkage between lignin and hemi-celluloses in wood. Svensk Papperstidn. 1977;80:59–63.
+ 121. Dryhurst G. Periodate oxidation in structural studies. In: Dryhurst G, edi-tor. Periodate oxidation of diol and other functional groups: analytical and structural applications. London: Elsevier; 2015. p. 75–116.
+ 122. Yaku F, Tanaka R, Koshijima T. Lignin carbohydrate complex. Part IV. Lignin as side chain of the carbohydrate in Björkaman LCC. Holz-forschung. 1981;35:177–81.
+ 123. Sunner H, Charavgi MD, Olsson L, Topakas E, Christakopoulos P . Glucuronoyl esterase screening and characterization assays utiliz-ing commercially available benzyl glucuronic acid ester. Molecules. 2015;20(10):17807–17.
+ 124. Crepin VF, Faulds CB, Connerton IF. Functional classification of the microbial feruloyl esterases. Apll Microbiol Biotechnol. 2004;63:647–52.
+ 125. Lindgren BO. The lignin–carbohydrate linkage. Acta Chem Scand. 1958;12:447–52.
+ 126. Lubran M. Paper electrophoresis. JAMA. 1966;197(5):360–1.
+ 127. Fritsch RJ, Krause I. Electrophoresis. In: Caballero B, Finglas P , Toldra F, editors. Encyclopedia of food sciences and nutrition. 2nd ed. San Diego: Elsevier; 2003. p. 2055–62.
+ 128. Azuma J-I, Takahashi N, Koshijima T. Isolation and characterisation of lignin–carbohydrate complexes from the milled-wood lignin fraction of Pinus densiflora sieb. et zucc. Carbohydr Res. 1981;93(1):91–104.
+ 129. Jay A. The methylation reaction in carbohydrate analysis. J Carbohydr Chem. 1996;15(8):897–923.
+ 130. Hanisch F-G. Methylation analysis of complex carbohydrates: overview and critical comments. Biol Mass Spectrom. 1994;23:309–12.
+ 131. Laine C, Tamminen T, Vikkula A, Vuorinen T. Methylation analysis as a tool for structural analysis of wood polysaccharides. Holzforschung. 2002;56:607–14.
+ 132. Laine C, Tamminen T, Hortling B. Carbohydrate structures in residual lignin–carbohydrate complex of spruce and pine pulp. Holzforschung. 2004;58:611–21.
+ 133. Morrison I. Structural investigations on the lignin–carbohydrate com-plexes of Lolium perenne. Biochem J. 1974;139(1):197–204.
+ 134. Hakomori S. A rapid permethylation of glycolipid, and polysaccharide catalyzed by methylsulfinyl carbanion in dimethyl sulfoxide. J Biochem. 1964;55:205–8.
+ 135. Ciucane I, Kerek F. A simple and rapid method for the permethylation of carbohydrates. Carbohydr Res. 1984;131:209–17.
+ 136. Watanabe T, Kaizu S, Koshjima T. Binding sites of carbohydrate moieties toward lignin in “lignin–carbohydrate complex” from Pinus densiflora wood. Chem Letters. 1986;15(11):1871–4.
+ 137. Koshijima T, Watanabe T, Azuma J-I. Existence of benzylated carbohy-drate moiety in lignin–carbohydrate complex from pine wood. Chem Letters. 1984;13(10):1737–40.
+ 138. Prehm P . Methylation of carbohydrates by methyl trifluoromethanesul-fonate in trimethyl phosphate. Carboh Res. 1980;78(2):372–4.
+ 139. Watanabe T, Koshijima T. Evidence for an ester linkage between lignin and glucuronic acid in lignin–carbohydrate complexes by DDQ-oxida-tion. Agric Biol Chem. 1988;52(11):2953–5.
+ 140. Nagy M, Kosa M, Theliander H, Ragauskas. Characterization of  CO
+2 
+precipitated Kraft lignin to promote its utilization. Green Chem. 2010;12:31–4.
+ 141. Ma M-G, Jia N, Zhu J-F, Li S-M, Peng F, Sun R-C. Isolation and charac-terization of hemicelluloses extracted by hydrothermal pretreatment. Bioresour Technol. 2012;114:677–83.
+ 142. Shashidher B, Bajjuri R, Guguloath V. Formation and trapping of ben-zyne. Pharm Anal Acta. 2011;2(7):137–44. 143. Uraki Y, Usukura Y, Kishimoto T, Ubukata M. Amphiphilicity of a lignin–carbohydrate complex. Holzforschung. 2006;60:659–64.
+ 144. Yuan T-Q, Sun S-N, Xu F, Sun RC. Characterization of lignin structures and lignin–carbohydrate complex (LCC) linkages by quantita-tive 13C and 2D HSQC NMR spectroscopy. J Agric Food Chem. 2011;59(19):10604–14.
+ 145. Ralph J, Landucci L. NMR of lignins. In: Heitner C, Dimmel D, Schmidt J, editors. Lignin and lignas: advances in chemistry. Boca Raton: CRC Press, Taylor & Francis Group; 2010. p. 137–244.
+ 146. Balakshin M, Capanema E, Chen C-L, Gracz HS. Elucidation of the struc-tures of residual and dissolved pine kraft lignins using an 2D HMQC NMR technique. J Agric Food Chem. 2003;51:6116–27.
+ 147. Skurikin IM. Investigation of lignin and tannisn of cognac alcohol by means of applying IR, UV and NMR spectroscopy methods. Prikl Biokhim Microbiol. 1968;4:113–9.
+ 148. Kosikova B, Polcin J, Joniak D. NMR studies on lignin–carbohydrate complexes. Holzforschung. 1973;27:59–64.
+ 149. Freudenberg K, Neish AC. Constitution and biosynthesis of lignin. New York: Springer; 1968. p. 69–74.
+ 150. Pu Y, Hallac B, Ragauskas A. Plant biomass characterization: Application of solution- and solid-state NMR spectroscopy. In: Wyman CE, editor. Aqueous pretreatment of plant biomass for biological and chemical conversion to fuels and chemicals. Chichester: Wiley; 2013. p. 369–90.
+ 151. You T, Xu F. Applications of molecular spectroscopic methods to elucidation of lignin structure. In: Stauffer MT, editor. Applications of molecular spectroscopy to current research in the chemical and biolog-ical science. InTech: New York; 2016. p. 235–60.
+ 152. Xie Y, Yasuda S, Wu H, Liu H. Analysis of the structure of lignin–car -
+bohydrate complexes by the specific 
+13C tracer method. J Wood Sci. 
+2000;46:130–6.
+ 153. Barakat A, Winter H, Rondeau-Mouro C, Saake B, Chabbet B, Cathala B. Studies of xylan interactions and cross-linking to synthetic lignins formed by bulk and end-wise polymerization: a model study of lignin carbohydrate complex formation. Planta. 2007;226:267–81.
+ 154. Zhang L, Gellerstedt G. NMR observation of a new lignin structure, a spiro-dienone. Chem Commun. 2001;24:2744–5.
+ 155. Min D-Y, Li Q, Chiang V, Jameel H, Chang H-M. Lucia L. The influence of lignin–carbohydrate complexes on the cellulase-mediated saccharifica-tion I: transgenic black cottonwood (western balsam poplar, California poplar) P . trichocarpa including the xylan down-regulated and the lignin down-regulated lines. Fuel. 2014;119:207–13.
+ 156. Evtuguin D, Goodfellow B, Neto CP , Terashima N. Characterization of lignin–carbohydrate linkages in Eucalyptus globulus by 2D/3D NMR spectroscopy using specific carbon-13 labelling technique. Appita Annual Conf. 2005;2:439–44.
+ 157. Ammalahti E, Brunow G, Bardet M, Robert D, Kilpelainen I. Indetifica-tion of side-chin structures in a poplar lignin using three-dimen-sional HMQC-HOHAHA NMR spectroscopy. J Agric Food Chem. 1998;46:5113–7.
+ 158. Liitia T, Maunu SL, Hortling B, Toikka M, Kilpelainen I. Analysis of techni-cal lignins by two- and three-dimensional NMR spectroscopy. J Agric Food Chem. 2003;51:2136–43.
+ 159. Griffin JL, Keun H, Richter C, Moskau D, Rae C, Nicholson JK. Compart -
+mentation of metabolism probed by [2-
+13C]alanine: improved 13C NMR 
+sensitivity using a CryoProbe detects evidence of a glial metabolon. Neurochem Int. 2003;42(1):93–9.
+ 160. Wen J-L, Sun S-L, Xue B-L, Sun R-C. Recent advances in characterization of lignin polymer by solution-state nuclear magnetic resonance (NMR) methodology. Materials. 2013;6:359–91.
+ 161. Goger MJ, McDonnell JM, Cowburn D. Using cryoprobes to decrease acquisition times of triple-resonance experiments used for protein resonance assignment. Spectroscopy. 2003;17:161–7.
+ 162. Nishimura H, Kamiya A, Nagata T, Katahira M, Watanabe T. Direct evi-dence for α ether linkage between lignin and carbohydrates in wood cell walls. Sci Rep. 2018;8:6538.
+ 163. Sette M, Wechselberger R, Crestini C. Elucidation of lignin structure by quantitative 2D NMR. Chem Eur J. 2011;17:9529–35.
+ 164. Wen J-L, Cue B-L, Xu F, Sun R-C. Unveiling the structural heterogene -
+ity of bamboo lignin by in situ HSQC NMR technique. Bioenerg Res. 2012;5:886–903.
+Page 28 of 28 Tarasov  et al. Biotechnol Biofuels  (2018) 11:269 
+•
+ fast, convenient online submission
+ •
+  thorough peer review by experienced researchers in your ﬁeld
+• 
+ rapid publication on acceptance
+• 
+ support for research data, including large and complex data types
+•
+  gold Open Access which fosters wider collaboration and increased citations 
+ maximum visibility for your research: over 100M website views per year •
+  At BMC, research is always in progress.
+Learn more biomedcentral.com/submissionsReady to submit y our researc h ?  Choose BMC and benefit fr om: 
+ 165. Ibarra D, Chavez MI, Rencoret J, Martinez AT, et al. Lignin modification 
+during Eucalyptus globulus kraft pulping followed by totally chlorine-free bleaching: a two-dimensional nuclear magnetic resonance, Fourier transform infrared, and pyrolysis–gas chromatography/mass spectrom-etry study. J Agric Food Chem. 2007;55(9):3477–90.
+ 166. Vinardell MP , Mitjans M. Lignins and their derivatives with beneficial effects on human health. Int J Mol Sci. 2017;18:1219–34.
+ 167. Zhang Y, But PP , Ooi VE, Xu HX, Delaney GD, Lee SH, Lee SF. Chemical properties, mode of action, and in vivo anti-herpes activities of a lignin–carbohydrate complex from Prunella vulgaris. Antivir Res. 2007;75:242–9.
+ 168. Sakagami H, Kushida T, Oizumi T, Nakashima H, Makino T. Distribution of lignin–carbohydrate complex in plant kingdom and its functionality as alternative medicine. Pharmacol Ther. 2010;128:91–105.
+ 169. Lee J-B, Yamagishi C, Hayashi K, Hayashi T. Antiviral and immunostimu-lating effects of lignin–carbohydrate–protein complexes from Pimpi-nella ansum. Biosci Biotechnol Biochem. 2011;75(3):459–65. 170. Kai D, Ren W, Tian L, Chee PL, Liu Y, Ramakrishna S, Loh XJ. Engineering poly(lactide)-lignin nanofibers with antioxidant activity fro biomedical application. ACS Sust Chem Eng. 2016;4(10):5268–76.
+ 171. Erakovic S, Veljovic D, Diouf PN, Stevanovic T, Mitric M. Electrophoretic deposition of biocomposite lignin/hydroxyapatite coatings on tita-nium. Int J Chem Reactor Eng. 2009;7(1):113–30.
+ 172. Zhao H, Li J, Wang P , Zeng S, Xie Y. Lignin–carbohydrate complexes based spherical bio-carriers: preparation, characterization and biocom-pability. Int J Polym Sci. 2017;207:1–10.
+ 173. Fliermans CB. Biocarrier composition for and method of degrading pol-lutants. Patent No. US-A8296261. 1996.

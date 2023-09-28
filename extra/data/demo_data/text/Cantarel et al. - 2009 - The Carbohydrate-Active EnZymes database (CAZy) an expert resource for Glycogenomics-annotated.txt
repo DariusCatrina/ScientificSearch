@@ -1,0 +1,311 @@
+Published online 05 October 2008 Nucleic Acids Research, 2009, Vol. 37, Database issue D233–D238
+doi:10.1093/nar/gkn663
+The Carbohydrate-Active EnZymes database
+(CAZy): an expert resource for Glycogenomics
+Brandi L. Cantarel, Pedro M. Coutinho, Corinne Rancurel, Thomas Bernard,
+Vincent Lombard and Bernard Henrissat*
+Architecture et Fonction des Macromole ´cules Biologiques, UMR6098, CNRS, Universite ´s Aix-Marseille I & II,
+163 Avenue de Luminy, 13288 Marseille, France
+Received September 15, 2008; Accepted September 19, 2008
+ABSTRACT
+The Carbohydrate-Active Enzyme (CAZy) database
+is a knowledge-based resource specialized in theenzymes that build and breakdown complex carbo-
+hydrates and glycoconjugates. As of September
+2008, the database describes the present knowledgeon 113 glycoside hydrolase, 91 glycosyltransferase,19 polysaccharide lyase, 15 carbohydrate esteraseand 52 carbohydrate-binding module families.These families are created based on experimentallycharacterized proteins and are populated bysequences from public databases with significant
+similarity. Protein biochemical information is con-
+tinuously curated based on the available literatureand structural information. Over 6400 proteins haveassigned EC numbers and 700 proteins have a PDBstructure. The classification (i) reflects the structuralfeatures of these enzymes better than their sole sub-strate specificity, (ii) helps to reveal the evolutionaryrelationships between these enzymes and (iii) pro-
+vides a convenient framework to understand mech-
+anistic properties. This resource has been availablefor over 10 years to the scientific community, contri-buting to information dissemination and providing atransversal nomenclature to glycobiologists. Morerecently, this resource has been used to improvethe quality of functional predictions of a numbergenome projects by providing expert annotation.
+The CAZy resource resides at URL: http://www.
+cazy.org/.
+INTRODUCTION
+Due to the extreme variety of monosaccharide structures,
+to the variety intersugar linkages and to the fact that vir-tually all types of molecules can be glycosylated (fromsugars themselves, to proteins, lipids, nucleic acids,antibiotics, etc.), the large variety of enzymes acting
+on these glycoconjugates, oligo- and polysaccharidesprobably constitute one of the most structurally diverse
+set of substrates on Earth. Collectively designated as
+Carbohydrate-Active enZymes (CAZymes), these enzymesbuild and breakdown complex carbohydrates and glyco-
+conjugates for a large body of biological roles (collectively
+studied under the term of Glycobiology). Therefore, CAZ-ymes have to perform their function usually with high
+speciﬁcity. Because carbohydrate diversity (1) exceeds by
+far the number of protein folds, CAZymes have evolvedfrom a limited number of progenitors by acquiring novel
+speciﬁcities at substrate and product level. Such a dizzying
+array of substrates and enzymes makes CAZymes a partic-ularly challenging subject for experimental characteriza-
+tion and for functional annotation in genomes.
+Nearly 20 years ago, the ﬁrst foundation for a family
+classiﬁcation of CAZymes was seen in an eﬀort that clas-
+siﬁed cellulases into several distinct families based onamino-acid sequence similarity (2). Soon after, the
+family classiﬁcation system based on protein sequence
+and structure similarities, was extended to all known gly-coside hydrolases (2–4), and subsequently extended to all
+CAZymes involved in the synthesis, degradation and mod-
+iﬁcation of glycoconjugates. The classiﬁcation of CAZ-ymes has been made available on the web sinceSeptember 1998. Because based on amino-acid sequence
+similarities, these classiﬁcations correlate with enzyme
+mechanisms and protein fold more than enzyme speciﬁ-city. Consequently, these families are used to conserva-
+tively classify proteins of uncharacterized function whose
+only known feature is sequence similarity to an experimen-tally characterized enzyme, avoiding overprediction of
+enzyme activities.
+At present, CAZy covers approximately 300 protein
+families in the following classes of enzyme activities:
+(1) Glycoside hydrolases (GHs), including glycosidases
+and transglycosidases (3–5). These enzymes consti-tute 113 protein families that are responsible for
+*To whom correspondence should be addressed. Tel: +33 4 91 82 55 87; Fax: +33 491 26 67 20; Email: Bernard.Henrissat@afmb.univ-mrs.fr
+Correspondence may also be addressed to Pedro M. Coutinho. Email: Pedro.Coutinho@afmb.univ-mrs.fr
+/C2232008 The Author(s)
+This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License (http://creativecommons.or g/licenses/
+by-nc/2.0/uk/) which permits unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is proper ly cited.Downloaded from https://academic.oup.com/nar/article/37/suppl_1/D233/1003505 by Procter & Gamble Company user on 15 April 2022
+
+the hydrolysis and/or transglycosylation of glycosidic
+bonds. GH-coding genes are abundant and present in
+the vast majority of genomes corresponding toalmost half—presently about 47%—of the enzymes
+classiﬁed in CAZy. Because of their widespread
+importance for biotechnological and biomedical app-lications, GHs constitute so far the best biochemi-
+cally characterized set of enzymes present in the
+CAZy database.
+(2) Glycosyltransferases (GTs). These are the enzymes
+responsible for the biosynthesis of glycosidic bonds
+from phospho-activated sugar donors (6–8). They
+form over 90 sequence-based families and presentin virtually every single organism and represent
+about 41% of CAZy at present.
+(3) Polysaccharide lyases (PLs) cleave the glycosidic
+bonds of uronic acid-containing polysaccharides by
+ab-elimination mechanism (6). They are presently
+found in 19 families in CAZy (7), corresponding to
+only about 1.5% of CAZy content. Many PLs have
+biotechnological and biomedical applications and,
+despite their small overall number, they are among
+the CAZymes with the highest proportion of bio-chemically characterized examples present in the
+database.
+(4) Carbohydrate esterases (CEs). They remove ester-
+based modiﬁcations present in mono-, oligo- and
+polysaccharides and thereby facilitate the actionof GHs on complex polysaccharides. Presently
+described in 15 families (7), CEs represent roughly
+5% of CAZy entries. As the speciﬁcity barrier
+between carbohydrate esterases and other esterase
+activities is low, it is likely that the sequence-basedclassiﬁcation incorporates some enzymes that may
+act on non-carbohydrate esters.
+(5) Carbohydrate-binding modules (CBMs). These are
+autonomously folding and functioning protein frag-
+ments that have no enzymatic activity per se but are
+known to potentiate the activity of many enzyme
+activities described above by targeting to and pro-moting a prolonged interaction with the substrate.
+CBMs are most often associated to the other carbo-
+hydrate-active enzyme catalytic modules in the samepolypeptide and can target diﬀerent substrate forms
+depending on diﬀerent structural characteristics
+(9,10). However, occasionally they can be presentin isolated or tandem forms not coupled with an
+enzyme. Roughly 7% of CAZy entries contain at
+least one CBM module. CBMs are presently classi-
+ﬁed in 52 families in CAZy (7).
+In addition to protein families that are well curated by
+the CAZy database, CAZymes are known to contain
+domains not acting on carbohydrates, including otherenzymes—such as proteases, myosin motors or phospha-
+tases, etc.—and a variety of protein–protein or protein–
+cell wall binding domains—cohesins, SLHs, TPR, etc.
+The CAZy family classiﬁcation system covers all taxo-
+nomic groups, and provides the ground for common
+nomenclature for CAZymes across diﬀerent glycobiolo-
+gists (11,12) generally specialized only in some speciﬁcgroups of organisms. Day-to-day inspection of new
+enzyme characterizations reported in the literature regu-larly led and continues to lead to the deﬁnition of newenzyme families. Signiﬁcantly, the CAZy families, origin-ally created following hydrophobic cluster analysis in the1990s from very limited number of sequences available(2–6) and later complemented by BLAST- and HMMer-based sequence similarity approaches, are globally surviv-ing the challenge of time in spite of a hundred-foldincrease in the number of sequences.
+DATABASE CONTENT
+The CAZy database contains information from (i)
+sequence annotations from publicly available sources,namely the NCBI, including taxonomical, sequenceand reference information, (ii) family classiﬁcation and(iii) known functional information. This data allow theexploration of an enzyme (CAZyme), all CAZymes in anorganism or a CAZy protein family. The addition of newfamily members and the incorporation of biochemicalinformation extracted from the literature are updated reg-ularly, following careful inspection. Newly released three-dimensional (3D) structures and genomes are analyzed asthey are released by public databases. Daily updatereleases from GenBank form the bulk of sequence addi-tions to the database (8) are complemented by weeklyPDB releases (13). Presently only genome releasedthrough these GenBank releases are analyzed regularly,whereas other genomes protein predictions are analyzedupon request as part of collaborative eﬀorts ( vide infra ).
+Another feature of CAZy is that the number of families,
+the family-associated information and content are con-tinuously updated. When new families are created, oldpreviously released genomes and sequence in public data-bases are reanalyzed to take the additional new family intoaccount to ensure completeness in sequence description.Internally, curators include and maintain all referencedbiochemical and other characterization data from the lit-erature and the analysis of full sets of protein sequencespresent in a single genome. Because of this continuouseﬀort of data addition, new families are frequentlyadded and reﬂect the advances in experimental character-ization of CAZymes. New families are exclusively createdbased on the availability of at least one biochemically-characterized member for which a sequence is availableand the information published in peer-reviewed scientiﬁcliterature. This sequence then serves as a seed for thefamily that is gradually extended with sequences thatshare statistically signiﬁcant similarity.
+Only functional assignments based on experimental
+data are included in the CAZy database by the associationof EC numbers to protein sequences. Therefore inferredfunctional assignments are not included. Experimentaldata are ideally a direct enzyme analysis, but also couldinclude indirect evidence such as gene knockout experi-ments with extensive characterization. Because there is ashortage of EC numbers, relative to the number of func-tions characterized experimentally, some incomplete ECnumbers such as 3.2.1.-, 2.4.1.-, 2.4.2.- and 2.4.99.- areD234
+Nucleic Acids Research, 2009, Vol. 37, Database issueDownloaded from https://academic.oup.com/nar/article/37/suppl_1/D233/1003505 by Procter & Gamble Company user on 15 April 2022
+
+also included in the database. In addition, as the described
+functions in CAZy are only of enzymatic nature, addi-
+tional and complementary binding and inhibitory func-tions known to be associated with several CAZy
+proteins will be curated and explored in the near future.
+SEMI-AUTOMATIC MODULAR ASSIGNMENT
+Carbohydrate-active enzymes, can exhibit a modular
+structure (Figure 1), where a module can be deﬁned as a
+structural and functional unit (7,14). Each family in CAZy
+is dependent on the deﬁnition of a common segment in
+each full sequence that ultimately contains the catalytic or
+binding module. The deﬁnition of the limits within the
+sequence of the composing modules depends on availableinformation derived from a combination of diﬀerent
+approaches:
+(1) protein 3D structures,
+(2) reported deletion studies and
+(3) protein-sequence analysis and comparisons.
+Diﬀerent sequence comparison tools are used to deﬁne
+enzyme families, particularly gapped BLAST (9) and
+HMMER (10) using hidden markov models (HMMs)
+made from each family. All the sequences correspondingto the catalytic and binding of carbohydrate-active
+enzymes are excised from the full protein sequence and
+grouped in a BLAST library. Positive hits against this
+‘high quality’ library, are entered into the database by
+trained curators following manual check on a daily basis
+with a small number of sequences with high identity
+(>85%) ungapped alignments to previously examined
+sequences being entered automatically.
+A new layer dealing with the analysis of whole protein
+sets issued from genomes has been introduced recently.
+Modular annotation has been in fact applied to genomedata released by the NCBI, with over 750 genomes ana-
+lyzed. Approximately 1–3% of the proteins encoded by a
+typical genome correspond to CAZymes (10,11). In addi-
+tion to publicly released sequences, annotation of proteins
+in recently sequenced genomes prior to full release are
+regularly performed by the CAZy team in collaboration
+with scientists from all over the globe.MANUAL FUNCTIONAL ANALYSIS
+All too often, functional annotation methods employed
+during whole genome annotation are erroneous and lack
+consistent language (12,15). While sequence similarity togenes annotated by GO or best BLAST hits can be agood-starting point to assignment to pathways or possiblegeneral functions, such as serine/theonine kinase, manyautomatic functional assignments are unfortunately
+much more speciﬁc. This is particularly true in the case
+of CAZymes, since related families of the latter grouptogether enzymes of widely diﬀering speciﬁcity.
+The CAZy database employs practices that aim to elim-
+inate the problems with automatic annotation.
+Biochemical characterization of new proteins from the
+literature is used to create new protein families, to anno-tate their referring entries and to update family descrip-tions (6). These biochemical assignments are alsoemployed to help the manual curator estimate the likelygeneral functions and add descriptions that indicate which
+enzymatically characterized proteins are related to new
+sequences. Inclusion of reference data compiled by com-munities centered on model organisms is considered forthe future. Bibliographic references are included in CAZyby a speciﬁc layer that includes over 16 000 diﬀerent bib-liographic references. These references were extracted
+automatically from individual accessions using ProFal
+(16) and about one-third was entered manually.
+When functional predictions are made, they arise from
+manual curation by examination of closely relatedsequences and when biochemical information is not avail-
+able, such as the case for many genome projects, very
+general functional tags are used to convey general func-tions of a family. Recently, we have begun further break-ing down families into subfamilies in the hope of groupingproteins by speciﬁcity using sequence similarity. Thiswould allow us to give more insights into possible func-
+tions. This new classiﬁcation can also give insights into
+conserved active sites and active site speciﬁcity, when com-paring biochemically characterized enzymes. Currentlysubfamily assignments are available publicly only forGH13 (14), GH1, GH2 and GH5 (released with this pub-lication). This eﬀort will be continued in the future with
+many more subfamilies being incorporated into the CAZy
+knowledge base in the future. Subfamilies identify sub-groups of sequences that are more homogeneous in theirfunctional properties. Most identiﬁed subfamilies aremonospeciﬁc. If polyspeciﬁc, the functional variability islow and typically limited to two or three EC activities.
+There, often the known subfamily functions often share
+a substrate or product. Furthermore, rational enzymeengineering may be used to switch the functions for severalcases (data not shown). Subfamilies also open the door forfurther enzymatic characterization—a few subfamilies asstill no known activity—or for the identiﬁcation of mean-
+ingful targets for structural characterization.
+LARGE-SCALE ANALYSIS AND COLLABORATION
+Internal CAZy tools, such as our semi-automatic modular
+assignment presently allow the analysis of a larger number
+(a)
+(b)
+(c)
+(d) 
+(e)
+(f) 
+Figure 1. Examples of modular carbohydrate-active enzymes. ( a)
+Cellobiohydrolase I from Hypocrea jecorina (SP P00725); ( b) alginate
+lyase from Sphingomonas sp. A1 (GB BAB03312.1); ( c) xylanase from
+Cellulomonas ﬁmi (GB CAA54145.1); ( d) xylanase D/lichenase
+from Ruminococcus ﬂavefaciens (GB CAB51934.1); ( e) chitin synthase
+from Emericella nidulans (GB BAA21714.1); ( f) cyclic b-1-3-glucan
+synthase from Bradyrhizobium japonicum (GB AAC62210.1).Nucleic Acids Research, 2009, Vol. 37, Database issue D235Downloaded from https://academic.oup.com/nar/article/37/suppl_1/D233/1003505 by Procter & Gamble Company user on 15 April 2022
+
+of sequences than a few years ago, making it possible to
+perform large-scale analyses, such as the annotation of
+CAZyme systems in genomes and metagenomic investiga-
+tions of the breakdown of complex carbohydrates. A typi-cal genome analysis begins with the assignment of protein
+models to one or several CAZy families (depending on the
+number of CAZy modules present within the sequence).This family assignment is then followed by the prediction
+of general functional classes using a manual examination
+of alignments to closely related sequences, taking care toidentify the retention of active-site residues. Once agenome is categorized by family and functional classes,
+gene content analysis is utilized to give insights into how
+newly sequenced organisms might be similar or diﬀerentfrom closely related species. Diﬀerences in genome con-
+tent, i.e. relative family size, might reﬂect the relative
+diversity or complexity of the inherent biological processes(17) and therefore, the biology of the compared species.
+For example, diﬀerences suggesting a more pronounced
+pectin metabolism in ‘dicot’ Arabidopsis versus ‘monocot’rice have been noted (17) as well as expected diﬀerences incell-wall metabolism between short-lived annual
+Arabidopsis versus long-lived poplar tree have been sug-
+gested (18). With the advent of a variety of post-genomictechniques, a new vision of the CAZymes as signiﬁcantcomponents of carbohydrate-based systems now emerges.
+Examples include: N- and O-glycosylation of proteins,
+starch metabolism, biosynthesis of the cell-wall and itssubcomponents. Geisler-Lee et al. (19) have combined
+bioinformatics and transcriptome analysis of variouspoplar and Arabidopsis tissues and organs and haveshown that CAZyme transcripts are particularly abundantin wood tissues.
+NEW FEATURES
+In addition to a website facelift, the new CAZy website
+comes with a host of new features. Primarily, we are nowoﬀering users the ability to search the CAZy site for infor-mation by GenBank protein accession number, family ororganism rather than navigate long static pages as prior to12/31/2008 (Figure 2). To the new site we are also includ-ing, pages to describe new releases, new genomes andother new features. In addition, tools developed in thelab are available for interactive use.
+FUTURE TRENDS
+The CAZy database is a ﬂuid database always changing
+and growing as additional data becomes available.
+A
+B
+Figure 2. (A) Once a search is performed, such as for a protein accession (P00275), the resulting page indicates the modular families that compose
+that protein. ( B) Upon clicking the resulting links provided in A, users are directed to a page about the family and gives a listing of all annotated
+members.D236 Nucleic Acids Research, 2009, Vol. 37, Database issueDownloaded from https://academic.oup.com/nar/article/37/suppl_1/D233/1003505 by Procter & Gamble Company user on 15 April 2022
+
+In the last 2 years, the number of sequences in CAZY has
+nearly doubled and the number of available genomes isover 750. We believe this trend will continue in the comingyears. Unfortunately, while sequencing is forever morerapid, progress in structural information and biochemicalcharacterization is much slower. The number of biochem-ical data has grown only by 8% over the last 2 years(Figure 3). This means that the gap is widening betweenavailable sequences and biochemically characterizedenzymes, making better methods for high-throughput bio-chemical characterization advantageous.
+As started previously, we are actively pursuing the clas-
+siﬁcation of subfamilies within each family. This furtherlevel of classiﬁcation is important for instance to identifykey residues or motifs important to deﬁne speciﬁcity.Finally, we hope to oﬀer soon a page to submit sequencesfor a sequence similarity search and keyword search onour website.
+AVAILABILITY ON THE WEB
+The CAZy database is available at www.cazy.org.
+Information about selected families is available throughthe website and at www.cazypedia.org. Software from
+the group is available at www.cazy.org/tools.
+FUNDING
+The authors wish to thank the Departement des Sciences
+de la Vie of CNRS for a 2-year funding grant to B.L.C.and Novozymes for a contract supporting V.L.
+Conﬂict of interest statement . P.M.C. is aﬃliated to
+Universite ´de Provence (Aix-Marseille I) and B.H. and
+C.R. are members of CNRS.
+REFERENCES
+1. Laine,R.A. (1994) A calculation of all possible oligosaccharide
+isomers both branched and linear yields 1.05 /C210(12) structures for
+a reducing hexasaccharide: the Isomer Barrier to development of
+single-method saccharide sequencing or synthesis systems.
+Glycobiology ,4, 759–767.
+2. Henrissat,B., Claeyssens,M., Tomme,P., Lemesle,L. and
+Mornon,J.P. (1989) Cellulase families revealed by hydrophobic
+cluster analysis. Gene,81, 83–95.
+3. Henrissat,B. (1991) A classiﬁcation of glycosyl hydrolases
+based on amino acid sequence similarities. Biochem. J. ,280 (Pt 2) ,
+309–316.
+4. Henrissat,B. and Bairoch,A. (1993) New families in the
+classiﬁcation of glycosyl hydrolases based on amino acid sequence
+similarities. Biochem. J. ,293 (Pt 3) , 781–788.
+5. Henrissat,B. and Bairoch,A. (1996) Updating the sequence-based
+classiﬁcation of glycosyl hydrolases. Biochem. J. ,316 (Pt 2) ,
+695–696.
+6. Yip,V.L. and Withers,S.G. (2006) Breakdown of oligosaccharides
+by the process of elimination. Curr. Opin. Chem. Biol. ,10, 147–155.
+7. Coutinho,P.M. and Henrissat,B. (1999) Carbohydrate-active
+enzymes: an integrated database approach. In Gilbert,H.J.,Davies,G., Henrissat,H. and Svensson,B. (eds), Recent Advances in
+Carbohydrate Bioengineering. The Royal Society of Chemistry,
+Cambridge, pp. 3–12.
+8. Benson,D.A., Karsch-Mizrachi,I., Lipman,D.J., Ostell,J. and
+Wheeler,D.L. (2004) GenBank: update. Nucleic Acids Res. ,32,
+D23–D26.
+9. Altschul,S.F., Madden,T.L., Schaﬀer,A.A., Zhang,J., Zhang,Z.,
+Miller,W. and Lipman,D.J. (1997) Gapped BLAST and
+PSI-BLAST: a new generation of protein database search programs.
+Nucleic Acids Res. ,25, 3389–3402.
+10. Eddy,S.R. (1995) Multiple alignment using hidden Markov models.
+InProc. Intl Conf. Intel. Syst. Molec. Biol. ISMB ,3, 114–120.
+11. Davies,G.J., Gloster,T.M. and Henrissat,B. (2005) Recent structural
+insights into the expanding world of carbohydrate-active enzymes.Curr. Opin. Struct. Biol. ,15, 637–645.
+12. Doerks,T., Bairoch,A. and Bork,P. (1998) Protein annotation:
+detective work for function prediction. Trends Genet. ,14, 248–250.
+13. Bourne,P.E., Addess,K.J., Bluhm,W.F., Chen,L., Deshpande,N.,
+Feng,Z., Fleri,W., Green,R., Merino-Ott,J.C.,
+Townsend-Merino,W. et al. (2004) The distribution and query
+systems of the RCSB Protein Data Bank. Nucleic Acids Res. ,32,
+D223–D225.
+14. Stam,M.R., Danchin,E.G., Rancurel,C., Coutinho,P.M. and
+Henrissat,B. (2006) Dividing the large glycoside hydrolase
+family 13 into subfamilies: towards improved functional
+annotations of alpha-amylase-related proteins. Protein Eng. Des.
+Sel.,19, 555–562.
+15. Gilks,W.R., Audit,B., De Angelis,D., Tsoka,S. and Ouzounis,C.A.
+(2002) Modeling the percolation of annotation errors in a database
+of protein sequences. Bioinformatics (Oxford, England) ,18,
+1641–1649.
+16. Couto,F.M., Silva,J.M. and Coutinho,P.M. (2003) ProFAL:
+PROtein Functional Annotation through Literature. In Pimentel,E.,
+Brisaboa,N.R. and Gomez, J. (eds), In Proceedings of the 8thYear020406080
+1999 2001 2003 2005 2007Number/1000Entries
+w/ PDBsw/ EC #s
+Figure 3. The number of protein containing CAZy modules were noted in
+December of the years 1999–2007. Within this set (Open circle), thenumber of enzymatically characterized proteins (triangle) and thosewith solved structures (open diamond) were also counted. In December2007,<10% of proteins in CAZy were characterized enzymatically and
+<1% had a solved structure. In 8 years, the number of sequences has
+increased 14-fold, while the number of enzymatic and structural charac-terization has mearly doubled. Therefore, the porportion of proteins withfunctional and stuctural information is decreasing rapidly unless highthroughput functional eﬀorts are made in this category of enzymes.Nucleic Acids Research, 2009, Vol. 37, Database issue D237Downloaded from https://academic.oup.com/nar/article/37/suppl_1/D233/1003505 by Procter & Gamble Company user on 15 April 2022
+
+Conference on Software Engineering and Databases , Alicante, Spain,
+pp. 747–756.
+17. Yokoyama,R., Rose,J.K. and Nishitani,K. (2004) A surprising
+diversity and abundance of xyloglucan endotransglucosylase/hydrolases in rice. Classiﬁcation and expression analysis.Plant Physiol. ,134, 1088–1099.
+18. Tuskan,G.A., Difazio,S., Jansson,S., Bohlmann,J., Grigoriev,I.,
+Hellsten,U., Putnam,N., Ralph,S., Rombauts,S., Salamov,A.et al. (2006) The genome of black cottonwood,
+Populus trichocarpa (Torr. & Gray). Science (New York, NY) ,
+313, 1596–1604.
+19. Geisler-Lee,J., Geisler,M., Coutinho,P.M., Segerman,B.,
+Nishikubo,N., Takahashi,J., Aspeborg,H., Djerbi,S., Master,E.,Andersson-Gunneras,S. et al. (2006) Poplar carbohydrate-active
+enzymes. Gene identiﬁcation and expression analyses.
+Plant Physiol. ,140, 946–962.D238 Nucleic Acids Research, 2009, Vol. 37, Database issueDownloaded from https://academic.oup.com/nar/article/37/suppl_1/D233/1003505 by Procter & Gamble Company user on 15 April 2022
+

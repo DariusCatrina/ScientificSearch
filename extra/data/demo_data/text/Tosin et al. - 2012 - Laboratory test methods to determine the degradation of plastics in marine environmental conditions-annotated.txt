@@ -1,0 +1,991 @@
+TECHNOLOGY REPORT
+published: 21 June 2012
+doi: 10.3389/fmicb.2012.00225
+Laboratory test methods to determine the degradation of
+plastics in marine environmental conditions
+MaurizioT osin1, Miriam Weber2, Michela Siotto1, Christian Lott2and Francesco Degli Innocenti1*
+1Laboratory of Biodegradation, Ecology of Products and Environmental Communication, Novamont S.p.A., Novara, Italy
+2HYDRA Field Station/Centro Marino Elba, Campo nell’Elba, Livorno, Italy
+Edited by:
+Aurelio Briones, University of Idaho,
+USA
+*Correspondence:
+Francesco Degli Innocenti, Laboratory
+of Biodegradation, Ecology of
+Products and Environmental
+Communication, Novamont S.p.A., Via
+Fauser 8, Novara 28100, Italy.
+e-mail: fdi@novamont.comIn this technology report, three test methods were developed to characterize the degra-
+dation of plastic in marine environment. The aim was to outline a test methodology to
+measure the physical and biological degradation in different habitats where plastic waste
+can deposit when littered in the sea. Previously, research has focused mainly on the con-
+ditions encountered by plastic items when ﬂoating in the sea water (pelagic domain).
+However, this is just one of the possible habitats that plastic waste can be exposed to.
+Waves and tides tend to wash up plastic waste on the shoreline, which is also a relevant
+habitat to be studied. Therefore, the degradation of plastic items buried under sand kept
+wet with sea water has been followed by verifying the disintegration (visual disappearing)
+as a simulation of the tidal zone. Most biodegradable plastics have higher densities than
+water and also as a consequence of fouling, they tend to sink and lay on the sea ﬂoor.
+Therefore, the fate of plastic items lying on the sediment has been followed by monitor-
+ing the oxygen consumption (biodegradation). Also the effect of a prolonged exposure to
+the sea water, to simulate the pelagic domain, has been tested by measuring the decay
+of mechanical properties. The test material (Mater-Bi) was shown to degrade (total dis-
+integration achieved in less than 9 months) when buried in wet sand (simulation test of
+the tidal zone), to lose mechanical properties but still maintain integrity (tensile strength at
+break=−66% in 2 years) when exposed to sea water in an aquarium (simulation of pelagic
+domain), and substantially biodegrade (69% in 236 days; biodegradation relative to paper:
+88%) when located at the sediment/sea water interface (simulation of benthic domain).
+This study is not conclusive as the methodological approach must be completed by also
+determining degradation occurring in the supralittoral zone, on the deep sea ﬂoor, and in
+the anoxic sediment.
+Keywords: biodegradable plastics, EN 13432, marine biodegradation, test methods, plastics, degradation, mater-Bi,
+carrier bag
+INTRODUCTION
+The annual production of plastic materials has doubled in the last
+15 years, being about 250 million tons in 2008 (PlasticsEurope,
+2010). They are extensively commercialized at worldwide level
+because they are inexpensive,easy to manufacture,lightweight,and
+resistant to corrosion and microorganisms. These features make
+plastics a very popular material and used in massive quantities in
+several applications. On the other hand, the same features have
+created the conditions for some environmental problems affect-
+ing the marine pelagic and benthic habitats (Moore et al., 2001;
+Derraik, 2002; Thompson et al., 2004; Moore, 2008; Barnes et al.,
+2009; Gregory, 2009; Law et al., 2010; Carson et al., 2011). The
+major source is uncontrolled disposal of waste. Plastic is reported
+to be the main fraction of marine and beach litter (between 60 and
+80% of the total amount of litter; Lucas, 1992; Derraik, 2002; Ryan
+et al., 2009; Andrady, 2011; Cole et al., 2011). Currents move plas-
+tic waste ( Y amashita and Tanimura, 2007) to form aggregations
+in areas of low water movements. Large aggregations of ﬂoat-
+ing plastic debris (covering an area as large as central Europe)were reported ﬁrst in the North Paciﬁc Ocean (Moore et al., 2001;
+Moore, 2003) and similar scenarios are reported in other oceans,
+such as the North Atlantic (Law et al., 2010). High densities of
+plastic debris were found also in enclosed and semi-enclosed seas
+such as Caribbean, in the open ocean coast-line of Northern Amer-
+ica, Brazil or Hawaii, and in the Mediterranean Sea (Colton et al.,
+1974; Barnes et al., 2009; Browne et al., 2010).
+New plastics that are subject to biodegradation and thus applied
+in speciﬁc applications where organic recycling (composting and
+anaerobic digestion) is the preferable end-of-life have been devel-
+oped in the last two decades (T okiwa et al., 2009). In comparison
+with other environments, the behavior of these biodegradable
+plastics in the marine environment has been less studied because
+the expected fate of bioplastics is to be treated in solid waste treat-
+ment facilities or in soil (for agricultural applications). However,
+recently there has been great interest regarding the characteri-
+zation of marine biodegradation of bioplastics products. Plastic
+articles which are used in the sea, such as ﬁshing gear, can get
+lost or left willingly in the marine environment contributing to
+www.frontiersin.org June 2012 | Volume 3 | Article 225 | 1
+Tosin et al. Plastic degradation in marine environment
+the marine pollution. Such ﬁshing products could therefore be
+made with biodegradable plastics, once biodegradability in the
+sea is well characterized. Furthermore, it is of interest to know
+the marine biodegradability of biodegradable and compostable
+plastics, in case of uncontrolled release.
+The possible fate of products abandoned in the sea is illustrated
+inFigure 1 . Plastic products are directly littered or arrive with fresh
+waters in the pelagic zone (a). From there, and depending on tides
+and currents, may reach either the supralittoral (d), or remain in
+the tidal zone (b), called eulitoral, or they sink to the sublittoral,
+where light can still be detected (c), or eventually sink to the deep
+sea (e). Once they reach the seaﬂoor the products either remain
+on the surface or get buried within the sediments (f).
+Surveys of the deep sea and the continental shelf have revealed
+large deposits of plastics on the seaﬂoor (Galgani et al., 1995a,b,
+1996; Goldberg, 1997). Many plastics have a density lower than 1
+and therefore are buoyant and remain so until they become water-
+logged or amass too much epibiota to ﬂoat. Under the weight of
+fouling by a wide variety of microbes, algae, and animals, plastics
+can sink to the seabed (Barnes et al., 2009).
+In general, due to a density higher than 1, biodegradable plastics
+tend to sink.
+Standard test methods and speciﬁcations needed to charac-
+terize the biodegradability and compostability of materials for
+packaging are well developed (e.g., the European harmonized
+standard EN 13432, 2000). Generally speaking, the degradation
+of plastics is studied with test methods that simulate in labora-
+tory the environmental conditions. In recent years, research in
+the ﬁeld of biodegradation has focused on organic recycling (e.g.,
+biodegradability in composting plants), as biodegradable plastic
+FIGURE 1 | An overview of marine habitats where plastic waste has
+been recorded. Plastic waste is littered in the sea or delivered with fresh
+water by rivers and so ﬂoating freely in estuaries and the open ocean water
+(a). Tides and storm waves bring to the shores great quantities of plastic
+waste that remain in the eulittoral zone (b) or in the supralittoral zone (d).
+Plastic products can otherwise sink to the bottom of the sublittoral zone (c)
+or of the deep sea (e). At the sea ﬂoor the plastic products can be slowly
+buried within sediments (f).products are conceived to be recovered at their end-of-life through
+organic recycling with the production of compost. For example,
+the disintegration of plastic products during composting can be
+determined by using the ISO 20200 (2004) test method. In prac-
+tice, a composting process is simulated in a reactor in a laboratory:
+the plastic product under analysis is put into the reactor and mixed
+with some synthetic organic waste. After 3 months the level of dis-
+integration is determined by sieving the obtained compost. If the
+product has degraded its particles will pass through the sieve (mesh
+size 2 mm) with compost and will not be distinguishable from it.
+This test can measure the physical degradation of a product, i.e., its
+disintegration; but it does not reveal if the fragments will continue
+to biodegrade or if they will persist in the compost.
+Disintegration into fragments is the ﬁrst phase of plastic degra-
+dation. The ﬁnal outcome of a complete process is the transforma-
+tion into carbon dioxide (CO 2), which is the ﬁnal result of aerobic
+biodegradation and thus concludes the ecological cycle.
+This data can be obtained by measuring biodegradation under
+composting conditions using the ISO 14855 (2005) test method.
+The plastic sample is put inside bioreactors containing mature
+compost and the evolution of CO 2– as proof of biodegradation – is
+monitored. Even if complete biodegradation occurs, the expected
+conversion into CO 2will not be 100% because microorganisms
+grow and multiply assimilating some of the plastic. The values
+obtained are generally between 60 and 100%. A material like cel-
+lulose – whose biodegradation is certain – can help to correctly
+interpret results if it is used as a reference.
+The disintegration and biodegradation data are fundamental
+in deﬁning the behavior of a biodegradable product in a certain
+environment. This clearly applies also for the marine environment.
+At the present, most available methods for testing the degrad-
+ability of bioplastics in the marine environment are based on tests
+carried out in the laboratory or directly in the ﬁeld, simulating the
+pelagic conditions.
+A frequently applied test approach is one based on the direct
+exposure to seawater in the ﬁeld at different locations and at a
+depth of about 1–2 m. The biopolymer samples are protected with
+meshes and metal cages and dipped into the sea. Degradation is
+assessed by measuring the decay of relevant physical properties
+such as: changes in molecular weight mass and molecular mass
+distribution, tensile properties, mass loss, morphological changes,
+etc. (Rutkowska et al., 1998, 2002a,b; Imam et al., 1999; Tsuji and
+Suzuyoshi, 2002a,b, 2003; O’Brine and Thompson, 2010; Guzman
+et al., 2011; Sekiguchi et al., 2011; Volova et al., 2011). Rutkowska
+et al. (1998, 2002a,b) tested some biopolymers in the waters of
+Gdynia Harbor (Baltic Sea). Tsuji and Suzuyoshi (2002a) tested
+samples in natural dynamic seawater at the Akabane Fishing Port
+(Japan). Imam et al. (1999) tested samples in different locations
+in a tropical area. Volova et al. (2011) exploited a ﬂoating plat-
+form located in a tropical area in the South China Sea. O’Brine
+and Thompson (2010) used a ﬂoating pontoon to keep the sam-
+ples submerged at 0.6 m in Queens Anne Battery Marina, Coxside
+Plymouth, UK.
+Another testing approach is based on aquaria that are used
+to reproduce pelagic conditions and to determine the changes
+in physical properties of plastic samples protected within meshes
+(Tsuji and Suzuyoshi, 2002b, 2003; Guzman et al., 2011).
+Frontiers in Microbiology | Microbiotechnology, Ecotoxicology and Bioremediation June 2012 | Volume 3 | Article 225 | 2
+Tosin et al. Plastic degradation in marine environment
+Biological degradation is usually measured with test methods
+simulating the pelagic zone. For instance, aerobic biodegradation
+is measured with the ASTM “Standard T est Method for Deter-
+mining Aerobic Biodegradation of Plastic Materials in the Marine
+Environment by a Deﬁned Microbial Consortium”(ASTM D6691,
+2001). The plastic specimen is suspended in a synthetic sea salt
+solution and carbon dioxide evolution (or mass loss) is determined
+to assess biodegradation. Similarly Kasuya et al. (1998) studied
+the biodegradation of biopolymers by measuring the biological
+oxygen demand (BOD) in liquid conditions.
+We are not aware of degradation test methods simulating the
+conditions found at the supralittoral, the eulittoral, the sublit-
+toral, the deep sea, where plastic is exposed to the sediment-water
+interface, or buried in the sediment.
+In this paper we propose a comprehensive test approach based
+on the simulation of the habitats mentioned above (see descrip-
+tion on Figure 1 ). We have identiﬁed the following six test methods
+needed to characterize the degradation behavior of plastics in six
+different marine habitats.
+(A). Test method to measure the degradation of plastic samples in
+the pelagic domain : plastic samples are exposed to free sea
+water.
+(B). Test method to measure the degradation of plastic sample in
+eulittoral zone : plastic samples get partly buried in this zone
+and are kept wet by tidal inundation and waves.
+(C). Test method to measure the degradation of plastic samples on
+sandy sublittoral zone : plastic ﬁlms settle on marine sandy
+sediment where they are exposed to the sea water/sediment
+interface.
+(D). Test method to measure the degradation of plastic samples on
+sandy supralittoral zone : the plastic products washed by waves
+in the supralittoral zone, are exposed to a sandy soil with a
+low moisture level.
+(E). Test method to measure the degradation of plastic samples on
+the bottom of the deep sea : the plastics products littered by
+ships when in blue water could reach the bottom of the sea
+in the non-photic zone. Pressure and conditions are extreme.
+(F). Test method to measure the degradation of plastic samples when
+buried by sediments : sea currents can carry the sediment and
+slowly bury the plastic product settled on the sea ﬂoor. Con-
+ditions in the sediment below the interface sediment/water
+are anaerobic.
+In this preliminary study test methods A and B have been devel-
+oped to measure the physical degradation while test method C has
+been developed to measure the biodegradation of plastic material
+settled on the sandy sublittoral zone.
+MATERIALS AND METHODS
+SAMPLES
+The following materials were tested (when indicated):
+Filter paper (“Qualitative Analysis, Extrarapid type,” T ec-
+novetro, Italy).
+LDPE carrier bags (sampled in the market) with a 20 µm
+thickness.Mater-Bi carrier bags (available in the market) with a
+22µm thickness. Mater-Bi is made with a partially bio-based
+copolyester (renewable monomers made starting from vegetable
+oils) and corn starch. The material, produced by Novamont
+(http://www.novamont.com/), is compostable, i.e., biodegradable
+and disintegrable under composting conditions and meet the
+compostability requirements of the EN 13432 (2000).
+TEST METHODS
+Three methods have been developed and are described herewith.
+Test method A: degradation of plastic samples in the pelagic domain
+A laboratory test method that simulates the environmental con-
+ditions of the pelagic zone, with low nutrient concentrations, has
+been developed with the purpose of measuring the physical degra-
+dation of plastic objects when exposed to such conditions. In
+parallel a preliminary testing activity has also been carried out
+in order to measure the degradation of plastic samples in the
+eutrophic pelagic domain (with higher nutrients).
+The pelagic domain is simulated in an aquarium ﬁlled
+with sea water. The aquarium used is made of glass
+(65 cm×60 cm×50 cm; length, width, height) with total volume
+of 195 L. The plastic specimens were sewn into an envelope made
+with a plastic net to prevent eventually forming fragments from
+falling apart. The net was a common non-biodegradable vinyl-
+coated ﬁberglass mosquito net with a ﬁber diameter of about
+280µm and a 1.8 mm×1.6 mm mesh. The envelopes contain-
+ing the plastic samples were suspended into the aquarium with a
+distance of approximately 2 cm between each sheet. For the ini-
+tial ﬁlling of the aquaria and for each water exchange, seawater was
+collected at the jetty at Seccheto on the Island of Elba (Italy) in plas-
+tic drums and brought to the HYDRA Field Station, at Fetovaia.
+The aquaria were set-up outside in the shade to assure daily light
+rhythms but to avoid large temperature ﬂuctuations. The water
+was circulated by a water pump. The water pump was checked
+every other day. The salinity was measured with a refractome-
+ter (Knob Refraktometer 1097, Knob GmbH, Germany), recorded
+and adjusted every 2 weeks if necessary. The temperature was mea-
+sured and recorded; the mesh bags were moved every other week,
+so that each bag was exposed regularly in the middle and at the
+edge of the aquarium. Two thirds of the water volume was changed
+every 3 months. For sampling, the mesh envelopes with the plastic
+specimens were taken out of the tank, adhering water was care-
+fully blotted off, and the specimen within the envelope was put
+into a labeled freezer bag that was sealed and then stored prior to
+mechanical testing.
+The tensile properties, tensile strength at break, and the elonga-
+tion at break, were measured at different intervals, as reported in
+the Section “Results” with a dynamometer (Instron 5500 Series,
+USA). The tensile strength at break ( Fb) is the force required
+to break a specimen of a plastic material when pulled (New-
+ton). The elongation at break ( εb) is the maximum elonga-
+tion that the specimen can reach when pulled, before failure.
+It is measured as ratio between original length of the specimen
+and length at the moment of break. It expresses the capability
+of a material to resist changes of shape without crack forma-
+tion. The tensile testing was carried out in agreement with the
+www.frontiersin.org June 2012 | Volume 3 | Article 225 | 3
+Tosin et al. Plastic degradation in marine environment
+standard test method described in ISO 527 Part 1 (1993) and in
+Part 3 (1995). For each sample ﬁve replicates were individually
+tested.
+Test method B: degradation of plastic samples in eulittoral zones
+This test method simulates the environmental conditions found in
+tidal zones. The purpose is to determine the physical degradation
+of plastic objects when exposed to these conditions. The tidal zone
+is the part of the coast affected by the tides and movement of the
+waves. It is the borderline between sea and land, usually a sandy
+area that is kept constantly damp by the lapping of the waves. It is
+where the tides and waves wash up the waste which ends up in the
+sea after being dumped by ships or carried by rivers.
+The eulittoral zone is simulated in a laboratory reactor by
+keeping sandy sediment wet with seawater. The reactor is a
+box made with polypropylene having the following dimensions:
+30 cm×20 cm×10 cm (length, width, height). The box is pro-
+vided with a lid assuring a tight closing to avoid an excessive vapor
+release and excessive drying out of its contents. In the middle of
+the two sides, a hole of 5 mm of diameter is present at 6.5 cm from
+the bottom. The two holes provide gas exchange between the inner
+atmosphere and the outside environment.
+The reactor is ﬁlled with sandy sediment collected together with
+some seawater from the littoral zone. Sediment, expected to have
+an increased content of organic matter was sampled next to the
+mouth of the canal close to the yacht club at the touristic harbor of
+Marina di Campo, Elba Island (Italy). The sediment was collected
+with a shovel at the beach directly from below the water line into
+a bucket and was kept wet with seawater during delivery. Three
+thousand grams of wet sediment (water content =20.89%) was
+evenly placed in the bottom of the box to form a bed. Film speci-
+mens were cut from the original carrier bag and placed within slide
+photo frameworks whose opening is 5.5 cm ×5.5 cm ( Figure 2 ).
+The frameworks were then buried in the sandy bed and left there
+at room temperature until sampling. The reactor was then closed
+and weighed. Periodically the reactor was weighed and, if needed,
+the initial mass restored adding chlorine-free water. At intervals
+the frameworks were carefully extracted from the sandy bed and
+examined.
+The test does not simulate the tides, i.e., the physical stress on
+the tested plastics due to tidal inundation and waves.Test method C: biodegradation of ﬁlm on the sandy sublittoral zone
+This method is based on the determination of BOD and can be
+considered as a modiﬁcation of the International standard test
+method ISO 14851 (1999). In the original ISO 14851 the plastic
+material is generally tested as powder in a liquid saline medium
+inoculated with activated sludge from a sewage-treatment plant.
+In this test method the testing medium is “two-phases” (marine
+sediment and a column of synthetic sea water, Figure 4 ) and the
+plastic material is preferably a ﬁlm to be laid down on top of the
+sediment, at the interface between the solid phase and the liquid
+phase. This is a simulation of an object that has sunk and ﬁnally
+reached the sea ﬂoor [ Figure 1 (c)].
+The test is carried out, at room temperature, with a Oxi-
+T op®BOD Respirometer System (Global Water Instrumentation).
+Marine sediment (15 g per reactor, wet weight), collected as
+described before (see T est Method B: Degradation of Plastic Sam-
+ples in Eulittoral Zones), was laid down on the bottom of the
+reactor. A plastic ﬁlm specimen, cut from the previously described
+carrier bags, was put on the sediment and 75 mL of synthetic sea
+water ( T able 1 ) was added.
+The ﬁnal total volume was 82 mL. The reactors were closed and
+the progressive consumption of oxygen was determined following
+the directions of the OxiT op®System.
+The percentage of biodegradation is obtained by dividing the
+theoretical oxygen demand (ThOD) by the measured oxygen con-
+sumption. The determination of the ThOD was deduced by the
+elemental composition of Mater-Bi and paper, following annex A
+of ISO14851.
+The use of transparent glass reactors enables the correlation
+between oxygen consumption and the physical status of samples
+as by visual inspections. It was thus possible to monitor both the
+physical deterioration (disintegration) and mineralization.
+RESULTS
+TEST METHOD A: DEGRADATION OF PLASTIC SAMPLES IN THE
+PELAGIC DOMAIN
+The specimens (both Mater-Bi carrier bags and PE carrier bags)
+were inserted in the nets and submerged in the aquarium. The test
+started on July 1st 2009 and ended on July 12th 2011. During the
+test the salinity of the sea water in the aquarium ranged from 38
+to 41 practical salinity units (PSU) and was adjusted every 2 weeks
+FIGURE 2 |T est method B. Mater-Bi specimens before (A)and after 9 months of treatment (B).
+Frontiers in Microbiology | Microbiotechnology, Ecotoxicology and Bioremediation June 2012 | Volume 3 | Article 225 | 4
+Tosin et al. Plastic degradation in marine environment
+back to 38 PSU, corresponding to the seawater salinity in the bay of
+Fetovaia, the sampling location (Island of Elba, Italy), by adding
+spring water. The temperature ranged from 26˚C in summer to
+11˚C in winter. The water temperature in the aquarium followed
+the seasonal atmospheric temperature changes on the Island of
+Elba and corresponded to the sea surface temperatures.
+Specimens were withdrawn after 3, 8, 12, 19, and 24 months.
+Specimens were tested for tensile properties and the results are
+shown in T able 2 .
+The results indicate that Mater-Bi ﬁlms undergo a strong decay
+of mechanical properties. The tensile strength at break ( Fb) and
+the elongation at break ( εb) decreased, respectively, of 66 and 96%
+in 24 months.
+Despite a strong decay of mechanical properties the carrier
+bags were still recoverable and manageable. No fragmentation was
+observed at anytime of the test period.
+T able 1 | Synthetic sea water composition.
+Salts Concentration (g/L)
+NaCl 22
+MgCl 2·6H2O 9.7
+Na2SO4 3.7
+CaCl 1
+KCl 0.65
+NaHCO 3 0.20
+H3BO3 0.023
+After Italian Decree Law (2003).On the other hand, the LDPE carrier bags did not show any
+decay. Actually the mechanical properties increased.
+Another trial was carried out using the same procedure
+described in Section “Materials and Methods” but enriching the
+seawater with glucose and mineral salts. The enrichment of the
+seawater with nutrients was done every month. Glucose, ammo-
+nium chloride, and sodium phosphate, monobasic were added to
+a ﬁnal concentration of 1 mM directly to the tank.
+This is a ﬁrst attempt to simulate a eutrophic pelagic domain,
+with waters rich in mineral and organic nutrients, that is found
+in anthropic areas or close to rivers’ outlets. The results shown
+inT able 3 indicate that the addition of nutrients reduced the
+degradation of Mater-Bi carrier bags.
+TEST METHOD B: DEGRADATION OF PLASTIC SAMPLES IN EULITTORAL
+ZONES
+Pieces of Mater-Bi carrier bags and LDPE carrier bags were
+inserted in the slide photo frameworks ( Figure 2A ) and tested
+as described in the Section “Materials and Methods.” The Mater-
+Bi ﬁlms after 9 months of testing were substantially disintegrated,
+as shown in Figure 2B . Only few small fragments are still visible.
+The LPDE carrier bags did not show any visible degradation.
+TEST METHOD C: BIODEGRADATION OF FILM IN THE SANDY
+SUBLITTORAL ZONE
+The experimental set-up is shown in T able 4 . The test was carried
+out for 236 days.
+Blank reactors (only sediment and sea water) showed an aver-
+age total oxygen consumption of 120 mg/L with a low deviation
+within the replicates. Paper and especially Mater-Bi showed a
+T able 2 |T ensile properties of specimens exposed to an aquarium simulating the oligotrophic pelagic domain.
+Specimen Exposure time
+(months)Thickness ( µm) Fb(N) εb(%) ∆Fb(%) ∆εb(%)
+LDPE carrier bags 0 20 7 .3 421
+24 20 10.4 466 42 11
+Mater-Bi carrier bags 0 22 4.7 211
+3 22 4.1 208 −13−1
+18 20 2.9 42 −38−80
+24 18 1 .6 9 −66−96
+Fb=tensile strength at break; εb,%=elongation at break; ∆Fb=[(Fb at time t /Fb at time 0 )×100%]; ∆ε b=[(εb at time t /εb at time 0 )×100%].
+T able 3 |T ensile properties of specimens exposed to an aquarium simulating the eutrophic pelagic domain.
+Specimen Exposure time (months) Thickness ( µm) Fb(N) εb(%) ∆Fb(%) ∆εb(%)
+LDPE carrier bags 0 20 7 .3 421
+24 20 8.8 515 20.55 22.33
+Mater-Bi carrier bags 0 22 4.7 211
+8 22 4.1 148 −12.77−29.86
+18 22 3.5 196 −25.53−7 .11
+24 22 3.6 192 −23.40−9.00
+Fb=tensile strength at break; εb,%=elongation at break; ∆Fb=[(Fb at time t /Fb at time 0 )×100%]; ∆ε b=[(εb at time t /εb at time 0 )×100%].
+www.frontiersin.org June 2012 | Volume 3 | Article 225 | 5
+Tosin et al. Plastic degradation in marine environment
+T able 4 | Experimental set-up of biodegradation test (Method C).
+Reactor n Specimen Amount of specimen
+in the reactor (mg)Synthetic sea water (mL) Sediment (g)
+R1 Blank – 75 15
+R2 Blank – 75 15
+R3 Blank – 75 15
+R7 Mater-Bi 15.96 75 15
+R8 Mater-Bi 20.78 75 15
+R9 Mater-Bi 17 .07 75 15
+R10 Cellulose 22.78 75 15
+R11 Cellulose 17 .87 75 15
+R12 Cellulose 21 .72 75 15
+rather large deviation between the three replicates, ranging from
+215 to 376 mg/L ( Figure 3 ,T able 5 ).
+It is important to note that the value of oxygen consump-
+tion (biodegradation) of each replicate correlated very closely
+with the visual appearance of the residual specimens as shown
+inFigures 4A–C ).
+The average biodegradation curves are plotted in Figure 5 .
+At the end of the test (after 236 days), biodegradation of paper
+was plateaued at 78.0% while Mater-Bi was at 68.9% and still grow-
+ing ( Figure 5 ). Therefore, the “relative biodegradation,” i.e., the
+biodegradation of the test material relative to a positive benchmark
+(paper, in this case) was 88.2%.
+DISCUSSION
+It is important to remark that the uncontrolled disposal of waste is
+a serious social problem that must be solved by increasing environ-
+mental and civic education and people’s environmental awareness.
+Seas are not waste disposal plants. The biodegradability of prod-
+ucts cannot be considered as an excuse to spread wastes that should
+be recovered and recycled. Even if they are biodegradable, mate-
+rials cannot be spread without any control because the human
+population is huge, and the current levels of consumption – and
+consequently of waste production – are so high that the environ-
+mental burden would be unbearable. This is a general approach
+that can be applied to every biodegradable organic substance and
+not only to bioplastics. As an example sewage, that is composed
+by biodegradable substances, must be treated in a waste-water
+treatment plant before discharging in the sea or in a river.
+That said, it is important to characterize the degradation behav-
+ior of bioplastics because these innovative materials can be applied
+in ﬁshing gear where the possible end-of-life is actually the sea.
+Therefore, suitable test methodologies are required.
+This preliminary study is the ﬁrst report of a project that aims
+at simulating the most relevant habitats of the marine environ-
+ment and gaining information on the behavior of the tested plastic
+materials.
+T est method A (degradation of plastic samples in the pelagic
+domain) showed that the carrier bags made with a bioplastics suf-
+fered a serious mechanical decay in the test period. The tensile
+strength at break was reduced by 66% and elongation at break by
+96% in 2 years testing, even if the samples were still intact. How-
+ever the aquarium, as it was used in this study, does not reproduce
+FIGURE 3 | Oxygen consumption curves of all reactors. Reactor R1, R2,
+and R3: blank; R4, R5, and R6: Mater-Bi; R7 , R8, and R9: ﬁlter paper.
+T able 5 |T otal and net (the difference between the total oxygen and
+the average oxygen consumed by the blanks) oxygen consumption
+after 236 days.
+Reactor T otal oxygen
+consumed (mg/L)Net oxygen
+consumed (mg/L)
+R1 Blank 120.90 –
+R2 Blank 107 .50 –
+R3 Blank 131 .70 –
+R7 Mater-Bi 242.40 122.37
+R8 Mater-Bi 376.00 255.97
+R9 Mater-Bi 215.10 95.07
+R10 Filter paper 306.30 186.27
+R11 Filter paper 277 .30 157 .27
+R12 Filter paper 357 .40 237 .37
+many of the effects that function in open sea: waves, currents, solar
+irradiation in the case of superﬁcial ﬂoating, etc. Therefore ﬁeld-
+testing should complement the approach proposed in this study.
+In a previous ﬁeld-study out in the open sea Mater-Bi carrier bags
+were totally disintegrated after 24 weeks (O’Brine and Thompson,
+2010).
+Frontiers in Microbiology | Microbiotechnology, Ecotoxicology and Bioremediation June 2012 | Volume 3 | Article 225 | 6
+Tosin et al. Plastic degradation in marine environment
+FIGURE 4 | Mater-Bi specimens at test termination (236 days): (A) Reactor R9, ﬁnal biodegradation =50.0%; (B) Reactor R7 , ﬁnal
+biodegradation =64.7%; (C) Reactor R8, ﬁnal biodegradation =91.7%.
+FIGURE 5 | Biodegradation curves of Mater-Bi and ﬁlter paper.
+The study was also extended to test degradation of the carrier
+bags in a eutrophic water column. Surprisingly the mechanical
+degradation was strongly inhibited ( T able 3 ). This ﬁnding indi-
+cates that the addition of nutrients has affected the degradation
+process. We can only speculate at this stage about the causes; in
+particular, the following hypotheses can be made.
+i Addition of nutrients has changed physiology of the microbial
+population. In particular it repressed some enzymes involved
+in degradation (e.g., through catabolic repression).
+ii Addition of nutrients has changed the population genetics.
+Repeated enrichment forced a selection of the microbial pop-
+ulation which eventually was less suitable to biodegradation.
+iii Addition of nutrients has changed water chemistry and this, in
+turn, has caused abiotic plastic degradation.
+More testing is needed in order to clarify which factor is involved
+in this inhibition of degradation. We suggest to combine ﬁeld and
+a extensive aquarium experiment, where the water chemistry is
+continuously monitored.
+T est Method B is an attempt to simulate the conditions expe-
+rienced by a plastic item when buried in a wet sandy matrix. The
+test has been conceived as a qualitative disintegration test simply
+based on the visual assessment. We suggest to improve the test to
+make it suitable to quantitative analysis by applying some image
+analysis system, to determine the residual sample surface at differ-
+ent times (Calmon et al., 1999). The degradation of the Mater-Bicarrier bags was total, as no residual ﬁlm was visible within the
+slide framework. Control samples with polyethylene were still fully
+intact and visible. The data indicate that the bioplastic ﬁlm is
+disintegrable but no information on ultimate biodegradability is
+provided. This can be achieved by performing the test within a
+closed reactor and measuring the oxygen consumption similarly
+to the T est Method C.
+T est Method C is a simulation of the habitat found in a ben-
+thic zone where sunlight reaches the ocean ﬂoor (photic zone)
+that, in marine science is called sublittoral zone. The degradation
+of the single bioplastic replicates showed a rather large variation,
+probably due to different contact surface areas of each plastic disk.
+Thanks to the transparency of the glass reactors, the biodegrada-
+tion course can be closely correlated with the disappearance of
+the specimens, conﬁrming that the disintegration level is actually
+linked to biodegradation level. The substantial biodegradation of
+the carrier bags was quite surprising considering that other tests
+carried out by us in the past with same equipment, method and
+samples (OxiT op®BOD Respirometer System) but using sea water
+as a matrix instead of the sea water/sediment interface, showed
+very low biodegradation rate (4% in 50 days; Novamont Labora-
+tory of Biodegradation, data not shown). These unpublished data
+conﬁrm the result of T est Method A suggesting that biodegrada-
+tion under ﬂoating conditions (pelagic zone) is more difﬁcult than
+biodegradation in the bottom of the sea (benthic zone).
+We suggest that this difference in biodegradation rates is due
+to the different role of mycelial microorganisms (i.e., fungi and
+actinomycetes) in the free seawater and in the sediments.
+The biodegradable plastics can be considered similar to com-
+plex plant tissues. These complex structures are best degraded by
+mycelial microorganisms.
+The important role of mycelial microorganisms in biodegrada-
+tion of plastics has been identiﬁed in other environments such as in
+compost (T osin et al., 1996; Kleeberg et al., 1998; Degli Innocenti
+et al., 2002) or soil (Cosgrove et al., 2007).
+Pelagic and surface water environments are reported to be
+low in nutrients, and the microbial eukaryotic component of the
+planktonic food chain is predominately that of free-ﬂoating or
+swimming single-celled organisms performing primary produc-
+tion and/or phagotrophic grazing. Such environments are unlikely
+to favor organisms that feed primarily by attachment to larger
+physical substrates and osmotrophy, i.e., mycelial organisms that
+secrete depolymerizing enzymes directly on the solid substrate
+www.frontiersin.org June 2012 | Volume 3 | Article 225 | 7
+Tosin et al. Plastic degradation in marine environment
+and uptake dissolved nutrients by osmosis for nutrition (Richards
+et al., 2012). Observations that fungi are the dominant active
+eukaryotic microbes in the lower water column, below the photo-
+zone, as particulate matter descends and enters the sediment are
+consistent with this hypothesis (Takishita et al., 2006; Edgcomb
+et al., 2011).
+The hypothesis that the different biodegradation behavior of
+plastic materials in stirred free sea water and on the sand sediment
+is due to a higher activity of mycelial microorganisms has to be
+challenged with further experiments.
+In this preliminary study we did not cover all the habitats that
+have been identiﬁed as important disposal endpoints. Missing
+areas are the supralittoral zone [ Figure 1 (d)], deep sea [ Figure 1
+(e)], and buried [ Figure 1 (f)]. The supralittoral zone is much less
+moist than the eulittoral zone. Plastic products can be brought by
+storm up to this habitat. The plastic products that sink into the
+deep sea experience special conditions, such as high pressure, dark-
+ness, low ﬂow, and temperature. At the sea ﬂoor, plastic products
+can also partly or totally be buried in by the sediments. We expect
+that within the sediment the plastic is exposed to anoxic condi-
+tions and steep chemical gradients. In the marine environment
+sediment is the most abundant substrate (Divins, 2003). Sedi-
+ments differ in their mineral types, grain size, and organic matter
+content. We strongly suggest that the role of sediment character-
+istics on biodegradation activity should be assessed similarly to
+what done by Weber et al. (2006).
+CONCLUSION
+1) Plastic products in the marine environment tend to move and
+settle in many different habitats. In order to get a complete
+characterization of the degradation behavior of bioplastics we
+strongly suggest that a test methodology based on six marine
+habitats (supralittoral, eulittoral, sublittoral benthic, deep sea
+benthic, pelagic, buried in the sediments) is needed.2) We suggest that the degradation of plastic samples in the olig-
+otrophic pelagic habitat was higher than in the eutrophic water
+(supplemented with glucose and minerals) because the extra
+carbon source affected either the physiologic status or the
+microbial population itself, through selection or the chemistry
+of the aquarium.
+3) We suggest that the disintegration/biodegradation was highest
+in the test where the tidal and subsurface areas were simulated
+due to the speciﬁc microenvironment in the water-sediment-
+interface. Conditions at the interface favor a microbial com-
+munity capable of degrading the plastic.
+4) We suggest that most active species are fungi and actinomycetes
+(mycelial).
+5) Furthermore, studies in the ﬁeld must be also per-
+formed in order to conﬁrm that the developed simula-
+tion tests can predict behavior under real environmental
+conditions.
+6) The results indicates that the tested material, a biodegradable
+and compostable carrier bags, is susceptible to both physical
+degradation and biological degradation with rates that differ
+in different habitats.
+7) Further studies will be needed to complete and fully check
+the test methodology here suggested, based on the determina-
+tion of both physical degradation and biological degradation
+in three habitats. In particular the effect of sediments sampled
+from different locations on degradation has to be tested and
+range of test materials enlarged by testing other biopolymers
+of different nature.
+ACKNOWLEDGMENTS
+Many thanks to T ony Breton for reading and commenting the
+manuscript and to Catia Bastioli for continuous support and
+encouragement. We wish also to thank Claudio Russo for tensile
+testing of degraded samples.
+REFERENCES
+Andrady, A. L. (2011). Microplastics
+in the marine environment. Mar.
+Pollut. Bull. 62, 1596–1605.
+ASTM D6691. (2001). Standard T est
+Method for determining aerobic
+biodegradation of plastic materials
+in the marine environment by a
+deﬁned microbial consortium.
+Barnes, D. K. A., Galgani, F., Thompson,
+R. C., and Barlaz, M. (2009). Accu-
+mulation and fragmentation of plas-
+tic debris in global environments.
+Philos. Trans. R. Soc. Lond. B Biol.
+Sci.364, 1985–1998.
+Browne, M. A., Galloway, T. S., and
+Thompson, R. C. (2010). Spatial pat-
+terns of plastic debris along estuar-
+ine shorelines. Environ. Sci. Technol.
+44, 3404–3409.
+Calmon, A., Guillaume, S., Bellon-
+Maurel, V ., Feuilloley, P ., and Sil-
+vestre, F. (1999). Evaluation of
+material biodegradability in real
+conditions–development of a bur-
+ial test and an analysis methodologybased on numerical vision. J. Polym.
+Environ. 7, 157–166.
+Carson, H. S., Colbert, S. L., Kaylor, M.
+J., and McDermid, K. J. (2011). Small
+plastic debris changes water move-
+ment and heat transfer through
+beach sediments. Mar. Pollut. Bull.
+62, 1708–1713.
+Cole,M.,Lindeque,P .,Halsband,C.,and
+Galloway, T. S. (2011). Microplastics
+as contaminants in the marine envi-
+ronment: a review. Mar. Pollut. Bull.
+62, 2588–2597.
+Colton, J. B. Jr., Knapp, F. D., and Burns,
+B. R. (1974). Plastic particles in
+surface waters of the Northwestern
+Atlantic. Science 185, 491–497.
+Cosgrove, L., McGeechan, P . L., Rob-
+son, G. D., and Handley, P . S.
+(2007). Fungal communities associ-
+ated with degradation of polyester
+polyurethane in soil. Appl. Environ.
+Microbiol. 73, 5817–5824.
+Degli Innocenti, F., Goglino, G., Bellia,
+G., T osin, M., Monciardini, P ., and
+Cavaletti, L. (2002). “Isolation andcharacterization of thermophilic
+microorganisms able to grow on
+cellulose acetate,” in Microbiology
+of Composting , eds H. Insam, N.
+Riddech, and S. Klammer (Berlin:
+Springer-Verlag), 273–286.
+Derraik, J. G. B. (2002). The pollution
+of the marine environment by plas-
+tic debris: a review. Mar. Pollut. Bull.
+44, 842–852.
+Divins, D. L. (2003). Total Sediment
+Thickness of the World’s Oceans &
+Marginal Seas. Boulder, CO: NOAA
+National Geophysical Data Center.
+Edgcomb, V . P ., Beaudoin, D., Gast, R.,
+Biddle, J. F., and T eske, A. (2011).
+Marine subsurface eukaryotes: the
+fungal majority. Environ. Microbiol.
+13, 172–183.
+EN 13432. (2000). Requirements for
+packaging recoverable through com-
+posting and biodegradation – test
+scheme and evaluation criteria for
+the ﬁnal acceptance of packaging.
+Galgani, F., Burgeot, T., Bocquene, G.,
+Vincent, F., Leaute, J. P ., Labastie,J., Forest, A., and Guichet, R.
+(1995a). Distribution and abun-
+dance of debris on the continental
+shelf of the Bay of Biscay and in Seine
+Bay. Mar. Pollut. Bull. 30, 58–62.
+Galgani,F.,Jaunet,S.,Campillo,A.,Gue-
+negen, X., and His, E. (1995b). Dis-
+tribution and abundance of debris
+on the continental shelf of the
+North-Western Mediterranean sea.
+Mar. Pollut. Bull. 30, 713–717.
+Galgani, F., Souplet, A., and Cadiou,
+Y. (1996). Accumulation of debris
+on the deep sea ﬂoor off the
+French Mediterranean coast. Mar.
+Ecol. Prog. Ser. 142, 225–234.
+Goldberg, E. D. (1997). Plasticizing the
+seaﬂoor: an overview. Environ. Tech-
+nol.18, 195–201.
+Gregory, M. R. (2009). Environmen-
+tal implications of plastic debris
+in marine settings entanglement,
+ingestion, smothering, hangers-on,
+hitch-hiking and alien invasions.
+Philos. Trans. R. Soc. Lond. B Biol.
+Sci.364, 2013–2025.
+Frontiers in Microbiology | Microbiotechnology, Ecotoxicology and Bioremediation June 2012 | Volume 3 | Article 225 | 8
+Tosin et al. Plastic degradation in marine environment
+Guzman, A., Janik, H. Z., Mastalerz,
+M., and Kosakowska,A. (2011). Pilot
+study of the inﬂuence of thermo-
+plastic starch based polymer pack-
+aging material on the growth of
+diatom population in sea water envi-
+ronment. Pol. J. Chem. Tech. 13,
+57–61.
+Imam, S. H., Gordon, S. H., Shogren, R.
+L., T osteson, T. R., Govind, N. S., and
+Greene, R. V . (1999). Degradation
+of starch–poly(b-hydroxybutyrate-
+co-b-hydroxyvalerate) bioplastic in
+tropical coastal waters. Appl. Envi-
+ron. Microbiol. 65, 431–437.
+ISO 14851. (1999). Determination of
+the Ultimate Aerobic Biodegradabil-
+ity of Plastic Materials in an Aque-
+ous Medium. Method by Measur-
+ing the Oxygen Demand in a Closed
+Respirometer .
+ISO 14855. (2005). Determination of the
+Ultimate Aerobic Biodegradability of
+Plastic Materials Under Controlled
+Composting Conditions-Method by
+Analysis of Evolved Carbon Dioxide-
+Part 1: General Method .
+ISO 20200. (2004). Plastics-
+Determination of the Degree of
+Disintegration of Plastic Materi-
+als Under Simulated Composting
+Conditions in a Laboratory-Scale
+Test.
+ISO 527. (1993). Plastics – Determina-
+tion of Tensile Properties – Part 1:
+General Principles .
+ISO 527. (1995). Plastics – Determina-
+tion of Tensile Properties – Part 3: Test
+Conditions for Films and Sheet .
+Italian Decree Law. (2003). Deﬁnizione
+delle procedure per il riconosci-
+mento di idoneità dei prodotti
+disperdenti ed assorbenti da imp-
+iegare in mare per la boniﬁca
+dalla contaminazione da idro-
+carburi petroliferi. Gazzetta
+Ufﬁciale 35. Available at:
+http://www.gazzettaufﬁciale.biz/atti/
+2003/20030035/03A01462.htm
+Kasuya, K., Takagi, K., Ishiwatari, S.,
+Y oshida, Y., and Doi, Y. (1998).
+Biodegradabilities of various
+aliphatic polyester in natural waters.
+Polym. Degrad. Stab. 59, 327–332.
+Kleeberg, I., Hetz, C., Kroppenstedt,
+R. M., Müller, R. J., and Deck-
+wer, W. D. (1998). Biodegrada-
+tion of aliphatic-aromatic copoly-
+esters by Thermomonospora fuscaand other thermophilic compost
+isolates. Appl. Environ. Microbiol. 64,
+1731–1735.
+Law, K. L., Morét-Ferguson, S., Maxi-
+menko, N. A., Proskurowski, G., Pea-
+cock, E. E., Hafner, J., and Reddy, C.
+M. (2010). Plastic accumulation in
+the North Atlantic Subtropical Gyre.
+Science 3, 1185–1188.
+Lucas, Z. (1992). Monitoring persis-
+tent litter in the marine environment
+on Sable Island, Nova Scotia. Mar.
+Pollut. Bull. 24, 192–199.
+Moore, C. (2003). Trashed: across
+the paciﬁc ocean, plastics, plastics,
+everywhere. Nat. Hist. 112, 9.
+Moore, C. J. (2008). Synthetic poly-
+mers in the marine environment: a
+rapidly increasing, long-term threat.
+Environ. Res. 108, 131–139.
+Moore, C. J., Moore, S. L., Leecaster,
+M. K., and Weisberg, S. B. (2001).
+A comparison of plastic and plank-
+ton in the North Paciﬁc Cen-
+tral Gyre. Mar. Pollut. Bull. 42,
+1297–1300.
+O’Brine, T., and Thompson, R. C.
+(2010). Degradation of plastic car-
+rier bags in the marine environment.
+Mar. Pollut. Bull. 60, 2279–2283.
+PlasticsEurope. (2010). An
+Analysis of European Plas-
+tics Production, Demand and
+Recovery for 2009 . Available
+at: http://www.plasticseurope.
+org/Document/plastics—the-facts-
+2010.aspx?Page=DOCUMENT&
+FolID=2
+Richards, T. A., Jones, M. D. M.,
+Leonard, G., and Bass, D. (2012).
+Marine fungi: their ecology and mol-
+ecular diversity. Ann. Rev. Mar. Sci. 4,
+495–522.
+Rutkowska, M., Heimowska, A., Kra-
+sowska, K., and Janik, H. (2002a).
+Biodegradability of polyethylene
+starch blends in sea water. Pol. J.
+Environ. Stud. 11, 267–274.
+Rutkowska, M., Krasowska, K.,
+Heimowska, A., Steinka, 1., Janik,
+H., and Haponiuk, J., and Karls-
+son, S. (2002b). Biodegradation
+of modiﬁed poly( ε-caprolactone)
+in different environments. Pol. J.
+Environ. Stud. 11, 413–420.
+Rutkowska, M., Jastrzebska, M., and
+Janik, H. (1998). Biodegradation of
+polycaprolactone in sea water. React.
+Funct. Polym. 38, 27–30.Ryan, P . G., Moore, C. J., Van Franeker,
+J. A., and Moloney, C. L. (2009).
+Monitoring the abundance of plastic
+debris in the marine environment.
+Philos. Trans. R. Soc. Lond. B Biol.
+Sci.364, 1999–2012.
+Sekiguchi, T., Saika, A., Nomura, K.,
+Watanabe, T., Watanabe, T., Fuji-
+moto,Y., Enoki, M., Sato, T., Kato, C.,
+and Kanehiro, H. (2011). Biodegra-
+dation of aliphatic polyesters soaked
+in deep seawaters and isolation
+of poly( ε-caprolactone)-degrading
+bacteria. Polym. Degrad. Stab. 96,
+1397–1403.
+Takishita, K., Tsuchiya, M., Reimer,
+J. D., and Maruyama, T. (2006).
+Molecular evidence demonstrating
+the basidiomycetous fungus Cryp-
+tococcus curvatus is the dominant
+microbial eukaryote in sediment at
+the Kuroshima Knoll methane seep.
+Extremophiles 10, 165–169.
+Thompson, R. C., Olsen, Y., Mitchell,
+R. P ., Davis, A., Rowland, S. J.,
+John, A. W. G., McGonigle, D.,
+and Russell, A. E. (2004). Lost at
+sea: where is all the plastic? Science
+304, 838.
+T okiwa, Y., Calabia, B. P ., Ugwu, C. U.,
+and Aiba, S. (2009). Biodegradabil-
+ity of plastics. Int. J. Mol. Sci. 10,
+3722–3742.
+T osin, M., Degli Innocenti, F., and Bas-
+tioli, C. (1996). Effect of the com-
+posting substrate on biodegradation
+of solid materials under controlled
+composting conditions. J. Environ.
+Polym. Degrad. 4, 55–63.
+Tsuji, H., and Suzuyoshi, K. (2002a).
+Environmental degradation of
+biodegradable polyesters 2.
+Poly(ε-caprolactone), poly[(R)-
+3-hydroxybutyrate], and
+poly(L-lactide) ﬁlms in natural
+dynamic seawater. Polym. Degrad.
+Stab. 75, 357–365.
+Tsuji, H., and Suzuyoshi, K. (2002b).
+Environmental degradation of
+biodegradable polyesters 1.
+Poly(ε-caprolactone), poly[(R)-
+3-hydroxybutyrate],and poly(L-
+lactide) ﬁlms in controlled static
+seawater. Polym. Degrad. Stab. 75,
+347–355.
+Tsuji, H., and Suzuyoshi, K. (2003).
+Environmental degradation of
+biodegradable polyesters 4. The
+effects of pores and surfacehydrophilicity on the biodegrada-
+tion of poly( ε-caprolactone) and
+poly[(R)-3-hydroxybutyrate]
+ﬁlms in controlled seawa-
+ter. J. Appl. Polym. Sci. 90,
+587–593.
+Volova, T. G., Boyandin, A. N., Vasil’ev,
+A. D., Karpov, V . A., Kozhevnikov,
+I. V ., Prudnikova, S. V ., Rud-
+nev, V . P ., Xuån, B. B., Viet, D.
+V ., and Gitel’Zon, I. I. (2011).
+Biodegradation of polyhydroxyalka-
+noates (PHAs) in the South China
+Sea and identiﬁcation of PHA-
+degrading bacteria. Microbiology 80,
+252–260.
+Weber, M., Lott, C., and Fabricius,
+K. E. (2006). Sedimentation stress
+in a scleractinian coral exposed
+to terrestrial and marine sedi-
+ments with contrasting physical,
+organic and geochemical proper-
+ties. J. Exp. Mar. Biol. Ecol. 336,
+18–32.
+Y amashita, R., and Tanimura, A.
+(2007). Floating plastic in the
+Kuroshio current area, western
+North Paciﬁc Ocean. Mar. Pollut.
+Bull. 54, 464–488.
+Conﬂict of Interest Statement: The
+authors declare that the research was
+conducted in the absence of any com-
+mercial or ﬁnancial relationships that
+could be construed as a potential con-
+ﬂict of interest.
+Received: 18 May 2012; accepted: 01 June
+2012; published online: 21 June 2012.
+Citation: Tosin M, Weber M, Siotto M,
+Lott C and Degli Innocenti F (2012)
+Laboratory test methods to determine the
+degradation of plastics in marine envi-
+ronmental conditions. Front. Microbio.
+3:225. doi: 10.3389/fmicb.2012.00225
+This article was submitted to Frontiers
+in Microbiotechnology, Ecotoxicology and
+Bioremediation, a specialty of Frontiers in
+Microbiology.
+Copyright © 2012 Tosin, Weber, Siotto,
+Lott and Degli Innocenti. This is an
+open-access article distributed under the
+terms of the Creative Commons Attribu-
+tion Non Commercial License, which per-
+mits non-commercial use, distribution,
+and reproduction in other forums, pro-
+vided the original authors and source are
+credited.
+www.frontiersin.org June 2012 | Volume 3 | Article 225 | 9

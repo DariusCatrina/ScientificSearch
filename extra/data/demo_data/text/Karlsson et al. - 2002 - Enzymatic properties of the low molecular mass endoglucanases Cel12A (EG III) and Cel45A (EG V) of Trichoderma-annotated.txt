@@ -1,0 +1,802 @@
+Enzymatic properties of the low molecular mass
+endoglucanases Cel12A (EG III) and Cel45A (EG V) of
+Trichoderma reesei
+Johan Karlssona,1, Matti Siika-ahob, Maija Tenkanenb,2, Folke Tjernelda,*
+aDepartment of Biochemistry, Lund Uni versity, P.O. Box 124, SE-221 00 Lund, Sweden
+bVTT Biotechnology, P.O. Box 1500, FIN-02044 Espoo, Finland
+Recei ved 16 July 2001; recei ved in re vised form 28 March 2002; accepted 10 May 2002
+Abstract
+Trichoderma reesei produces fi ve known endoglucanases. The most studied are Cel7B (EG I) and Cel5A (EG II)
+which are the most abundant of the endoglucanases. We ha ve performed a characterisation of the enzymatic properties
+of the less well-studied endoglucanases Cel12A (EG III), Cel45A (EG V) and the catalytic core of Cel45A. For
+comparison, Cel5A and Cel7B were included in the study. Adsorption studies on microcrystalline cellulose (A vicel) and
+phosphoric acid swollen cellulose (PASC) showed that Cel5A, Cel7B, Cel45A and Cel45Acore adsorbed to these
+substrates. In contrast, Cel12A adsorbed weakly to both A vicel and PASC. The products formed on A vicel, PASC and
+carboxymethylcellulose (CMC) were analysed. Cel7B produced glucose and cellobiose from all substrates. Cel5A andCel12A also produced cellotriose, in addition to glucose and cellobiose, on the substrates. Cel45A showed a clearly
+different product pattern by ha ving cellotetraose as the main product, with practically no glucose and cellobiose
+formation. The kinetic constants were determined on cellotriose, cellotetraose and cellopentaose for the enzymes.Cel12A did not hydrolyse cellotriose. The k
+Catvalues for Cel12A on cellotetraose and cellopentaose were significantly
+lower compared with Cel5A and Cel7B. Cel7B was the only endoglucanase which rapidly hydrolysed cellotriose.
+Cel45Acore did not show acti vity on any of the three studied cello-oligosaccharides. The four endoglucanases’ capacity
+to hydrolyse b-glucan and glucomannan were studied. Cel12A hydrolysed b-glucan and glucomannan slightly less
+compared with Cel5A and Cel7B. Cel45A was able to hydrolyse glucomannan significantly more compared with b-
+glucan. The capability of Cel45A to hydrolyse glucomannan was higher than that obser ved for Cel12A, Cel5A and
+Cel7B. The results indicate that Cel45A is a glucomannanase rather than a strict endoglucanase. #2002 Published by
+Elsevier Science B.V.
+Keywords: Endoglucanase; Trichoderma reesei ; Enzymatic hydrolysis; Cellulases
+1. Introduction
+Cellulose is one of the most abundant biopoly-
+mers on earth. It has been estimated that 7.2 /C29 /
+1011tonnes of cellulose is stored in plants and* Corresponding author. Fax: /C27/46-46-222-4534
+E-mail address: folke.tjerneld@biokem.lu.se (F. Tjerneld).
+1Present address: BioGaia Fermentation, P.O. Box 965, SE-
+220 09 Lund, Sweden.
+2Present address: KCL, P.O. Box 70, Espoo FIN-02151,
+Finland.Journal of Biotechnology 99 (2002) 63 /C1/78
+www.else vier.com/locate/jbiotec
+0168-1656/02/$ - see front matter #2002 Published by Elsevier Science B.V.
+PII: S 0 1 6 8 - 1 6 5 6 ( 0 2 ) 0 0 1 5 6 - 6
+that the annual production of cellulose is 4 /C29 /1010
+tonnes ( Coughlan, 1985 ). Cellulose degradation is
+thus a very important process. One putati ve
+industrial use is to con vert cellulose to glucose
+and then ferment the glucose to ethanol ( Duff and
+Murray, 1996 ). The ethanol can then be utilised as
+fuel for vehicles as a substitute for fossil fuels.
+Enzymes which hydrolyse cellulose are pro-
+duced by se veral bacteria and fungi ( Be´guin and
+Aubert, 1994 ). One of the most studied fungal
+cellulase systems is produced by Trichoderma
+reesei . The fungus produces a complete set of
+cellulases which can hydrolyse cellulose to solublesugars. The cellulases are repressed when glucose ispresent and expressed when the organism star ves
+or when certain inducers are present ( Ilme´n, 1997 ).
+T. reesei expresses at least two cellobiohydrolases,
+Cel6A (CBH II) ( Teeri et al., 1987 ) and Cel7A
+(CBH I) ( Shoemaker et al., 1983a; Teeri et al.,
+1983 ), (EC 3.2.1.91) and fi ve endoglucanases,
+Cel5A (EG II) ( Saloheimo et al., 1988 ), Cel7B
+(EG I) ( Penttila ¨et al., 1986 ), Cel12A (EG III)
+(Ward et al., 1993; Okada et al., 1998 ), Cel45A
+(EG V) ( Saloheimo et al., 1994 ) and Cel61A (EG
+IV) ( Saloheimo et al., 1997 ) (EC 3.2.1.4). Here, we
+have adopted the nomenclature for classification
+of the catalytic domains into families based onsequences ( Henrissat et al., 1998 ). All T. reesei
+cellulases, except Cel12A, are modular enzymesand consist of a cellulose binding module (CBM)and a catalytic core domain. Cel12A consists onlyof a catalytic core. The 3D-structures for thecatalytic core domain of Cel6A ( Rou vinen et al.,
+1990 ), Cel7A ( Divne et al., 1994 ), Cel7B ( Kleywegt
+et al., 1997 ) and the cellulose binding domain of
+Cel7A ( Kraulis et al., 1989 ) and Cel7B ( Mattinen
+et al., 1998 ) are sol ved. Recently, the 3D structure
+of Cel12A was determined ( Sandgren et al., 2001 ).
+For the cellobiohydrolases Cel6A and Cel7A, theactive site is located in a tunnel whereas the
+endoglucanases, Cel7B and Cel12A, has the acti ve
+site in an open cleft.
+The aim of this study was to perform a
+comparati ve characterisation of the enzymatic
+properties of the less well studied endoglucanasesCel12A and Cel45A. The catalytic core domain ofCel45A was included to compare with Cel12A, theendoglucanase of T. reesei which does not ha veaCBM. The two more well studied endoglucanases
+Cel5A and Cel7B were included for comparison.
+Both Cel12A and Cel45A ha ve a lower molecular
+mass compared with the other cellulases of T.
+reesei , 25 and 23 kDa, respecti vely. A wide range
+of substrates for the enzymes ha ve been studied,
+including microcrystalline and amorphous cellu-lose, soluble carbohydrate polymers and cello-oligosaccharides. Only a few studies ha ve been
+published on the low molecular mass endogluca-
+nases Cel12A ( Ha˚kansson et al., 1978; U ¨lker and
+Sprey, 1990; Hayn et al., 1993; Okada et al., 1998,2000 ) and Cel45A ( Saloheimo et al., 1994 ). In
+these studies, both Cel12A and Cel45A showedactivity against carboxymethylcellulose (CMC)
+and filter paper but not against A vicel. A number
+of studies ha ve been performed on the enzymatic
+properties of the more well known Cel5A ( Shoe-
+maker and Brown, 1978; Henrissat et al., 1985;van Tilbeurgh and Claeyssens, 1985 ) and Cel7B
+(Ha˚kansson et al., 1979; Shoemaker et al., 1983b;
+Bhikhabhai et al., 1984; Henrissat et al., 1985 ).
+Howe ver, there is a lack of systematic studies of
+the product formation during hydrolysis of micro-crystalline, amorphous and soluble cellulose sub-
+strates. One important aspect of our study has
+been to in vestigate if there are any distinct
+differences between the enzymes which couldexplain why T. reesei produces se veral endogluca-
+nases. There is currently ongoing work on struc-ture determination of Cel45A (Jerry Sta ˚hlberg,
+personal communication). In this context it is vital
+to ha ve information about the enzymatic proper-
+ties of the enzymes. Furthermore, a more thor-
+ough understanding of the acti vity of these
+endoglucanases is important for the applicationsof the enzymes, e.g. in constructing a moreefficient cellulase mixture for total hydrolysis ofcellulose.
+2. Materials and methods
+2.1. Enzymes
+Cel12A (EG III) from T. reesei was purified by
+chromatographic methods from the culture filtrateproduced and processed as described in Pere et al.J. Karlsson et al. / Journal of Biotechnology 99 (2002) 63 /C1/78 64
+(1995) . The strain used for enzyme production
+(kindly pro vided by Roal Oy, Finland) was
+genetically modified as described by Suominen et
+al. (1993) so that the genes coding for Cel5A (EG
+II) and Cel6A (CBH II) were deleted. Purity of theenzyme preparations was monitored by gel elec-trophoresis techniques using 12.5% polyacryl-amide gels (Amersham Biosciences, Uppsala, Swe-den) for sodiumdodecyl sulphate-polyacrylamide
+gel electrophoresis (SDS-PAGE) and IEF 3 /C1
+/9 gels
+(Amersham Biosciences) for isoelectric focusing inPhastSystem (Amersham Biosciences) accordingto manufacturer’s instructions. Protein amountsduring the chromatographic purification wereestimated on the basis of absorbance at 280 nm.Protein concentration of the raw enzyme concen-trates and purified enzyme preparations were
+assayed by the method of Lowry et al .(1951) .
+The concentrated culture filtrate (227 g protein)
+was treated with bentonite as described by Zur-
+briggen et al .(1990) to adsorb impurities and to
+remo ve the precipitates formed in the concentra-
+tion. The clarified sample was equilibrated with 7mM sodium phosphate buffer, pH 7.2 by gelfiltration (Sephadex G-25 coarse, Amersham Bio-
+sciences) and applied to an anion exchange column
+of DEAE Sepharose FF (Amersham Biosciences),equilibrated with the same buffer. Elution wasperformed first with the starting buffer to remo ve
+unadsorbed proteins and thereafter 12.5 mMsodium acetate, pH 7.2 with increasing concentra-tion of sodium chloride. A pool containing Cel12A(5.26 l, 10.9 g protein) was collected from the
+fractions that were neither adsorbed nor retarded
+in the column by the equilibration buffer.
+The pool containing Cel12A was applied to a
+column of Phenyl Sepharose FF (AmershamBiosciences) equilibrated with 20 mM sodiumphosphate at pH 6.0 containing 0.35 mol l
+/C281
+(NH 4)2SO 4, after it had been adjusted to the
+corresponding pH and conducti vity by ammonium
+sulphate. The unadsorbed material was eluted by
+equilibrating buffer and the other adsorbed pro-teins by 20 mM sodium phosphate and water.Cel12A was tightly adsorbed to the column andwas eluted by 5 M urea, after which the columnwas washed by 6 M urea. The collected pool (4.4 l,ca. 0.7 g protein) was equilibrated to the con-ducti vity and pH of 12 mM sodium acetate, pH 4.8
+and applied to a cation exchange column (CM
+Sepharose FF, Amersham Biosciences), equili-brated with the same buffer. The bound proteinswere eluted with a combined pH and ionic strengthgradient from 12 mM sodium acetate, pH 4.8 /C1
+/25
+mM sodium acetate, pH 5.4, and after that by 1 MNaCl. Fractions containing Cel12A, which elutedat the end of the gradient were combined (ca. 0.34
+g protein in 0.57 l) for further purification.
+Final purification was achie ved by gel filtration.
+A part of the collected pool from the cationexchange chromatography was concentrated byultrafiltration (Amicon, PM 10 membranes) to 12ml (ca. 0.21 g protein) and applied to a column ofSephacryl S-100 HR (5.0 /C29
+/88 cm, Amersham
+Biosciences) pre-equilibrated with 50 mM sodium
+acetate buffer, pH 5.0, containing 100 mM NaCl.
+The elution was carried out with the same buffer.The fractions containing Cel12A were combined intwo pools and concentrated by ultrafiltration(Amicon, PM 10 membranes) to final volumes
+103 ml (pool I) and 20 ml (pool II) with 180 g (I)and 27 mg (II) of protein. The purified Cel12Ashowed a single band in SDS-PAGE and IEF,
+corresponding to the reported molecular mass and
+isoelectric point of the protein ( Okada et al., 2000 ).
+Cel45A (EG V) was purified from the culture
+filtrate of a T. reesei strain lacking the genes
+expressing the two major endoglucanases Cel7B(EGI) and Cel5A (EG II). The strain was geneti-cally modified as described by Suominen et al .
+(1993) . The culture filtrate was pH adjusted to pH
+6.0 and applied to a column with DEAE Sephar-
+ose FF. The protein was eluted with a NaClgradient from 0 to 0.2 M. The fractions containingCel45A were pooled and the buffer was adjusted to0.02 M sodium acetate (pH 5.0) and 0.5 M(NH
+4)2SO 4. The pooled fractions were applied to
+a column with Phenyl Sepharose FF. For elution agradient of decreasing concentration of sodium
+acetate and (NH
+4)2SO 4was used where Cel45A
+was eluted with 1 mM sodium acetate. The pooledfractions with Cel45A were pH adjusted to pH 3.0with 5 mM acetic acid/sodium acetate and appliedto a SP Sepharose FF column. Cel45A was elutedwith a NaCl gradient from 0 to 0.5 M. The finalstep in the purification was gel filtration per-J. Karlsson et al. / Journal of Biotechnology 99 (2002) 63 /C1/78 65
+formed with a Sephacryl S100 HR column equili-
+brated with 0.05 M sodium acetate and 0.15 M
+sodium chloride at pH 5.0. The purified Cel45Ashowed a single band in SDS-PAGE after sil ver
+staining.
+Cel45Acore was purified from the culture fil-
+trate of a T. reesei strain constructed for expres-
+sion of the protein in glucose-containing medium,as described by Nakari-Seta ¨la¨and Penttila ¨(1995) .
+In glucose medium all other cellulases are re-
+pressed ( Ilme´n, 1997 ). The purification of Cel45A-
+core followed a similar procedure as for thepurification of the full length Cel45A. The fulllength Cel45A and the core protein Cel45Acorewere eluted at different salt concentrations in thechromatography step with Phenyl Sepharose FFcolumn. The final gel filtration step was not
+performed; the Cel45Acore preparation was pure
+after the cation exchange step on SP Sepharose FFcolumn at pH 3.0 (5 mM acetic acid/sodiumacetate) and elution with NaCl gradient from 0to 0.5 M. The purity of the Cel45Acore prepara-tion was verified with SDS-PAGE where the
+preparation showed a single band after sil ver
+staining.
+Cel5A (EG II) was purified according to Rah-
+kamo et al .(1996) . The purity of the Cel5A
+preparation was verified with SDS-PAGE after
+silver staining. Cel7B (EG I) was purified from a
+culture filtrate of T. reesei QM9414. The culture
+filtrate was buffer exchanged to 20 mM ammoni-um acetate pH 7.0 in a Sephadex G25 column(Amersham Biosciences). The purification was
+performed in two anion-exchange steps. In the
+first step a Source Q column (Amersham Bio-sciences) was used with a linear gradient ofammonium acetate, pH 7.0, from 20 mM to 1M. The second step was performed as abo ve
+except that the pH was decreased to 6.5. Thepurification was performed at room temperatureusing a FPLC system (Amersham Biosciences).
+The purity of the Cel7B preparation was verified
+with SDS-PAGE after sil ver staining.
+2.2. Substrates and chemicals
+Avicel and glucose were obtained from Sigma
+(St. Louis, MI, USA). Phosphoric acid swollencellulose (PASC) was prepared from A vicel ac-
+cording to Wood (1988) . CMC was from ICN
+(Costa Mesa, CA, USA). Barley b-glucan and
+konjac glucomannan were from Megazyme (Bray,Ireland). Konjac glucomannan composition isapproximately 60% mannan and 40% glucoseand the polymer is partially acetylated whichmakes it water soluble. Cellobiose, cellotriose,cellotetraose and cellopentaose were from Merck
+(Darmstadt, Germany). Bo vine serum albumin
+(BSA) was from ICN (Costa Mesa, CA, USA).Other chemicals were of analytical grade.
+2.3. Effect of pH on enzymatic acti vity
+The pH effect on enzymatic acti vity for the
+enzymes was determined on b-glucan, 5 g l
+/C281,a t
+408C. The substrate was hydrolysed for 30 min
+and the production of reducing ends was analysedwith the DNS method using glucose as standard(Bailey and Ne valainen, 1981 ). BSA was present at
+0.1 g l
+/C281to stabilise the enzymes. The buffers used
+were, pH 3, Na-citrate; pH 4, Na-acetate; pH 5,Na-acetate; pH 6, MES; pH 7, MOPS; pH 8, Tris;pH 9, Glycine; pH 10, Glycine. The pH was set
+with either NaOH or HCl.
+2.4. Temperature effect on enzymatic acti vity
+The effect of temperature on endoglucanase
+activity was determined on b-glucan, 5 g l
+/C281,i n
+50 mM Na-acetate at pH 5.0. The substrate washydrolysed for 30 min and the production of
+reducing ends was determined with the DNS
+method. BSA was present at 0.1 g l
+/C281to stabilise
+the enzymes.
+2.5. Adsorption
+The adsorption to A vicel (10 g l/C281) and PASC
+(5 g l/C281) was studied with enzyme concentrations
+of 0.5 mM endoglucanase in 50 mM Na-acetate at
+pH 5.0. BSA was included at 1 g l/C281to stabilise
+the enzymes and to reduce unspecific adsorption.The adsorption experiments were performed at48C. The adsorption time was between 3 min and
+12 h. The substrate with adsorbed enzyme wasfiltered off using a 0.22 mm filter. The enzymeJ. Karlsson et al. / Journal of Biotechnology 99 (2002) 63 /C1/78 66
+activity was analysed in the filtrate using CMC for
+Cel5A and Cel7B, and b-glucan for Cel12, Cel45
+and Cel45Acore. The acti vity was determined
+using the DNS assay.
+2.6. Product formation
+The formation of products after hydrolysis on
+different polymeric substrates was in vestigated
+after a 1 h hydrolysis, at 40 8C. Enzyme at 0.25
+mM was incubated with the substrate, 10 g l/C281
+Avicel, 5 g l/C281PASC and 5 g l/C281CMC, in 50 mM
+Na-acetate at pH 5.0. BSA was included at 0.1 g
+l/C281in all experiments to stabilise the enzymes. The
+Avicel and PASC hydrolysis were terminated by
+filtering off the unhydrolysed substrate with a 0.22mm filter. The CMC hydrolysis was not terminated
+but product formation was determined directlyafter 1 h. All experiments were analysed forproduction of soluble sugars immediately, within1 min. The soluble sugars (glucose to cellopen-
+taose) were analysed on a Dionex HPLC system
+with an anion exchange Carbopac PA100 columnand pulsed amperometric detection (Dionex, Sun-nyvale, CA, USA). The oligosaccharides were
+eluted isocratically with 50 mM NaOH and witha simultaneous linear gradient of Na-acetate from50 to 300 mM. The detector was set with thefollowing pulse potentials and durations: E
+1/C30 /0.05
+V, 200 ms (sampling); E2/C30 /0.75 V, 200 ms
+(cleaning); E3/C30 //C28 /0.15 V, 400 ms (reduction),
+and a response time of 1 s. Glucose, cellobiose,cellotriose, cellotetraose and cellopentaose wereused as standards.
+2.7. Kinetic studies of oligosaccharide hydrolysis
+The kinetic constants were determined for
+hydrolysis of cellotriose, cellotetraose and cello-pentaose. The enzyme and substrate concentra-tions used are listed in Table 1 . The substrate was
+incubated with the enzyme for a specific time at
+408C in 50 mM Na-acetate at pH 5.0, and 0.1 g
+l
+/C281BSA was present. The hydrolysis was termi-
+nated by adding NaOH to a final concentration of0.4 M. The hydrolysate was analysed immediatelyon a HPLC system as described abo ve. The kineticconstants were calculated with a Linewea ver/C1
+/
+Burke plot.
+2.8. Hydrolysis of b-glucan and glucomannan
+The hydrolytic acti vity on b-glucan and konjac
+glucomannan for Cel12A, Cel45Acore, Cel5A andCel7B was studied. The enzyme concentrationswere 0.5 mM for Cel12A and Cel45Acore and 0.25
+mM for Cel5A and Cel7B. The substrate (5 g l
+/C281)
+was dissol ved in 50 mM Na-acetate at pH 5.0,
+BSA (0.1 g l/C281) was present to stabilise the
+enzymes. The hydrolysis was performed at roomtemperature for 9 h. The hydrolysate was analysedon a size exclusion chromatography (SEC) systemwith 200 mM ammonium-acetate, pH 5.0, aselution buffer at 0.5 ml min
+/C281. Two TSK G3000
+SW columns (Tosohaas, Stuttgart, Germany) were
+connected in series and the eluate was analysedwith a refracti ve index detector ERC-7515A
+(ERMA Inc., Tokyo, Japan). Dextran standardswith molecular mass of 5.2, 25, 50 and 80 kDawere used to calibrate the system.
+3. Results
+The enzymatic properties were studied for the
+low molecular mass endoglucanases Cel12A andCel45A of T. reesei . For Cel45A, the studies
+included both the full length enzyme and thecatalytic core domain (Cel45Acore) produced afterdeletion of the CBM by genetic engineering. The
+more well-studied endoglucanases Cel5A and
+Cel7B were included for comparison.
+3.1. Effect of pH on enzymatic acti vity
+The effect of pH on hydrolysis was studied for
+Cel12A, Cel45Acore and Cel5A with the solublepolymeric substrate b-glucan during a 30 min
+hydrolysis, Fig. 1 . At acidic pH values, Cel12A
+showed a distinctly different beha viour compared
+with the other enzymes. Cel12A had maximumactivity at pH 5. The acti vity decreased more
+rapidly when decreasing the pH than when thepH was increased; more than 50% of the maximalactivity was retained at pH 7 compared with onlyJ. Karlsson et al. / Journal of Biotechnology 99 (2002) 63 /C1/78 67
+25% at pH 4. Also Cel45Acore showed maximal
+activity at pH 5, howe ver, Cel45Acore retained
+more than 75% of its maximal acti vity between pH
+3 and 6. Abo ve pH 6 the acti vity dropped rapidly
+and no acti vity could be detected at pH 8 and
+higher. For Cel5A the highest acti vity was ob-
+tained at pH 4. The maximum acti vity range was
+broad, with 85% of maximum at pH 3 and 5. Theactivity decreased to 50% at pH 7, and reached 0 at
+pH 10.3.2. Temperature effect on enzymatic hydrolysis
+The effect of temperature on hydrolysis of b-
+glucan at pH 5 was determined for Cel12A,Cel45Acore and Cel5A, Fig. 2 . The incubation
+time for each enzyme was 30 min. For Cel12Amaximal acti vity was shown at 50 8C. At 60 8C
+the enzyme retained almost 90% of maximal
+activity but less than 10% of maximal acti vity
+was obtained at 70 8C. In contrast, Cel45AcoreTable 1
+The enzyme and substrate concentrations used for determination of the kinetic constants
+Enzyme Enzyme concentration ( mM) Substrate Substrate concentration ( mM)
+Cel12A 0.5 Cellotriose 500
+Cel12A 0.5 Cellotetraose 30 /C1/1000
+Cel12A 0.01 Cellopentaose 30 /C1/1000
+Cel45Acore 0.5 Cellotriose 500Cel45Acore 0.5 Cellotetraose 500
+Cel45Acore 0.5 Cellopentaose 500
+Cel5A 0.5 Cellotriose 500Cel5A 0.02 Cellotetraose 50 /C1
+/500
+Cel5A 0.001 Cellopentaose 10 /C1/150
+Cel7B 0.05 Cellotriose 50 /C1/5000
+Cel7B 0.001 Cellotetraose 30 /C1/250
+Cel7B 0.001 Cellopentaose 10 /C1/200
+Fig. 1. The effect of pH on hydrolysis of b-glucan by the endoglucanases. The acti vity was determined by incubating the
+endoglucanases (0.5 mM) for 30 min with b-glucan, 5 g l/C281,a t4 0 8C at different pH values. The experiments were performed in
+triplicates with a S.D. of below 10%. The hydrolysis of the substrate was analysed with the DNS assay. ", Cel12A; j, Cel45Acore; m,
+Cel5A.J. Karlsson et al. / Journal of Biotechnology 99 (2002) 63 /C1/78 68
+retained acti vity o ver a wide temperature range,
+clearly wider than for the other endoglucanases.Maximal acti vity was obser ved at 60 8C but more
+than 70% of maximal acti vity was retained be-
+tween 40 and 70 8C. For Cel5A the acti vity at
+708C was higher than for the other endogluca-
+nases. The acti vity increased up to 70 8C where
+maximal acti vity was retained during the 30 min
+incubation. At 80 8C only 10% of the acti vity was
+retained.
+3.3. Adsorption to cellulose substrates
+The adsorption of Cel12A, Cel45A, Cel45Acore,
+Cel5A and Cel7B to A vicel and PASC was studied,
+Fig. 3 A and B. The adsorption was studied at
+48C to minimise substrate change due to enzy-
+matic acti vity. Furthermore, BSA (1 g l
+/C281) was
+included to reduce unspecific adsorption of theenzymes. The substrate with bound enzyme wasfiltered off and the filtrate was analysed for
+enzyme acti vity.
+The weakest adsorption to A vicel was shown by
+Cel12A ( Fig. 3 A). About 20% of Cel12A adsorbed
+to A vicel within 3 min, and no major changes in
+adsorption were detected o ver time. Cel45A ad-
+sorbed strongly to A vicel, with 90% adsorbed after60 min. Cel45A continued to adsorb to A vicel at
+longer adsorption times with 100% of the enzymeadsorbed at 12 h. The same enzyme lacking CBM,Cel45Acore, adsorbed as Cel45A up to 30 min
+where more than 85% was adsorbed. Cel45Acore
+desorbed from the substrate at longer incubationtimes, but after 12 h 75% of the enzyme was stilladsorbed to A vicel. Both Cel5A and Cel7B
+showed strong adsorption on A vicel, with 85%
+adsorbed after 30 min, and the adsorption re-mained constant during the 12 h.
+The majority of the studied endoglucanases,
+Cel5A, Cel7B, Cel45A and Cel45Acore, showed
+stronger adsorption to PASC compared withAvicel ( Fig. 3 B). No desorption of these enzymes
+could be detected up to 12 h. In contrast, Cel12Aadsorbed to 60% after 3 min and a desorption wasobser ved up to 12 h when 30% of Cel12A was still
+adsorbed to the substrate.
+3.4. Product formation after hydrolysis of
+polymeric substrates
+The products formed after hydrolysis of A vicel,
+PASC and CMC were analysed with HPLC ( Fig.
+4). Samples were analysed after 1 h hydrolysis at
+408C. The degree of con version for each sub-
+Fig. 2. The effect of temperature on hydrolysis of b-glucan by the endoglucanases. The acti vity was determined by incubating 0.5 mM
+of the endoglucanases for 30 min in 50 mM Na-acetate, pH 5.0, at different temperatures with b-glucan, 5 g l/C281. The experiments were
+performed in triplicates with a S.D. of below 10%. The hydrolysis of the substrate was analysed with the DNS assay. ", Cel12A; j,
+Cel45Acore; m, Cel5A.J. Karlsson et al. / Journal of Biotechnology 99 (2002) 63 /C1/78 69
+strate and enzyme is shown in Table 2 . After 24 h
+hydrolysis (data not shown) the product pattern
+was similar to what was obser ved after 1 h
+hydrolysis for all the enzymes studied.For Cel12A, the products formed on all sub-
+strates were glucose, cellobiose, cellotriose and
+cellotetraose ( Fig. 4 A). Trace amounts of cello-
+pentaose were also detected on PASC. The main
+Fig. 3. Adsorption of the endoglucanases to A vicel and PASC. The endoglucanase (0.5 mM) was incubated with the substrate at 4 8C
+in 50 mM Na-acetate, pH 5.0. The adsorption was terminated by ﬁltering of the substrate with adsorbed endoglucanase with a 0.2 mm
+ﬁlter. The ﬁltrate was then analysed for speciﬁc endoglucanase acti vity and the amount of adsorbed enzyme was subsequently
+calculated. The substrate concentration was 10 g l/C281Avicel, and 5 g l/C281for PASC. A, adsorption to A vicel; B, adsorption to PASC;
+", Cel12A; X, Cel45A; j, Cel45Acore; m, Cel5A; ', Cel7B.J. Karlsson et al. / Journal of Biotechnology 99 (2002) 63 /C1/78 70
+Fig. 4J. Karlsson et al. / Journal of Biotechnology 99 (2002) 63 /C1/78 71
+product was cellobiose from all substrates. The
+cellotetraose concentration was significant for allsubstrates, except for A vicel. The con version of
+PASC to soluble sugars by Cel12A was 5.6%. The
+corresponding figures for A vicel and CMC were
+0.4 and 2.2%, respecti vely.
+A notable difference in product formation
+pattern relati ve to the other endoglucanases was
+obser ved for the Cel45A enzymes. The main
+product was cellotetraose for both Cel45A and
+Cel45Acore for all substrates after 1 h hydrolysis
+(Fig. 4 B/C1
+/C). Both enzymes produced significant
+amounts of cellopentaose and cellotriose. Cel45A
+also produced low amounts of glucose and cello-
+biose, whereas Cel45Acore only produced trace
+amounts of cellobiose from CMC. The con version
+of the substrates was low for both Cel45A andCel45Acore, and there was no significant differ-
+ence between the core and the full length enzyme
+on any substrate ( Table 2 ).
+The products formed by Cel5A were glucose,
+cellobiose and cellotriose on all substrates, and
+trace amounts of cellotetraose were also detected
+from PASC ( Fig. 4 D). The main product was
+cellobiose on A vicel and PASC, and glucose from
+CMC. The cellotriose concentration was signifi-
+cant for all substrates. The product formationpattern for Cel7B showed mainly glucose and
+cellobiose from all substrates ( Fig. 4 E). The main
+product was cellobiose from A vicel and PASC,
+and glucose from CMC. Cel7B produced trace
+amounts of cellotriose from PASC. The con ver-sion of the substrates was similar for Cel5A and
+Cel7B on A vicel and PASC where 0.8 and about
+7.0% were con verted, respecti vely. A difference in
+conversion was obser ved for CMC: Cel5A con-
+verted 3.7% whereas Cel7B con verted only 2.7%.
+3.5. Kinetic studies for oligosaccharide hydrolysis
+The steady state kinetic constants for Cel12A,
+Cel45core, Cel5A and Cel7B were determined for
+hydrolysis of cellotriose, cellotetraose and cello-
+pentaose, Table 3 . The kinetic constants were
+determined at 40 8C. The substrate concentrations
+used ( Table 1 ) were both higher and lower than the
+calculated k
+Mvalue.
+For cellopentaose, Cel12A, Cel5A and Cel7B
+hydrolysed this substrate efficiently, whereas nohydrolysis was obser ved for Cel45Acore. Cel12A
+had a four times higher k
+M(230 mM) and about
+ten times lower kCat(14 s/C281) compared with
+Cel7B. The kMvalues for Cel5A and Cel7B were
+very similar ( : /50mM), but the kCatfor Cel7B was
+a factor of two higher (118 s/C281).
+Cellotetraose was a substrate for Cel5A, Cel7B
+and Cel12A but not for Cel45Acore. The kMfor
+Cel12A and Cel5A was in the same range ( : /400
+mM). Cel12A had a kCatmore than ten times lower
+(0.8 s/C281) than Cel5A. Cel7B had a lower kMand a
+higher kCatcompared with Cel5A.
+Neither Cel12A nor Cel45Acore showed any
+detectable hydrolysis on cellotriose. No hydrolysiswas obser ved with 0.5 mM enzyme and 0.5 mM
+Fig. 4. Production of oligosaccharides on different polymeric cellulose substrates. The endoglucanase (0.25 mM) was incubated with
+the substrate, and the hydrolysate was analysed by HPLC for the formation of oligosaccharides. The experiments were performed intriplicates with a S.D. of below 10% for each oligosaccharide. The substrate concentration was 10 g l
+/C281Avicel, 5 g l/C281PASC and
+CMC. The hydrolysis was performed at 40 8C for 1 h in 50 mM Na-acetate pH 5.0. A, Cel12A; B, Cel45A; C, Cel45Acore; D, Cel5A;
+E, Cel7B.Table 2
+The con version, in percent, of A vicel, PASC and CMC with the different enzymes
+Substrate Cel5A Cel7B Cel12A Cel45A Cel45AcoreAvicel 0.8 0.8 0.4 0.1 0.1
+PASC 7.0 7.1 5.6 0.8 0.9
+CMC 3.7 2.7 2.2 0.9 0.9
+The substrate was incubated with the enzyme for 1 h and the produced oligosaccharides were analysed with HPLC. The experiments
+were performed in triplicates with a S.D. of below 10%. The experimental conditions were the same as in Fig. 4 .J. Karlsson et al. / Journal of Biotechnology 99 (2002) 63 /C1
+/78 72
+substrate incubated for 120 min. Only Cel7B
+hydrolysed cellotriose at a significant rate. Theproblem with Cel7B was that the kinetic constantscould not be determined due to analytical pro-blems when the substrate concentration was in-creased. Howe ver, the k
+Mseemed to be in the mM
+range. Cel5A hydrolysed cellotriose very slowly,
+only 10% of the substrate was hydrolysed in 120
+min (0.5 mM enzyme and 0.5 mM cellotriose). Due
+to the low hydrolysis rate, the kinetic constantswere not determined for Cel5A hydrolysis ofcellotriose.
+3.6. Hydrolysis of b-glucan and glucomannan
+The hydrolytic capacity of Cel12A, Cel45Acore,
+Cel5A and Cel7B were determined on the soluble
+polymers b-glucan and konjac glucomannan, Fig.
+5. The polymers were analysed after 9 h hydrolysis
+using a SEC system. The hydrolysate was notanalysed with the HPLC system due to the lack ofstandards.
+b-Glucan was hydrolysed to a significant extent
+with Cel12A, Cel5A and Cel7B as can be seen in
+the increase in elution volume compared with the
+non-hydrolysed substrate, Fig. 5 A. The mean
+molecular mass of the formed products was inthe range of 5 kDa when compared with thedextran standards. The opposite was obser ved
+for Cel45Acore; there was only a limited increasein elution volume compared with the non-hydro-
+lysed substrate. Howe ver, Cel45Acore was able to
+hydrolyse glucomannan to a high extent, Fig. 5 B.
+The products formed exhibit a peak in thechromatogram from below 5 up to 50 kDacompared with the dextran standards. The otherthree endoglucanases were also able to hydrolyse
+glucomannan, but to a lesser extent than Cel45A-
+core. Cel12A was less efficient than Cel5A andCel7B on both substrates.
+4. Discussion
+4.1. Adsorption to cellulose substrates
+Cel12A adsorbed to both A vicel and PASC
+(Fig. 3 ). Howe ver, the affinity was lower than for
+the other cellulases which can be explained by thelack of CBM in Cel12A. Most surprising was thatboth the full length Cel45A and Cel45Acoreadsorbed significantly to A vicel and PASC. A
+difference between the core and the full lengthCel45A was obser ved on A vicel where the core
+desorbed with time; about 75% of the core was
+adsorbed after 12 h compared with 100% for thefull length enzyme. Howe ver, the adsorption on
+PASC was very similar for Cel45A and Cel45A-
+core. Thus, a significant difference in adsorptionwas obser ved between Cel12A and Cel45Acore,Table 3
+Kinetic constants for Cel12A, Cel45Acore, Cel5A and Cel7B on cellopentaose, cellotetraose and cellotriose
+Enzyme Substrate kM(mM) kCat(s) kCat(kM)
+Cel12A Cellopentaose 230 14 0.03
+Cel12A Cellotetraose 430 0.8 0.002
+Cel12A Cellotriose No hydrolysis detectedCel45Acore Cellopentaose No hydrolysis detectedCel45Acore Cellotetraose No hydrolysis detected
+Cel45Acore Cellotriose No hydrolysis detected
+Cel5A Cellopentaose 53 65 1Cel5A Cellotetraose 356 22 0.08Cel5A Cellotriose Very slow hydrolysis
+Cel7B Cellopentaose 55 118 2
+Cel7B Cellotetraose 113 120 1Cel7B Cellotriose Kinetic constants could not be determined
+An appropriate amount of enzyme was incubated with the oligosaccharide for a specific time at 40 8C (see Table 1 ). The hydrolysis
+was terminated with NaOH and immediately analysed with HPLC.J. Karlsson et al. / Journal of Biotechnology 99 (2002) 63 /C1
+/78 73
+which both lack the CBM. Howe ver, it has been
+shown that adsorption to steam pretreated spruceby the full length and core domain of Cel5A was
+similar, whereas the same experiment for Cel7Ashowed a decrease in adsorption for the core
+domain ( Kotiranta et al., 1999 ). The core domains
+of Cel6A and Cel7A ha ve been shown to adsorb to
+Avicel and bacterial microcrystalline cellulose
+Fig. 5. Hydrolysis of barley b-glucan ( A) and soluble konjac glucomannan ( B) by Cel5A, Cel7B, Cel12A and Cel45Acore. The
+substrate (5 g l/C281in 50 mM Na-acetate, pH 5.0) was incubated with the enzyme (0.5 mM Cel12A and Cel45Acore; 0.25 mM Cel5A and
+Cel7B) at room temperature for 9 h. The hydrolysates were analysed using SEC. Dextran standards are marked for a mean molecular
+mass comparison.J. Karlsson et al. / Journal of Biotechnology 99 (2002) 63 /C1/78 74
+(BMCC) but with lower affinity than the full
+length enzyme ( Tomme et al., 1988; Sta ˚hlberg et
+al., 1991; Palonen et al., 1999 ). Similar results were
+obtained on BMCC and cotton for Cel7B coredomain and full length enzyme ( Srisodsuk, 1994 ).
+Howe ver,Tomme et al .(1988) showed that Cel7A
+core domain adsorbed almost as much as the fulllength enzyme on PASC, whereas Cel6A coredomain showed significantly decreased adsorption
+compared with the full length enzyme on the same
+substrate. Hence, the core domains of the cellu-lases are able to adsorb to cellulose, but often withlower affinity than the full length enzyme. Further-more, the core domains for the different cellulasesadsorb with different affinity to cellulose sub-strates.
+4.2. Hydrolytic properties of Cel12A
+Cel12A hydrolysed A vicel, PASC and CMC,
+Fig. 4 A. The con version was highest on PASC and
+lowest on A vicel, Table 2 . Howe ver, the con ver-
+sion is lower than that obser ved for Cel5A and
+Cel7B, but significantly higher than for Cel45Aand Cel45Acore. The main product of Cel12Ahydrolysis of the substrates was cellobiose. After
+24 h the cellotetraose, which was obser ved after 1 h
+of hydrolysis, had been hydrolysed but cellotriosewas still a significant product (data not shown).This was confirmed in the kinetic studies, Table 3 ,
+where cellotriose was not a substrate for Cel12Abut the longer oligosaccharides were. Contrary toearlier reports ( U¨lker and Sprey, 1990 ) stating that
+Cel12A does not hydrolyse A vicel, our results
+show that Cel12A adsorbs to A vicel, and that
+Avicel is hydrolysed by Cel12A. The low acti vity
+of Cel12A on A vicel, compared with Cel5A and
+Cel7B, can partly be explained by the low adsorp-tion. Cel12A was highly acti veo n b-glucan and it
+was also able to hydrolyse glucomannan, Fig. 5 ,
+but Cel12A was less acti ve than Cel5A and Cel7B
+on both substrates. Thus, the hydrolytic properties
+of Cel12A is similar to Cel5A on all substrates
+tested. Howe ver, Cel5A is an endoglucanase with
+higher acti vity compared with Cel12A.
+The acti vity of Cel12A on cellotetraose and
+cellopentaose was significantly lower than that ofCel5A and Cel7B, as shown by the k
+Catvalues inTable 3 . The kinetic constants for Cel5A and
+Cel7B were similar. The turno ver numbers on the
+chromophoric substrates 2-chloro-4-nitrophenyl-b-
+D-cellobioside (CNPG 2) and 2-chloro-4-nitro-
+phenyl- b-D-cellotrioside (CNPG 3)h a ve been de-
+termined for Cel12A to be 0.11 and 1.1 s/C281,
+respecti vely ( Hayn et al., 1993 ). Furthermore, the
+turno ver number for Cel7B on CNPG 2has been
+reported to be 44 s/C281and for Cel5A on CNPG 3to
+be 4.5 s/C281(Nidetzky and Claeyssens, 1994 ). It was
+surprising that Cel12A was able to hydrolyseCNPG
+2since this substrate is supposed to mimic
+cellotriose, a substrate for which we did notobser ve any Cel12A acti vity. Howe ver, the turn-
+over number for Cel12A was significantly lower
+than for Cel7B on CNPG
+2. The turno ver number
+for Cel5A on CNPG 3was four times higher than
+that determined for Cel12A. On cellotetraose we
+obser ved an approximately 20 times higher turn-
+over number for Cel5A compared with Cel12A
+(Table 3 ). Thus, the kinetic constants on chromo-
+phoric substrates showed similar differences be-tween the endoglucanases as the kinetic studiesreported here, i.e. Cel5A and Cel7B had higherturno ver number than Cel12A. The kinetic con-
+stants ha ve also been determined for Humicola
+insolens endoglucanases ( Schou et al., 1993 ). Hi
+Cel12A hydrolysed cellotetraose and longer oligo-saccharides. The turno ver number on cellopen-
+taose was 0.0016 s
+/C281for Hi Cel12A and 0.029 and
+40 s/C281for Hi Cel5A and Hi Cel7B, respecti vely.
+Hence, the Cel12A endoglucanase is the leastefficient endoglucanase in both T. reesei and H.
+insolens when compared with Cel5A and Cel7B.
+The kinetic constants ( k
+Cat/kM) obtained here
+for Cel7B on cellotetraose (1 s/C281mM/C281) and
+cellopentaose (2 s/C281mM/C281) were significantly
+higher than the kCat/kMvalues determined at
+258C reported by Biely et al. (1991) (0.04 and
+0.02 s/C281mM/C281, respecti vely). The difference in
+temperature can partly explain the discrepancy, as
+we determined the kinetic constants at 40 8C.
+Furthermore, we used substrate concentrationsbetween 30 and 250 mM for cellotetraose and
+10/C1
+/200mM for cellopentaose whereas Biely et al.
+determined the constant at 25 mM. The transgly-
+cosylation acti vity increases with an increase in
+substrate concentration. Determining the kineticJ. Karlsson et al. / Journal of Biotechnology 99 (2002) 63 /C1/78 75
+constants using steady-state kinetics might not be
+optimal for a retaining enzyme, i.e. an enzyme
+with transglycosylation acti vity.
+4.3. Hydrolytic properties of Cel45A
+Cel45A and Cel45Acore beha vedvery similarly
+in their hydrolysis of all substrates studied. Themain product from A vicel, PASC and CMC was
+cellotetraose with significant amounts of cello-
+triose and cellopentaose, Fig. 4 B and C. The
+product formation pattern after 1 h hydrolysiswas similar to what was obser ved after 24 h
+hydrolysis. The product formation pattern forCel45A was thus distinctly different from the otherT. reesei endoglucanases. The con version was low
+on all substrates, between 0.1 and 0.9% for A vicel
+and CMC, respecti vely (Table 2 ). Interestingly, the
+conversion was higher on CMC compared with
+PASC, where the opposite was obser ved for the
+other endoglucanases. Howe ver, after 24 h hydro-
+lysis both the full length and the core domainproduced more soluble sugars from PASC thanfrom CMC, 5.0 and 2.1%, respecti vely. Appar-
+ently, CMC has some sites which can rapidly behydrolysed by Cel45A, which then become de-
+pleted. On the other hand PASC has more
+hydrolysable sites than CMC; howe ver, the hydro-
+lysis is slower at these sites. Cel45Acore readilyhydrolysed soluble konjac glucomannan and itwas the most efficient endoglucanase on thissubstrate, Fig. 5 . All T. reesei endoglucanases
+have been reported to be able to hydrolyse
+glucomannan ( Biely and Tenkanen, 1998 ), which
+is in agreement with our results. We ha ve obser ved
+that Cel45Acore does not hydrolyse mannan orgalactomannan and
+1H-NMR studies on konjac
+glucomannan hydrolysed by Cel45Acore showedonly glucose reducing end protons (unpublishedresults). Thus, Cel45Acore was able to hydrolyseglucomannan between two glucose units or possi-bly between a glucose and a mannose unit where
+the glucose was in the /C28
+/1 subsite in the acti ve site
+of the enzyme. Moreo ver, these NMR studies also
+clearly showed that Cel45A is not a mannanasesince mannose reducing end protons were notobser ved in the glucomannan hydrolysate. For
+Cel45Acore we obtained higher hydrolysis ofglucomannan compared with b-1,4-glucan sub-
+strates and no acti vity was found on other
+mannans. Thus, these results taken together in-dicate that Cel45A is a glucomannanase ratherthan a strict endoglucanase.
+No acti vity was obser ved for Cel45Acore on
+cellotriose, cellotetraose and cellopentaose, Table
+3, which is in agreement with the production
+pattern on A vicel, PASC and CMC where these
+oligosaccharide products were not further de-
+graded. Howe ver, Cel45A of H. insolens was able
+to hydrolyse cellotetraose and longer oligosacchar-ides ( Schou et al., 1993 ). Furthermore, Hi Cel45A
+showed a higher turno ver number than both Hi
+Cel5A and Hi Cel12A but lower than Hi Cel7B.Apparently, the Cel45A endoglucanases of T.
+reesei and H. insolens are significantly different
+even though they both belong to the same glyco-
+side hydrolase family.
+Acknowledgements
+This research was supported by grants from the
+Nordic Energy Research Programme. E va Lindq-
+vist is thanked for the puriﬁcation of Cel7B.
+References
+Bailey, M., Ne valainen, H., 1981. Induction, isolation and
+testing of stable Trichoderma reesei mutants with impro ved
+production of solubilizing cellulase. Enzyme Microb. Tech-
+nol. 3, 153 /C1/157.
+Be´guin, P., Aubert, J.-P., 1994. The biological degradation of
+cellulose. FEMS Microbiol. Re v. 13, 25/C1/58.
+Bhikhabhai, R., Johansson, G., Pettersson, G., 1984. Isolation
+of cellulolytic enzymes from Trichoderma reesei QM 9414.
+J. Appl. Biochem. 6, 336 /C1/345.
+Biely, P., Tenkanen, M., 1998. Enzymology of hemicellulose
+degradation. In: Harman, G., Kubicek, C. (Eds.), Tricho-
+derma and Gliocladium, vol. 2. Taylor and Francis,London, pp. 49 /C1
+/72.
+Biely, P., Vrsanska ´, M., Claeyssens, M., 1991. The endo -1,4-b-
+glucanase I from Trichoderma reesei action on b-1,4-
+oligomers and polymers deri ved from D-glucose and D-
+xylose. Eur. J. Biochem. 501, 157 /C1/163.
+Coughlan, M., 1985. Cellulases: production, properties and
+applications. Biochem. Soc. Trans. 13, 405 /C1/406.
+Divne, C., Sta ˚hlberg, J., Reinikainen, T., Ruohonen, L.,
+Pettersson, G., Knowles, J.K.C., Teeri, T.T., Jones, T.A.,J. Karlsson et al. / Journal of Biotechnology 99 (2002) 63 /C1/78 76
+1994. The three-dimensional crystal structure of the cataly-
+tic core of cellobiohydrolase I from Trichoderma reesei .
+Science 265, 524 /C1/528.
+Duff, S., Murray, W., 1996. Biocon version of forest products
+industry waste cellulosics to fuel ethanol: a re view. Bior-
+esour. Technol. 55, 1 /C1/33.
+Ha˚kansson, U., Fa ¨gerstam, L., Pettersson, G., Andersson, L.,
+1978. Puriﬁcation and characterization of a low molecularweight 1,4- b-glucan glucanohydrolase from the cellulolytic
+fungus Trichoderma viride QM 9414. Biochim. Biophys.
+Acta 524, 385 /C1
+/392.
+Ha˚kansson, U., Fa ¨gerstam, L., Pettersson, G., Andersson, L.,
+1979. A 1,4- b-glucan glucanohydrolase from the cellulolytic
+fungus Trichoderma viride QM 9414. Biochem. J. 179, 141 /C1/
+149.
+Hayn, M., Klinger, R., Esterbauer, H., 1993. Isolation and
+partial characterization of a low molecular weight endoglu-
+canase from Trichoderma reesei . In: Suominen, P., Reini-
+kainen, T. (Eds.), Proceedings of the second TRICEL
+Symposium on Trichoderma reesei cellulases and other
+hydrolases, Espoo 1993. Foundation for Biotechnical and
+Industrial Fermentation Research, Helsinki, pp. 147 /C1/151.
+Henrissat, B., Driguez, H., Viet, C., Schu ¨lein, M., 1985.
+Synergism of cellulases from Trichoderma reesei in the
+degradation of cellulose. Bio/Technology 3, 722 /C1/726.
+Henrissat, B., Teeri, T., Warren, A., 1998. A scheme for
+designating enzymes that hydrolyse the polysaccharides in
+the cell walls of plants. FEBS Lett. 425, 352 /C1/354.
+Ilme´n, M., 1997. Molecular mechanism of glucose repression in
+the ﬁlamentous fungus Trichoderma reesei . Ph.D. Thesis,
+Espoo, Finland.
+Kleywegt, G., Zou, J.-Y., Di vne, C., Da vies, G.J., Sinning, I.,
+Sta˚hlberg, J., Reinikainen, T., Srisodsuk, M., Teeri, T.,
+Jones, T.A., 1997. The crystal structure of the catalytic coredomain of endoglucanase I from Trichoderma reesei at 3.6
+A˚resolution, and a comparison with related enzymes. J.
+Mol. Biol. 272, 383 /C1
+/397.
+Kotiranta, P., Karlsson, J., Siika-aho, M., Med ve, J., Viikari,
+L., Tjerneld, F., Tenkanen, M., 1999. Adsorption and
+activity of Trichoderma reesei cellobiohydrolase I, endoglu-
+canase II and the corresponding core proteins on steam
+pretreated willow. Appl. Biochem. Biotechnol. 81, 81 /C1/90.
+Kraulis, P.J., Clore, G.M., Nilges, M., Jones, T.A., Pettersson,
+G., Knowles, J.K.C., Gronenborn, A.M., 1989. Determina-
+tion of the three-dimensional solution structure of the C-
+terminal domain of cellobiohydrolase I from Trichoderma
+reesei . A study using nuclear magnetic resonance and
+hybrid distance geometry-dynamical simulated annealing.
+Biochemistry 28, 7241 /C1/7257.
+Lowry, O.H., Rosebrough, N., Farr, A., Randall, R., 1951.
+Protein measurement with the Folin phenol reagent. J. Biol.
+Chem. 193, 265 /C1/275.
+Mattinen, M.-J., Linder, M., Drakenberg, T., Annila, A., 1998.
+Solution structure of the cellobiose-binding domain of
+endoglucanase I from Trichoderma reesei and its interaction
+with cello-oligosaccharides. Eur. J. Biochem. 256, 279 /C1/286.Nakari-Seta ¨la¨, T., Penttila ¨, M., 1995. Production of Tricho-
+derma reesei cellulases on glucose-containing media. Appl.
+Environ. Microbiol. 61, 3650 /C1/3655.
+Nidetzky, B., Claeyssens, M., 1994. Speciﬁc quantiﬁcation of
+Trichoderma reesei cellulases in reconstituted mixtures and
+its application to cellulase /C1/cellulose binding studies. Bio-
+technol. Bioeng. 44, 961 /C1/966.
+Okada, H., Tada, K., Sekiya, T., Yokoyama, K., Takahashi,
+A., Tohda, H., Kumagai, H., Morikawa, Y., 1998. Mole-
+cular characterization and heterologous expression of thegene encoding a low-molecular-mass endoglucanase from
+Trichoderma reesei QM 9414. Appl. En viron. Microbiol. 64,
+555/C1
+/563.
+Okada, H., Mori, K., Tada, K., Nogawa, M., Morikawa, Y.,
+2000. Identiﬁcation of acti ve site carboxylic residues in
+Trichoderma reesei endoglucanase Cel12A by site-directed
+mutagenesis. J. Mol. Catal. B 10, 249 /C1/255.
+Palonen, H., Tenkanen, M., Linder, M., 1999. Dynamic
+interaction of Trichoderma reesei cellobiohydrolases
+Cel6A and Cel7A and cellulose at equilibrium and during
+hydrolysis. Appl. En viron. Microbiol. 65, 5229 /C1/5233.
+Penttila ¨, M., Lehto vaara, P., Ne valainen, H., Bhikhabhai, R.,
+Knowles, J., 1986. Homology between cellulase genes of
+Trichoderma reesei : complete nucleotide sequence of the
+endoglucanase I gene. Gene 45, 253 /C1/263.
+Pere, J., Siika-aho, M., Buchert, J., Viikari, L., 1995. Effects of
+puriﬁed Trichoderma reesei cellulases on the ﬁbre properties
+of kraft pulp. Tappi J. 78, 71 /C1/78.
+Rahkamo, L., Siika-aho, M., Veh vila¨inen, M., Dolk, M.,
+Viikari, L., Nousianen, P., Buchert, J., 1996. Modiﬁcation
+of hardwood dissol ving pulp with puriﬁed Trichoderma
+reesei cellulases. Cellulose 3, 153 /C1/163.
+Rouvinen, J., Bergfors, T., Teeri, T.T., Knowles, J.K.C., Jones,
+T.A., 1990. Three-dimensional structure of cellobiohydro-lase II from Trichoderma reesei . Science 249, 380 /C1
+/386.
+Saloheimo, M., Lehto vaara, P., Penttila ¨, M., Teeri, T.T.,
+Sta˚hlberg, J., Johansson, G., Pettersson, G., Claeyssens,
+M., Tomme, P., Knowles, J.K.C., 1988. EGIII, a new
+endoglucanase from Trichoderma reesei : the characteriza-
+tion of both gene and enzyme. Gene 63, 11 /C1/21.
+Saloheimo, A., Henrissat, B., Hoffre ´n, A.-M., Teleman, O.,
+Penttila ¨, M., 1994. A no vel, small endoglucanase gene, egI5 ,
+from Trichoderma reesei isolated by expression in yeast.
+Mol. Microbiol. 13, 219 /C1/228.
+Saloheimo, M., Nakari-Seta ¨la¨, T., Tenkanen, M., Penttila ¨, M.,
+1997. cDNA cloning of a Trichoderma reesei cellulase and
+demonstration of endoglucanase acti vity by expression in
+yeast. Eur. J. Biochem. 249, 584 /C1/591.
+Sandgren, M., Shaw, A., Ropp, T., Wu, S., Bott, R., Cameron,
+A., Sta ˚hlberg, J., Mitchinson, C., Jones, A., 2001. The X-ray
+structure of the Trichoderma reesei family 12 endoglucanase
+3, Cel12A, at 1.9 A ˚resolution. J. Mol. Biol. 308, 295 /C1/310.
+Schou, C., Rasmussen, G., Kaltoft, M.B., Henrissat, B.,
+Schu¨lein, M., 1993. Stereochemistry, speciﬁcity and kinetics
+of the hydrolysis of reduced cellodextrins by nine cellulases.
+Eur. J. Biochem. 217, 947 /C1/953.J. Karlsson et al. / Journal of Biotechnology 99 (2002) 63 /C1/78 77
+Shoemaker, S., Brown, R., 1978. Characterization of endo -1,4-
+b-D-glucanases puriﬁed from Trichoderma viride . Biochim.
+Biophys. Acta 523, 147 /C1/161.
+Shoemaker, S., Schweickart, V., Ladner, M., Gelfand, D.,
+Kwok, S., Myambo, K., Innis, M., 1983a. Molecular
+cloning of exo-cellobiohydrolase I deri ved from Tricho-
+derma reesei strain L27. Bio/Technology 1, 691 /C1/696.
+Shoemaker, S., Watt, K., Tsito vsky, G., Cox, R., 1983b.
+Characterisation and properties of cellulases puriﬁed from
+Trichoderma reesei strain L27. Bio/Technology 1, 687 /C1/690.
+Srisodsuk, M., 1994. Mode of action of Trichoderma reesei
+cellobiohydrolase I on crystalline cellulose. Ph.D. Thesis,
+Espoo, Finland.
+Sta˚hlberg, J., Johansson, G., Pettersson, G., 1991. A new model
+for enzymatic hydrolysis of cellulose based on the two-
+domain structure of cellobiohydrolase I. Bio/Technology 9,
+286/C1/290.
+Suominen, P.L., Ma ¨ntyla¨, A.L., Karhunen, T., Hakola, S.,
+Nevalainen, H., 1993. High frequency one-step gene repla-
+cement in Trichoderma reesei . II. Effects of deletions of
+individual cellulase genes. Mol. Gen. Genet. 241, 523 /C1/530.
+Teeri, T., Salo vuori, I., Knowles, J., 1983. The molecular
+cloning of the major cellulase gene from Trichoderma reesei .
+Bio/Technology 1, 696 /C1/699.
+Teeri, T., Lehto vaara, P., Kauppinen, S., Salo vuori, I.,
+Knowles, J., 1987. Homologous domains in Trichoderma
+reesei cellulolytic enzymes: gene sequence and expression of
+cellobiohydrolase II. Gene 51, 43 /C1/52.
+Tomme, P., van Tilbeurgh, H., Pettersson, G., Van Damme, J.,
+Vandekerckho ve, J., Knowles, J.K.C., Teeri, T.T., Claeys-sens, M., 1988. Studies of the cellulolytic system of
+Trichoderma reesei QM 9414. Analysis of domain function
+in two cellobiohydrolases by limited proteolysis. Eur. J.
+Biochem. 170, 575 /C1/581.
+.U¨lker, A., Sprey, B., 1990. Characterization of an unglycosy-
+lated low molecular weight 1,4- b-glucan-glucanohydrolase
+ofTrichoderma reesei . FEMS Microbiol. Lett. 69, 215 /C1/
+220.
+van Tilbeurgh, H., Claeyssens, M., 1985. Detection and
+differentiation of cellulase components using low molecular
+mass ﬂuorogenic substrates. FEBS Lett. 187, 283 /C1/288.
+Ward, M., Wu, S., Dauberman, J., Weiss, G., Larenas, E.,
+Bower, B., Clarkson, K., Bott, R., 1993. Cloning, sequenceand preliminary structural analysis of a small, high p I
+endoglucanase (EGIII) from Trichoderma reesei . In: Suo-
+minen, P., Reinikainen, T. (Eds.), Proceedings of the SecondTRICEL Symposium on Trichoderma reesei Cellulases and
+other Hydrolases, Espoo 1993. Foundation for Biotechnical
+and Industrial Fermentation Research, Helsinki, pp. 153 /C1
+/
+158.
+Wood, T., 1988. Preparation of crystalline, amorphous, and
+dyed cellulase substrates. In: Wood, W., Kellogg, S. (Eds.),
+Methods of Enzymology. Biomass Part A Cellulose andHemicellulose, vol. 160. Academic Press, San Diego, pp.
+19/C1
+/25.
+Zurbriggen, B., Bailey, M., Penttila ¨, M., Poutanen, K., Linko,
+M., 1990. Pilot scale production of a heterologous Tricho-
+derma reesei cellulase by Saccharomyces cere visiae .J .
+Biotechnol. 13, 267 /C1/278.J. Karlsson et al. / Journal of Biotechnology 99 (2002) 63 /C1/78 78

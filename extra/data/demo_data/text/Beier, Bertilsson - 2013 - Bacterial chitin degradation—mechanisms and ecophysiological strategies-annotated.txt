@@ -1,0 +1,1450 @@
+REVIEW ARTICLE
+published: 14 June 2013
+doi: 10.3389/fmicb.2013.00149
+Bacterial chitin degradation—mechanisms and
+ecophysiological strategies
+Sara Beier1,2,3and Stefan Bertilsson1*
+1Department of Ecology and Genetics, Limnology, Uppsala University, Uppsala, Sweden
+2Laboratoire d’Océanographie Microbienne, Observatoire Oc éanologique, UPMC Paris 06, UMR 7621, Banyuls sur mer, France
+3Laboratoire d’Océanographie Microbienne, Observatoire Océanologique Centre National de la Recherche Scientiﬁque, UMR 7621, Banyuls sur mer, France
+Edited by:
+Per Bengtson, Lund University,
+Sweden
+Reviewed by:
+Steffen Kolb, University of Bayreuth,
+Germany
+Helmut Buergmann, Eawag: Swiss
+Federal Institute of Aquatic Science
+and Technology, Switzerland
+*Correspondence:
+Stefan Bertilsson, Department of
+Ecology and Genetics, Limnology,
+Uppsala University, Norbyv. 18D,
+SE-75236 Uppsala, Sweden
+e-mail: stebe@ebc.uu.seChitin is one the most abundant polymers in nature and interacts with both carbon
+and nitrogen cycles. Processes controlling chi tin degradation are summarized in reviews
+published some 20 years ago, but the recent use of culture-independent molecular
+methods has led to a revised understanding of the ecology and biochemistry of this
+process and the organisms involved. This review summarizes different mechanisms and
+the principal steps involved in chitin degradation at a molecular level while also discussing
+the coupling of community composition to measured chitin hydrolysis activities and
+substrate uptake. Ecological consequences are then highlighted and discussed with a
+focus on the cross feeding associated with the different habitats that arise because of the
+need for extracellular hydrolysis of the chitin polymer prior to metabolic use. Principal
+environmental drivers of chitin degradation are identiﬁed which are likely to inﬂuence
+both community composition of chitin degrading bacteria and measured chitin hydrolysis
+activities.
+Keywords: chitin, particles, organic matter, bacteria, interactions, cross-feeding, glycoside hydrolase
+INTRODUCTION
+The occurrence of chitin is widespread in nature and chitin serves
+as a structural element in many organisms, e.g., fungi, crus-
+taceans, insects or algae ( Gooday, 1990a,b ). Chitin is composed
+of linked amino sugar subunits. Similar to cellulose and murein, it
+makes a shortlist of highly abundant biopolymers with enormous
+global production rates estimated at approximately 1010–1011
+tons year−1(Gooday, 1990a; Whitman et al., 1998; Kaiser and
+Benner, 2008 ). There are no reports of quantitatively signiﬁcant
+long-term accumulation of chitin in nature, implying efﬁcient
+degradation and turnover ( Tracey, 1957; Gooday, 1990a ).
+In accordance with the abundance and ubiquity of chitin,
+chitin-degrading enzymes are also detected in many types of
+organisms, such as fungi, bacteria ( Gooday, 1990a ), archaea
+(Huber et al., 1995; Tanaka et al., 1999; Gao et al., 2003 ),
+rotifers ( Štrojsová and Vrba, 2005 ), some algae ( Vrba et al., 1996;
+Štrojsová and Dyhrman, 2008 ), but also carnivorous plants or in
+digestional tracts of higher animals ( Gooday, 1990a ).
+Bacteria are believed to be major mediators of chitin degrada-
+tion in nature. In soil systems, chitin hydrolysis rates have been
+shown to correlate with bacterial abundance ( Kielak et al., 2013 ),
+but depending on temperature, pH, or the successional stage of
+the degradation process, also fungi may be quantitatively impor-
+tant agents of chitin degradation ( Gooday, 1990a; Hallmann et al.,
+1999; Manucharova et al., 2011 ). In aquatic systems, plating and
+in situ colonization experiments convincingly demonstrates that
+bacteria are the main mediators of chitin degradation ( Aumen,
+1980; Gooday, 1990a ). However, occasionally, dense fungal colo-
+nization of chitinous zooplankton carapaces has been observed
+(Wurzbacher et al., 2010 ) and some diatoms have also beenshown to hydrolyze chitin oligomers ( Vrba et al., 1996, 1997 ). A
+further source of chitin modifying enzymes in aquatic systems are
+enzymes released during molting of planktonic crustaceans ( Vrba
+and Machacek, 1994 ). Nevertheless, it is not yet clear whether the
+enzymes released by diatoms and molting zooplankton react with
+particulate chitin to any signiﬁcant extent or if their hydrolytic
+activity is limited to dissolved chitin oligomers.
+Chitin is the polymer of (1 →4)-β-linked N-acetyl-D-
+glucosamine (GlcNAc). The single sugar units are rotated 180◦
+to each other with the disaccharide N,N′-diacetylchitobiose
+[(GlcNAc) 2] as the structural subunit. In nature, chitin varies
+in the degree of deacetylation and therefore the distinction from
+chitosan, which is the completely deacetylated form of the poly-
+mer, is not strict. Chitin is classiﬁed into three different crystalline
+forms: the α-,β-, and γ-form, which differ in the orientation of
+chitin micro-ﬁbrils. With few exceptions, natural chitin occurs
+associated to other structural polymers such as proteins or glu-
+cans, which often contribute more than 50% of the mass in
+chitin-containing tissue ( Attwood and Zola, 1967; Schaefer et al.,
+1987; Merzendorfer and Zimoch, 2003 ). Chitin is a structural
+homologue of cellulose where the latter is composed of glucose
+instead of GlcNAc subunits. Also murein in bacterial cell walls can
+be considered a structural chitin homologue, as it is composed of
+alternating (1 →4)-β-linked GlcNAc and N-acetylmuramic acid
+units.
+A process is called chitinoclastic if chitin is degraded. If
+this degradation involves the initial hydrolysis of the (1 →4)-β-
+glycoside bond, as seen for chitinase-catalyzed chitin degradation,
+the process is called chitinolytic. Growth on chitin is not nec-
+essarily accompanied by the direct dissolution of its polymeric
+www.frontiersin.org June 2013 | Volume 4 | Article 149 |1
+
+Beier and Bertilsson Bacterial chitin degradation
+structure. Alternatively, chitin can be deacetylated to chitosan
+or possibly even cellulose-like forms, if it is further subjected
+to deamination ( Figure 1 ). Such a degradation mechanism has
+been suggested in some early studies ( ZoBell and Rittenberg,
+1938; Campbell and Williams, 1951 ). Chitinases and chitosanases
+overlap in substrate speciﬁcity, while their respective efﬁciency is
+controlled by the degree of deacetylation of the polymeric sub-
+strate ( Somashekar and Joseph, 1996 )(Figure 1 ). Besides speciﬁc
+chitosanases, also cellulases can possess considerable chitosan-
+cleaving activity ( Xia et al., 2008 ). Furthermore, lysozyme has
+also been shown to hydrolyze chitin, even if processivity is low
+when compared to true chitinases ( Skujin ¸ š et al., 1973 ). Cellulases
+can also bind directly to chitin ( Ekborg et al., 2007; Li and
+Wilson, 2008 ), but there are no reports of these enzymes actually
+hydrolyzing the polymers.
+Few studies have compared the quantitative importance of
+different chitinoclastic pathways, and the studies available sug-
+gest that chitin degradation via initial deacetylation might be
+more important in soil and sediment compared to water envi-
+ronments ( Hillman et al., 1989; Gooday, 1990a ). The quantitative
+importance of different chitinoclastic pathways from a global per-
+spective has, to the best of our knowledge, never been assessed. In
+the following sections, we will focus on the chitinolytic pathway.The quantitative signiﬁcance of chitin has been recognized for
+some time and there has been great interest in identifying pro-
+cesses and factors controlling its degradation. Accordingly, the
+biochemistry, molecular biology, and biogeochemistry of chitin
+degradation have been summarized in reviews published already
+some 20 years ago ( Gooday, 1990a; Cohen-Kupiec and Chet,
+1998; Keyhani and Roseman, 1999 ). More recently, the devel-
+opment and widespread use of culture-independent molecularmethods in microbial ecology have enabled further dissection of
+microbial processes controlling chitin degradation in more com-
+plex natural environments and diverse microbial communities.
+These methodological advances combined with the signiﬁcance
+of chitin as a critical link between the carbon and nitrogen
+cycles ( Figure 2 ) has led to a revived interest in the quantitative
+importance of chitin turnover in marine systems ( Souza et al.,
+2011 ).
+There is clearly a need for an updated account of the diverse
+mechanisms involved in chitinolysis and the ecological con-
+sequences of this process for bacteria. A focus on bacteria
+rather than all other organisms involved in chitin degradation
+is warranted since bacterial chitin degradation takes place in
+all major ecosystems and because their metabolism and growth
+have such a central role in most ecosystem-scale biogeochemical
+FIGURE 1 | Processes involved in chitin degradation. If deacetylation and deamination processes are very active, chitosan or possibly even cellulose-like
+molecules might be produced. GH, glycoside hydrolase family; GlcNAc, N-acetylglucosamine; GlcN, glucosamine; Glc, glucose.
+Frontiers in Microbiology | Terrestrial Microbiology June 2013 | Volume 4 | Article 149 |2
+Beier and Bertilsson Bacterial chitin degradation
+FIGURE 2 | Fate of possible chitin degradation intermediates and
+degradation products at the interface of the global N and C-cycles:
+during the ﬁrst degradation steps chitin is cleaved into smallorganic molecules that can directly be reintegrated into cell material
+or mineralized and potentially removed from the system. GlcNAc,
+N-acetylglucosamine; GlcN, g lucosamine; Glc: glucose.
+cycles. However, also non-bacterial or non-chitinolytic chitin-
+degraders will occasionally be mentioned and discussed where
+their activities would inﬂuence bacterial chitin degradation. In
+light of recent developments in molecular methods, a particu-
+lar emphasis will be on how the participation and interactions
+of speciﬁc microbial populations and community compositioninﬂuence the process. We further identify gaps in knowledge and
+needs for further research.
+BIOCHEMISTRY OF CHITIN HYDROLYSIS
+Chitin degradation is a highly regulated process, and the
+hydrolytic enzymes are induced by products of the chitin hydrol-
+yses, GlcNAc ( Techkarnjanaruk et al., 1997 ), or soluble chitin
+oligomers (GlcNAc) 2-6(Keyhani and Roseman, 1996; Miyashita
+et al., 2000; Li and Roseman, 2004; Meibom et al., 2004 ), depend-
+ing on the organism under scrutiny. In contrast to (GlcNAc) 2,
+GlcNAc has also been reported to act as a suppressor of chiti-
+nase expression in a Streptomyces strain ( Miyashita et al., 2000 )
+and this may be because its main origin in natural systems
+could be from murein in cell walls rather than chitin ( Benner
+and Kaiser, 2003 ). Other factors more generally regulating the
+expression of these and other hydrolytic enzymes are nutrient
+regime and availability of other, more readily available growth
+substrates ( Techkarnjanaruk et al., 1997; Keyhani and Roseman,
+1999; Delpin and Goodman, 2009a,b ). The variety of regulating
+factors are likely to reﬂect the wide range of ecological nichesoccupied by chitin degraders.
+Complete lysis of the insoluble chitin polymer typically con-
+sists of three principal steps (1) cleaving the polymer into water-
+soluble oligomers, (2) splitting of these oligomers into dimers,
+and (3) cleavage of the dimers into monomers. The ﬁrst two
+steps are usually catalyzed by chitinases. The occurrence of chiti-
+nases in bacteria is widespread among phyla and the productionof multiple chitinolytic enzymes by individual bacterial strains
+appear to be a common trait (e.g., Fuchs et al., 1986; Romaguera
+et al., 1992; Saito et al., 1999; Shimosaka et al., 2001; Tsujibo
+et al., 2003 ). Chitinases are typically grouped into family 18 and
+19 glycoside hydrolases. The latter are rare in bacteria except for
+some members of the genus Streptomyces (Ohno et al., 1996; Saito
+et al., 1999; Watanabe et al., 1999; Shimosaka et al., 2001; Tsujibo
+et al., 2003 ). It has been hypothesized that family 18 and 19 gly-
+coside hydrolases have evolved separately, as genes belonging to
+these two analogous gene families show little or no sequence
+homology, nor share the same molecular-level catalytic mech-
+anism ( Perrakis et al., 1994; Davies and Henrissat, 1995; Hart
+et al., 1995 ) .T h eo c c u r r e n c eo fm u l t i p l eg e n e si nas i n g l eo r g a n -
+ism may be the result of gene duplication or acquisition of genes
+from other organisms via lateral gene transfer ( Hunt et al., 2008 ).
+In support of the former mechanism, different chitinase gene
+sequences found within single organisms are often almost identi-
+cal. However, there are examples where chitinase genes coexisting
+in a single organism are very different and cluster with chiti-
+nase sequences from rather distantly related organisms ( Saito
+et al., 1999; Suzuki et al., 1999; Karlsson and Stenlid, 2009 ).
+This suggests lateral gene transfer also between distantly related
+organisms.
+Multiple chitinases within a single organisms are believed to
+lead to a more efﬁcient use of the respective substrate as a result
+of synergistic enzyme interactions or contrasting afﬁnities to dif-
+ferent substrate forms ( Svitil et al., 1997 ). One example of this
+is the extensively studied chitinase system of Serratia marcescens ,
+which is based on several chitinases with slightly different func-
+tions. S. marcescens produces four family 18 chitinases ChiA,
+ChiB, ChiC1, and ChiC2, all of which are released into the sur-
+rounding medium ( Suzuki et al., 1998 ). ChiC2 results from a
+posttranslational modiﬁcation of ChiC1 ( Gal et al., 1998; Suzuki
+www.frontiersin.org June 2013 | Volume 4 | Article 149 |3
+Beier and Bertilsson Bacterial chitin degradation
+et al., 1999 ) and hydrolytic activities of ChiC2 were lower on
+crystalline substrates compared to ChiC1 whereas no further dif-
+ferences were identiﬁed ( Suzuki et al., 1999 ), leaving the function
+of ChiC2 unclear. By combining ChiA, ChiB, and ChiC1, syner-
+gistic effects on chitin degradation have been observed, implying
+differential action sites and/or molecular reaction mechanisms for
+the three enzymes ( Suzuki et al., 2002 ). Indeed it was later shown
+that ChiC is a non-processive endoenzyme that cleaves the chitinpolymer randomly, whereas both ChiA and ChiB are processive
+enzymes cleaving off disaccharides while sliding along the chitin
+polymer ( Horn et al., 2006; Sikorski et al., 2006 ). Multiple action
+mechanisms are also implied for each of the latter two chiti-
+nases as it has been demonstrated that ChiA and ChiB degrade
+β-chitin microﬁbrils unidirectionally from opposite ends of the
+polymer ( Hult et al., 2005 ). Still, the major end products from
+all three enzymes are disaccharides, whereas monosaccharides are
+produced as byproducts in substantially lower amounts ( Horn
+et al., 2006 ). There are other examples where multiple enzymes
+within an organism catalyze the metabolism of a single sub-
+strate, with cellulose as a pertinent example ( Rabinovich et al.,
+2002 ). It seems conceivable that enzyme multiplicity might be
+a general feature in polymer degrading processes caused by the
+structural complexity of the substrate. This would then allow par-
+allelized or successive contrasting modes of action on the same
+polymer.
+β-N-acetyl-hexosaminidases, usually afﬁliated with family
+20 glycoside hydrolases, ﬁnally cleave GlcNAc from the non-
+reducing end of the water soluble chitin oligomers produced by
+chitinases ( Scigelova and Crout, 1999 ). In bacteria, this last step
+typically takes place in the cytoplasm or the periplasmic space
+(Bassler et al., 1991; Keyhani and Roseman, 1996; Drouillard
+et al., 1997; Techkarnjanaruk and Goodman, 1999 ). In some bac-
+teria, enzymes other than the family 20 glycoside hydrolases are
+involved in hydrolyzing GlcNAc from chitin oligomers ( Tsujibo
+et al., 1994; Chitlaru and Roseman, 1996; Park et al., 2000 ).
+Recent research also suggests that some family 20 glycoside hydro-
+lases can cleave GlcNAc directly from chitin polymers and hence
+function as chitinases ( LeCleir et al., 2007 ).
+Chitin degradation is also inﬂuenced by more cryptic fac-
+tors. For example, a chitin-binding protein without any catalytic
+domain has been shown to facilitate the degradation of β-chitin
+by disrupting the crystalline chitin polymer structure ( Vaaje-
+Kolstad et al., 2005 ). The protein showed signiﬁcant sequence
+similarity to a gene product in Streptomyces olivaceoviridis known
+to have high afﬁnity to α-chitin ( Schnellmann et al., 1994 ). It
+has been proposed that the ability to produce such proteins with
+high speciﬁc afﬁnity to a certain crystalline chitin structure may
+be decisive for the ability of bacteria to differentiate and react
+to speciﬁc crystalline chitin structures ( Svitil et al., 1997 ). Such
+chitin-binding domains may also inﬂuence chitin degradationindirectly by facilitating adhesion of cells to chitinous substrates,
+a trait that is of particular importance in aquatic environments
+(Montgomery and Kirchman, 1993, 1994; Pruzzo et al., 1996 ).
+Since the insoluble chitin polymer has to be cleaved outside
+of the bacterial cell barrier, metabolic use of chitin also relies
+on efﬁcient uptake systems for hydrolysis products. In some
+cultivated bacterial strains, PTS (phosphoenolpyruvat: glycosephosphotransferase system) transporters are responsible for the
+main GlcNAc uptake. However, the uptake activity of other spe-
+ciﬁc GlcNAc transporters as well as transporters with a broader
+substrate range (including sugar monomers like glucose, glu-
+cosamine, fructose and mannose) have also been described
+(Mobley et al., 1982; Postma et al., 1993; Bouma and Roseman,
+1996 ). The quantitative importance of these two substrate uptake
+strategies, highly speciﬁc or more versatile, is not clear and cul-
+ture independent assays based on inhibition experiments provide
+contrasting results concerning the speciﬁcity of GlcNAc-uptake
+systems. Whereas Riemann and Azam (2002) found a speciﬁc
+inhibition of the bacterial GlcNAc-uptake by glucose, this was
+not the case in an earlier study by Vrba et al. (1992) .R e a s o n sf o r
+such conﬂicting results could be a different set of organisms being
+present at the respective sampling sites, i.e., due to the differ-
+ent environment under scrutiny in the respective study (marine
+vs. freshwater) or seasonal differences in nutrient status of the
+system.
+Radiotracer studies in lake water suggest differentiation in
+GlcNAc and (GlcNAc) 2uptake among phylogenetic groups of
+bacteria with the (GlcNAc) 2uptake being quantitatively more
+important ( Beier and Bertilsson, 2011 ). This implies that the two
+hydrolysis products are taken up by different transporter systems
+in freshwater ecosystems. The earlier discussed role of (GlcNAc) 2
+as main hydrolysis product of chitinases ( Horn et al., 2006 )a n d
+t h eq u a n t i t a t i v ei m p o r t a n c eo ft h e( G l c N A c ) 2uptake mentioned
+above ( Beier and Bertilsson, 2011 ) corroborates the observation
+that bacterial β-N-acetyl-hexosaminidases are often intracellu-
+lar enzymes. Consequently, the relevance of (GlcNAc) 2transport
+through the cell barrier during the process of chitin degradation
+is evident.
+SPECIES INTERACTIONS DURIN G CHITIN DEGRADATION IN
+DIFFERENT HABITATS
+Particles that contain chitin can act as a source of chitin degra-
+dation intermediates to the surrounding medium ( Smith et al.,
+1992; Kirchman and White, 1999 ). This implies that chitinolytic
+bacteria sometimes process more chitin polymers than they are
+able to use themselves. For instance, only a minority of cells in
+a pure culture of Pseudoalteromonas S91 growing on chitin as a
+sole source of carbon and nitrogen hydrolyzed chitin ( Baty et al.,
+2000a,b ). It was assumed that cells with no apparent chitinase
+activity fed on hydrolysis products produced in excess by the
+chitinase-positive subpopulation. This type of multicellular coop-
+eration is a strategy often observed in bacteria ( Shapiro, 1998 )a n d
+has been described for several chitinolytic strains ( Gaffney et al.,
+1994; Chernin et al., 1998; DeAngelis et al., 2008 ). Considering
+the complexity of the chitinolytic cascade, with approximately 50
+different proteins being induced ( Keyhani and Roseman, 1999;
+Li and Roseman, 2004; Meibom et al., 2004 ), a partitioning of
+the clonal population into a chitinase up-regulated subpopulation
+that supply hydrolysis products to their kin could be a success-
+ful survival mechanism. Such intraspeciﬁc cross-feeding might
+also explain the excess enzymatic activity observed on particles in
+aquatic systems ( Smith et al., 1992; Kirchman and White, 1999 ).
+However, in natural environments, the release of hydrolysis prod-
+ucts would not only serve speciﬁc clonal populations, but also
+Frontiers in Microbiology | Terrestrial Microbiology June 2013 | Volume 4 | Article 149 |4
+Beier and Bertilsson Bacterial chitin degradation
+open up the possibility for interspeciﬁc cross-feeding. The exis-
+tence of interspecies cross-feeding therefore seems plausible and
+studies on bacterial pure cultures have indeed demonstrated that
+there are organisms that grow on GlcNAc ( Kaneko and Colwell,
+1978 )o r( G l c N A c ) 2(Keyhani and Roseman, 1997 )w i t h o u tp o s -
+session of the enzymes for chitinolytic activity.
+The habitat structure in which polymer degradation takes
+place might have great consequences for this kind of interspeciesinteractions. The ﬂux of dissolved substances as hydrolyses prod-
+ucts is physically constrained in aerated soils. Accordingly hydrol-
+yses products will remain in close spatial proximity to the place
+of enzymatic action. In terrestrial systems, interspecies metabolic
+interactions will therefore likely be limited to organisms growing
+directly adjacent to each other in bioﬁlms. Besides commensal
+sharing of such hydrolysis products ( Everuss et al., 2008 )t h e r e
+is also a potential for specialized interactions between organisms
+such as synergistic coupling and the recently described parasitism
+that rely on bi-directional exchange of e.g., metabolic inhibitors
+and chitin degradation intermediates among speciﬁc bacterial
+populations ( Jagmann et al., 2010 ). In contrast, released hydrol-
+yses products in aquatic systems will be subject to transport by
+diffusion and hydrological ﬂow away from the site where hydrol-
+ysis took place. Because of the facilitated transport of hydrolysis
+products away from the hydrolytic site, quantitatively signiﬁ-
+cant cross-feeding events can occur over longer distances in this
+biome as observed previously ( Cho and Azam, 1988; Beier and
+Bertilsson, 2011; Eckert et al., 2013 ). Thus, it seems likely that
+such long-distance cross-feeding relationships could favor rather
+unspeciﬁc and unidirectional commensal interactions, where thereceiving organism is less likely to critically depend on the inter-
+action. Sediments or waterlogged soils in wetlands may represent
+habitats with intermediate transport constraints, locally shar-
+ing transport characteristics with both environments outlined
+above.
+To the best of our knowledge, no studies exist that target
+species interactions during chitin degradation in soil environ-
+ments speciﬁcally, nor are we aware of studies that compare
+the above suggested general differences in cross-feeding between
+aquatic and terrestrial habitats. However, a number of culture-
+independent studies in aquatic environments that quantify the
+fraction of chitin degraders vs. chitin consumers in the total
+bacterial community support the existence of signiﬁcant cross-
+feeding during chitin degradation ( Ta b l e 1 ): chitinolytic organ-
+isms were estimated to represent 0.1–5.8% (average about 1%)
+of all prokaryotes in a variety of aquatic ecosystems ( Cottrell
+et al., 1999; Beier et al., 2011 ). An even lower fraction of cells
+displayed active chitinolytic activity in natural aquatic habitats
+(0–1.9%) ( Beier and Bertilsson, 2011; Beier et al., 2012 ). In
+contrast, between 4 and 40% of the bacteria, or one third of
+the DNA-replicating bacteria, were shown to incorporate chitinhydrolysis products ( Nedoma et al., 1994; Riemann and Azam,
+2002; Beier and Bertilsson, 2011; Eckert et al., 2013 ).
+The assumption that the uptake of polymer-derived metabo-
+lites in aquatic system often occurs over longer distances is
+supported by the observation that typically free-living bacterial
+groups appear to be quantitatively important receivers of this
+hydrolyzed material ( Cho and Azam, 1988; Beier and Bertilsson,2011; Eckert et al., 2013 ). For such long-distance substrate
+acquisition, the free-living organisms receiving the hydrolysis
+products are likely to proﬁt from the action of other hydrolytic
+bacteria that are in close proximity to the polymeric substrate:
+any hydrolytic enzymes produced by free living cells across such
+long distances would have a low probability of encountering the
+substrate and even in this case the majority of resulting hydrolysis
+products would not be encountered by the free-living cell. Modelﬁndings indicate that the area around a polymer-hydrolyzing
+bacterium, from which hydrolysate can be efﬁciently collected,
+is limited to approximately 10 μmd i s t a n c ef r o mt h ep o l y m e r i c
+source ( Vetter et al., 1998 ). Free-living bacteria might occasionally
+be within this distance to a chitinous particle, but it is uncer-
+tain whether the gain from such occasional degradation product
+uptake can balance the costs for maintenance of the polymer
+hydrolyzing machinery. On the other hand, it has recently been
+demonstrated that a member of the typically free-living lineage
+Actinobacteria ac1 hosts genes to take up GlcNAc while also
+encoding a chitinase gene ( Garcia et al., 2013 ). However, it still
+remains to be demonstrated, whether or not these gene products
+can solubilize polymeric chitin.
+Because of the more pronounced dilution of the released
+hydrolyses products in aquatic systems, a successful receiving
+organism residing such a long distance from the polymer hydrol-
+ysis site would likely also feature high afﬁnity uptake systems.
+In agreement with this idea, Boyer (1994)
+observed radiolabeled
+chitin degradation intermediates in sediment but not in water
+after incubating both type of samples with14C labeled chitin. This
+suggests that organisms with higher substrate afﬁnity are presentin the water samples compared to organisms present in the sedi-
+ment. It remains to be tested whether the remaining intermediates
+in sediments would be metabolized over longer timescales or
+become resistant to further degradation by diagenetic processes.
+It is also unknown, whether organisms with high substrate afﬁn-
+ity inﬂuence the efﬁciency of polymer degradation or if they are
+irrelevant for the overall ecosystem functioning.
+TAXONOMIC IDENTITY OF CHI TINOCLASTIC ORGANISMS
+Qualitative characterization of the chitinolytic community by
+means of culture-independent molecular methods such as PCR
+ampliﬁcation of chitinase genes or metagenomic approaches usu-
+ally results in a rather rough level of identiﬁcation. This is due to
+the supposedly extensive lateral gene-transfer and the limited tax-
+onomic coverage of characterized reference organisms. One con-
+sequence of this is that a large number of chitinase gene sequences
+cannot be clearly afﬁliated to speciﬁc taxa. However, at a broader
+phylogenetic resolution recent studies in aquatic environments
+indicate that group A chitinases were by far the most abundant
+phylogenetic subgroup of family 18 glycoside hydrolases ( Beier
+et al., 2011 ). More detailed information about the taxonomic
+identity of microorganisms that consume the chitin degrada-
+tion products can be obtained by either cultivation approaches
+or by using radiotracer techniques. The bias inherent in stud-
+ies that describe natural bacterial communities using exclusively
+cultivation-dependent approaches are well-known ( Amann et al.,
+1995 ), but the bias appear to be of quantitative rather than
+qualitative concern.
+www.frontiersin.org June 2013 | Volume 4 | Article 149 |5
+Beier and Bertilsson Bacterial chitin degradation
+T able 1 | Fraction of chitinolytic, chitinolytically active, and chitin hydrolysis products incorporating cells (no results of culture-dependent
+studies are listed here, since quantitative values are likely strongly biased).
+Fraction of cells System Method References
+5.5% Brackish water Chitinase genes in metagenomes (fraction of chitinolytic cells) Cottrell et al., 1999
+0.1% Marine water Chitinase genes in metagenomes (fraction of chitinolytic cells) Cottrell et al., 1999
+3.1% Freshwater Chitinase genes in metagenomes (fraction of chitinolytic cells) B e i e re ta l . ,2 0 1 1
+0.7–1 .5% Brackish water Chitinase genes in metagenomes (fraction of chitinolytic cells) B e i e re ta l . ,2 0 1 1
+0.2–5.8% Marine water Chitinase genes in metagenomes (fraction of chitinolytic cells) B e i e re ta l . ,2 0 1 1
+1 .3% Hypersaline water Chitinase genes in metagenomes (fraction of chitinolytic cells) B e i e re ta l . ,2 0 1 1
+Not detectable Freshwater1ELF®97 (fraction of chitinolytically active cells) Beier and Bertilsson, 2011
+up to 1 .9% Freshwater ELF®97 (fraction of chitinolytically active cells) B e i e re ta l . ,2 0 1 2
+4.2–38.9% Freshwater2MAR-FISH (fraction of GlcNAc incorporating cells) Nedoma et al., 1994
+7% Freshwater MAR-FISH (fraction of (GlcNAc) 2incorporating cells) Beier and Bertilsson, 2011
+6–7% Freshwater MAR-FISH (fraction of GlcNAc incorporating cells) Beier and Bertilsson, 2011
+8% Freshwater MAR-FISH (fraction of GlcNAc incorporating cells) Eckert et al., 2013
+43% of DNA synthesizing bacteria Marine water Streptozotocin sensitivity (fraction of GlcNAc incorporating cells) Riemann and Azam, 2002
+1ELF®97: ELF®97 chitinase-N-acetylg lucosaminidase substrat.
+2MAR-FISH: microautoradiography—ﬂuorescence in situ hybridization.
+In aquatic systems, Cytophaga-Flavobacteria are known to
+proﬁt from chitin addition and have been detected in dense clus-
+ter on chitinous particles where they also assimilate chitin hydrol-
+ysis products ( Cottrell and Kirchman, 2000; Beier and Bertilsson,
+2011 ). This suggests a central role of Cytophaga-Flavobacteria
+in aquatic chitin degradation where they also beneﬁt from this
+material as a substrate. In contrast, in soil environments bacte-
+ria afﬁliated with Actinomyces are often identiﬁed as being active
+chitin degraders, as they display enhanced growth and activity
+upon chitin addition. Members of this phylum are also frequently
+recovered in cultivation dependent studies of chitin degraders
+(Metcalfe et al., 2002; Manucharova et al., 2011 ). However, in
+both of these biomes, chitinoclastic bacteria from other phy-
+logenetic groups, including Proteobacteria and Firmicutes ,a r e
+also commonly observed ( Cottrell et al., 2000; Brzezinska and
+Donderski, 2006; Yasir et al., 2009 ). The high phylogenetic diver-
+sity within the frequently isolated chitinolytic bacteria may there-
+fore reﬂect a high ecological diversity of chitin degraders and
+could also explain why chitin does not accumulate in nature, but
+instead seems to be degraded under all possible environmental
+conditions ( Tracey, 1957; Gooday, 1990a ).
+The composition of the chitin utilizing community—
+including active degraders and organisms proﬁting from cross-
+f e e d i n ge v e n t s — m i g h tb ed e c i s i v ef o rt h ef a t eo fc h i t i n .I ts e e m s
+plausible that i.e., gram-positive chitin consumers use a higher
+percentage of GlcNAc in anabolic processes to synthesize the
+murein needed in abundance for production of their cell wall,
+while gram-negative bacteria might allocate more of these sub-
+strates to catabolic energy acquisition. Indeed, the fraction of
+hydrolyzed chitin respired to CO 2in natural ecosystems varies
+considerably between 30 and 93% ( Ta b l e 2 ). Whereas the pres-
+ence of other substrates has been shown to inﬂuence mineral-
+ization rate of GlcNAc ( Mobley et al., 1982 ), it remains to be
+determined if the species composition of chitin consumers, as
+speculated above, has any signiﬁcant inﬂuence of the actual chitin
+mineralization rates.T able 2 | Fraction of hydrolyzed chitin that is mineralized.
+Chitin mineralization System Method References
+(% of hydrolyzed chitin)
+93% Freshwater11 4C, 25◦C,
+crab shellsBoyer, 1994
+78% Freshwater14C, 15◦C,
+crab shellsBoyer, 1994
+30% Brackish
+water14C, puriﬁed
+fungal chitinKirchman and
+White, 1999
+55–72% Freshwater
+sediment14C, 25◦C,
+crab shellsBoyer, 1994
+50–75% Freshwater
+sediment14C, 15◦C,
+crab shellsBoyer, 1994
+11 4C: chitin mineralization estimated based on14C labeled tracer compounds.
+Since the taxonomic identity of the chitin-degrading and
+chitin-utilizing organisms might be decisive to ecosystem func-
+tioning, i.e., as outlined above for mineralization rates of chitin,
+it seems important to learn more about key players involved
+in different environments. One feasible strategy might be to
+combine designed experiments with single-cell isotope tracer
+methods. Another option is the direct coupling of chitin degra-
+dation traits to other metabolic features and taxonomic afﬁliation
+via single cell genome sequencing of uncultured microorganisms
+(Stepanauskas and Sieracki, 2007 ).
+DYNAMICS OF THE CHITINOLYTIC COMMUNITY
+STRUCTURE AND CHITIN DEGRADATION RATES
+Chitin degradation is a regulated trait and chitin degraders will
+be able to also metabolize other substrates than chitin. Therefore,
+the coupling between the abundance and composition of the
+chitinolytic community and their collective hydrolytic activity
+might not always be strong. A number of different methods,
+Frontiers in Microbiology | Terrestrial Microbiology June 2013 | Volume 4 | Article 149 |6
+Beier and Bertilsson Bacterial chitin degradation
+such as weight loss,14C labeled chitin tracer experiments or
+incubation experiments with colorimetric or ﬂuorogenic sub-
+strate analogs, have been applied to measure hydrolytic activ-
+ity during chitin degradation. Due to the variety of different
+methods applied, measuring i.e., potential or actual rates, indi-
+vidual values for chitin hydrolytic activity in different studies
+are difﬁcult to compare directly ( Ta b l e s 3 ,4). Instead we will
+describe trends in environmental control of chitin degrada-
+tion detected consistently across several studies and if possible
+compare these patterns to shifts in the chitinolytic community
+composition. All methods for activity measurements have in
+common that they do not differentiate between different organ-
+isms hydrolyzing the chitin. Depending on the method used, also
+enzymes other than chitinases, such as chitosanases, β-N-acetyl-
+hexosaminidases or lysozymes might contribute to the measured
+rates ( Höltje, 1996; Vrba et al., 1996 ). Community shifts are
+in most cases detected by molecular analyses of group A chiti-
+nases of the family 18 glycoside hydrolase ( Ta b l e 5 ). Bacterial
+as well as non-bacterial organisms capable of chitin hydroly-
+sis, such as those that possess β-N-acetyl-hexo saminidases and
+lysozyme are also frequently carrying group A chitinase genes.The targeted group A chitinases can thus also include genes from
+fungi, algae and higher animals ( Hobel et al., 2005; Beier et al.,
+2012 ). Therefore, most organisms that contribute to the mea-
+sured chitinolytic process should be included in the community
+analyses.
+Temperature is often considered as a critical factor controlling
+chitin degradation rates. There are several reports of variation inchitin degradation rates with the highest activity during periods
+of high in situ temperature ( Hood and Meyers, 1977; Rodríguez-
+Kábana et al., 1983; Hillman et al., 1989; Gooday et al., 1991;
+Ueno et al., 1991; Boyer, 1994; Metcalfe et al., 2002 ). Analogously,
+observations that different chitinoclastic strains were isolated
+during different seasons provided support that temperature could
+also affect the composition of the chitinoclastic community
+(Warnes and Rux, 1982 ). In some of these studies reporting tem-
+perature dependency for chitin hydrolysis rates, substrate avail-
+ability might have been a cryptic underlying factor driving the
+observed correlation. In aquatic ecosystems for example, chiti-
+nous zooplankton can be dominant contributors to polymeric
+chitin and are known to increase seasonally in response to warmer
+temperature. In agreement with this, Beier et al. (2012) recently
+detected pronounced seasonal dynamics in the chitinolytic com-
+munity using cultivation-independent molecular methods, but
+it was not evident from this study if temperature or alternate
+autocorrelated environmental factors such as chitin supply via
+crustacean zooplankton were the major environmental factors
+driving the community shifts.
+There are also studies that revealed that temperature seems
+to play a minor role: in the Y ork River, the correlation between
+chitin degradation and temperature was much less evident in the
+water column compared to the sediments ( Boyer, 1994 ). Further
+exceptions are reported for the North Sea where higher chitin
+degradation rates were observed in October/November com-
+pared to the warmer period during July/August ( Gooday et al.,
+1991 ). Also in these studies, however, chitin availability seemed
+T able 3 | Chitin hydrolysis rates measured in natural habitats (values from experimental manipulations measured along with controls from
+natural habitats were excluded from the table).
+Chitin hydrolysis rates System Method References
+0.00043–0.0005% d−1Marine water11 4C, 1◦C, synthesized chitin Herwig et al., 1988
+27% d−1Freshwater14C, 15◦C, crab shells Boyer, 1994
+30% d−1Freshwater14C, 25◦C, crab shells Boyer, 1994
+<1% d−1Brackish water14C,in situ T , puriﬁed fungal chitin Kirchman and White, 1999
+8.1% d−1Brackish water In situ —weight loss on squid
+pen—yearly meanGooday et al., 1991
+0.5–4.4% d−1Freshwater-sediment interface In situ —weight loss on puriﬁed
+chitin—different seasonsWarnes and Rux, 1982
+0.1–4.5% d−1Brackish water-sediment
+interfaceIn situ —weight loss on squid
+pen—yearly meanGooday et al., 1991
+12–16% d−1Freshwater sediment14C, 15◦C, crab shells Boyer, 1994
+22–27% d−1Freshwater sediment—sand14C, 25◦C, crab shells Boyer, 1994
+0.0002 – 0.005% d−1Marine sediment14C, 1◦C, synthesized chitin Herwig et al., 1988
+2.6–2.8% d−1Brackish sediment In situ —weight loss on squid
+pen—yearly meanGooday et al., 1991
+2.8% d−1Brackish sediment In situ —weight loss on squid
+pen—yearly meanGooday et al., 1991
+1% d−1Brackish sediment Weight loss on squid pen Hillman et al., 1989
+*0.6–1 .1% d−1Soil In situ —weight loss on crab shell chitin Metcalfe et al., 2002
+If possible, values given in different units in the original publications were transformed into a single unit.
+11 4C: degradation rates estimated based on14C labeled tracer compounds.
+*Values derived from digitalized ﬁgures using the Engauge Digitizer P rogram (http://digitizer.sourceforge.net/index.php?c=5).
+www.frontiersin.org June 2013 | Volume 4 | Article 149 |7
+Beier and Bertilsson Bacterial chitin degradation
+T able 4 | Chitinase and β-N-acetyl-hexosaminidase enzyme activities in natural habitats.
+Enzyme activities System Method References
+5.4×10−5–3.1×102nmol d−1ml−1Freshwater1MUF-NAG, in situ T, 10 0 μM Vrba et al., 1992
+1.3×10−5–1.3×10−4nmol d−1ml−1Freshwater MUF -NAG, in situ T, 5 0μM Beier et al., 2012
+*2.8×102–3.4×102nmol d−1g−1(wet) Wetland sediment2pNP-NAG, 25◦C, 5 mM Jackson and Vallaire, 2009
+*4.2×10−1–1.4×102nmol d−1ml−1(wet) Wetland sediment MUF -NAG, respective annual mean T ,
+400μMKang et al., 2005
+*1.7×100–9.2×100μgd−1g−1(dry) Saltmarsh sediment pNP-NAG, 30◦C, 5 mM Duarte et al., 2008
+*2.4×103–7.1×103nmol d−1g−1(dry) Soil pNP-NAG, 25◦C, 2 mM Rietl and Jackson, 2012
+Not detectable Freshwater3MUF-DC, 4◦C, 50 μM Köllner et al., 2012
+Up to 5 .4×101nmol d−1ml−1Freshwater MUF -DC, in situ T, 5 0μM Beier et al., 2012
+4.2×10−3–2.1×10−1nmol d−1g−1(dry) Freshwater sediment MUF -DC, 4◦C, 50μM Köllner et al., 2012
+2.5×101–7.5×103nmol d−1g−1(dry) Soil MUF-DC, 37◦C, 60 μM Ueno et al., 1991
+Up to 5 .4×103nmol d−1g−1(dry) Soil4MUF -TC, 37◦C, 25μM Ueno et al., 1991
+*5.4×103–6.3×100μgd−1g−1(dry) Brackish sediment5DNP,1 5◦C, 0.5 mg ml−1Hillman et al., 1989
+If possible, values given in different units in the original publications were transformed into a single unit (listed values do not provide a complete overview on all
+measurements performed but display examples, values from experimental manipulations measured along with controls from natural habitats were excl uded from
+the table).
+1MUF-NAG: β-N-acetyl-hexosaminidase/chitinase hydrolysis rates estimated based on the ﬂuorogenic substrate analog N-acetyl-b-D-glucosaminide
+2pNP-NAG: N-acetyl-hexosaminidase/chitinase hydrolysis rates estimated based on the ﬂuorogenic substrate analog pNP- β-N-acetylglucosaminide
+3MUF-DC: β-N-acetyl-hexosaminidase/chitinase hydrolys is rates estimated based on the ﬂuorogenic substrate analog methylumbelliferyl-diacetyl-chitob ioside
+4MUF-TC: β-N-acetyl-hexosaminidase/chitinase hydrolys is rates estimated based on the ﬂuorogenic substrate analog methylumbelliferyl-diacetyl-chitot rioside
+5DNP: N-acetyl-hexosaminidase/chitinase hydrolysis rates estimated based on the ﬂuorogenic substrate analog 3,4-dinitrophenyl-tetra-N-acety l chitotetraoside
+*Values derived from digitalized ﬁgures using the Engauge Digitizer Program (http://digitizer.sourceforge.net/index.php?c=5).
+T able 5 | Chitinase gene copies numbers in natural habitats.
+Gene copies System Method References
+Up to 3 .4×102ml−1Freshwater1qPCR on2GH18 genes Köllner et al., 2012
+3.4×104–4.2×107g−1(wet) Freshwater sediment qPCR on GH18 genes Xiao et al., 2005
+Up to ∼8.5×104g−1(dry) Freshwater sediment qPCR on GH18 genes Köllner et al., 2012
+2.5×103g−1(wet) Soil qPCR on GH18 genes Xiao et al., 2005
+2.3×108–9.3×109g−1(dry) Soil qPCR on GH18 genes Gschwendtner et al., 2010
+7×105–9.3×106g−1(wet) Soil qPCR on GH18 genes Brankatschk et al., 2011
+3×107g−1(wet) Soil qPCR on GH18 genes Kielak et al., 2013
+*4.6×106–1.1×107g−1(wet) Soil qPCR on GH18 genes Cretoiu et al., 2012
+1qPCR: quantitative polymerase chain reaction.
+2GH18: family 18 glycoside hydrolase.
+*Values derived from digitalized ﬁgures using the Engauge Digitizer Program (http://digitizer.sourceforge.net/index.php?c=5).
+to have inﬂuenced chitin degradation rates, as maximum chiti-
+nase activity coincided with high abundances of chitin-containing
+organisms ( Kirchman and White, 1999; LeCleir and Hollibaugh,
+2006 ). In aquatic systems, the water-sediment interface represents
+a habitat where chitin accumulates as a result of sedimentation
+of chitinous particles. This environment is usually also identi-
+ﬁed as a hotspot for chitin degradation when compared to the
+w a t e rc o l u m no rt h eb u l ks e d i m e n t( Hood and Meyers, 1977;
+Warnes and Rux, 1982; Gooday et al., 1991 ). In soils, decreasing
+chitinase activity has been observed over depth and, this pattern
+has been attributed to the higher presence of chitin-containing
+organisms in the upper soil layers ( Rodríguez-Kábana et al., 1983;
+Ueno et al., 1991 ). A direct coupling of chitin concentration andthe chitinolytic community has also been demonstrated in an
+experiment where chitin-amendment of a soil caused an increase
+in chitinase gene copy numbers ( Xiao et al., 2005; Kielak et al.,
+2013 ).
+Only a few studies have directly related measured hydrolysis
+rates to shifts on the chitinolytic community: It has for exam-
+ple been shown that high chitinase activity measured after a
+soil was amended with sludge or chitin was accompanied by a
+decrease in the diversity of chitinases ( Metcalfe et al., 2002; Kielak
+et al., 2013 ). Two recent studies in a terrestrial and an aquatic
+environment also reported a signiﬁcant correlation between chiti-
+nase gene copy numbers and measured chitin hydrolysis rates
+(Brankatschk et al., 2011; Köllner et al., 2012 ). A correlation
+Frontiers in Microbiology | Terrestrial Microbiology June 2013 | Volume 4 | Article 149 |8
+Beier and Bertilsson Bacterial chitin degradation
+between changes in the composition of the chitinolytic com-
+munity and chitin hydrolysis rates has also been observed in a
+temporal survey of lake bacterioplankton ( Beier et al., 2012 ),
+which indicates that apart from environmental factors also the
+community composition per se could be decisive for measured
+rates.
+In summary, the available data suggest that temperature
+and chitin supply are important environmental factors con-trolling both chitin hydrolysis rates and the chitinolytic com-
+munity structure. This further implies the existence of a link
+between dynamic shifts in the chitinolytic community and
+measured chitin hydrolysis rates across spatially or tempo-
+rally connected habitats. Based on these observations, we spec-
+ulate that organisms that contribute in signiﬁcant ways to
+chitin degradation may in fact be specialized on chitin sub-
+strate use even if they likely also are able to metabolize other
+substrates.
+Environments with limited connectivity or gene ﬂow, such
+as systems located in different climate zones or systems that
+vary in salinity, have been shown to host dramatically dif-
+ferent chitinolytic communities ( Terahara et al., 2009; Beier
+et al., 2011; Manucharova et al., 2011 ). Recent evidence sug-
+gests that such isolated communities are adapted to the local
+prevailing conditions, as it was shown that the temperature opti-
+mum for maximal chitin degradation in soil was strongly cor-
+related to the climate zone where the samples originated from
+(Manucharova et al., 2011 ). There may, however, still be con-
+straints on such local adaptation, as suggested by Kang et al.
+(2005) who demonstrated a signiﬁcant positive correlation of
+β-N-acetylhexosaminidase activities in wetlands with the annual
+mean temperature of the respective system. Future molecular
+studies targeting expression patterns for chitinases coupled to
+the presence of chitinase genes and measured rates would no
+doubt greatly increase our ability to decipher the mechanisms and
+controls underlying the process of chitin degradation, not least
+by identifying key players and their sensitivity to environmental
+change.CONCLUDING REMARKS
+In the previous sections, mechanisms and ecophysiological strate-gies of microbial chitin degradation and the role of parameters,
+such as temperature and chitin supply in determining chitin
+degradation rates have been discussed along with an account
+of compositional variation in chitinoclastic communities. The
+absence of long-term accumulation of chitin in natural systems
+implies that de novo production of chitin is the ultimate limitingfactor controlling its degradation and turnover in nature. Still, the
+fate of this material with regards to production of new biomass or
+complete mineralization to inorganic constituents varies to a con-
+siderably and the underlying factors controlling this variation are
+only marginally understood. Besides the presence of other, more
+readily degraded substrates, also the composition of the bacterial
+community involved into chitin utilization could inﬂuence the
+fraction of chitin being mineralized, i.e., by the substrate afﬁnity
+toward hydrolyses products. Habitat structure might determine
+such general characteristics of the inherent chitin utilizing com-
+munity and therefore also dictate the fate of chitin in terms of
+its mineralization rates. This may have major implications for
+the cycling of carbon and nitrogen in food webs i.e., by carbon
+or nitrogen removal due to mineralization and volatilization. We
+therefore conclude that the interactive roles of habitat and the
+chitinolytic or chitin utilizing community and their taxonomic
+identiﬁcation merits further investigation.
+The process of chitin degradation is easier to target than degra-
+dation of many other polymers such as the structurally heteroge-
+neous lignin and humic acids or even cellulose. This is because of
+its simple structure and the existence of primer-systems targetingthe chitin modifying enzymes. Chitin degradation could there-
+fore be explored as a general model for understanding microbial
+degradation of biopolymers in the biosphere.
+ACKNOWLEDGMENTS
+We thank anonymous reviewers for constructive comments onthe manuscript. We acknowledge funding from the Swedish
+Research Council and the Swedish Research Council Formas.
+REFERENCES
+Amann, R. I., Ludwig, W., and Schleifer,
+K. H. (1995). Phylogenetic identiﬁ-cation and in-situ detection of indi-
+vidual microbial-cells without culti-
+vation. Microbiol. Rev. 59, 143–169.
+Attwood, M. M., and Zola, H. (1967).
+The association between chitinand protein in some chiti-nous tissues. Comp. Biochem.
+Physiol. 20, 993–998. doi:
+10.1016/0010-406X(67)90069-2
+Aumen, N. G. (1980). Microbial suc-
+cession on a chitinous substrate ina woodland stream. Microb. Ecol. 6,
+317–327. doi: 10.1007/BF02010494
+Bassler, B. L., Yu, C., Lee, Y. C., and
+Roseman, S. (1991). Chitin utiliza-tion by marine bacteria - degra-dation and catabolism of chitin
+oligosaccharides by Vibrio furnissii .
+J. Biol. Chem. 266, 24276–24286.Baty, A. M., Eastburn, C. C.,
+Diwu, Z., Techkarnjanaruk, S.,Goodman, A. E., and Geesey,G. G. (2000a). Differentiationof chitinase-active and non-chitinase-active subpopulationso fam a r i n eb a c t e r i u md u r i n g
+chitin degradation. Appl. Environ.
+Microbiol. 66, 3566–3573. doi:
+10.1128/AEM.66.8.3566-3573.2000
+Baty, A. M., Eastburn, C. C.,
+Techkarnjanaruk, S., Goodman,A. E., and Geesey, G. G.(2000b). Spatial and tempo-ral variations in chitinolytic
+gene expression and bacte-
+rial biomass production duringchitin degradation. Appl. Environ.
+Microbiol. 66, 3574–3585. doi:
+10.1128/AEM.66.8.3574-3585.2000
+Beier, S., and Bertilsson, S. (2011).
+Uncoupling of chitinase activityand uptake of hydrolyses prod-
+ucts in freshwater bacterioplankton.Limnol. Oceanogr. 56, 1179–1188.
+doi: 10.4319/lo.2011.56.4.1179
+Beier, S., Jones, C. M., Mohit, V., Hallin,
+S., and Bertilsson, S. (2011). Globalphylogeography of chitinase genes
+in aquatic metagenomes. Appl.
+Environ. Microbiol. 77, 1101–1106.
+doi: 10.1128/AEM.01481-10
+Beier, S., Mohit, V., Ettema, T. J.
+G., Östman, Ö., Tranvik, L.J., and Bertilsson, S. (2012).Pronounced seasonal dynam-ics of freshwater chitinase genes
+and chitin processing. Environ.
+Microbiol. 14, 2467–2479. doi:
+10.1111/j.1462-2920.2012.02764.x
+Benner, R., and Kaiser, K. (2003).
+Abundance of amino sugars andpeptidoglycan in marine particu-late and dissolved organic matter.Limnol. Oceanogr. 48, 118–128. doi:
+10.4319/lo.2003.48.1.0118
+Bouma, C. L., and Roseman, S.
+(1996). Sugar transport bythe marine chitinolytic bac-terium Vibrio furnissii . Molecular
+cloning and analysis of the glu-
+cose and N-acetylglucosamine
+permeases. J. Biol. Chem. 271,
+33457–33467. doi:10.1074/jbc.271.52.33457
+Boyer, J. N. (1994). Aerobic and anaer-
+obic degradation and mineraliza-tion of
+14C chitin by water col-
+umn and sedimentinocula of the
+Yo r k R ive r e s t u a r y, Vi r g i n i a . Appl.
+Environ. Microbiol. 60, 174–179.
+Brankatschk, R., Töwe, S., Kleineidam,
+K., Schloter, M., and Zeyer, J.(2011). Abundances and poten-tial activities of nitrogen cyclingmicrobial communities along a
+www.frontiersin.org June 2013 | Volume 4 | Article 149 |9
+Beier and Bertilsson Bacterial chitin degradation
+chronosequence of a glacier fore-
+ﬁeld. ISME J. 5, 1025–1037. doi:
+10.1038/ismej.2010.184
+Brzezinska, M. S., and Donderski, W.
+(2006). Chitinolytic bacteria in twolakes of different trophic status. Pol.
+J. Ecol. 54, 295–301.
+Campbell, L. L., and Williams, O.
+B. (1951). A study of chitin-decomposing microorganisms
+of marine origin. J. Gen.
+Microbiol. 5, 894–905. doi:
+10.1099/00221287-5-5-894
+Chernin, L. S., Winson, M. K.,
+Thompson, J. M., Haran, S.,Bycroft, B. W., Chet, I., et al.(1998). Chitinolytic activity in
+Chromobacterium violaceum :s u b -
+strate analysis and regulation byquorum sensing. J. Bacteriol. 180,
+4435–4441.
+Chitlaru, E., and Roseman, S.
+(1996). Molecular cloning andcharacterization of a novel beta-N-acetyl-D-glucosaminidase from
+Vibrio furnissii .J. Biol. Chem. 271,
+33433–33439. doi: 10.1074/jbc.271.52.33433
+Cho, B. C., and Azam, F. (1988).
+Major role of bacteria in biogeo-chemical ﬂuxes in the oceans inte-rior. Nature 332, 441–443. doi:
+10.1038/332441a0
+Cohen-Kupiec, R., and Chet, I. (1998).
+The molecular biology of chitindigestion. Curr. Opin. Biotechnol .
+9, 270–277. doi: 10.1016/S0958-1669(98)80058-X
+Cottrell, M. T., and Kirchman, D. L.
+(2000). Natural assemblages ofmarine proteobacteria and mem-
+bers of the Cytophaga-Flavobacter
+cluster consuming low- andhigh-molecular-weight dissolvedorganic matter. Appl. Environ.
+Microbiol. 66, 1692–1697. doi:
+10.1128/AEM.66.4.1692-1697.2000
+Cottrell, M. T., Moore, J. A., and
+Kirchman, D. L. (1999). Chitinases
+from uncultured marine micro-organisms. Appl. Environ. Microbiol.
+65, 2553–2557.
+Cottrell, M. T., Wood, D. N., Yu, L.
+Y., and Kirchman, D. L. (2000).Selected chitinase genes in cul-tured and uncultured marine
+bacteria in the alpha- and gamma-
+subclasses of the proteobacteria.Appl. Environ. Microbiol. 66,
+1195–1201. doi: 10.1128/AEM.66.3.1195-1201.2000
+Cretoiu, M. S., Kielak, A. M., Abu
+Al-Soud, W., Sorensen, S. J., andvan Elsas, J. D. (2012). Mining of
+unexplored habitats for novel chiti-
+nases - chiA as a helper gene proxy
+in metagenomics. Appl. Microbiol.
+Biotechnol. 94, 1347–1358. doi:
+10.1007/s00253-012-4057-5Davies, G., and Henrissat,
+B. (1995). Structures and
+mechanisms of glycosyl hydro-
+lases. Structure 3, 853–859. doi:
+10.1016/S0969-2126(01)00220-9
+DeAngelis, K. M., Lindow, S. E., and
+Firestone, M. K. (2008). Bacterialquorum sensing and nitrogencycling in rhizosphere soil. FEMS
+Microbiol. Ecol. 66, 197–207. doi:
+10.1111/j.1574-6941.2008.00550.x
+Delpin, M. W., and Goodman, A. E.
+(2009a). Nitrogen regulates chiti-nase gene expression in a marinebacterium. ISME J. 3, 1064–1069.
+doi: 10.1038/ismej.2009.49
+Delpin, M. W., and Goodman, A.
+E. (2009b). Nutrient regime
+regulates complex transcrip-tional start site usage within aPseudoalteromonas chitinase gene
+cluster. ISME J. 3, 1053–1063. doi:
+10.1038/ismej.2009.54
+Drouillard, S., Armand, S., Davies, G.
+J., Vorgias, C. E., and Henrissat, B.
+(1997). Serratia marcescens chitobi-
+ase is a retaining glycosidase utiliz-ing substrate acetamido group par-ticipation. Biochem. J. 328, 945–949.
+Duarte, B., Reboreda, R., and Cacador,
+I. (2008). Seasonal variation ofextracellular enzymatic activity(EEA) and its inﬂuence on metal
+speciation in a polluted salt marsh.
+Chemosphere 73, 1056–1063. doi:
+10.1016/j.chemosphere.2008.07.072
+Eckert, E. M., Baumgartner, M.,
+Huber, I. M., and Pernthaler, J.(2013). Grazing resistant fresh-water bacteria proﬁt from chitinand cell-wall-derived organic
+carbon. Environ. Microbiol. doi:
+10.1111/1462-2920.12083. [Epubahead of print].
+Ekborg, N. A., Morrill, W., Burgoyne,
+A. M., Li, L., and Distel, D. L.(2007). CelAB, a multifunctionalcellulase encoded by Teredinibacter
+turnerae T7902
+T, a culturable
+symbiont isolated from thewood-boring marine bivalveLyrodus pedicellatus .Appl. Environ.
+Microbiol. 73, 7785–7788. doi:
+10.1128/AEM.00876-07
+Everuss, K. J., Delpin, M. W.,
+and Goodman, A. E. (2008).
+Cooperative interactions within
+a marine bacterial dual speciesbioﬁlm growing on a naturalbiodegradable substratum. Aquat.
+Microb. Ecol. 53, 191–199. doi:
+10.3354/ame01235
+F u c h s ,R .L . ,M c P h e r s o n ,S .A . ,a n d
+Drahos, D. J. (1986). Cloning of a
+Serratia marcescens gene encoding
+chitinase. Appl. Environ. Microbiol.
+51, 504–509.
+G a f f n e y ,T .D . ,L a m ,S .T . ,L i g o n ,J . ,
+Gates, K., Frazelle, A., Di Maio,J., et al. (1994). Global regulation
+of expression of antifungal factors
+by a Pseudomonas ﬂuorescens bio-
+logical control strain. Mol. Plant-
+Microbe Interact. 7, 455–463. doi:
+10.1094/MPMI-7-0455
+Gal, S. W., Choi, J. Y., Kim, C. Y.,
+Cheong, Y. H., Choi, Y. J., Lee,S. Y., et al. (1998). Cloning ofthe 52-kDa chitinase gene from
+Serratia marcescens KCTC2172
+and its proteolytic cleavage intoan active 35-kDa enzyme. FEMS
+Microbiol. Lett. 160, 151–158.
+doi: 10.1111/j.1574-6968.1998.tb12905.x
+G a o ,J . ,B a u e r ,M .W . ,S h o c k l e y ,K .
+R . ,P y s z ,M .A . ,a n dK e l l y ,R .M .
+(2003). Growth of hyperther-mophilic archaeon Pyrococcus
+furiosus on chitin involves two
+family 18 chitinases. Appl. Environ.
+Microbiol. 69, 3119–3128. doi:
+10.1128/AEM.69.6.3119-3128.2003
+G a r c i a ,S .L . ,M c M a h o n ,K .D . ,
+Martinez-Garcia, M., Srivastava,
+A., Sczyrba, A., Stepanauskas, R.,et al. (2013). Metabolic poten-tial of a single cell belongingto one of the most abundantlineages in freshwater bacterio-plankton. ISME J. 7, 137–147. doi:
+10.1038/ismej.2012.86
+Gooday, G. W. (1990a). The ecology
+of chitin degradation. Adv. Microb.
+Ecol. 11, 387–430. doi: 10.1007/978-
+1-4684-7612-5_10
+Gooday, G. W. (1990b). Physiology
+of microbial degradation of chitinand chitosan. Biodegradation 1,
+177–190. doi: 10.1007/BF00058835
+Gooday, G. W., Prosser, J. I., Hillman,
+K., and Cross, M. G. (1991).Mineralization of chitin in anestuarine sediment - the impor-tance of the chitosan pathway.Biochem. Syst. Ecol. 19, 395–400.
+doi: 10.1016/0305-1978(91)90056-6
+Gschwendtner, S., Reichmann, M.,
+Müller, M., Radl, V ., Munch,J., and Schloter, M. (2010).Abundance of bacterial genesencoding for proteases and chiti-nases in the rhizosphere of threedifferent potato cultivars. Biol.
+Fertil. Soils 46, 649–652. doi:
+10.1007/s00374-010-0460-1
+Hallmann, J., Rodríguez-Kábana, R.,
+and Kloepper, J. W. (1999). Chitin-mediated changes in bacterial com-munities of the soil, rhizosphereand within roots of cotton inrelation to nematode control. Soil
+Biol. Biochem. 31, 551–560. doi:
+10.1016/S0038-0717(98)00146-1
+Hart, P . J., Pﬂuger, H. D., Monzingo,
+A .F . ,H o l l i s ,T . ,a n dR o b e r t u s ,J .D .(1995). The reﬁned crystal structureof an endochitinase from Hordeumvulgare L. seeds at 1.8 Å resolution.
+J. Mol. Biol. 248, 402–413. doi:
+10.1016/S0022-2836(95)80059-X
+Herwig, R. P ., Pellerin, N. B., Irgens,
+R. L., Maki, J. S., and Staley, J.T. (1988). Chitinolytic bacteriaand chitin mineralization in themarine waters and sedimentsalong the antarctic penin-sula. FEMS Microbiol. Ecol. 53,
+101–111. doi: 10.1111/j.1574-
+6968.1988.tb02653.x
+H i l l m a n ,K . ,G o o d a y ,G .W . ,a n d
+Prosser, J. I. (1989). The mineral-ization of chitin in the sedimentsof the Ythan estuary, aberdeen-shire, Scotland. Estuar. Coast. Shelf
+Sci.29, 601–612. doi: 10.1016/0272-
+7714(89)90013-9
+Hobel, C. F. V., Marteinsson, V.
+T., Hreggvidsson, G. O., andKristjánsson, J. K. (2005).Investigation of the microbialecology of intertidal hot springs byusing diversity analysis of 16S rRNA
+and chitinase genes. Appl. Environ.
+Microbiol. 71, 2771–2776. doi:
+10.1128/AEM.71.5.2771-2776.2005
+Höltje, J. V. (1996). “Lysozyme sub-
+strates,” in Lysozymes: Model
+Enzymes in Biochemistry andBiology , ed P . Jollès (Basel:
+Birkhäuser Verlag), 105–111.
+doi: 10.1007/978-3-0348-9225-4_7
+H o o d ,M .A . ,a n dM e y e r s ,S .P .
+(1977). Rates of chitin degrada-tion in an estuarine environment.J. Oceanogr. Soc. Jpn. 33, 328–334.
+doi: 10.1007/BF02109578
+Horn, S. J., Sørbotten, A., Synstad,
+B., Sikorski, P ., Sørlie, M., Vårum,
+K. M., et al. (2006). Endo/exo
+mechanism and processivityof family 18 chitinases pro-duced by Serratia marcescens .
+FEBS J. 273, 491–503. doi:
+10.1111/j.1742-4658.2005.05079.x
+Huber, R., Stöhr, J., Hohenhaus, S.,
+Rachel, R., Burggraf, S., Jannasch,
+H., et al. (1995). Thermococcus
+chitonophagus sp. nov., a novel,
+chitin-degrading, hyperther-mophilic archaeum from a deep-seahydrothermal vent environment.Arch. Microbiol . 164, 255–264. doi:
+10.1007/BF02529959
+Hult, E. L., Katouno, F., Uchiyama,
+T., Watanabe, T., and Sugiyama, J.(2005). Molecular directionality incrystalline β-chitin: hydrolysis by
+chitinases A and B from Serratia
+marcescens 2170. Biochem. J. 388,
+851–856. doi: 10.1042/BJ20050090
+H u n t ,D .E . ,G e v e r s ,D . ,V a h o r a ,
+N. M., and Polz, M. F. (2008).
+Conservation of the chitin utiliza-tion pathway in the Vibrionaceae .
+Appl. Environ. Microbiol. 74, 44–51.
+doi: 10.1128/AEM.01412-07
+Frontiers in Microbiology | Terrestrial Microbiology June 2013 | Volume 4 | Article 149 |10
+Beier and Bertilsson Bacterial chitin degradation
+Jackson, C., and Vallaire, S. (2009).
+Effects of salinity and nutrients on
+microbial assemblages in Louisiana
+wetland sediments. Wetlands 29,
+277–287. doi: 10.1672/08-86.1
+Jagmann, N., Brachvogel, H.
+P., and Philipp, B. (2010).Parasitic growth of Pseudomonas
+aeruginosa in co-culture with
+the chitinolytic bacterium
+Aeromonas hydrophila .Environ.
+Microbiol. 12, 1787–1802. doi:
+10.1111/j.1462-2920.2010.02271.x
+Kaiser, K., and Benner, R. (2008).
+Major bacterial contribution tothe ocean reservoir of detritalorganic carbon and nitrogen.
+Limnol. Oceanogr. 53, 99–112. doi:
+10.4319/lo.2008.53.1.0099
+K a n e k o ,T . ,a n dC o l w e l l ,R .R .
+(1978). Annual cycle of Vibrio
+Parahaemolyticus in Chesapeake
+Bay. Microb. Ecol. 4, 135–155. doi:
+10.1007/BF02014284
+Kang, H. J., Freeman, C., Park,
+S. S., and Chun, J. (2005). N-
+Acetylglucosaminidase activitiesin wetlands: a global survey.Hydrobiologia 532, 103–110. doi:
+10.1007/s10750-004-9450-3
+Karlsson, M., and Stenlid, J. (2009).
+Evolution of family 18 glycosidehydrolases: diversity, domain
+structures and phylogenetic
+relationships. J. Mol. Microbiol.
+Biotechnol. 16, 208–223. doi:
+10.1159/000151220
+Keyhani, N. O., and Roseman, S.
+(1996). The chitin catabolic cas-cade in the marine bacteriumVibrio furnissii . Molecular cloning,
+isolation, and characterization
+of a periplasmic beta-N-acetyl-glucosaminidase. J. Biol. Chem. 271,
+33425–33432. doi: 10.1074/jbc.271.52.33425
+Keyhani, N. O., and Roseman, S.
+(1997). Wild-type Escherichia coli
+grows on the chitin disaccharide, N,
+N
+′-diacetylchitobiose, by expressing
+the celoperon. Proc. Natl. Acad.
+Sci. U.S.A. 94, 14367–14371. doi:
+10.1073/pnas.94.26.14367
+Keyhani, N. O., and Roseman, S.
+(1999). Physiological aspectsof chitin catabolism in marine
+bacteria. Biochim. Biophys.
+Acta 1473, 108–122. doi:
+10.1016/S0304-4165(99)00172-5
+Kielak, A. M., Cretoiu, M. S., Semenov,
+A. V., Sorensen, S. J., and van Elsas,J. D. (2013). Bacterial chitinolyticcommunities respond to chitinand pH alteration in soil. Appl.
+Environ. Microbiol. 79, 263–272.
+doi: 10.1128/AEM.02546-12
+Kirchman, D. L., and White, J. (1999).
+Hydrolysis and mineralization ofchitin in the Delaware estuary.Aquat. Microb. Ecol. 18, 187–196.
+doi: 10.3354/ame018187
+Köllner, K. E., Carstens, D., Keller,
+E . ,V a z q u e z ,F . ,S c h u b e r t ,C .J . ,Zeyer, J., et al. (2012). Bacterialchitin hydrolysis in two lakeswith contrasting trophic statuses.Appl. Environ. Microbiol. 78,
+695–704. doi: 10.1128/AEM.06330-11
+LeCleir, G. R., Buchan, A., Maurer,
+J . ,M o r a n ,M .A . ,a n dH o l l i b a u g h ,J. T. (2007). Comparison of chiti-nolytic enzymes from an alkaline,hypersaline lake and an estuary.Environ. Microbiol. 9, 197–205. doi:
+10.1111/j.1462-2920.2006.01128.x
+LeCleir, G. R., and Hollibaugh, J.
+T. (2006). Chitinolytic bacteriafrom alkaline hypersaline MonoLake, California, USA. Aquat.
+Microb. Ecol. 42, 255–264. doi:
+10.3354/ame042255
+Li, X. B., and Roseman, S. (2004).
+The chitinolytic cascade in Vibrios
+is regulated by chitin oligosac-
+charides and a two-componentchitin catabolic sensor/kinase.Proc. Natl. Acad. Sci. U.S.A. 101,
+627–631. doi: 10.1073/pnas.0307645100
+Li, Y., and Wilson, D. B. (2008).
+Chitin binding by Thermobiﬁda
+fusca cellulase catalytic domains.
+Biotechnol. Bioeng. 100, 644–652.
+doi: 10.1002/bit.21808
+Manucharova, N. A., Vlasenko, A. N.,
+M e n ’ k o ,E .V . ,a n dZ v y a g i n t s e v ,D. G. (2011). Speciﬁcity of thechitinolytic microbial complex ofsoils incubated at different temper-
+atures. Microbiology 80, 205–215.
+doi: 10.1134/S002626171102010X
+M e i b o m ,K .L . ,L i ,X .B .B . ,N i e l s e n ,
+A .T . ,W u ,C .Y . ,R o s e m a n ,S . ,and Schoolnik, G. K. (2004).The Vibrio cholerae chitin utiliza-
+tion program. Proc. Natl. Acad.
+Sci. U.S.A. 101, 2524–2529. doi:
+10.1073/pnas.0308707101
+Merzendorfer, H., and Zimoch, L.
+(2003). Chitin metabolism ininsects: structure, function andregulation of chitin synthasesand chitinases. J. Exp. Biol. 206,
+4393–4412. doi: 10.1242/jeb.00709
+M e t c a l f e ,A .C . ,K r s e k ,M . ,G o o d a y ,G .
+W., Prosser, J. I., and Wellington, E.M. H. (2002). Molecular analysisof a bacterial chitinolytic commu-nity in an upland pasture. Appl.
+Environ. Microbiol. 68, 5042–5050.
+doi: 10.1128/AEM.68.10.5042-5050.2002
+Miyashita, K., Fujii, T., and Saito,
+A. (2000). Induction and repres-sion of a Streptomyces lividans chiti-
+nase gene promoter in responseto various carbon sources. Biosci.Biotechnol. Biochem. 64, 39–43. doi:
+10.1271/bbb.64.39
+Mobley, H. L. T., Doyle, R. J., Streips,
+U. N., and Langemeier, S. O. (1982).Transport and incorporation ofN-acetyl-D-glucosamine in Bacillus
+subtilis .J. Bacteriol. 150, 8–15.
+Montgomery, M. T., and Kirchman, D.
+L. (1993). Role of chitin-bindingproteins in the speciﬁc attachment
+of the marine bacterium Vibrio
+harveyi to chitin. Appl. Environ.
+Microbiol. 59, 373–379.
+Montgomery, M. T., and Kirchman,
+D. L. (1994). Induction of chitin-binding proteins during the speciﬁcattachment of the marine bac-
+terium Vibrio harveyi to chitin.
+Appl. Environ. Microbiol. 60,
+4284–4288.
+Nedoma, J., Vrba, J., Hejzlar, J., Šimek,
+K., and Straškrabová, V. (1994).N-acetylglucosamine dynam-ics in freshwater environments:concentration of amino sugars,
+extracellular enzyme activities,
+and microbial uptake. Limnol.
+Oceanogr. 39, 1088–1100. doi:
+10.4319/lo.1994.39.5.1088
+O h n o ,T . ,A r m a n d ,S . ,H a t a ,T . ,
+Nikaidou, N., Henrissat, B.,Mitsutomi, M., et al. (1996).A modular family 19 chitinase
+found in the prokaryotic organism
+Streptomyces griseus HUT (6037).
+J. Bacteriol. 178, 5065–5070.
+Park, J. K., Keyhani, N. O., and
+Roseman, S. (2000). Chitincatabolism in the marinebacterium Vibrio furnissii .
+Identiﬁcation, molecular cloning,
+and characterization of a N-N
+′-
+diacetylchitobiose phosphorylase.J. Biol. Chem. 275, 33077–33083.
+doi: 10.1074/jbc.M001042200
+Perrakis, A., Tews, I., Dauter, Z.,
+Oppenheim, A. B., Chet, I., Wilson,K. S., et al. (1994). Crystal structure
+of a bacterial chitinase at 2.3 Å reso-
+lution. Structure 2, 1169–1180. doi:
+10.1016/S0969-2126(94)00119-7
+Postma, P. W., Lengeler, J. W.,
+and Jacobson, G. R. (1993).Phosphoenolpyruvate: carbohy-drate phosphotransferase systemsof bacteria. Microbiol. Rev. 57,
+543–594.
+Pruzzo, C., Crippa, A., Bertone, S.,
+Pane, L., and Carli, A. (1996).Attachment of Vibrio alginolyti-
+custo chitin mediated by chitin-
+binding proteins. Microbiology 142,
+2181–2186. doi: 10.1099/13500872-142-8-2181
+R a b i n o v i c h ,M .L . ,M e l n i k ,M .S . ,
+and Boloboba, A. V. (2002).Microbial cellulases (Review). Appl.
+Biochem. Microbiol. 38, 305–321.
+doi: 10.1023/A:1016264219885Riemann, L., and Azam, F. (2002).
+Widespread N-acetyl-D-
+glucosamine uptake among
+pelagic marine bacteria and itsecological implications. Appl.
+Environ. Microbiol. 68, 5554–5562.
+doi: 10.1128/AEM.68.11.5554-5562.2002
+Rietl, A. J., and Jackson, C. R. (2012).
+Effects of the ecological restoration
+practices of prescribed burning
+and mechanical thinning on soilmicrobial enzyme activities andleaf litter decomposition. Soil
+Biol. Biochem. 50, 47–57. doi:
+10.1016/j.soilbio.2012.03.008
+Rodríguez-Kábana, R., Godoy, G.,
+Morganjones, G., and Shelby, R.
+A. (1983). The determinationof soil chitinase activity - con-ditions for assay and ecologicalstudies. Plant Soil 75, 95–106. doi:
+10.1007/BF02178617
+Romaguera, A., Menge, U., Breves,
+R., and Diekmann, H. (1992).
+Chitinases of Streptomyces oli-
+vaceoviridis and signiﬁcance
+of processing for multiplicity.J. Bacteriol. 174, 3450–3454.
+Saito, A., Fujii, T., Y oneyama,
+T., Redenbach, M., Ohno, T.,Watanabe, T., et al. (1999). High-multiplicity of chitinase genes in
+Streptomyces coelicolor A3. Biosci.
+Biotechnol. Biochem. 63, 710–718.
+doi: 10.1271/bbb.63.710
+Schaefer, J., Kramer, K. J., Garbow,
+J .R . ,J a c o b ,G .S . ,S t e j s k a l ,E .O., Hopkins, T. L., et al. (1987).Aromatic cross-links in insectcuticle: detection by solid-state
+13Ca n d15NN M R . Science 235,
+1200–1204. doi: 10.1126/sci-ence.3823880
+Schnellmann, J., Zeltins, A., Blaak,
+H., and Schrempf, H. (1994). Thenovel lectin-like protein Chb1is encoded by a chitin-inducible
+Streptomyces olivaceoviridis gene
+and binds speciﬁcally to crys-talline α-chitin of fungi and other
+organisms. Mol. Microbiol. 13,
+807–819. doi: 10.1111/j.1365-2958.1994.tb00473.x
+Scigelova, M., and Crout, D. H.
+G. (1999). Microbial beta-N-
+acetylhexosaminidases and their
+biotechnological applications.Enzyme Microb. Technol. 25, 3–14.
+doi: 10.1016/S0141-0229(98)00171-9
+Shapiro, J. A. (1998). Thinking
+about bacterial populations asmulticellular organisms. Annu.
+Rev. Microbiol. 52, 81–104. doi:
+10.1146/annurev.micro.52.1.81
+Shimosaka, M., Fukumori, Y., Narita,
+T., Zhang, X. Y., Kodaira, R.,Nogawa, M., et al. (2001). The
+www.frontiersin.org June 2013 | Volume 4 | Article 149 |11
+Beier and Bertilsson Bacterial chitin degradation
+bacterium Burkholderia glad-
+ioli strain CHB101 produces
+two different kinds of chitinases
+belonging to families 18 and
+19 of the glycosyl hydrolases.
+J. Biosci. Bioeng. 91, 103–105. doi:
+10.1016/S1389-1723(01)80123-7
+Sikorski, P., Sørbotten, A., Horn, S.
+J . ,E i j s i n k ,V .G .H . ,a n dV å r u m ,
+K. M. (2006). Serratia marcescens
+chitinases with tunnel-shaped
+substrate-binding grooves show
+endo activity and different degrees
+of processivity during enzymatic
+hydrolysis of chitosan. Biochemistry
+45, 9566–9574. doi: 10.1021/
+bi060370l
+Skujin ¸š, J., Puk ¸ite, A., and McLaren, A.
+D. (1973). Adsorption and reactions
+of chitinase and lysozyme on chitin.
+Mol. Cell. Biochem. 2, 221–228. doi:
+10.1007/BF01795475
+Smith, D. C., Simon, M., Alldredge,
+A. L., and Azam, F. (1992).
+Intense hydrolytic enzyme activ-
+ity on marine aggregates and
+implications for rapid particle
+dissolution. Nature 359, 139–142.
+doi: 10.1038/359139a0
+Somashekar, D., and Joseph, R.
+(1996). Chitosanases - proper-
+ties and applications: a review.
+Bioresour. Technol. 55, 35–45. doi:
+10.1016/0960-8524(95)00144-1
+Souza, C. P ., Almeida, B. C., Colwell,
+R. R., and Rivera, I. N. (2011). The
+importance of chitin in the marine
+environment. Mar. Biotechnol. 13,
+823–830. doi: 10.1007/s10126-011-
+9388-1
+Stepanauskas, R., and Sieracki, M.
+E. (2007). Matching phylogeny
+and metabolism in the uncultured
+marine bacteria, one cell at a time
+Proc. Natl. Acad. Sci. U.S.A. 110,
+9052–9057. doi: 10.1073/pnas.
+0700496104
+Štrojsová, A., and Dyhrman, S. T.
+(2008). Cell-speciﬁc beta-N-
+acetylglucosaminidase activity in
+cultures and ﬁeld populations
+of eukaryotic marine phyto-
+plankton. FEMS Microbiol.
+Ecol. 64, 351–361. doi:
+10.1111/j.1574-6941.2008.00479.x
+Štrojsová, M., and Vrba, J. (2005).
+Direct detection of digestive
+enzymes in planktonic rotifers
+using enzyme-labelled ﬂuorescence
+(ELF). Mar. Freshwater Res. 56,
+189–195. doi: 10.1071/MF04280
+Suzuki, K., Sugawara, N., Suzuki,
+M., Uchiyama, T., Katouno,
+F., Nikaidou, N., et al. (2002).
+Chitinases, A, B, and C1 of Serratia
+marcescens 2170 produced by
+recombinant Escherichia coli :e n z y -
+matic properties and synergism
+on chitin degradation. Biosci.Biotechnol. Biochem. 66, 1075–1083.
+doi: 10.1271/bbb.66.1075
+Suzuki, K., Suzuki, M., Taiyoji, M.,
+Nikaidou, N., and Watanabe, T.
+(1998). Chitin binding protein
+(CBP21) in the culture supernatant
+ofSerratia marcescens 2170. Biosci.
+Biotechnol. Biochem. 62, 128–135.
+doi: 10.1271/bbb.62.128
+Suzuki, K., Taiyoji, M., Sugawara, N.,
+Nikaidou, N., Henrissat, B., and
+Watanabe, T. (1999). The third
+chitinase gene (chiC) of Serratia
+marcescens 2170 and the relation-
+ship of its product to other bacterial
+chitinases. Biochem. J. 343, 587–596.
+doi: 10.1042/0264-6021:3430587
+Svitil, A. L., Chadhain, S. M. N.,
+Moore, J. A., and Kirchman, D. L.
+(1997). Chitin degradation proteins
+produced by the marine bacterium
+Vibrio harveyi growing on differ-
+ent forms of chitin. Appl. Environ.
+Microbiol. 63, 408–413.
+Tanaka, T., Fujiwara, S., Nishikori, S.,
+Fukui, T., Takagi, M., and Imanaka,
+T. (1999). A unique chitinase with
+dual active sites and triple sub-
+strate binding sites from the hyper-
+thermophilic archaeon Pyrococcus
+kodakaraensis KOD1. Appl. Environ.
+Microbiol. 65, 5338–5344.
+Techkarnjanaruk, S., and Goodman,
+A. E. (1999). Multiple genes
+involved in chitin degradation
+from the marine bacterium
+Pseudoalteromonas sp .s t r a i n
+S91. Microbiology 145, 925–934.
+doi: 10.1099/13500872-145-4-925
+Techkarnjanaruk, S.,
+Pongpattanakitshote, S., and
+Goodman, A. E. (1997). Use of
+a promoterless lacZ gene inser-
+tion to investigate chitinase gene
+expression in the marine bac-
+terium Pseudoalteromonas sp .s t r a i n
+S9. Appl. Environ. Microbiol. 63,
+2989–2996.
+Terahara, T., Ikeda, S., Noritake,
+C., Minamisawa, K., Ando, K.,
+Tsuneda, S., et al. (2009). Molecular
+diversity of bacterial chitinases
+in arable soils and the effects of
+environmental factors on the chiti-
+nolytic bacterial community. Soil
+Biol. Biochem. 41, 473–480. doi:
+10.1016/j.soilbio.2008.11.024
+Tracey, M. A. (1957). Chitin. Rev. Pure
+Appl. Chem. 7, 1–13.
+Tsujibo, H., Fujimoto, K., Tanno, H.,
+Miyamoto, K., Imada, C., Okami,
+Y., et al. (1994). Gene sequence,
+puriﬁcation and characterization of
+N-acetyl- β-glucosaminidase from a
+marine bacterium, Alteromonas sp .
+Strain O-7. Gene 146, 111–115. doi:
+10.1016/0378-1119(94)90843-5
+Tsujibo, H., Kubota, T., Yamamoto,
+M., Miyamoto, K., and Inamori,Y. (2003). Characterization of
+chitinase genes from an alka-
+liphilic actinomycete, Nocardiopsis
+prasina OPC-131. Appl. Environ.
+Microbiol. 69, 894–900. doi:
+10.1128/AEM.69.2.894-900.2003
+Ueno, H., Miyashita, K., Sawada, Y.,
+and Oba, Y. (1991). Assay of chiti-
+nase and N-acetylglucosaminidase
+activity inforest soils with 4-
+methylumbelliferyl derivatives.
+Zeitschrift für Pﬂanzenernahrung
+und Bodenkunde 154, 171–175. doi:
+10.1002/jpln.19911540304
+Vaaje-Kolstad, G., Horn, S. J., van
+A a l t e n ,D .M .F . ,S y n s t a d ,B . ,a n d
+Eijsink, V. G. H. (2005). The non-
+catalytic chitin-binding protein
+CBP21 from Serratia marcescens
+is essential for chitin degradation.
+J. Biol. Chem. 280, 28492–28497.
+doi: 10.1074/jbc.M504468200
+V e t t e r ,Y .A . ,D e m i n g ,J .W . ,J u m a r s ,
+P. A., and Krieger-Brockett, B.
+B. (1998). A predictive model
+of bacterial foraging by means
+of freely released extracellular
+enzymes. Microb. Ecol. 36, 75–92.
+doi: 10.1007/s002489900095
+Vrba, J., Filandr, P., Nedoma, J.,
+and Simek, K. (1996). “Different
+sources of extracellular β-N-
+acetylhexosaminidases-like activ-
+ities in freshwaters,” in Chitin
+Enzymology ,e dR .A .A .M u z z a r e l l i
+(Senigallia: Atec Edizioni), 293–301.
+Vrba, J., Kofro ˇnová-Bobková, J.,
+Pernthaler, J., Simek, K., Macek,
+M., and Psenner, R. (1997).
+Extracellular, low-afﬁnity beta-
+N-acetylglucosaminidases linked
+to the dynamics of diatoms and
+crustaceans in freshwater sys-
+tems of different trophic degree.
+Internationale Revue der Gesamten
+Hydrobiologie 82, 277–286. doi:
+10.1002/iroh.19970820213
+Vrba, J., and Machacek, J. (1994).
+Release of dissolved extracellular
+Beta-N-Acetylglucosaminidase dur-
+ing crustacean molting. Limnol.
+Oceanogr. 39, 712–716. doi:
+10.4319/lo.1994.39.3.0712
+Vrba, J., Nedoma, J., Simek, K., and
+Seda, J. (1992). Microbial decom-
+position of polymer organic-matter
+related to plankton development
+in a reservoir - activity of α-
+Glucosidase, β-Glucosidase, and
+β-N-acetylglucosaminidase and
+uptake of N-acetylglucosamine.
+Arch. Hydrobiol. 126, 193–211.
+Warnes, C. E., and Rux, T. P. (1982).
+“Chitin mineralization in a fresh-
+water habitate,” in International
+Conference on Chitin and Chitosan ,
+eds S. Hirano and S. Tokura
+(Sapporo: Japanese Society of
+Chitin and Chitosan), 191–195.Watanabe, T., Kanai, R., Kawase,
+T., Tanabe, T., Mitsutomi, M.,
+Sakuda, S., et al. (1999). Family
+19 chitinases of Streptomyces
+species: characterization and
+distribution. Microbiology 145,
+3353–3363.
+Whitman, W. B., Coleman, D. C., and
+Wiebe, W. J. (1998). Prokaryotes:
+the unseen majority. Proc. Natl.
+Acad. Sci. U.S.A. 95, 6578–6583. doi:
+10.1073/pnas.95.12.6578
+W u r z b a c h e r ,C .M . ,B a r l o c h e r ,F . ,a n d
+Grossart, H. P. (2010). Fungi in lake
+ecosystems. Aquat. Microb. Ecol. 59,
+125–149. doi: 10.3354/ame01385
+Xia, W., Liu, P., and Liu, J. (2008).
+Advance in chitosan hydrolysis by
+non-speciﬁc cellulases. Bioresour.
+Technol. 99, 6751–6762. doi:
+10.1016/j.biortech.2008.01.011
+Xiao, X., Yin, X. B., Lin, H., Sun, L. G.,
+Y ou, Z. Y., Wang, P ., et al. (2005).
+Chitinase genes in lake sediments
+of Ardley Island, Antarctica. Appl.
+Environ. Microbiol. 71, 7904–7909.
+doi: 10.1128/AEM.71.12.7904-
+7909.2005
+Yasir, M., Aslam, Z., Kim, S. W., Lee,
+S. W., Jeon, C. O., and Chung,
+Y. R. (2009). Bacterial commu-
+nity composition and chitinase
+gene diversity of vermicompost
+with antifungal activity. Bioresour.
+Technol. 100, 4396–4403. doi:
+10.1016/j.biortech.2009.04.015
+ZoBell, C. E., and Rittenberg, S.
+C. (1938). The occurrence and
+characteristics of chitinolclastic
+bacteria in the sea. J. Bacteriol. 35,
+275–287.
+Conﬂict of Interest Statement: The
+authors declare that the research
+was conducted in the absence of any
+commercial or ﬁnancial relationships
+that could be construed as a potential
+conﬂict of interest.
+Received: 10 April 2013; accepted: 28
+May 2013; published online: 154 June
+2013.
+Citation: Beier S and Bertilsson S
+(2013) Bacterial chitin degradation—
+mechanisms and ecophysiological
+strategies. Front. Microbiol. 4:149. doi:
+10.3389/fmicb .2013.00149
+This article was submitted to Frontiers
+in Terrestrial Microbiology, a specialty of
+Frontiers in Microbiology.
+Copyright © 2013 Beier and Bertilsson.
+This is an open-access article dis-
+tributed under the terms of the Creative
+Commons Attribution License ,w h i c h
+permits use, distribution and reproduc-
+tion in other forums, provided the origi-
+nal authors and source are credited and
+subject to any copyright notices concern-
+ing any third-party graphics etc.
+Frontiers in Microbiology | Terrestrial Microbiology June 2013 | Volume 4 | Article 149 |12

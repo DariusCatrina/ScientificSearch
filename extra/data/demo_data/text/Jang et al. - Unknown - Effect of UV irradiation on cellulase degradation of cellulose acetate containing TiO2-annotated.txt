@@ -1,0 +1,227 @@
+Fibers and Polymers 2007, Vol.8, No.1, 19-24
+19Effect of UV Irradiation on Ce llulase Degradation of Cellulose 
+Acetate Containing T iO 2
+Jinho Jang * , Hae-Sung Lee, and W on-Seok L yoo1
+School of Advanced Materials and System Engineering, Kumoh National Institute of T echnology , Kumi 730-701, Kor ea
+1School of T extiles, Y eungnam University , Kyungsan 712-749, Kor ea 
+(Received October 26, 2006; Revised Novem ber 27, 2006; Accepted November 28, 2006)
+Abstract: Cellulose acetate (CA) film s containing anatase type titanium  dioxide (T iO 2 ) nanoparticles were prepared by solu-
+tion casting. The film  surf ace was m odified by UV irradiation using a grid type UV irradiator . The UV irradiation causedslight increase in photodegradation of  the CA film s with T iO
+2  compared to the CA f ilm alone. However , CA f ilms irrespec-
+tive of T iO 2 content did not show a signif icant enzym atic degradation by a cellulase f rom  Asper gillus niger  without U V irra-
+diation. Upon UV irradiation, the biodegradability rem arkably improved even in the CA f ilm without T iO 2 . The irradiation of
+CA f ilms decreased both the water contact angle and the degree of  substitution (DS) implying the decrease in acetyl groups ofthe CA film  surf ace due to the photo-scission of the acetyl group and photooxidation, resulting in more f acile biodegradationof  the surf ace film  layer . The substantial enhancem ent in biodegradation of the UV irradiated CA film  containing T iO
+2  was
+attributed to the increased hydrophilicity , lowered DS and zeta potential due to the photoscission and the photooxidationef f ect of UV light. Also the increased surf ace area of the CA film  due to the photocatalysis of T iO
+2  particles may encourage
+the f acile biodegradation.Keywords: Cellulose acetate, T itanium  dioxide, UV , Photodegradation, Biodegradability 
+Intr oduction
+Cellulose acetate is one of the most important derivatives
+of cellulose and several fields of application have been foundincluding modern coating, controlled release, optical filmand membranes as well as the traditional textile field in theforms of fiber , film  and plastic [1,2]. Biodegradability ofcellulose acetate (CA) has been a main issue for the formationof environm entally sustainable polym er m aterials. It hasbeen known that full hydrolysis of cellulose can be achievedby  the concerted action of exoglucanases (cellobiohydrolases,CBH), endoglucanases (EG) and β -glucosidases [3]: Initially
+the EGs attack on cellulose by hydrolyzing random ly theinternal cellulose bonds in amorphous regions providing thenew chain ends accessible to the CBHs liberating cellobiose,and finally β -glucosidases hy droly ze cellobiose into glucose.
+However , the CA of a high DS has inhibited the cellulolyticdegradation by cellulases due to the presence of acety lgroups [3,4]. Cellulose triacetate film  was not biodegradedaerobically [5]. Biodegradation of cellulose esters is dependen ton both DS and acyl chain length [6]. Recently it has beenreported that enzy mes capable of deacetylation promotedCA degradation by  cellulases [7,8]. UV irradiation enhancesthe biodegradability of CA by increasing the surface area ofthe irradiated CA due to the dissolution of low molecularweight water -soluble compounds into liquid phase, possiblyresulting in a higher enzyme accessibility [9]. The latter stu d yactually reported that UV irradiation did not change DSsignificantly and the irradiation caused 23 % weight r e d u c t i o nin the sterilized acetate buf fer solution without cellulases inthe case of CA with 1.7 DS. Also patents reported that thephotochemical sensitivity of CA im proved when titaniumdioxide (anatase T iO
+2 ) was incorporated into a CA matrix,
+which was verified by a tensile test only [10,1 1]. 
+When titanium dioxide is irradiated with UV light, excited
+electron-hole pairs result in the chemical process to degradeorganic compounds [12]. The photocatalytic reaction of T iO
+2
+can be ignited by irradiating with  the UV light of 380 nm  or
+less in order to surpass gap ener gy of 3.2 eV between va le nc eand conduction bands. On UV irradiation, valence electrons(e
+−) of T iO 2  are excited to the conduction band producing
+holes (h+) in the valence bands. The electrons and holes mi g r a t e
+to the T iO 2 surface which can induce oxidation/reduction
+reaction, which can reduce oxidants such as oxy gen (O 2 +
+H+ + e−→ H 2 O ·) in the conduction band, and the holes in the
+valence band can oxidize reductants such as water (H 2 O + h+
+→ OH ·  + H+). Therefore the photocatalyst can degrade many
+or ganic m aterials because of its higher oxidation abilitycompared with the covalent bond ener gies of many or ganicmaterials. The promising application fields of photocatalysiscan be selective or ganic synthesis, water purification, aircleaning, disinfection and photoactive m aterials, and hydro-philic surface generation, etc. [12,13]. UV irradiation alonec an be an ef fective surface modification method for polymericmaterials such as PET , PP and P TT via the photo-scission ofmain chain and the photo-oxidation of surface layer [14-16].The UV irradiation on CA film containing nano-sized T iO
+2
+was carried out to improve the cellulase susceptibility of CA. 
+Materials and Methods
+Chemicals and Enzyme
+Cellulose acetate powder was purchased from  Aldrich
+(USA), and had a molecular weight of 30,000 and acetylcontent of 39.8 %. The DS of the cellulose acetates was ca2.5. Anatase type titanium dioxide (T iO
+2 ) nano-particles of *Corresponding author: jh.jang@kum oh.ac.kr
+20 Fibers and Polymers  2007, Vol.8, No.1 Jinho Jang et al.
+15 nm or less were also obtained from Aldrich. The cellulose(EC 3.2.1.4) from  Asper gillus niger was supplied by TCI
+(Japan). Film Pr eparation
+The CA powder was dissolved with the mixed solvent
+sy stem of methy lene chloride and acetone (9:1) and the CAsolution was cast on 10 × 10 cm stainless steel plate to obtain
+ten samples. The solvent in the cast solution was dried at 4
+oC
+for 6 h. For the T iO 2 -containing CA film , T iO 2  nanoparticles
+were m ixed into the solvent and the suspension wassubsequently agitated with a 40 kHz ultrasonicator (Daihan,Korea) at room temperature for 30 minutes before the powderaddition. The thickness of the prepared CA film s was ca.150 µ m.  
+UV Irradiation and Photodegradation 
+The UV irradiator (UVO cleaner , Jelight) of a maximum
+power of 24 m W/cm
+2 was used to irradiate both sides of a CA
+film. The UV ener gy  (J/cm2), calculated by multiply ing UV
+i rradiation time and UV intensity , was adjusted by prolongingUV irradiation time up to 30 min. The amount of photodegrada-tion was determined by weight loss of the irradiated sam plescompared with the sample without irradiation after vacuumdrying of the three irradiated CA films at 60
+oC for 1 h to
+constant weight.Biological Degradation by Cellulase
+T o one 250-m l  Erlenmeyer flask were added 225 unit of
+cellulose, unless stated otherwise, suspended in 100 m l  of
+0.1 M acetate buf fer (pH 4.8) and the CA films of 25 × 25
+mm  which were weighed to ca 0.189 ± 0.002 g for the CAfilm without T iO
+2 . The flasks were incubated at 28oC with
+120 rev/min in a rotary shaker . During the incubation and intriplicate experim ents, the weight of the film  was periodicallymeasured up to 7 days. The CA film was taken from  the testflask, washed with deionized water , dried for 60 m in in avacuum oven and its dry weight was m easured. Degradationof CA films by  the cellulase was determined gravimetricallybased on % weight loss of the celluase-treated CA sampleswhen compared with the pristine CA film. Evaluation of DS and Zeta Potential
+CA film was dissolved in DMSO-d6, and the DS was
+analyzed by a JNM-A500 high-resolution 
+13C nuclear magnetic
+resonance spectrom eter (V arian unity inova 300, 300 MHzfor 
+1H NMR, B o =7.05T) operated at 125.65 MHz for 13C at
+120oC with 5 m m diam eter tubes containing 1 m l  of sample.
+13C NMR spectra were acquired with the proton broadband
+decoupling with following parameters: spectral width 33.9kHz, scan 72000, repetition time 3.0-s, pulse width 4.75 m s,and data size 32 K. DS was calculated from the equationsuggested by Ishiy aki et al. [9]. In addition the zeta potentials
+of three CA film s were measured and averaged to show thephotooxidation due to the UV irradiation using a ELS 300Delectrophoretic light scattering spectrophotom eter (Otsuka,Japan) with a NELS flat board cell. Evaluation of Surface Energy 
+The contact angles of water and diiodomethane on the CA
+film were measured by  the sessile drop method using a staticgoniometer (AhT ech, Korea). Five measurem ents were averagedto calculate the surface ener gy  of the CA film according tothe method suggested by Owens and W endt [17].A TR and SEM Analysis
+A Jasco FT -IR 300E spectrophotometer with a KRS5 crystal
+was used to analyze the surface functional change of theirradiated CA film. The absorbance difference between theirradiated sam ples and the untreated standard was obtainedby  subtracting the standardized absorbance of the formerfrom that of the latter . A Jeol 6380 scanning electron microscope(Japan) was used to detect microscopic the surface change ofthe irradiated and enzyme-treated sam ples.
+Results and Discussion
+Photolytic Degradation of CA Film Containing T iO 2
+The UV irradiation alone on both sides of CA film  did not
+cause a significant photodegradation on CA film s with orwithout T iO
+2  particles with increase in UV ener gy as shown
+in Figure 1. The UV ener gy  was calculated by  multiplyingUV irradiation time and UV intensity . However , the samplecontaining 0.5 % T iO
+2 showed a slightly higher weight loss
+compared with the pure CA film. The weight loss of theirradiated CA surface can be explained by A TR and 
+13C-
+NMR analy sis. In Figure 2 the surface ester groups of CAvibrates at 1743, 1215 and 1047 cm
+− 1 which correspond the
+stretching of C=O, C-C-O and O-C-C bonds, respectivelya nd the m ethyl of acetate also has a bending peak at 1369cm
+− 1. The vibration of acetate linkage lost their intensity
+with increasing UV irradiation, which strongly suggests thecleavage of acety l groups, resu lting in the d eacety lation of
+the CA in the surface lay er . The T iO
+2 -incorporated sample
+showed the sam e behavior although not shown. As expectedin A TR analy sis, the DS values of the irradiated samples,calculated by  
+13C-NMR, decreased from  2.45 to 2.21 with
+Figur e 1.  Photodegradation of  CA film s.
+UV Irradiation of Cellulose Acetate Containing Titanium Dioxide Fibers and Polymers  2007, Vol.8, No.1 21
+increasing UV ener gy as indicated in Figure 3. Unsurprisinglythe zeta potential of CA films changed from − 6.5 mV to− 2 1 . 6 mV with increase in UV ener gy , suggesting more nega-
+t i v e  surface produced resulting from the photodegradation of
+CA molecules as shown in Figure 4. However , the T iO
+2
+particle did not seem to accelerate the DS and zeta potentialchange significantly indicating the negligible contribution ofphotocatalytic degradation considering 0.5 % T iO
+2 content. 
+Hydr ophilicity and Micr oscopic Change of UV -irradiatedCA Films 
+It has been reported that the UV irradiation can change the
+hydrophobic surface of T iO
+2  layer to a com pletely wettable
+surface [13]. W ater contact angle decreased to 20o for the
+UV -irradiated CA film  with UV ener gy of 31.8 J/cm2 when
+compared with 60o for the pristine CA film in Figure 5. And
+the CA with T iO 2  particles showed slightly  more rapid surface
+change when compared to the pure CA. The reason for theobserved phenomenon may be found from  the surface ener gyc a lculation (T able 1). The total surface ener gy  of CA increasedfrom 61.8 m N/m  for the unirradiated CA, com parable to thereported surface ener gy of 58 ± 3 [18], upto 68.3 mN/m forthe UV -irradiated CA with 31.8 J/cm
+2 due to the photo-
+oxidation, where the polar surface ener gy component increasedand the nonpolar component decreased concomitantly . The
+Figur e 2.  A TR spectra of UV -irradiated CA film s.
+Figur e 3.  Ef f ects of UV ener gy on the DS of  CA film s.
+Figur e 4.  Ef f ects of UV ener gy on the zeta potentials of CA f ilm s.
+Figur e 5.  W ater contact angles of UV -irradiated CA film s.
+Ta b l e  1 .  Surface ener gy (m N/m) of UV -irradiated CA f ilms
+containing T iO 2
+UV
+ener gy
+(J/cm2) Ti O 2  concentration (%)
+00 . 5
+γp γdγtotalγp γdγtotal
+0 21.8 40.1 61.8 23.0 37.7 60.7
+5.3 27.4 36.0 63.4 32.7 31.0 63.8
+10.6 29.6 33.9 63.4 37.7 27.5 65.221.2 42.0 26.2 68.2 42.6 25.1 67.731.8 42.5 25.7 68.3 43.3 24.6 67.8
+γ
+total, γd, γp indicate total surface ener gy , nonpolar and polar com-
+ponents, respectively .
+22 Fibers and Polymers  2007, Vol.8, No.1 Jinho Jang et al.
+Ti O 2 -containing CA film has a lower γtotal, lower γd and
+higher γp when compared with the unfilled CA and the
+former film showed the stronger sensitivity of surfaceener gy  to the UV ener gy  indicating that the photocataly sis ofTi O
+2 contributed to increase the photodegradation (Figure 1 ) .
+After UV -irradiation the CA film s containing T iO 2  revealed
+several lar ge aggregated particles indicating the degradationof CA molecules on the film surface as well as theinhom ogeneous distribution of T iO
+2  particles in the film as
+shown in Figure 6. Cellulase Degradation of CA Film Containing TiO
+2
+The decreased DS in both CA films suggested much faster
+and lar ger biodegradation by  the endoglucanase (EC 3.2.1.4).Figure 7 shows the biodegradation results of the CA filmsafter 7 day incubation. While both unirradiated samples DSof 2.5 did not show significant biodegradation of less than1.4 % while the irradiated sam ples showed a remarkablyincreased biodegradation. Particularly the samples of 0.5 %Ti O
+2 content were readily hydroly zed by  the cellulase compared
+with CA film without T iO 2 , which corresponded to approxi-
+m at ely 50 % increase. Also the ef fect of cellulase concentra-tion was shown in T able 2. The same biodegradational behaviorwas observed at a lower cellulase concentration. The SEMmicrographs of enzym e-treated CA films were presented inFigure 8. The cellulase treatment did not m ake a significantd if ference in the surface morphology of unirradiated samples(Figure 8(a) and (b)) irrespective of the presence of T iO
+2
+particles both producing a spongy-like surface with manypinholes. However , the UV irradiation caused a remarkable
+Figur e 6.  SEM photographs of CA f ilms, unirradiated with (a) 0 % T iO 2 , (b) 0.5 % T iO 2 , UV -irradiated (31.8 J/cm2) with (c) 0 % T iO 2 , and
+(d) 0.5 % T iO 2 .
+Figu r e 7.  Cellulase degradation of UV -irradiated CA films of
+dif ferent T i O 2 content (225 unit/100 m l , 7 days).
+UV Irradiation of Cellulose Acetate Containing Titanium Dioxide Fibers and Polymers  2007, Vol.8, No.1 23
+dif ference in the biodegraded patterns by  cellulase betweenthe sam ples (Figure 8(c) and (d)), even though the weightloss was slightly lar ger in the case of the sample with T iO
+2 .
+While the sam ple without T iO 2 (Figure 8(c)) showed a very
+localized and inhomogeneous enzym e degradation, the CAsample with 0.5% T iO
+2  (Figure 8(d)) suggested a rather
+uniform biodegradation except the T iO 2  particles and moresevere degradation was found in around T iO 2  particles due to
+the more pronounced photocatalysis of CA by the particles.The m ore uniform  degradation and higher biodegradabilityof the UV -irradiated CA with the photocatalyst particles m aybe resulted from the higher accessibility  of the gly cosidicbonds in CA to cellulases afte r the UV irradiation because of
+the lower DS and increased hy drophilicity as well as theincreased surface area, which is beneficially  improved bythe photocataly sis of CA by  the particles.
+Conclusion
+Upon UV irradiation the biodegradability of CA film by
+cellulase was rem arkably im proved when compared withthat of the unirradiated CA. The irradiated CA films decreasedboth water contact angle and DS implying the decrease inthe acetyl groups of the CA film surface due to the photo-scission of the acetyl group and the photooxidation, resultingin more facile biodegradation of the surface film layer .However , when CA film s without T iO
+2 were irradiated with
+the UV light, only  a slight weight loss occurred due to surfacephotodegradation. The substantial enhancem ent in cellulasedegradation of the UV irradiated CA film containing T iO
+2
+attributed to the increased hy drophilicity and the lowered DSand zeta potential due to the photoscission and photooxidationef fect of UV light, coupled with the increased surface area
+Figur e 8.  SEM photographs of  cellulase-treated CA film s, unirradiated w ith (a) 0 % T iO 2 , (b) 0.5 % T iO 2 , UV -irradiated (31.8 J/cm2) with
+(c) 0 % T iO 2 , and (d) 0.5 % T iO 2 .Ta b l e  2 .  Biodegradation of UV -irradiated CA f ilms depending on
+cellulase concentration and UV ener gy (28oC, pH 4.8, 7 days)
+Ti O 2
+concentration
+(%)UV 
+ener gy
+(J/cm2)Cellulase concentration  (unit/100 m l )
+45 135 225
+000 . 6 0 . 5 1 . 4
+5.3 2.2 2.2 2.7
+10.6 2.5 3.9 5.621.2 3.8 5.4 5.831.8 4.7 6.0 6.1
+0.500 . 6 0 . 4 0 . 5
+5.3 5.1 6.2 7.7
+10.6 5.4 6.4 7.921.2 6.9 7.2 8.331.8 6.7 7.0 8.7
+24 Fibers and Polymers  2007, Vol.8, No.1 Jinho Jang et al.
+due to the photocatalysis of the CA film particularlysurrounding the regions of T iO
+2  particles.
+Acknowledgement 
+This work was supported by grant No. R TI04-01-04 from
+t he Regional T echnology Innovation Program of the Ministryof Comm erce, Industry , and Ener gy (MOCIE). 
+Refer ences
+1. K.  J. Edgar , C.  M. Buchanan, J.  S. Debenham , P .  A.
+Rundquist, B.  D. Seiler , M.  C. Shelton, and D. T indall,
+Pr og .  Polym. Sci.,  26 , 1605 (2001).
+2. P . Rustem eyer , Macr omol. Symp.,  208 , 1 (2004). 
+3. C. W . Kan, C. W . M. Y uen, and S. Q. Jiang, Fibers and
+Polymers , 7 , 241(2006).
+ 4. E. T . Reese, Ind. Eng. Chem ., 49, 89 (1957).
+5. C.  M. Buchanan, R.  M. Gardner , and R.  J. Kom arek, J.
+Appl. Polym. Sci.,  47 , 1709 (1993).
+6. R.  J. Kom arek, R.  M .  Gardner , C. M. Buchanan, and S.
+Gedon, J. Appl. Polym. Sci.,  50 ,  1739 (1993).
+7. W . G . Glasser , B. K. McCartney , and G . Sam aranayaka,
+Biotechnol. Pr og.,  10 ,  214 (1994).8. C. Atlaner , B. Saake, and J. Puls, Cellulose,  10 , 85 (2003). 
+9. T . Ishigaki, W . Sugano, M. Ike, H. T aniguchi, T . Goto, and
+M. Fujita, Polym. Degrad. S tabil.,  78 ,  505 (2002).
+10. T .  A. Brodof  and J.  B. Hopkins, Jr ., U.S. Patent,  5491024
+(1996). 
+1 1. M. Itoh, A. Miyazawa, T . Aoe, and O. Ikem oto, U.S.
+Patent,  5804296 (1998).
+12. O. Carp, C.  L. Huism an, and A. Reller , Pr og. Solid. S tate.
+Chem.,  32 , 33 (2004).
+13. S. Karuppucham y , J.  M. Jeong, D.  P . Am anerkar , and H.
+Minoura, V acuum,  80 , 494 (2006).
+14. I. Matieson and R.  H. Bradley , Int. J. Adhesion Adhesives,
+16 , 29 (1996).
+15. J. Jang, S. Eom , and Y . Kim , J. Kor ean Fiber Soc.,  39 , 100
+(2002). 
+16. J. Jang and D. Park, J. Kor ean Soc. Dyers Finishers, 17 , 7
+(2005).
+17. D.  K. Owens  and R.  C. W endt, J. Appl. Polym. Sci.,  13 ,
+1741 (1969). 
+1 8 . M. Quirynen, M. Marechal, H.  J. Busscher , A.  H. W eerkam p,
+J. Arends, P .  L. Darius, and D. S teenber ghe , J. Dent. Res.,
+68 , 796 (1989). 

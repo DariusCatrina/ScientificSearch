@@ -1,0 +1,581 @@
+Mechanism of action of the endo-(1ﬁ3)-a-glucanase MutAp from the
+mycoparasitic fungus Trichoderma harzianum
+Christian H. Gru ¨na, Nick Dekkerb, Alexander A. Nieuwlanda, Frans M. Klisc,
+Johannis P. Kamerlinga, Johannes F.G. Vliegentharta, Frans Hochstenbachb,*
+aBijvoet Center, Department of Bio-Organic Chemistry, Utrecht University, Padualaan 8, 3584 CH Utrecht, The Netherlands
+bDepartment of Medical Biochemistry, Academic Medical Center, University of Amsterdam, Meibergdreef 15, 1105 AZ Amsterdam, The Netherlands
+cSwammerdam Institute for Life Sciences, University of Amsterdam, Nieuwe Achtergracht 166, 1018 WV Amsterdam, The Netherlands
+Received 21 April 2006; revised 25 May 2006; accepted 30 May 2006
+Available online 9 June 2006
+Edited by Stuart Ferguson
+Abstract (1 ﬁ3)-a-Glucanases catalyze the hydrolysis of fun-
+gal cell wall (1 ﬁ3)-a-glucan, and function during cell division
+of yeasts containing this cell wall component or act in mycopar-
+asitic processes. Here, we characterize the mechanism of action
+of the (1 ﬁ3)-a-glucanase MutAp from the mycoparasitic fun-
+gusTrichoderma harzianum . We observed that MutAp releases
+predominantly b-glucose upon hydrolysis of crystalline (1 ﬁ3)-
+a-glucan, indicating inversion of the anomeric conﬁguration.
+After having identiﬁed (1 ﬁ3)-a-glucan tetrasaccharide as the
+minimal substrate for MutAp, we showed that reduced
+(1ﬁ3)-a-glucan pentasaccharide is cleaved into a trisaccharide
+and a reduced disaccharide, demonstrating that MutAp displaysendo-hydrolytic activity. We propose a model for the catalytic
+mechanism of MutAp, whereby the enzyme breaks an intrachain
+glycosidic linkage of (1 ﬁ3)-a-glucan, and then continues its
+hydrolysis towards the non-reducing end by releasing b-glucose
+residues in a processive manner.
+/C2112006 Federation of European Biochemical Societies. Published
+by Elsevier B.V. All rights reserved.
+Keywords: endo -(1ﬁ3)-a-Glucanase; Mutanase; Processivity;
+Inverting enzymes; Mechanism of action; Trichoderma
+harzianum
+1. Introduction
+(1ﬁ3)-a-Glucanases are glycoside hydrolases that catalyze
+the degradation of (1 ﬁ3)-a-glucan, a water-insoluble poly-
+saccharide in the cell wall of many fungi. Both bacteria [1–5]
+and fungi [6–16] are known to produce (1 ﬁ3)-a-glucanases,
+but their respective glucanases are quite distinct in amino acidsequence. Based on amino acid sequence similarities, the fun-
+gal (1 ﬁ3)-a-glucanases have been assigned a separate family
+of glycoside hydrolases, GH-71. Its founding member is the(1ﬁ3)-a-glucanase MutAp from the fungus T. harzianum .
+This mycoparasite has gained special interest because of its
+use in the biocontrol of fungal plant pathogens [17,18] and
+its secretion of a wide range of carbohydrate-active hydrolases,
+such as (1 ﬁ3)-b-glucanases, (1 ﬁ6)-b-glucanases, chitinases,
+and cellulases, as well as MutAp [19].
+MutAp was ﬁrst described by Guggenheim and Haller as an
+enzyme able to hydrolyze mutan, a mainly (1 ﬁ3)-a-glucan-containing extracellular polysaccharide produced by tooth-col-
+onizing streptococci [14]. Later, Fuglsang and colleagues indi-
+cated that the carboxyl-terminal domain of MutAp forms apolysaccharide-binding domain, whereas the amino-terminaldomain represents the actual catalytic domain [8]. Ait-Lahsen
+and colleagues characterized the hydrolytic activity of MutAp
+(denoted AGN13.1 in their report) and showed that glucose isits major hydrolysis product after incubation with crystalline
+(1ﬁ3)-a-glucan [20]. Furthermore, they reported that MutAp
+was unable to hydrolyze periodate-oxidized (1 ﬁ3)-a-glucan,
+leading them to propose that this enzyme possesses an exo-
+hydrolytic activity [20]. Recently, we characterized another
+member of the GH-71 family, the (1 ﬁ3)-a-glucanase Agn1p
+from the ﬁssion yeast Schizosaccharomyces pombe
+[21]. Agn1p
+shares strong amino acid sequence similarities with the cata-
+lytic domain of MutAp but lacks a separate polysaccharide-
+binding domain. Furthermore, it hydrolyzes (1 ﬁ3)-a-glucan
+predominantly into pentasaccharides, rather than glucose res-
+idues [21]. Based on these data, we concluded that Agn1p has
+endo-hydrolytic, rather than exo-hydrolytic, activity.
+Here, we perform an in-depth analysis into the mechanism
+of action of MutAp and address the apparently-contradictory
+results regarding the hydrolytic activities of MutAp andAgn1p. By using crystalline (1 ﬁ3)-a-glucan as well as deﬁned
+(1ﬁ3)-a-glucan oligosaccharides as substrates, we show that
+MutAp exhibits an endo-hydrolytic activity. Furthermore, we
+demonstrate that, after the initial intrachain attack, hydrolysisproceeds in a repetitive manner towards the non-reducing end,
+releasing b-glucose residues as the major digestion product. To
+our knowledge, this is the ﬁrst time a processive mechanismhas been ascribed to a GH-71 enzyme.
+2. Materials and methods
+2.1. MutAp isolation and a-glucan preparations
+MutAp was puriﬁed as described previously [21]and its identity was
+reconﬁrmed by mass spectrometric analysis [21], which detected a total
+of 11 tryptic peptides that matched the MutAp amino acid sequence[8], providing a coverage of 18%. His-tagged Agn1p and a-glucan were
+isolated as described [21]. To obtain water-soluble substrate, crystalline
+a-glucan was partly O-(carboxy)methylated as described by Kiho et al.
+[22], ensuring that the a-glucan was solubilized without aﬀecting en-
+zyme activity. Carboxymethyl groups were hardly observed by nuclear
+magnetic resonance (NMR) spectroscopy. To lower background sig-nals in the colorimetric enzyme assays (see below), the reducing endsof carboxymethylated a-glucan were reduced with excess sodium
+borohydride.
+*Corresponding author. Fax: +31 206915519.
+E-mail address: f.hochstenbach@amc.uva.nl (F. Hochstenbach).
+0014-5793/$32.00 /C2112006 Federation of European Biochemical Societies. Published by Elsevier B.V. All rights reserved.
+doi:10.1016/j.febslet.2006.05.062FEBS Letters 580 (2006) 3780–3786
+To ensure a complete removal of (1 ﬁ4)-linked residues and a com-
+plete oxidation of the terminal residues, crystalline a-glucan prepara-
+tions were incubated with sodium periodate at 4 /C176C in the dark over
+a period of two weeks as described by Gru ¨n et al. [23]. Linkage analysis
+of the reaction product using gas chromatography electron-impactmass spectrometry showed complete removal of 4-substituted glucoseresidues, indicating complete oxidation (data not shown). Sodiumborohydride reduction and mild acid hydrolysis (Smith degradation)were performed as described [23].
+2.2. Enzyme assays
+Activity of Agn1p-his (at a ﬁnal concentration of 0.9 lg/ml) or MutAp
+(0.4lg/ml) on crystalline (1 ﬁ3)-a-glucan (4 mg/ml) was measured in
+50 mM sodium acetate, pH 5.6, at 37 /C176C for 30 min. Subsequently,
+remaining insoluble (1 ﬁ3)-a-glucan was removed by three subsequent
+centrifugation steps, each for 3 min at 10000 ·g, and hydrolysis products
+were analyzed using colorimetric assays with p-hydroxybenzoic acid
+hydrazide (PAHBAH) [24]or glucose oxidase (GOD) [25].T h es a m ea s -
+says were used to monitor the ability of MutAp (0.4 lg/ml) to hydrolyze
+crystalline (1 ﬁ3)-a-glucan that was oxidized, oxidized and then re-
+duced, or Smith-degraded (4 mg/ml each).
+Enzyme assays for high-performance anion-exchange chromatogra-
+phy (HPAEC) analyses were performed in 5 mM sodium azide, 50 mMsodium acetate, pH 5.5, at 37 /C176C. Samples were desalted using Carbog-
+raph SPE solid phase extraction columns (Alltech Associates, Deer-ﬁeld, IL) according to Packer et al. [26].
+To test the eﬀects of inhibitors, 5 mM 1-deoxynojirimycin (Fluka
+31128), N-methyl-1-deoxynojirimycin (Fluka 66570), castanospermine
+(Sigma C-3784), freshly prepared
+DD-glucono-1,5-lactone (Sigma G-
+9766), conduritol- b-epoxide (Biomol Research Laboratories, Philadel-
+phia, PA), N-(5 adamantane-1-yl-methoxy)pentyl-deoxynojirimycin
+[27], or buﬀer was preincubated on ice for 15 min with MutAp
+(0.2lg/ml), glucoamylase (0.5 lg/ml) (Roche 1202332), or glucocere-
+brosidase (0.2 lg/ml) (Genzyme, Cambridge, MA). Remaining MutAp
+activity was measured by incubation with carboxymethylated, then re-duced, (1 ﬁ3)-a-glucan (1 mg/ml) in 50 mM sodium acetate, pH 5.6,
+at 37/C176C for 15 min (ﬁnal inhibitor concentration of 250 lM). Remain-
+ing glucoamylase activity was measured in 50 mM sodium acetate, pH5.6, containing 5 mg/ml of starch treated according to Zulkowsky (Flu-
+ka 85642), at 37 /C176C for 15 min (ﬁnal inhibitor concentration of
+250lM). Hydrolysis products were analyzed using the PAHBAH col-
+orimetric assay [24]. Remaining glucocerebrosidase activity was mea-
+sured with 3.7 mM 4-methylumbelliferyl- b-glucopyranoside in 0.25%
+(w/v) sodium taurocholate, 0.1 M citrate, 0.2 M phosphate buﬀer,pH 5.2, at 37 /C176C for 10 min (ﬁnal inhibitor concentration of
+500lM). The reaction was stopped by the addition of 0.3 M glycine-
+NaOH, pH 10.6, and the amount of liberated 4-methylumbelliferone
+was determined with a LS2 ﬂuorometer (Perkin–Elmer Corp.) at445 nm wavelength. All enzyme reactions occurred in a linear mannerwith the amounts of enzyme used and during the indicated time ofincubation (data not shown).
+2.3.
+1H NMR spectroscopy
+Carboxymethylated a-glucan (0.4 mg/ml) was taken up in 10% deu-
+terium oxide, 5 mM sodium azide, 50 mM sodium acetate, pH 5.5,and incubated at 37 /C176C for 10 min with MutAp (0.4 lg/ml), as indi-
+cated. Mutarotation was accelerated by adding 2.4 M ammonium
+hydroxide. Spectra were recorded at 500.13 MHz on a DRX500 instru-
+ment (Bruker Biospin, Karlsruhe, Germany) at 10 /C176C. Under these con-
+ditions, the proton signal corresponding to water is situated exactlybetween the two anomeric signals of glucose, and, therefore, suppres-sion of the water signal will not disturb signals corresponding to glu-cose. Chemical shifts were referred to internal acetone (
+1H: 2.225 ppm).
+2.4. Preparation of deﬁned (1 ﬁ3)-a-glucan oligosaccharide substrates
+One hundred mg of (1 ﬁ3)-a-glucan from fruiting bodies of Laetip-
+orus sulphureus were resuspended in 98% (vol/vol) formic acid and
+heated at 100 /C176C for 10 min. After evaporation of the acid under a
+stream of nitrogen, hydrolysis was continued by addition of 0.5 M tri-ﬂuoroacetic acid and heating at 100 /C176C for 12 min, after which the
+clear solution was lyophilized.
+Products obtained after acid hydrolysis were separated on a Bio-Gel
+P4 column (1.6 ·96 cm, BioRad, Hercules, CA). The column was
+thermostated at 58 /C176C. Oligosaccharides were eluted with 5 mMammonium bicarbonate at a ﬂow-rate of approximately 5 ml/h and
+the eluent was monitored using a Bischoﬀ Diﬀerential Refractometer
+(Bischoﬀ Chromatography, Leonberg, Germany). Oligosaccharides
+were further puriﬁed to homogeneity by HPAEC. Fractions were de-salted using Carbograph SPE solid phase extraction columns (AlltechAssociates, Deerﬁeld, IL) according to Packer et al. [26].
+2.5. Labeling of reducing ends
+Oligosaccharide samples were dissolved in 0.5 M ammonium
+hydroxide and reduced by adding excess sodium borohydride at20/C176C for 4 h. The excess of borohydride was removed by adding
+10% (vol/vol) acetic acid. Boric acid was removed by co-evaporationfrom methanol under reduced pressure.
+2.6. High-performance anion-exchange chromatography
+The HPAEC system consisted of a Dionex DX 500 apparatus
+equipped with a GP 40 gradient pump and an ED 40 electrochemicaldetector (Dionex Corporation, Sunnyvale, CA). A CarboPac PA1 col-
+umn (9 ·250 mm, Dionex Corporation) at a ﬂow rate of 4.0 ml/min
+was used for semi-preparative puriﬁcation of (1 ﬁ3)-a-glucan oligo-
+saccharides obtained after partial acid hydrolysis of (1 ﬁ3)-a-glucan
+and BioGel P4 separation. For analysis of enzymatic hydrolysis prod-ucts, 30-min linear gradients were applied from 0 to 500 mM sodiumacetate in 100 mM sodium hydroxide using an analytical CarboPac
+PA1 column with dimensions 4.6 ·250 mm at a ﬂow rate of 1.0 ml/
+min. Unseparated (1 ﬁ3)-a-glucan oligosaccharides in their native
+or reduced forms were used as a ladder to calibrate the analyticalcolumn.
+3. Results and discussion
+3.1. MutAp hydrolyzes crystalline (1 ﬁ3)-a-glucan with
+glucose as the main product
+To compare the hydrolysis products of MutAp with those of
+His-tagged Agn1p, we incubated crystalline (1 ﬁ3)-a-glucan
+with puriﬁed MutAp or Agn1p-his and analyzed the reaction
+products by using two diﬀerent colorimetric assays. The assaywith p-hydroxybenzoic acid hydrazide (PAHBAH) was used to
+quantify the amount of soluble reducing ends, whereas that
+with glucose oxidase (GOD) was used to quantify the amount
+of free glucose. For MutAp, both the PAHBAH and GOD as-says gave similar values, indicating that most reducing ends
+(i.e., more than 80%) are produced in the form of glucose.
+By contrast, hardly any glucose was released after incubationwith Agn1p-his ( Fig. 1 ). These data are in complete agreement
+with previous data on the actions of MutAp and Agn1p-his
+[20,21] and demonstrate that, although both enzymes are
+members of family GH-71, their hydrolysis products areremarkably distinct.
+3.2. MutAp hydrolyzes (1 ﬁ3)-a-glycosidic linkages with
+inversion of anomeric conﬁguration
+Enzymatic hydrolysis of carbohydrates involves a nucleo-
+philic substitution reaction at the anomeric carbon and leads
+to either inversion or retention of the anomeric conﬁgurationof the hydrolysis product [28]. To determine the anomeric con-
+ﬁguration of the hydrolysis product of MutAp (i.e., glucose),
+we incubated carboxymethylated (1 ﬁ3)-a-glucan with
+MutAp and analyzed the product by
+1H NMR spectroscopy.
+As a reference, the1H NMR spectrum of an equilibrium mix-
+ture of a-glucopyranose ( a-Glcp) and b-Glcpwas included to
+assign the signals speciﬁc for the anomeric conﬁguration offree glucose ( Fig. 2 A). The
+1H NMR spectrum of untreated
+carboxymethylated (1 ﬁ3)-a-glucan showed only signals
+corresponding to (1 ﬁ3)-linked a-Glcpresidues and signalsC.H. Gru ¨n et al. / FEBS Letters 580 (2006) 3780–3786 3781
+corresponding to free glucose were absent ( Fig. 2 B). This spec-
+trum was essentially identical to that taken immediately afteraddition of MutAp (data not shown). However, after a 10-
+min digestion with MutAp at 37 /C176C, signals corresponding to
+b-Glcp(denoted H-1 b) became apparent, whereas a-Glcpsig-
+nals remained absent ( Fig. 2 C). As an internal control, we cre-
+ated an equilibrium of a-Glcpand b-Glcpby accelerating
+mutarotation through addition of ammonium hydroxide andobserved the appearance of signals corresponding to a-Glcp
+(H-1a) and a decrease in the b-Glcpsignal ( Fig. 2 D). These re-
+sults show that MutAp liberates b-Glcpduring hydrolysis of
+(1ﬁ3)-a-glucan, demonstrating that MutAp acts by inversion
+of the anomeric conﬁguration.
+3.3. A tetrasaccharide is the minimal substrate for MutAp
+To identify its minimal substrate, MutAp was incubated
+with crystalline (1 ﬁ3)-a-glucan. At selected time intervals,
+samples were taken and analyzed by high-performance an-
+ion-exchange chromatography (HPAEC). At t= 0, virtually
+no background peaks were visible, indicating that by ourmethod only hydrolysis products are analyzed (data not
+shown). The HPAEC proﬁle of the sample taken after a 1-h
+incubation showed two peaks, corresponding to G1
+1and
+G3 in the molar ratio of 7.5:1 ( Fig. 3 A, upper panel). Increas-
+ing the incubation period to 16 h led to an increase of these products but not in a major change in their molar ratio
+(Fig. 3 A, lower panel). In addition, we now observed a small
+peak corresponding to G2, whereas peaks corresponding to
+G4 or higher oligosaccharides remained almost absent.
+Together, these data indicate that G3 is a poor substrate forMutAp, whereas G4 is its minimal substrate.0.04 0.08 0.120.00.51.01.5
+0.00V (nmol/min)
+Enzyme (µg)Agn1p-his0.00.51.01.5
+0.00 0.02 0.04 0.06MutAp
+Reducing ends
+GlucoseV (nmol/min)Enzyme (µg)
+Reducing endsGlucose
+Fig. 1. MutAp hydrolyzes crystalline (1 ﬁ3)-a-glucan into glucose
+residues. Crystalline (1 ﬁ3)-a-glucan was incubated with puriﬁed
+MutAp ( Upper ) or Agn1p-his ( Lower ), and release of reducing ends
+was measured by using the PAHBAH assay (closed circles) whereas
+free glucose residues were measured by using the GOD assay (open
+circles).A
+H-1αH-1βH-2β
+5.5 5.0 4.5 4.0 3.5 ppm
+5.5 5.0 4.5 4.0 3.5 ppmB
+*
+C
+*
+5.5 5.0 4.5 4.0 3.5 ppm
+5.5 5.0 4.5 4.0 3.5 ppmD
+*H-1βH-2β
+H-1αH2OH2OH2O
+H-2β
+H-1β
+Fig. 2. MutAp cleaves glycosidic linkages with inversion of anomeric
+conﬁguration. (A) The1H NMR spectrum of glucose shows a-
+anomeric and b-anomeric signals in the ratio of 2:3. (B) Untreated
+carboxymethylated (1 ﬁ3)-a-glucan from Laetiporus sulphureus . (C)
+Reaction mixture after a 10-min incubation of carboxymethylated(1ﬁ3)-a-glucan with MutAp. (D) Same as in C after addition of
+ammonium hydroxide to accelerate mutarotation. /C3marks the
+anomeric signal of the (1 ﬁ3)-a-glucan and H
+2O marks the water
+signal.
+1G1, G2, G3, etc. correspond to the degree of polymerization of
+(1ﬁ3)-a-glucan oligosaccharides; i.e., glucose, nigerose, nigerotriose,
+etc. Similarly, the suﬃx –ol indicates the alditol form of these
+oligosaccharides.3782 C.H. Gru ¨n et al. / FEBS Letters 580 (2006) 3780–3786
+To conﬁrm these ﬁndings more directly, we tested the ability
+of MutAp to use puriﬁed (1 ﬁ3)-a-glucan oligosaccharides as
+a substrate. Puriﬁed disaccharide G2 was not hydrolyzed at all
+by MutAp (data not shown), while puriﬁed G3 was hydrolyzed
+only poorly to G2 and G1 ( Fig. 3 B). By contrast, puriﬁed G4
+was hydrolyzed partially to G3 and G1 after a 1-h incubation,
+while after 16 h G4 was cleaved completely into the major
+products G3 and G1, together with only a small amount ofG2 (Fig. 3 C). Finally, puriﬁed G5 was hydrolyzed eﬃciently
+after a 1-h incubation to the main hydrolysis products G3
+and G1, while a small amount of the intermediate product
+G4 was also formed, as well as some G2 ( Fig. 3 D, upper pa-
+nel). After extending the incubation period to 16 h, G5 and
+G4 were completely digested ( Fig. 3 D, lower panel), resulting
+in a hydrolysis proﬁle that is similar to that of puriﬁed G4(Fig. 3 C and D, compare lower panels). From these data, we
+conclude that MutAp uses G4 eﬃciently as a minimal
+substrate.
+3.4. MutAp shows endo-hydrolytic activity
+To determine whether MutAp starts hydrolysis of its
+substrate (1 ﬁ3)-a-glucan from the non-reducing end
+(exo-hydrolytic activity) or at an intrachain glycosidic linkage
+(endo-hydrolytic activity), we explored three diﬀerent ap-
+proaches.
+First, we tested MutAp activity in the presence of the
+exo-glycosidase inhibitors deoxynojirimycin, N-methyl deoxy-
+nojirimycin, castanospermine,
+DD-glucono-1,5-lactone, con-duritol- b-epoxide, or N-(5-adamantane-1-yl-methoxy)pentyl-
+deoxynojirimycin [27]. None of these inhibitors aﬀected the
+activity of MutAp ( Fig. 4 A), whereas the activities of the
+exo-type control glycosidases glucoamylase ( Fig. 4 B) and glu-
+cocerebrosidase ( Fig. 4 C) strongly decreased under similar
+reaction conditions. These results are consistent with our ear-
+lier ﬁnding that these types of inhibitors do not aﬀect the activ-
+ity of the endo-(1ﬁ3)-a-glucanase Agn1p-his [21], suggesting
+that MutAp also lacks exo-hydrolytic activity.
+Second, we studied the ability of MutAp to hydrolyze
+(1ﬁ3)-a-glucan, whose non-reducing and reducing ends had
+been modiﬁed to contain aldehyde or hydroxyl groups, by usingperiodate oxidation or periodate oxidation followed by boro-
+hydride reduction, respectively. These treatments should render
+the (1 ﬁ3)-a-glucan inaccessible to exo-type glycosidases,
+whereas endo-type glycosidases should remain active because
+their internal site of initial attack is located away from the mod-
+iﬁed ends [12,15] . Periodate oxidation alone reduced MutAp
+activity to /C2440% of control values ( Fig. 5 A, compare lanes 1
+and 4). Rather than the partial inhibition observed here, a pre-
+vious report described a complete inhibition of MutAp activity
+following periodate oxidation of (1 ﬁ3)-a-glucan, leading the
+authors to propose an exo-hydrolytic activity [20]. An alterna-
+tive explanation of the observed decrease in MutAp activity is a
+potential inactivation and immobilization of MutAp caused bya reaction of the introduced aldehydes with MutAp through
+primary amines in its amino terminus or 19 lysine residues,
+forming Schiﬀ bases [29]. Formation of undesirable Schiﬀ basesG1
+G2G3t = 1 h
+0 5 10 15 20 25 30
+Volume (ml)PAD response
+t = 16 hG1
+G3A(1    3)- α-glucan G3
+G3G1
+G1
+G2G3
+t = 1 h
+t = 16 h***
+*B
+0 5 10 15 20 25 30
+t = 1 hC
+G3
+G3G1
+*
+G1
+G2G4
+*G4
+0 5 10 15 20 25 30t = 1 h
+t = 16 h t = 16 hD
+G3G1
+G2 G4G5
+G3G1
+G2*
+*G5
+0 5 10 15 20 25 30PAD response
+PAD responsePAD responseVolume (ml)
+Volume (ml) Volume (ml)
+Fig. 3. (1 ﬁ3)-a-Glucan tetrasaccharide is the minimal substrate for MutAp. (A) Incubation of crystalline (1 ﬁ3)-a-glucan with MutAp releases
+glucose as the main hydrolysis product. (B) G3 is hydrolyzed only slowly by MutAp, whereas (C) G4 and (D) G5 are hydrolyzed readily into G3 andG1. HPAEC analysis of hydrolysis products taken after the speciﬁed time intervals. /C3indicates the injection peak and /C3/C3indicates an unknown
+contaminant.C.H. Gru ¨n et al. / FEBS Letters 580 (2006) 3780–3786 3783
+can be prevented by carrying out a borohydride reduction on
+periodate-treated (1 ﬁ3)-a-glucan, converting the aldehyde
+groups to hydroxyl groups but leaving the ends modiﬁed andtherefore inaccessible to exo-type glycanases. This sequential
+treatment of (1 ﬁ3)-a-glucan with periodate and borohydride
+did not inhibit enzyme activity at all ( Fig. 5 A, lane 2), suggest-
+ing that MutAp has endo-hydrolytic activity. As a positive con-
+trol, we treated oxidized, then reduced, (1 ﬁ3)-a-glucan with
+acid (Smith degradation) to completely remove the modiﬁedends, and observed control levels of enzyme activity ( Fig. 5 A,
+compare lanes 3 and 4).
+Third, to analyze the hydrolysis activity of MutAp directly,
+we labeled puriﬁed (1 ﬁ3)-a-glucan pentasaccharide at its
+reducing end by means of reduction, incubated the labeled sub-
+strate with MutAp, and analyzed the hydrolysis products.
+HPAEC analysis showed that G5-ol (in eﬀect a tetrasaccharidedue to the ring opening of the reducing residue) eluted as a sin-
+gle peak (data not shown). After a 1-h incubation, hydrolysis
+products corresponding to G2-ol and G3 were formed(Fig. 5 B, upper panel), whereas after 16 h G5-ol was digested
+completely into G3 and G2-ol, together with some G1 and
+G2 (Fig. 5 B, lower panel). As a control, G4-ol also was puri-
+ﬁed and incubated with MutAp, and, as expected from ourabove ﬁndings ( Fig. 3 C), it hydrolyzed slowly and proved a
+poor substrate for MutAp (data not shown). Together, ourresults show that G5-ol is hydrolyzed primarily into G3 and
+G2-ol, demonstrating that MutAp hydrolyzes intrachain
+glycosidic linkages. Fully consistent with this ﬁnding is theabsence of G4-ol from the G5-ol hydrolysis products, clearly
+demonstrating a lack of exo-hydrolytic activity. In summary,
+we conclude that MutAp can be characterized as an endo-
+hydrolytic enzyme.
+3.5. Model for the catalytic mechanism of MutAp
+Despite its endo-hydrolytic mechanism of action, MutAp
+produces mainly glucose moieties rather than a series of oligo-saccharides of diﬀerent length. This ﬁnding suggests that
+MutAp possesses processivity, the process by which an enzyme
+remains attached to its substrate after the initial attack, trans-ferring it along its active site (sliding) for multiple rounds ofhydrolysis [30,31] . Processivity is common among b-amylases,
+exo-glycosidases which bind (1 ﬁ4)-a-glucan and liberate
+multiple b-maltose units [32]. Also a number of endo-glycosi-
+dases, such as a-amylases [33–36] and some endo-polygalactu-
+ronases from Aspergillus niger [37–40] , display processivity
+following the initial random intrachain attack. Regarding theprocessive mechanism of MutAp, we propose a model in which
+the enzyme ﬁrst binds to its substrate ( Fig. 6 , step 1) and
+hydrolyzes an intrachain glycosidic linkage. Subsequently,the piece with the original reducing end dissociates and isA
+B
+020406080100120140
+DNJ NMDNJ CST GLN CBE AMPDNJ020406080100120140
+DNJ NMDNJ CST GLN CBE020406080100120140
+DNJ NMDNJ CST GLN CBEActivity (%)
+CAMPDNJAMPDNJ
+HsGCAnGAMutApActivity (%) Activity (%)
+Fig. 4. MutAp activity is not inhibited by exo-glycosidase inhibitors.
+Eﬀects of the exo-glycosidase inhibitors 1-deoxynojirimycin (DNJ),
+N-methyl-1-deoxynojirimycin (NMDNJ), castanospermine (CST),
+DD-glucono-1,5-lactone (GLN), conduritol- b-epoxide (CBE), or N-(5
+adamantane-1-yl-methoxy)pentyl-deoxynojirimycin (AMPDNJ) onthe activities of (A) MutAp, or the exo-glycosidases (B) glucoamylase
+from Aspergillus nidulans (AnGA) or (C) recombinant human gluco-
+cerebrosidase ( HsGC).G5-ol
+G2-olG5-ol
+t=1h
+0 5 10 15 20 25 30
+Volume (ml)t=1 6hG3G1
+G2G3G2-ol
+*
+*020406080100120
+123 4Relative activity (%)A
+BReducing ends
+Glucose
+Ox Ox/red Smith UntreatedPAD response
+Fig. 5. MutAp possesses endo-hydrolytic activity. (A) MutAp enzyme
+activity is not aﬀected by modiﬁcation of its ends. Activity levels arethe means ± S.D. of percentages relative to the hydrolysis of untreated(1ﬁ3)-a-glucan in three independent experiments. Substrates are
+crystalline (1 ﬁ3)-a-glucans that were: (1) oxidized; (2) oxidized and
+then reduced; (3) Smith-degraded; or (4) untreated. The assays are thePAHBAH (black bars) or GOD (grey bars) assays. (B) G5-ol ishydrolyzed readily into G2-ol and G3. Note that no G4-ol is formed. /C3
+indicates the injection peak.3784 C.H. Gru ¨n et al. / FEBS Letters 580 (2006) 3780–3786
+released into the medium, whereas the other piece remains
+bound to the substrate binding site ( Fig. 6 , step 2). The re-
+tained piece then slides through the catalytic site for repetitiveattack ( Fig. 6 , step 3), releasing a single glucose moiety in each
+round of hydrolysis. In our model, hydrolysis continues until
+the substrate is shortened to a trisaccharide ( Fig. 6 , step 4),
+which will be released ( Fig. 6 , step 5). This model is in com-
+plete agreement with our results on the digestion pattern of de-
+ﬁned (1 ﬁ3)-a-glucan oligosaccharide substrates ( Fig. 3 ).
+These results showed that in G4 the glycosidic linkage next
+to the reducing residue is hydrolyzed by MutAp. The same
+holds for G5 as a substrate, since the amount of G2 formedafter a short period of incubation is very small compared toglucose (G1) formation. Also G4 is not released into the med-
+ium in large quantities, indicating that the tetrasaccharide is
+still bound to the enzyme and is hydrolyzed into G1 and G3.
+Although MutAp and Agn1p are both endo-(1ﬁ3)-a-glu-
+canases, their physiological roles are quite distinct. MutAp is
+secreted by a mycoparasitic fungus and its processive mecha-nism may ﬁnd its physiological signiﬁcance in an eﬀective
+digestion of fungal cell-wall (1 ﬁ3)-a-glucan material, releas-
+ing glucose moieties, which may be used as a carbon and en-ergy source. By contrast, Agn1p is secreted during a speciﬁc
+stage in the cell division cycle of a unicellular fungus (a yeast)
+to hydrolyze a speciﬁc region of the mother cell wall overlayingthe division septum, called the septum edging, and to facilitatethe physical separation of daughter cells [21]. Agn1p lacks pro-
+cessivity and produces oligosaccharides with a pentasaccharide
+as the main hydrolysis product. This mechanism is consistentwith its physiological role of localized cleavage of cell-wall
+(1ﬁ3)-a-glucan rather than complete hydrolysis of this struc-
+tural polysaccharide, which might compromise the structuralintegrity of the dividing cell. Interestingly, Agn1p lacks a poly-
+saccharide-binding domain, whereas MutAp contains such a
+domain at its carboxyl terminus. We hypothesize that the poly-saccharide-binding domain in MutAp may be involved in pro-
+cessivity, either by partially disrupting the crystalline structure
+of (1ﬁ3)-a-glucan and thereby making it more accessible to
+hydrolysis, or by assisting in retention of (1 ﬁ3)-a-glucan
+after each round of hydrolysis.Acknowledgements: The authors thank Dr. P.J. Erbel for valuable dis-
+cussion regarding the NMR experiments and Dr. D. Speijer for peptide
+mass spectrometry. This work was ﬁnancially supported by grants
+NWO-ALW/CW 805.49.006 and NWO-CW 99006 of the NetherlandsOrganization for Scientiﬁc Research.
+References
+[1] Matsuda, S., Kawanami, Y., Takeda, H., Ooi, T. and Kinoshita,
+S. (1997) Puriﬁcation and properties of mutanase from Bacillus
+circulans . J. Ferm. Bioeng. 83, 593–595.
+[2] Simonson, L.G., Gaugler, R.W., Lamberts, B.L. and Reiher,
+D.A. (1982) Puriﬁcation and properties of endo-1,3- a-DD-glucan-
+ase from Pseudomonas . Biochim. Biophys. Acta 715, 189–195.
+[3] Ebisu, S., Kato, K., Kotani, S. and Misaki, A. (1975) Isolation
+and puriﬁcation of Flavobacterium a-1,3-glucanase-hydrolyzing,
+insoluble, sticky glucan of Streptococcus mutans . J. Bacteriol. 124,
+1489–1501.
+[4] Fleet, G.H. and Phaﬀ, H.J. (1973) Eﬀect of glucanases of yeast
+and bacterial origin on cell walls of Schizosaccharomyces species
+in: Yeast, Mould, and Plant Protoplasts (Villanueva, J.A., Ed.),pp. 33–59, Academic Press, New York.
+[5] Bacon, J.S.D., Jones, D., Farmer, V.C. and Webley, D.M. (1968)
+The occurrence of a(1-3)glucan in Cryptococcus ,Schizosaccharo-
+myces andPolyporus species, and its hydrolysis by a Streptomyces
+culture ﬁltrate lysing cell walls of Cryptococcus . Biochim.
+Biophys. Acta 158, 313–315.
+[6] Sanz, L., Montero, M., Grondona, I., Vizcaı ´no, J.A., Llobell, A.,
+Hermosa, R. and Monte, E. (2004) Cell wall-degrading isoenzymeproﬁles of Trichoderma biocontrol strains show correlation with
+rDNA taxonomic species. Curr. Genet. 46, 277–286.
+[7] Wei, H., Scherer, M., Singh, A., Liese, R. and Fischer, R. (2001)
+Aspergillus nidulans a-1,3 glucanase (mutanase), mutA , is ex-
+pressed during sexual development and mobilizes mutan. FungalGenet. Biol. 34, 217–227.
+[8] Fuglsang, C.C., Berka, R.M., Wahleithner, J.A., Kauppinen, S.,
+Shuster, J.R., Rasmussen, G., Halkier, T., Dalbøge, H. and
+Henrissat, B. (2000) Biochemical analysis of recombinant fungal
+mutanases. A new family of a1,3-glucanases with novel carbohy-
+drate-binding domains. J. Biol. Chem. 275, 2009–2018.
+[9] San-Blas, G., Moreno, B., Calcagno, A.M. and San-Blas, F.
+(1998) Lysis of Paracoccidioides brasiliensis byZygosporium
+geminatum . Med. Mycol. 36, 75–79.
+[10] Reyes, F., Lahoz, R. and Vazquez, C. (1980) Lytic enzymes in the
+autolysis of Schizophyllum commune with special reference to 1,3-
+a-glucanase. Can. J. Microbiol. 26, 1120–1125.
+[11] Walker, G.J. and Hare, M.D. (1979) Hydrolysis of (1 ﬁ3)-a-
+DD-
+glucosidic linkages in oligosaccharides and polysaccharides byCladosporium resinae exo-(1 ﬁ3)-a-
+DD-glucanase. Carbohydr.
+Res. 77, 289–292.
+[12] Walker, G.J. and Hare, M.D. (1977) Metabolism of the polysac-
+charides of human dental plaque. Part II. Puriﬁcation andproperties of Cladosporium resinae (1ﬁ3)-a-
+DD-glucanase, and
+the enzymic hydrolysis of glucans synthesised by extracellular DD-
+glucosyltransferases of oral streptococci. Carbohydr. Res. 58,415–432.
+[13] Meyer, M.T. and Phaﬀ, H.J. (1977) Survey for a-(1ﬁ3)-
+glucanase activity among yeasts. J. Bacteriol. 131, 702–706.
+[14] Guggenheim, B. and Haller, R. (1972) Puriﬁcation and properties
+of an a-(1ﬁ3) glucanohydrolase from Trichoderma harzianum .J .
+Dent. Res. 51, 394–402.
+[15] Hasegawa, S. and Nordin, J.H. (1969) Enzymes that hydrolyze
+fungal cell wall polysaccharides. I. Puriﬁcation and properties of
+an endo- a-
+DD-(1ﬁ3)-glucanase from Trichoderma viride . J. Biol.
+Chem. 244, 5460–5470.
+[16] Hasegawa, S., Kirkwood, S. and Nordin, J.H. (1966) An a-1,3-
+glucanase from a fungal source. Chem. Ind. 25, 1033.
+[17] Harman, G.E., Howell, C.R., Viterbo, A., Chet, I. and Lorito, M.
+(2004) Trichoderma species—opportunistic, avirulent plant sym-
+bionts. Nat. Rev. Microbiol. 2, 43–56.
+[18] Viterbo, A., Ramot, O., Chernin, L. and Chet, I. (2002)
+Signiﬁcance of lytic enzymes from Trichoderma spp. in the
+biocontrol of fungal plant pathogens. Antonie van Leeuwenhoek81, 549–556.[
+[[
+n2
+3 45[[
+n
+1
+= reducing Glc = catalytic site[[
+[
+[
+n
+[
+m[
+m [
+m[
+n[
+n-1
+Fig. 6. Proposed catalytic mechanism of the endo-( 1ﬁ3)-a-glucanase
+MutAp from T. harzianum . MutAp (1) binds to the substrate,
+hydrolyzes a random internal glycosidic linkage, and (2) releases apiece of the substrate. The other piece slides across the catalytic centerof the enzyme, (3) releasing a b-glucose moiety in every round of
+hydrolysis. This process continues until (4) only a trisaccharideremains, which (5) is released from the enzyme.C.H. Gru ¨n et al. / FEBS Letters 580 (2006) 3780–3786 3785
+[19] Sanz, L., Montero, M., Redondo, J., Llobell, A. and Monte, E.
+(2005) Expression of an a-1,3-glucanase during mycoparasitic
+interaction of Trichoderma asperellum . FEBS J. 272, 493–499.
+[20] Ait-Lahsen, H., Soler, A., Rey, M., De La Cruz, J., Monte, E. and
+Llobell, A. (2001) An antifungal exo- a-1,3-glucanase (AGN13.1)
+from the biocontrol fungus Trichoderma harzianum . Appl. Envi-
+ron. Microbiol. 67, 5833–5839.
+[21] Dekker, N., Speijer, D., Gru ¨n, C.H., van den Berg, M., de Haan,
+A. and Hochstenbach, F. (2004) Role of the a-glucanase Agn1p in
+ﬁssion-yeast cell separation. Mol. Biol. Cell. 15, 3903–3914.
+[22] Kiho, T., Yoshida, I., Nagai, K., Ukai, S. and Hara, C. (1989)
+(1ﬁ3)-a-DD-Glucan from an alkaline extract of Agrocybe cylindr-
+acea, and antitumor activity of its O-(carboxymethyl)ated deriv-
+atives. Carbohydr. Res. 189, 273–279.
+[23] Gru ¨n, C.H., Hochstenbach, F., Humbel, B.M., Verkleij, A.J.,
+Sietsma, J.H., Klis, F.M., Kamerling, J.P. and Vliegenthart,
+J.F.G. (2005) The structure of cell wall a-glucan from ﬁssion
+yeast. Glycobiology 15, 245–257.
+[24] Lever, M. (1972) A new reaction for colorimetric determination of
+carbohydrates. Anal. Biochem. 47, 273–279.
+[25] Okuda, J., Miwa, I., Maeda, K. and Tokui, K. (1977) Rapid and
+sensitive, colorimetric determination of the anomers of DD-glucose
+with DD-glucose oxidase, peroxidase, and mutarotase. Carbohydr.
+Res. 58, 267–270.
+[26] Packer, N.H., Lawson, M.A., Jardine, D.R. and Redmond, J.W.
+(1998) A general approach to desalting oligosaccharides releasedfrom glycoproteins. Glycocon. J. 15, 737–747.
+[27] Overkleeft, H.S., Renkema, G.H., Neele, J., Vianello, P., Hung,
+I.O., Strijland, A., van der Burg, A.M., Koomen, G.-J., Pandit,
+U.K. and Aerts, J.M.F.G. (1998) Generation of speciﬁc deoxy-nojirimycin-type inhibitors of the non-lysosomal glucosylceram-idase. J. Biol. Chem. 273, 26522–26527.
+[28] Sinnott, M.L. (1990) Catalytic mechanisms of enzymic glycosyl
+transfer. Chem. Rev. 90, 1171–1202.[29] Peng, L., Calton, G.J. and Burnett, J.W. (1986) Stability of
+antibody attachment in immunosorbent chromatography. En-
+zyme Microb. Technol. 8, 681–685.
+[30] Von Hippel, P.H., Fairﬁeld, F.R. and Dolejsi, M.K. (1994) On the
+processivity of polymerases. Ann. N.Y. Acad. Sci. 726, 118–131.
+[31] Breyer, W.A. and Matthews, B.W. (2001) A structural basis for
+processivity. Protein Sci. 10, 1699–1711.
+[32] Nakatani, H. (1997) Monte Carlo simulation of multiple attack
+mechanism of b-amylase-catalyzed reaction. Biopolymers 42,
+831–836.
+[33] Robyt, J.F. and French, D. (1970) Multiple attack and polarity of
+action of porcine pancreatic a-amylase. Arch. Biochem. Biophys.
+138, 662–670.
+[34] Allen, J.D. and Thoma, J.A. (1978) Repetitive attack by Asper-
+gillus oryzae a-amylase. Carbohydr. Res. 61, 377–385.
+[35] French, D. (1981) Amylases: enzymatic mechanisms. Basic Life
+Sci. 18, 151–182.
+[36] Nakatani, H. (1996) Monte Carlo simulation of multiple attack
+mechanism of a-amylase. Biopolymers 39, 665–669.
+[37] Page `s, S., Kester, H.C.M., Visser, J. and Benen, J.A.E. (2001)
+Changing a single amino acid residue switches processive andnon-processive behavior of Aspergillus niger endopolygalacturo-
+nase I and II. J. Biol. Chem. 276, 33652–33656.
+[38] Benen, J.A.E., Kester, H.C.M. and Visser, J. (1999) Kinetic
+characterization of Aspergillus niger N400 endopolygalacturon-
+ases I, II and C. Eur. J. Biochem. 259, 577–585.
+[39] Par ˇenicova ´, L., Benen, J.A.E., Kester, H.C.M. and Visser, J.
+(2000) pgaA and pgaB encode two constitutively expressed
+endopolygalacturonases of Aspergillus niger . Biochem. J. 345,
+637–644.
+[40] Par ˇenicova ´, L., Kester, H.C.M., Benen, J.A.E. and Visser, J.
+(2000) Characterization of a novel endopolygalacturonase fromAspergillus niger with unique kinetic properties. FEBS Lett. 467,
+333–336.3786 C.H. Gru ¨n et al. / FEBS Letters 580 (2006) 3780–3786

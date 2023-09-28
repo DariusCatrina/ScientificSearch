@@ -1,0 +1,597 @@
+Contents lists available at ScienceDirect
+Carbohydrate Polymers
+journal homepage: www.elsevier.com/locate/carbpol
+Enhanced enzymatic hydrolysis of cellulose from waste paper ﬁbers by
+cationic polymers addition
+Hailong Yua,⁎, Yuqin Xua, Yonghao Nib, Qiong Wua, Shiwei Liua,L uL ia, Shitao Yua,⁎, Zhe Jia
+aCollege of Chemical Engineering, Qingdao University of Science and Technology, Qingdao 266042, China
+bLimerick Pulp and Paper Centre, University of New Brunswick, Fredericton, New Brunswick, E3B 5A3, Canada
+ARTICLE INFO
+Keywords:
+Waste paper ﬁbers
+Cationic polymersEnzymatic hydrolysisCellulase adsorptionHigh solids concentrationABSTRACT
+Cationic polymers (cationic polyacrylamide (CPAM), polyethyleneimine (PEI) or cationic starch (CS)) were used
+to enhance the enzymatic hydrolysis of waste paper ﬁbers (WPFs) at 15% (w/w) solids concentration. Results
+showed that 0.05 g/L PEI, CPAM and CS resulted in 72.5%, 65.9% and 59.7% conversion of WPFs, increased by
+15.4%, 8.8% and 2.6%, respectively, compared with control (57.1%). PEI was shown to have a larger e ﬀect than
+CPAM and CS, and generate a total sugar concentration of 73.9 g/L. Improvement in hydrolysis with cationic
+polymer addition is attributed to increased cellulase adsorption on cellulose through electrostatic attraction,
+rather than enhancement of cellulase activity. A patching/ bridging mechanism of cationic polymer enhance-
+ment of cellulose adsorption in cellulose is hypothesized. PEI exhibited maximum cellulose binding for polymersexamined and appears to promote binding through a patching mechanism. CPAM and CS adsorbed a relatively
+low cellulase through bridging mechanism. In addition, enzyme loading could be reduced by addition of cationic
+polymers to obtain the same glucose yield, especially when PEI was used.
+1. Introduction
+Production of bio-fuels (ethanol, butanol, etc.) from lignocellulosic
+materials is an important way to resolve the current energy and eco-
+logical crisis ( Bharathiraja et al., 2017; Gao, Xiang, Chen, Yang, & Yang,
+2015 ;Govumoni, Koti, Kothagouni, Venkateshwar, & Linga, 2013 ;
+Singh, Krishna, Kumar, & Bhaskar, 2016 ;Tan & Lee, 2015). Lig-
+nocellulose is composed mainly of cellulose, hemicelluloses and lignin.Enzymatic hydrolysis of cellulose and hemicelluloses into fermentable
+sugars is an important part of lignocellulose bioconversion into bio-
+fuels. Waste paper ﬁbers (WPFs) are becoming a prospective raw ma-
+terial for producing fermentable sugars by enzymatic hydrolysis be-cause they have high cellulose content, low cost and are readily
+available ( Brummer et al., 2014 ;Dubey, Gupta, Garg, & Naithani, 2012;
+Subhedar, Babu, & Gogate, 2015 ). It has been regarded as bene ﬁcial
+from both a resource and an environmental perspective to produce
+sugars by enzymatic hydrolysis of their cellulose fractions ( Adu, Jolly,
+& Thakur, 2018 ;Subhedar et al., 2015 ).
+Studies of enzymatic hydrolysis of lignocellulose have mainly fo-
+cused on operating at low substrate concentration ( ≤10% (w/w)) ( Sun,
+Sun, Cao, & Sun, 2016 ;Yang et al., 2015; Yu et al., 2015 ). However, the
+low sugar concentration after enzymatic hydrolysis is one of the bot-tlenecks for commercialization of biofuels due to the low ethanolconcentration in the fermentation broth, which increases the energy
+needed for biofuel recovery ( Ramos et al., 2015 ;Zhao, Dong, Chen, &
+Liu, 2013). Many researchers have indicated that carrying out enzy-matic hydrolysis at high solids loadings will be necessary to achieve
+high sugar concentrations ( Mohamed, Ghazi, M Nejib, Mohamed, &
+Issam, 2016 ;Szabo & Csiszar, 2017 ). In theory, higher sugar con-
+centration translates into higher ethanol concentration, and thus makes
+the bio-fuels production more economically feasible by reducing energy
+use associated with the distillation process ( Kristensen, Felby, &
+Jørgensen, 2009). In addition, less process water produces less wastewater ( Hodge, Karim, Schell, & Mcmillan, 2008 ). Unfortunately, enzy-
+matic hydrolysis at high solids loadings is facing technical problems.Lacking of free water is one of the major challenges during enzymatic
+hydrolysis. Water is important for the interaction between lig-
+nocellulose and enzymes since it is directly correlated with rheology,
+that is, to viscosity and shear rate during mixing ( Hodge et al., 2008).
+Thus, lower water content can cause increased mass transfer limitationsbetween reactants, products and enzymes with high solids concentra-
+tion during enzymatic hydrolysis ( Zhao et al., 2013).
+Use of additives such as non-ionic surfactants ( Li, Sun, Ge, & Zhang,
+2016 ) and polymers ( Wang, Liu, Yang, Chen, & Ni, 2015; Yang et al.,
+2015 ) can be an e ﬃcient way to improve enzymatic hydrolysis. Several
+additives have been screened for e ﬀectiveness in enhancing cellulose
+https://doi.org/10.1016/j.carbpol.2018.07.079
+Received 4 April 2018; Received in revised form 21 July 2018; Accepted 25 July 2018⁎Corresponding authors.
+E-mail addresses: yuhailong860220@163.com (H. Yu), yushitaoqust@126.com (S. Yu).Carbohydrate Polymers 200 (2018) 248–254
+Available online 26 July 2018
+0144-8617/ © 2018 Elsevier Ltd. All rights reserved.
+T
+conversion, including cationic and nonionic polymers ( Akimkulova,
+Zhou, Zhao, & Liu, 2016; Strobel, Pfei ﬀer, Blanch, & Clark, 2016 ). Non-
+ionic surfactants are a class of well-known additives for improving the
+enzymatic hydrolysis of lignocellulosic materials. Chen et al. reported
+that a nonionic surfactant of Tween-80 could enhance the enzymatic
+hydrolysis of ﬁnes from recycled paper mill waste rejects which had a
+high mineral content ( Chen, Zhao, & Xia, 2008 ;Min, Bhayani,
+Jampana, & Ramarao, 2015 ). The proposed mechanism of action of
+Tween-80 in enhancing hydrolysis of paper waste is alleviation of thenon-productive binding of enzyme with the higher a ﬃnity on minerals
+(Min et al., 2015 ). Nonionic additives could also improve the enzymatic
+hydrolysis of materials that have high lignin content through reduction
+of non-productive adsorption of cellulose onto lignin. Lou et al. re-
+ported that polyethylene glycol (AL-PEG1000) could enhance the en-
+zymatic hydrolysis of a mixture of the cellulose (Whatman ﬁlter paper)
+and lignin with the ratio of 7:3 ( Lou et al., 2013). Sipos et al. compared
+the enzymatic hydrolysis of di ﬀerent lignocelluloses by addition of
+nonionic additives, such as poly (ethylene glycol) (PEG) ( Sipos et al.,
+2011 ). They found that the degree of enhancement di ﬀered among the
+substrates, being highest on steam pretreated spruce (33.6% of lignincontent) with no e ﬀect for steam pretreated corn stover (20.3% lignin
+content). In addition, recent study showed that the nonionic surfactantsdid not improve the enzymatic hydrolysis e ﬃciency at 0 and 100 rpm
+but could enhance the enzymatic hydrolysis signi ﬁcantly at high agi-
+tation rate (200 and 250 rpm) ( Lou et al., 2018).
+In this study, waste paper ﬁbers had a relative low lignin content
+(18.8%), and the stirring rate was 100 rpm. At high solid concentration,
+it is di ﬃcult to improve the mass transfer by using high agitation rates.
+In addition, both of cellulase and cellulose have a negative charge thatis expected to in repulsion and decreasing a ﬃnity between cellulose
+and cellulase enzymes ( Wang et al., 2015 ). Therefore, cationic polymers
+have been recognized as a potential class of additives for improving the
+enzymatic hydrolysis of cellulose ﬁbers. Lin et al. reported that the
+cationic surfactant cetyltrimethylammoniumbromide (C16TAB) in-
+creased the enzymatic hydrolysis of avicel linearly from 42.1 to 61.4%
+with increasing surfactant concentration ( Lin et al., 2016). In the work
+of Guan et al., the digestibilities were signi ﬁcantly improved showing
+20% increase for glucan, and 10% for xylan with addition of cationic
+polyacrylamide (CPAM) or poly-diallyl-dimethyl-ammonium chloride
+(PDADMAC) ( Guan, Haynes, & Lee, 2014 ). Cationic polyelectrolytes
+such as cationic polyacrylamide (CPAM), polyethyleneimine (PEI), andcationic starch (CS) possess a positive charge and have been widely
+used in papermaking as e ﬀective retention aids based on their charge
+neutralization mechanism ( Gaudreault, Cesare, Ven, & Weitz, 2015 ;Li
+et al., 2016). Taking this technical advantage, cationic polymers addi-
+tion are expected to improve enzymatic hydrolysis of cellulose, espe-cially
+for high solids concentrations.
+In WPFs, the main component is cellulose, which is hydrophilic.
+During pulping process, the oxidation bleaching process was carried
+out, where the hydroxyl ( −OH) and reducing end of cellulose and
+carbonyl of lignin will be oxidized to carboxyl ( −COOH). Under the
+condition of enzymatic hydrolysis (pH4.8), the −COOH will ionize to
+−COOe, thereby resulting the negative charge of cellulose. The charge
+repulsion will a ﬀect the a ﬃnity between cellulose and cellulase. In view
+of the charge characteristics of cellulose ﬁber and cellulase, the addi-
+tion of cationic polymers appears to neutralize the negative charge of
+cellulose, thereby increasing the cellulase binding capacity by electro-
+static repulsion. In this study, we explored a way to best utilize WPFs as
+a bioconversion feedstock by adding cationic auxiliaries. Three types of
+cationic polymers (PEI, CPAM, and CS) were used during enzymatic
+hydrolysis at a high solids concentration of 15% (w/w). The e ﬀect of
+cationic polymer loading on enzymatic hydrolysis was investigated. Thevariations of cellulase adsorption capacity, zeta potential and atomic
+composition of WPFs and cellulase activity with and without cationic
+polymers were analyzed to reveal the mechanism responsible for the
+beneﬁcial action of cationic polymers in enzymatic hydrolysisapplications.
+2. Materials and methods2.1. Materials and scanning electron microscopy (SEM) analysis
+The waste paper ﬁbers (WPFs) deinked with alkaline ﬂotation was
+kindly provided by Huatai Group (Shandong, China). The ﬁbers were
+washed to neutral pH with distilled water and then stored at 4 °C. The
+average contents of cellulose, hemicelluloses, lignin, and ash were
+61.3%, 7.4%, 18.8% and 6.5%, respectively. WPFs were dried at 40 °C
+for 24 h prior to SEM analysis. Then they were coated with gold –-
+palladium in a sputter coater (E-1010, HITACHI, Japan). The mor-phological structure was detected by scanning electron microscopy
+(SEM) (S-3400 N, HITACHI, Japan).
+Cationic polyacrylamide (CPAM, molecular weight 1000 kDa),
+polyethyleneimine (PEI, molecular weight 5 kDa) and cationic starch
+(CS, molecular weight 100 kDa) were purchased from Sigma-Aldrich.
+CPAM was dissolved in deionized water at 2 g/L.
+2.2. Enzymatic hydrolysis
+The eﬀect of cationic polymers on enzymatic hydrolysis of WPFs
+was investigated. The ﬁbers were hydrolyzed by 18 FPU/g-cellulose for
+cellulase and 25 CBU/g-cellulose for β-glucosidase at 48 °C and pH 4.8
+with a substrate consistency of 15% (w/w) in a 100-mL reactor made of
+polytetra ﬂuoroethylene (PTFE), which was loaded into a large stainless
+steel tank after sealing. The system (PTFE reactor + stainless steel tank)was placed in an air oven equipped with a shaft that could be rotated atdiﬀerent speeds to ensure uniform mixing of the liquid and the sub-
+strate. The ﬁlter-paper activity of cellulase (Celluclast 1.5 L, Sigma) was
+90ﬁlter-paper units (FPU)/mL, and the cellobiase activity of Novozyme
+188 (Sigma) was 175 cellobiase units (CBU)/mL. Before the hydrolysisexperiment, the desired amounts of cationic polymers (0.05, 0.1, 0.2
+and 0.3 g/L) were mixed well with cellulase for 30 min in a beaker.
+Then 10 g of WPFs was put into the PTFE reactor, followed by the
+cellulase-polymer mixture. After sealing, the PTFE reactor was rotated
+at 100 rpm. The e ﬀect of cellulase loadings on enzymatic hydrolysis of
+WPFs was also investigated under optimal cationic polymer dosages.The cellulase loadings were 9, 12, 15 and 18 FPU/g-cellulose. After
+hydrolysis, the slurry was mixed and left to equilibrate following ad-
+dition of 20 ml water to dilute the glucose for 30 min and make the
+liquid easy to transfer.
+The transferred liquids were withdrawn and centrifuged at 10,000 g
+for
+5 min. Then the supernatants were ﬁltered through 0.22- μmﬁlters
+and properly diluted for further sugar analysis. The ﬁltrate was col-
+lected to detect glucose concentrations by HPLC (Waters 2695e, USA)
+using an Aminex HPX-87 P column (Bio-Rad, USA) at 85 °C and a re-
+fractive index detector at 35 °C. The glucose yield of the substrate was
+calculated from the glucose content as a percentage of the theoretical
+glucose available in the substrate. A cellulose:glucose ratio of 1:1.11 (g/
+g) was assumed.
+2.3. Cellulase adsorption and surface analysis by X-ray photoelectron
+spectroscopy (XPS)
+Adsorption of cellulases on WPFs was carried out in 100-mL conical
+ﬂasks with di ﬀerent cationic polymer loadings. The substrate con-
+centration was adjusted to 5% (w/w) by deionized water. The cellulase
+loading was 18 FPU/g-cellulose, which was similar to that used in en-zymatic hydrolysis. The adsorption experiment occurred in a shaking
+incubator (150 rpm) at 4 °C for 2 h. At the end of cellulase adsorption,
+the liquid-solid mixture was centrifuged at 10,000 gfor 10 min. The
+supernatants were ﬁltered through 0.45- μmﬁlters for protein content
+analysis. Free cellulase was determined in accordance with the
+Coomassie Brilliant Blue (CBB) measurement. A control without anyH. Yu et al. Carbohydrate Polymers 200 (2018) 248–254
+249
+enzyme was used for background correction. The di ﬀerence between
+free and total protein was the bound cellulase.
+Samples before and after cellulase adsorption with 0.2 g/L cationic
+polymers were washed 6 times with 50 mL of deionized water to avoid
+the inﬂuence of free components, and then freeze dried for XPS ana-
+lysis. The X-ray photoelectron spectra analyses were carried out using ascanning XPS microprobe (Quantera SXM) equipped with a mono-
+chromatic Al-K alpha X-ray source (1486.60 eV, energy width 280 eV)
+operated at 23.7 W with a background pressure of 5 9 10
+−8Torr.
+2.4. Cellulase activity analysis
+Cationic polymers were added into the cellulase solution in the
+dosage of 0.2 g/L. Then the mixed solutions were incubated at 48 °C for60 h. A total of 1 mL of the mixture was withdrawn periodically, and
+the enzyme activity with and without cationic polymers was assayed by
+the standard ﬁlter paper assay ( Ghose, 2009 ). One unit of enzyme ac-
+tivity is deﬁ ned as the amount of enzyme required to liberate 1 μmi-
+cromol of reducing sugar per minute at pH 4.8 and 48 °C.
+2.5. Charge density analysis
+A particle charge detector (Mütek PCD 03 titrator, Herrsching,
+Germany) was used to detect the charge density of the samples with a
+standard poly dimethyl diallyl ammonium chloride (PDADMAC) solu-
+tion (1mN) or a poly(vinyl sulfate) potassium salt (PVSK) solution
+(1 mN), as described in reference ( Wang et al., 2015 ). 0.5 g/L of CPAM
+and PEI solutions were prepared in 150-mL Erlenmeyer ﬂasks. The
+cellulase and cellulase-polymer mixtures were diluted 1000 times in250-mL Erlenmeyer ﬂasks. The 0.5 g/L cellulose solution was neu-
+tralized by excess standard PDADMAC solution and shaken for 120 minto completely neutralize the surface negative charge of cellulose, after
+which the supernatant ﬁltered from the fritted glass ﬁlter was titrated.
+3. Results and discussion
+3.1. Composition and SEM analysis of waste paper ﬁbers (WPFs)
+The waste paper ﬁbers (WPFs) were composed of 61.3% cellulose,
+7.4% hemicellulose, 18.8% lignin and 6.5% ash. A mass balance lacking
+100% is due to the presence of plastics, adhesives, and other organics in
+waste papers ( Min & Ramarao, 2017 ). It is noticed that the carbohy-
+drates (cellulose and hemicellulose) of WPFs account for 68.7%, in-dicating that WPFs are preferable candidates for bio-ethanol produc-
+tion. Min et al. reported that old corrugated containerboard (OCC) had
+lower lignin content (4%) and higher ash content (41%) compare with
+WPFs in the present study ( Min et al., 2015 ). WPFs used in the present
+study were produced mainly from old newspapers. Generally, news-papers were produced using mechanical pulp as a material. During
+mechanical pulping process, most of lignin was retained in mechanical
+pulp. Therefore, the lignin content in WPFs was relatively high. In
+addition, the WPFs were taken from ﬂoatation cell, where most of ink
+particles were removed. Thereby, the ash content was relatively low.
+The microstructures of WPFs were detected by SEM, as shown in
+Fig. 1 . According to Fig. 1(a), the morphology of WPFs are di ﬀerent.
+Not only macro ﬁbers but also ﬁnes appeared in raw materials. Some
+ﬁbers were curved ( Fig. 1 (a)). Pores ( Fig. 1 (b)) and fragments
+(Fig. 1(d)) appeared on the surface of ﬁbers. Moreover, broken ﬁber
+(Fig. 1(c)) was observed in WPFs. It has been suggested that disruption
+of the highly ordered and tightly packed regions of ﬁber structure fa-
+cilitated the enzyme access to cellulose, which was expected to speed
+the hydrolytic attack of cellulases ( Arantes & Saddler, 2011). Therefore,
+these WPF features are expected to be bene ﬁcial
+ for enzymatic hydro-
+lysis.3.2. E ﬀects of cationic polymers on enzymatic hydrolysis at high solids
+concentration
+The eﬀect of CPAM, PEI or CS on enzymatic hydrolysis of WPFs at a
+high solids concentration of 15% (w/w) was investigated. Fig. 2 shows
+the glucose yield after 60 h hydrolysis with and without cationic
+polymers. The glucose yield ﬁrst increased and then decreased with
+increasing CPAM, PEI and CS ( Fig. 2 ). This result indicated that a
+moderate amount of CPAM, PEI and CS could substantially enhance
+enzymatic hydrolysis. The highest glucose yield of 72.5% was obtained
+with addition of 0.05 g/L PEI. The second-highest glucose yield of
+65.9% was observed with 0.05 g/L CPAM. After this, as the dosages of
+CPAM and PEI were increased, glucose yields decreased. Compared to
+CPAM and PEI, CS did not noticeably improve the enzymatic hydro-
+lysis. Obviously, the increment in glucose yield after adding PEI was
+better than adding CPAM or CS at the high solids concentration of
+enzymatic hydrolysis. Interestingly, when more than 0.2 g/L of CPAM
+was used, the glucose yield was even less than with no CPAM at all.
+However, all glucose yields after adding PEI were greater than that of
+the raw material. Guan et al. demonstrated that cationic polymers
+(CPAM and poly-diallyl-dimethyl-ammonium chloride (PDADMAC))
+improved the enzymatic hydrolysis of pulp mill sludge at a solid con-
+centration of 10% (w/w), and an increase of 20% in glucose yield was
+obtained after 96 h hydrolysis ( Guan et al., 2014 ). An increase in glu-
+cose yield of approximately 15% observed in this study was lower thanthat found by Guan et al. The washed pulp mill sludge was composed of
+70.6% cellulose, 16.1% hemicellulose, 7.3% lignin and 6.0% ash. By
+comparison, the lignin content in WPFs (18.8%) was higher than that in
+pulp mill sludge. In addition, the solid loading (15% (w/w)) was high
+and hydrolysis time (60 h) was low in this study. These di ﬀerences
+likely caused the lower increase in glucose yields for WPF's compared topulp mill sludge with cationic polymer addition. Overall, addition of
+cationic polymers provided net increase of the total sugar concentrationto a level appropriate for subsequent fermentation. With addition of
+0.05 g/L PEI, the sugar concentration increased from 57.3 g/L to
+73.9 g/L. Energy requirement for distillation is signi ﬁcantly reduced if
+the ethanol concentration is above 4%. In order to meet this ethanolyield, glucose yield must be at least 8% (w/w) (assuming that an
+ethanol yield of 0.5 g/g-glucose). In this study, the highest glucose
+concentration of 7.39% was obtained, which was close to 8%.
+3.3. E ﬀects of cationic polymers on cellulase adsorption
+Mass transfer will be decreased when enzymatic hydrolysis is per-
+formed at high solids loadings ( Kristensen et al., 2009), which could
+reduce the adsorption capacity of cellulase to cellulose. Therefore, in-
+creasing cellulase binding to cellulose is signi ﬁcant for enzymatic hy-
+drolysis at high solids concentration. In this study, the cellulase bindingcapacity of WPFs was investigated before and after adding cationic
+polymers, as shown in Fig. 3. Cellulase binding was carried out at a
+solids concentration of 5% (w/w), which is di ﬀerent from that of en-
+zymatic hydrolysis (15%, w/w) due to uniformity of adsorption and
+ease of sampling. Earlier studies showed that adsorption achieved
+equilibrium in 90– 120 min ( Yu, Tang, Xing, Zhu, & Jiang, 2013 ). In this
+study, cellulase binding was performed for 2 h to reach maximum ad-sorption. Fig. 3 shows that the cellulase binding trend was similar for
+the three cationic polymers. The cellulase binding capacity of WPFs wasincreased when a suitable dose of cationic polymers was used. This
+could, in part, explain the increase in glucose yield after adding cationic
+polymers ( Fig. 2). The highest cellulase binding capacity was obtained
+by adding PEI; it increased from 30.2 mg/g-substrate (original WPFs) to
+37.1 mg/g-substrate with an increase in the concentration of PEI from 0
+to 0.2 g/L. The second-highest binding capacity (32.8 mg/g-substrate)
+was observed using 0.2 g/L CPAM. CS showed the lowest cellulase
+binding capacity (31.9 mg/g-substrate) with a loading of 0.2 g/L.
+Therefore, the greatest increase in enzymatic hydrolysis was obtainedH. Yu et al. Carbohydrate Polymers 200 (2018) 248–254
+250
+by adding PEI during enzymatic hydrolysis, as illustrated in Fig. 2. After
+this point, continuing to increase the dose of cationic polymer (CPAM,
+PEI or CS) did not improve cellulase binding capacity. On the contrary,
+cellulase adsorption was decreased. This could explain the decrease in
+glucose yield during enzymatic hydrolysis at high solids concentration
+when more cationic polymer was used ( Fig. 2 ).
+XPS analysis revealed a change in elementary composition on the
+surface of original WPFs and WPFs with 0.2 g/L cationic polymers ad-
+dition before and after cellulase adsorption, which is shown in Table 1.
+Carbon and oxygen are the main elements of the WPFs surface. Thetheoretical O/C values of cellulose and lignin are 0.83 and 0.33, re-
+spectively ( Pang et al., 2012; Yu et al., 2013 ). According to Table 1, the
+O/C of original WPFs was 0.61, which falls between 0.83 and 0.33. Itindicates that lignin and cellulose both exist on the surface of WPFs. In
+addition, nitrogen was not detected on the surface of WPFs. After PEI orCPAM addition, the nitrogen appeared on the surface of WPFs, in-
+dicating that PEI and CPAM were adsorbed onto WPFs. However, ni-
+trogen was not detected with addition of CS. This is because CS does nothave nitrogen. After cellulase adsorption, the nitrogen contents of all
+Fig. 1. Scanning electron microscopy (SEM) analysis of waste paper ﬁbers.
+Fig. 2. Glucose yield after 60 h hydrolysis with di ﬀerent cationic polymers.
+CPAM is cationic polyacrylamide; PEI, polyethyleneimine; CS, cationic starch.
+The enzyme loading was 18 FPU/g-cellulose for cellulase and 25 CBU/g-cel-
+lulose for β-glucosidase.
+Fig. 3. Cellulase adsorption capacities of waste paper ﬁbers with di ﬀerent ca-
+tionic polymers. CPAM is cationic polyacrylamide; PEI, polyethyleneimine; CS,cationic starch.
+Table 1
+Atomic composition on waste paper ﬁbers (WPFs) before and after cellulase
+adsorption.
+Before cellulase adsorption After cellulase adsorption
+C(%) O (%) N (%) C (%) O (%) N (%)
+Original WPFs 60.9 37.5 – 62.9 34.5 1.1
+PEI + WPFs 64.2 30.9 3.4 67.6 23.4 8.3
+CPAM + WPFs 64.8 32.1 2.1 67.5 27.5 4.9
+CS + WPFs 62.2 36.5 – 63.1 33.8 1.9H. Yu et al. Carbohydrate Polymers 200 (2018) 248–254
+251
+samples increased, suggesting that cellulase was bound onto WPFs.
+When PEI was added, the increase in nitrogen content was 4.9% (in-
+creased from 3.4% to 8.3%), which was higher than adding CPAM
+(2.8%), CS (1.9%) and original WPFs (1.1%), respectively. This in-
+dicates that PEI could result in more cellulase adsorption onto WPFs,
+agreeing with the result showed in Fig. 3.
+All cationic polymers were added at a concentration of 0.2 g/L.
+CPAM is cationic polyacrylamide; PEI, polyethyleneimine; CS, cationic
+starch.
+3.4. E ﬀects of cationic polymers on cellulase activity
+Fig. 4 signiﬁes the stability of the cellulase incubated with 0.2 g/L of
+CPAM, PEI and CS, respectively for 60 h. Without cationic polymer, the
+cellulase activity declined drastically at 48 °C and only 62.4% activity
+remained after 60 h incubation. With addition of PEI, a similar reduc-
+tion in cellulose activity was observed. When CPAM was added, the
+cellulase activity was decreased compared to surfactant free solutions.
+The reduction was insigni ﬁcant with reference to the experimental
+error. Interestingly, the cellulase activity was slightly increased with CSaddition. It has been reported that some nonionic surfactants have the
+function of stabilizing enzymes, and may improve the enzymatic ac-
+tivity, stability and prevent deactivation of the cellulase during the
+hydrolysis process, thereby increasing the enzymatic hydrolysis. Jia
+et al. pointed out the cellulase activity increased by 27.5% with
+PEG4000 addition ( Jia et al., 2010 ). Kaar and Holtzapple proposed that
+Tween-80 protected the enzymes from thermal deactivation duringhydrolysis of pretreated corn stover ( Kaar & Holtzapple, 2015 ). Cheng
+et al. reported that the addition of nonionic surfactant of Triton X-100increased the cellulase activity signi ﬁcantly, which were 3.75-fold of
+the control at 96 h of enzymatic hydrolysis ( Cheng, Yu, & Zhu, 2014 ).
+However, in our study, no obvious improvement in cellulase activity
+was observed with addition of cationic polymers. Fig. 2 showed the
+highest glucose yield was obtained as PEI was used, and the secondhighest glucose yield was acquired when CPAM was added. However,
+they did not improve the cellulase activity. Therefore, the improvement
+in enzymatic hydrolysis of WPFs with addition of CPAM or PEI appears
+to be due to their increase in cellulase adsorption onto cellulose.
+3.5. Charge density of cellulase-polymer mixtures
+Cellulase cocktail (Celluclast), used in this manuscript, contains
+various di ﬀerent cellulases (endoglucanase(EG), cellobiohydrolase
+(CBH) and β-glucosidase( βG) and hemicellulases (xylosidase) ( Stals,Sandra, Devreese, Van Beeumen, & Claeyssens, 2004 ). Therefore, the
+electronegativity of the individual component enzymes depends on the
+pH of system. The Celluclast cellulase preparation in this study is de-
+rived from Trichoderma reesei, where the dominant protein present in
+terms of mass is the cellobiohydrolase Cel7A. The pI of this enzyme
+ranges between 3.5 and 4.2 ( Stals, Sandra, Devreese et al., 2004 ;Stals,
+Sandra, Geysens et al., 2004). Therefore, under the enzymatic hydro-lysis condition of pH 4.8, Cel7A carries a negative charge. Usually, the
+WPFs will have negative charge due to the oxidation bleaching during
+pulping process. As shown in Table 2, the charge density of cellulase
+was−191μeq/mL. However, the pI of some of the other enzymes will
+be well above a pH of 4.8, such as the hemicellulases, and therefore will
+be positively charged. In this study, the WPFs were used as the cellu-
+losic material, and WPFs has a charge density of −75.5 μeq/mL
+(Table 2 ). Due to the fact that both cellulase and cellulosic ﬁbers bear
+negative charges, there would be repulsion force between the two,
+hence
+reducing the cellulase adsorption. Reye et al. have postulated
+that cationic polyelectrolytes promote enzymatic hydrolysis by neu-tralizing the repulsive charge between cellulose surface and the enzyme
+(Reye, Maxwell, & Banerjee, 2011 ).
+CPAM is cationic polyacrylamide; PEI, polyethyleneimine; CS, ca-
+tionic starch.
+Before enzymatic hydrolysis, the cellulase was mixed well with the
+cationic polymers for 30 min. Table 3 shows the charge density of the
+enzyme solution mixed with di ﬀerent cationic polymers. The charge
+density of cellulase increased with increasing CPAM, PEI and CS dosage
+(Table 3). Apparently, the overall negative charge of the enzyme so-
+lution was neutralized by the addition of the cationic polymers. Afterthe isoelectric point of cellulase was reached, the cellulase-polymer
+system showed positive electric charge with increasing cationic
+polymer dosage. It is hypothesized that reducing the negative charge of
+cellulase will decrease the repulsive force between cellulase and WPF,
+thereby increasing the binding capacity. In addition, the low positive
+charge density of the cellulase-polymer system is bene ﬁcial for enzy-
+matic hydrolysis because it can increase the binding of enzymes to WPFby electrostatic attraction. When a larger dose of cationic polymer was
+used, the cellulose surface will take on a positive charge, which de-
+creased cellulase binding capacity by electrostatic repulsion. For thisreason, larger doses of cationic polymers decreased glucose yield at
+high solids concentration ( Fig. 2).
+CPAM is cationic polyacrylamide; PEI, polyethyleneimine; CS, ca-
+tionic starch.
+Diﬀerent adsorption modes occur when di ﬀerent cationic polymers
+are used; they involve distinct patching and bridging mechanisms as
+shown in Fig. 5. Our previous study showed that CPAM could improve
+the cellulase treatment e ﬃciency of hardwood kraft-based dissolving
+pulp, which was mainly attributed to the patching/bridging mechanism
+(Wang et al., 2015 ). Shorter-chain cationic polymers are more suitable
+for patching, whereas longer-chain cationic polymers are more suitableFig. 4. Time courses of cellulase activity incubated with cationic polymers in
+the hydrolyzed solution without the substrate. CPAM is cationic poly-
+acrylamide; PEI, polyethyleneimine; CS, cationic starch. All cationic polymers
+were added at a concentration of 0.2 g/L.Table 2Charges of cellulase, cellulose, and cationic polymers.
+Cellulase
+(μeq/mL)Waste paper ﬁbers
+(μeq/g)CPAM(μeq/g)PEI(μeq/g)CS(μeq/g)
+−191 −75.5 412.8 2965.6 175.7
+Table 3
+Charges of cellulase-polymer mixtures with di ﬀerent cationic polymers.
+Concentration (g/L) CPAM ( μeq/mL) PEI ( μeq/mL) CS ( μeq/mL)
+0.05 −121.4 160.4 −171.4
+0.1 −62.9 290.2 −90.5
+0.2 225.2 360.1 192.8
+0.3 338.9 570.8 278.6H. Yu et al. Carbohydrate Polymers 200 (2018) 248–254
+252
+for bridging. CPAM and CS have long molecular chains and therefore
+can bind cellulase through a bridging mechanism, as indicated in
+Fig. 5 (C). However, short-chain PEI polymers are expected to bond
+cellulase through a patching mechanism, as shown in Fig. 5 (B). Com-
+pared with the patching mechanism, the binding mechanism in brid-
+ging involves steric hindrance due to the characteristics of the long-
+chain structure. Therefore, it can be speculated that the increase in
+cellulase binding on cellulose observed with PEI is due to a patching
+mechanism and is greater than that with CPAM or CS, bonding through
+a patching mechanism. Thereby, the glucose yield after adding PEI will
+be higher than after adding CPAM or CS, as seen in Fig. 2. CPAM and CS
+are both long-chain polymers and they will have the same bindingmechanism. The di ﬀerence in their binding capacity may be due to
+their di ﬀerences in charge density. The charge density of CS was 175.7
+μeq/g, which was lower than that of CPAM (412.8 μeq/g). Therefore,
+CS will bind less cellulase.
+3.6. Enzymatic hydrolysis at di ﬀerent cellulase loadings
+Under the optimal dosage of cationic polymers (0.05 g/L), four
+cellulase loadings were used to evaluate enzymatic hydrolysis at a high
+solids concentration of 15% (w/w). The cellulase loadings were 9, 12,
+15 and 18 FPU/g-cellulose. Glucose yield increased as the cellulaseloading increased from 9 to 18 FPU/g-cellulose. Under all enzyme do-sage points, enzymatic hydrolysis increased using cationic polymers. In
+agreement with previous research results, PEI showed the greatest
+improvement in enzymatic hydrolysis for all cellulase loadings. When
+cellulase loading was less than 15 FPU/g-cellulose, glucose yield in-
+creased rapidly with the use of cationic polymers. However, the in-
+crease in glucose yield slowed down when cellulase loading was greater
+than 15 FPU/g-cellulose. This indicated that the improvement of en-
+zymatic hydrolysis with cationic polymers had reached a maximum.
+Therefore, cationic polymers can improve enzymatic hydrolysis mark-
+edly under low enzyme loadings. It is known that the price of enzymes
+is very high, which has hindered industrialized and large ( Bharathiraja
+et al., 2017). From Fig. 6, a relatively low enzyme dosage can reach the
+same glucose concentration when cationic polymers are used. For ex-
+ample, if 58 g/L of glucose concentration is required, approximately
+57% of glucose yield will be achieved when enzymatic hydrolysis is
+carried out at 15% (w/w) solids concentration. According to Fig. 6,i n
+order to meet above glucose yield, the cellulase loadings are about 18(without cationic polymers), 15 (with CS addition), 11 (with CPAM
+addition) and 9.5 (with PEI addition) FPU/g-cellulose, respectively.
+4. Conclusions
+With addition of PEI, CPAM or CS, the glucose hydrolysis yields at
+15% (w/w) solids concentration was improved. After 60 h hydrolysis,
+the glucose yield increased from 57.1% to 72.5%, 65.9% and 59.7%
+with addition of 0.05 g/L PEI, CPAM and CS, respectively. It is sug-
+gested that the improvement in glucose yield caused by cationic poly-
+mers may be due to the increase in cellulase adsorption through elec-
+trostatic attraction. In addition, when the same glucose yield was
+obtained, cationic polymers addition could reduce the cellulase loading,
+especially when PEI was used. This may provide practical assistance for
+industrialized production of biofuels.
+Acknowledgements
+This work was ﬁnancially supported by the Key R&D project of
+Shandong (2018GSF121031, 2017GGX40106 and 2017GGX70102),
+Shandong Province Natural Science Foundation of China (ZR2016CP14,
+ZR2045BM007), the National Natural Science Foundation of China
+(31700517, 31670594 and 31570573), the China Ministry of Science
+and Technology (2016YFD0600803), the Applied Basic Research
+Foundation of Qingdao (No.17-1-1-52-jch) and the Taishan
+ScholarProgram of Shandong (ts201511033).
+References
+Adu, C., Jolly, M., & Thakur, V. K. (2018). Exploring new horizons for paper recycling: A
+review of biomaterials and biore ﬁnery feedstocks derived from wastepaper. Current
+Opinion in Green and Sustainable Chemistry, 13 ,2 1–26.
+Akimkulova, A., Zhou, Y., Zhao, X., & Liu, D. (2016). Improving the enzymatic hydrolysis
+of dilute acid pretreated wheat straw by metal ion blocking of non-productive cel-
+lulase adsorption on lignin. Bioresource Technology, 208 , 110 –117.
+Arantes, V., & Saddler, J. N. (2011). Cellulose accessibility limits the e ﬀectiveness of
+minimum cellulase loading on the e ﬃcient hydrolysis of pretreated lignocellulosic
+substrates. Biotechnology for Biofuels, 4 (1) 3-10-16 .
+Bharathiraja, B., Jayamuthunagai, J., Sudharsanaa, T., Bharghavi, A., Praveenkumar, R.,
+Chakravarthy, M., & Yuvaraj, D. (2017). Biobutanol –An impending biofuel for fu-
+ture: A review on upstream and downstream processing tecniques. Renewable and
+Sustainable Energy Reviews, 68 (1), 788 –807.
+Brummer, V., Jurena, T., Hlavacek, V., Omelkova, J., Bebar, L., Gabriel, P., & Stehlik, P.
+(2014). Enzymatic hydrolysis of pretreated waste paper - source of raw material forproduction of liquid biofuels. Bioresource Technology, 152 (1), 543 –547.
+Chen, M., Zhao, J., & Xia, L. (2008). Enzymatic hydrolysis of maize straw polysaccharides
+for the production of reducing sugars. Carbohydrate Polymers, 71 (3), 411 –415.
+Cheng, J., Yu, Y., & Zhu, M. (2014). Enhanced biodegradation of sugarcane bagasse by
+Clostridium thermocellum with surfactant addition. Green Chemistry, 16 (5),
+2689 –2695 .
+Dubey, A. K., Gupta, P. K., Garg, N., & Naithani, S. (2012). Bioethanol production from
+waste paper acid pretreated hydrolyzate with xylose fermenting Pichia stipitis.
+Carbohydrate Polymers, 88 (3), 825 –829.
+Fig. 5. Schematic of cationic polymers enhancing cellulase adsorption onto
+cellulose. A, interaction of cellulase and cellulose; B, PEI enhancing cellulase
+adsorption onto cellulose through a patching mechanism; C, CPAM enhancing
+cellulase adsorption onto cellulose through a bridging mechanism.
+Fig. 6. Glucose yield after 60 h hydrolysis with di ﬀerent cellulase loadings.
+CPAM is cationic polyacrylamide; PEI, polyethyleneimine; CS, cationic starch.H. Yu et al. Carbohydrate Polymers 200 (2018) 248–254
+253
+Gao, W., Xiang, Z., Chen, K., Yang, R., & Yang, F. (2015). E ﬀect of depth beating on the
+ﬁber properties and enzymatic sacchari ﬁcation e ﬃciency of softwood kraft pulp.
+Carbohydrate Polymers, 127 , 400 –406.
+Gaudreault, R., Cesare, N. D., Ven, T. G. M. V. D., & Weitz, D. A. (2015). Structure and
+strength of ﬂocs of precipitated calcium carbonate induced by various polymers used
+in papermaking. Industrial & Engineering Chemistry Research, 54 (24), 6234 –6246 .
+Ghose, T. K. (2009). Measurement of cellulase activities. Pure and Applied Chemistry,
+59(2), 257 –268.
+Govumoni, S. P., Koti, S., Kothagouni, S. Y., Venkateshwar, S., & Linga, V. R. (2013).
+Evaluation of pretreatment methods for enzymatic sacchari ﬁcation of wheat straw for
+bioethanol production. Carbohydrate Polymers, 91 (2), 646 –671.
+Guan, W., Haynes, R. D., & Lee, Y. Y. (2014). E ﬀects of cationic polyelectrolytes on en-
+zymatic hydrolysis of pulp mill sludge under high solid loading. J-FOR-Journal of
+Science & Technology for Forest Products and Processes, 4 ,3 6–43.
+Hodge, D. B., Karim, M. N., Schell, D. J., & Mcmillan, J. D. (2008). Soluble and insoluble
+solids contributions to high-solids enzymatic hydrolysis of lignocellulose. Bioresource
+Technology, 99 (18), 8940 –8948 .
+Jia, O., Dong, Z. W., Song, X. Y., Xin, L., Mu, C., & Qiang, Y. (2010). Improved enzymatic
+hydrolysis of microcrystalline cellulose (Avicel PH101) by polyethylene glycol ad-
+dition. Bioresource Technology, 101 (17), 6685 –6691 .
+Kaar, W. E., & Holtzapple, M. T. (2015). Bene ﬁts from tween during enzymic hydrolysis of
+corn stover. Biotechnology and Bioengineering, 59 (4), 419 –427.
+Kristensen, J. B., Felby, C., & Jørgensen, H. (2009). Yield-determining factors in high-
+solids enzymatic hydrolysis of lignocellulose. Biotechnology for Biofuels, 2 (1), 11 –18.
+Li, Y., Sun, Z., Ge, X., & Zhang, J. (2016). E ﬀects of lignin and surfactant on adsorption
+and hydrolysis of cellulases on cellulose. Biotechnology for Biofuels, 9 (1), 1 –9.
+Lin, X., Cai, C., Lou, H., Qiu, X., Pang, Y., & Yang, D. (2016). E ﬀect of cationic surfactant
+cetyltrimethylammonium bromide on the enzymatic hydrolysis of cellulose. Cellulose,
+24(1), 1 –8.
+Lou, H., Wang, M., Lai, H., Lin, X., Zhou, M., Yang, D., & Qiu, X. (2013). Reducing non-
+productive
+adsorption of cellulase and enhancing enzymatic hydrolysis of lig-
+nocelluloses by noncovalent modi ﬁcation of lignin with lignosulfonate. Bioresource
+Technology, 146 , 478 –484.
+Lou, H., Zeng, M., Hu, Q., Cai, C., Lin, X., Qiu, X., ... Pang, Y. (2018). Nonionic surfactants
+enhanced enzymatic hydrolysis of cellulose by reducing cellulase deactivation causedby shear force and air-liquid interface. Bioresource Technology, 249 ,1–8.
+Min, B. C., & Ramarao, B. V. (2017). Mechanisms of the inhibition of enzymatic hydro-
+lysis of waste pulp ﬁbers by calcium carbonate and the in ﬂuence of nonionic sur-
+factant for mitigation. Bioprocess and Biosystems Engineering, 40 (6), 1 –8.
+Min, B. C., Bhayani, B. V., Jampana, V. S., & Ramarao, B. V. (2015). Enhancement of the
+enzymatic hydrolysis of ﬁnes from recycled paper mill waste rejects. Bioresources and
+Bioprocessing, 2 (1), 40 .
+Mohamed, A. J., Ghazi, B. M., M Nejib, M., Mohamed, M., & Issam, S. (2016). Physico-
+chemical characterization and enzymatic functionalization of Enteromorpha sp. cel-
+lulose. Carbohydrate Polymers, 135 , 274 –279.
+Pang, C. S., Xie, T. J., Lin, L., Zhuang, J. P., Liu, Y., Shi, J. B., et al. (2012). Changes of the
+surface structure of corn stalk in the cooking process with active oxygen and MgO-
+based solid alkali as a pretreatment of its biomass conversion. Bioresource Technology,103(1), 432 –439.
+Ramos, L. P., Silva, L. D., Ballem, A. C., Pitarelo, A. P., Chiarello, L. M., & Silveira, M. H. L.
+(2015). Enzymatic hydrolysis of steam-exploded sugarcane bagasse using high total
+solids and low enzyme loadings. Bioresource Technology, 175 , 195 –202.
+Reye, J. T., Maxwell, K. E., & Banerjee, S. (2011). Cationic polyacrylamides promote
+binding of cellulase and amylase. Journal of Biotechnology, 154 (4), 269 .
+Singh, R., Krishna, B. B., Kumar, J., & Bhaskar, T. (2016). Opportunities for utilization of
+non-conventional energy sources for biomass pretreatment. Bioresource Technology,
+199, 398 .
+Sipos, B., Szilágyi, M., Sebestyén, Z., Perazzini, R., Dienes, D., Jakab, E., ... Réczey, K.
+(2011). Mechanism of the positive e ﬀect of poly (ethylene glycol) addition in enzy-
+matic hydrolysis of steam pretreated lignocelluloses. Comptes Rendus Biologies,
+334(11), 812 –823.
+Stals, I., Sandra, K., Devreese, B., Van Beeumen, J., & Claeyssens, M. (2004). Factors
+inﬂuencing glycosylation of Trichoderma reesei cellulases. II: N-glycosylation of
+Cel7A core protein isolated from di ﬀerent strains. Glycobiology, 14 (8), 725 –737.
+Stals, I., Sandra, K., Geysens, S., Contreras, R., Van Beeumen, J., & Claeyssens, M. (2004).
+Factors in ﬂuencing glycosylation of Trichoderma reesei cellulases. I: Postsecretorial
+changes of the O-and N-glycosylation pattern of Cel7A. Glycobiology,
+ 14(8), 713 –724.
+Strobel, K. L., Pfeiﬀ er, K. A., Blanch, H. W., & Clark, D. S. (2016). Engineering Cel7A
+carbohydrate binding module and Linker for reduced lignin inhibition. Biotechnology
+and Bioengineering, 113 (6), 1369 –1374 .
+Subhedar, P. B., Babu, N. R., & Gogate, P. R. (2015). Intensi ﬁcation of enzymatic hy-
+drolysis of waste newspaper using ultrasound for fermentable sugar production.
+Ultrasonics Sonochemistry, 22 , 326 .
+Sun, S., Sun, S., Cao, X., & Sun, R. (2016). The role of pretreatment in improving the
+enzymatic hydrolysis of lignocellulosic materials. Bioresource Technology, 199 ,4 9.
+Szabo, O. E., & Csiszar, E. (2017). Some factors a ﬀecting e ﬃciency of the ultrasound-
+aided enzymatic hydrolysis of cotton cellulose. Carbohydrate Polymers, 156 , 357 –363.
+Tan, I. S., & Lee, K. T. (2015). Solid acid catalysts pretreatment and enzymatic hydrolysis
+of macroalgae cellulosic residue for the production of bioethanol. Carbohydrate
+Polymers, 124 , 311 .
+Wang, Q., Liu, S., Yang, G., Chen, J., & Ni, Y. (2015). Cationic polyacrylamide enhancing
+cellulase treatment e ﬃciency of hardwood kraft-based dissolving pulp. Bioresource
+Technology, 183 ,4 2–46.
+Yang, X., Bu, L., Sun, D., Liu, Z., Liu, S., & Jiang, J. (2015). High glucose recovery from
+direct enzymatic hydrolysis of bisul ﬁte-pretreatment on non-detoxi ﬁed furfural re-
+sidues. Bioresource Technology, 193 , 401 .
+Yu, H., You, Y., Lei, F., Liu, Z., Zhang, W., & Jiang, J. (2015). Comparative study of
+alkaline hydrogen peroxide and organosolv pretreatments of sugarcane bagasse toimprove the overall sugar yield. Bioresource Technology, 187 , 161 .
+Yu, H. L., Tang, Y., Xing, Y., Zhu, L. W., & Jiang, J. X. (2013). Improvement of the
+enzymatic hydrolysis of furfural residues by pretreatment with combined green li-quor and hydrogen peroxide. Bioresource Technology, 147 (11), 29 –36.
+Zhao, X. B., Dong, L., Chen, L. A., & Liu, D. H. (2013). Batch and multi-step fed-batch
+enzymatic sacchari ﬁcation of Formiline-pretreated sugarcane bagasse at high solid
+loadings for high sugar and ethanol titers. Bioresource Technology, 135 (2), 350 .H. Yu et al.
+Carbohydrate Polymers 200 (2018) 248–254
+254

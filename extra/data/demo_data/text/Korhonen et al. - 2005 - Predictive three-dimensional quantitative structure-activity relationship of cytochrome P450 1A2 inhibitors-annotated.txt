@@ -1,0 +1,399 @@
+Predictive Three-Dimensional Quantitative Structure -Activity Relationship of
+Cytochrome P450 1A2 Inhibitors
+Laura E. Korhonen,*,†Minna Rahnasto,†Niina J. Ma ¨ho¨nen,†Carsten Wittekindt,‡Antti Poso,‡
+Risto O. Juvonen,†and Hannu Raunio†
+Department of Pharmacology and Toxicology and Department of Pharmaceutical Chemistry, University of Kuopio, POB 1627,
+70211 Kuopio, Finland
+Received December 21, 2004
+The purpose of this study was to determine the cytochrome P450 1A2 (CYP1A2) inhibition
+potencies of structurally diverse compounds to create a comprehensive three-dimensionalquantitative structure -activity relationship (3D-QSAR) model of CYP1A2 inhibitors and to
+use this model to predict the inhibition potencies of an external set of compounds. Fifty-twocompounds including naphthalene, lactone and quinoline derivatives were assayed in a 96-well plate format for CYP1A2 inhibition activity using 7-ethoxyresorufin O-dealkylation asthe probe reaction. The IC
+50values of the tested compounds varied from 2.3 íM to over 40 000
+íM. On the basis of this data set, a comparative molecular field analysis (CoMFA) and GRID/
+GOLPE models were created that yielded novel structural information about the interactionbetween inhibitory molecules and the CYP1A2 active site. The created CoMFA model was ableto accurately predict inhibitory potencies of several structurally unrelated compounds, includingselective inhibitors of other cytochrome P450 forms.
+Introduction
+Microsomal cytochrome P450 (CYP) enzymes are a
+family of heme proteins involved in the metabolism ofnumerous toxic and pharmacologically active com-pounds. In humans, the CYP1A2 enzyme is expressedat a high level only in the liver, where it constitutesapproximately 10% of the total cytochrome P450 con-tent. It is one of the enzymes responsible for theactivation of aromatic and heterocyclic amines andpolycyclic aromatic hydrocarbons to reactive meta-bolites.
+1,2Many pharmaceuticals, e.g., caffeine3and
+theophylline4are selective substrates for CYP1A2, and
+the enzyme is effectively inhibited by furafylline5and
+fluvoxamine.6,7A complete list of CYP1A2 substrates
+and inhibitors is provided at the Web site http://medicine.iupui.edu/flockhart.
+Rapid advances in several different technologies have
+yielded increasingly precise information on the interac-tions between cytochrome P450 and their ligands. Inparticular, quantitative structure -activity relationship
+(QSAR) and pharmacophore approaches have been usedto assess the active sites of cytochrome P450. These newcomputational models are promising tools to screenmore rapidly the quantitative interactions betweenchemicals and cytochrome P450 enzymes. However,these techniques are still in the early stages of develop-ment with respect to application for cytochrome P450and there is plenty of scope for technological improve-ment.
+8
+Several computational approaches, especially QSARs,
+have been used to characterize the molecular propertiesof substrates and inhibitors of the CYP1A2 enzyme. Theoverall result of these studies is that substrates of
+CYP1A2 are moderately basic and planar moleculeswith medium volume and low total interaction energies(¢Evalue), but there is no clear correlation between
+compound lipophilicity and inhibitory effect.
+9-15
+There are no reports on the use of pharmacophore or
+QSAR techniques to characterize the molecular proper-ties of CYP1A2 inhibitors and then to use this informa-tion for quantitative prediction. Therefore, the goals ofthis study were to determine the CYP1A2 inhibitionpotencies of structurally diverse compounds, to createa comprehensive 3D-QSAR model of CYP1A2 inhibitors,and to use this model to predict the inhibition potenciesof an external set of compounds. To achieve this goal,the abilities of 52 compounds including naphthalene,lactone, and quinoline derivatives to inhibit CYP1A2-catalyzed 7-ethoxyresorufin O-dealkylation reactionwere examined. On the basis of this data set, a com-parative molecular field analysis (CoMFA) and a GRID/GOLPE analysis were carried out. The generated CoM-FA model yielded precise information about the molecularcharacteristics of CYP1A2 inhibitors and was able toaccurately predict the inhibitory potencies of severalstructurally unrelated compounds.
+Results
+Inhibition of CYP1A2 Activity. CYP1A2 substrates
+and inhibitors are usually planar small-volume mol-ecules that are neutral or weakly basic. Fifty-twonaphthalene and lactone derivatives as well as othercompounds partially fitting these criteria were testedfor inhibitory potency toward the CYP1A2 enzyme. Thestructures of the compounds are shown in Figures 1 and2.
+The IC
+50values of these compounds were measured
+using 7-ethoxyresorufin O-dealkylation as the probe* To whom correspondence should be addressed. Telephone: +358-
+17-163778. Fax: +358-17-162424. E-mail: Laura.Korhonen@uku.fi.
+†Department of Pharmacology and Toxicology.
+‡Department of Pharmaceutical Chemistry.3808 J. Med. Chem. 2005, 48,3808 -3815
+10.1021/jm0489713 CCC: $30.25 © 2005 American Chemical Society
+Published on Web 05/05/2005
+Downloaded via THE PROCTER & GAMBLE US on March 13, 2023 at 19:18:34 (UTC).
+See https://pubs.acs.org/sharingguidelines for options on how to legitimately share published articles.
+
+reaction. Recombinant human CYP1A2 was used as the
+enzyme source to exclude any interference from othercytochrome P450 forms present in human liver mi-crosomes. The enzymatic activity was assayed underconstant conditions using seven different concentrationsof each inhibitor. Figure 3 represents an example ofconcentration-dependent inhibition of the enzyme activ-ity by two structurally different compounds (2,6-dim-ethylquinoline and 2-methylnaphthalene).
+The lowest IC
+50values were obtained with 1,4-
+dichloronaphthalene and 2,4-dimethylquinoline ( <3
+íM), and the highest values were obtained with -ca-
+prolactone and 4-methoxyfuran-2(5 H)-one ( >40 mM)
+(Tables 1 and 2). Most of the naphthalene derivativeswere more potent inhibitors than the lactones and othercompounds tested.
+The IC
+50values of all naphthalene derivatives were
+lower than the IC 50value of naphthalene because
+methyl, chloro, ethyl, fluoro, and hydroxyl substitutionsdecreased the IC
+50value. In general, disubstituted
+naphthalenes or quinolines were more potent thanmonosubstituted or unsubstituted ones. In particular,electronegative substitutions at position 1 of naphtha-lene increased the inhibitory potency. The IC
+50values
+of quinoline derivatives were lower than the corre-sponding naphthalene derivatives, indicating that aheterocyclic nitrogen atom decreases the IC
+50value
+(Table 1).
+The inhibitory potencies of 11 lactones were tested
+(Table 2). The simple lactone ring structures were weakinhibitors, -caprolactone being the least potent. With
+alkyl-substituted ç- and ä-lactones, the inhibition po-
+tency increased with increasing side chain length. Theoptimum length of the side chain was seven carbons.
+The IC
+50value decreased more than 300-fold when the
+side chain length increased from methyl to hexyl in fivering lactones. The most potent lactone inhibitor wasundecanoic- ç-lactone (IC
+50)45íM).
+In addition to lactone and naphthalene derivatives,
+other selected compounds were tested for CYP1A2inhibition (Table 2). When the cyclohexane ring ofbutylcyclohexane was replaced by phenyl, the IC
+50value
+increased about 60-fold. 2-Coumarone and 2-indanone,which have a carbonyl group, were more potent inhibi-tors than indan and 2,3-dihydrobenzofuran. A halogengroup at position 4 of the biphenyl increased inhibitorypotency, and that at position 2 decreased inhibitorypotency.
+CoMFA and GRID/GOLPE Analysis. Forty-six
+compounds listed in Tables 1 and 2 were analyzed usingCoMFA and GRID/GOLPE methods. Also listed in
+Figure 1. Structures of naphthalene-type compounds used
+in inhibition assays.
+Figure 2. Structures of lactones and other compounds used
+in inhibition assays.
+Figure 3. Inhibition of CYP1A2 activity by two selected
+compounds. 2,6-Dimethylquinoline ( O) and 2-methylnaphtha-
+lene ( b) were used as inhibitors.QSAR of CYP1A2 Inhibitors Journal of Medicinal Chemistry, 2005, Vol. 48, No. 11 3809
+
+Tables 1 and 2 are six compounds used in the external
+test set. After data pretreatment, GRID/GOLPE analy-sis gave an r
+2value of 0.86, followed by a q2value of
+0.73 with three components and an SDEP of 0.60. Inthe final model, the smart region definition (SRD)method with F.Factorial Selection was used to removevariables that did not correlate with the inhibitionpotency. The obtained statistics of the models aresummarized in Table 3, and the plots for the training
+set of both models are shown in Figure 4.
+The CYP1A2 CoMFA model is represented as 3D
+contour maps with 2,7-dimethylquinoline as the refer-ence structure (Figure 5). The contours of the steric mapare shown as green and yellow regions in which bulkygroups enhance and decrease inhibition potency, re-spectively. Those of the electrostatic map are shown asred and blue areas in which a more negative chargeenhances and decreases inhibition potency, respectively.Negative-charge-favored areas that were near a nitro-gen atom and positions 6 and 8 of the quinoline ringindicate that a partial negative charge here tended toincrease the inhibition potency. The broad negative-charge-disfavored area shown in blue was displayednear position 3 of the ring. The sterically favored greenarea was located around substitution at position 7 ofquinoline in the CoMFA model.
+A stereofigure of the GOLPE coefficient map (Figure
+6) displays large continuous regions, where the interac-tion with the hydroxyl probe is favorable (cyan) orunfavorable (purple). The favorable region is aroundthe nitrogen atom and partly above and under thearomatic ring structure. These regions of the inhibitorcan act as hydrogen bond acceptors or donors. Theelectronic configuration of the OH probe is defined sothat it interacts with the ð-electron of the conjugated
+system like a planar aromatic ring or double bond. Itmakes strong hydrogen-bonding interactions, whichmay account for the shape of the interaction regionswith the molecular structures.
+16The unfavorable re-
+gions reside in the plane of the ring and are spread allaround the ring except to the region near the nitrogenatom.
+The prediction power of the CoMFA model was
+evaluated by estimating pIC
+50values for an external test
+set of compounds, including the six compounds testedin this study (Tables 1 and 2). These six compoundswere chosen on the basis that they resemble in structurethe ones in the training set but also contain featuresthat differ from the training set compounds. The valuesfor five additional compounds that are well-knownTable 1. Inhibition Potencies of Naphthalene-Type Compounds
+for CYP1A2
+compdIC50
+(íM)95% confidence
+intervals pIC 50
+1,4-dichloronaphthalene 2.3 0.9 -3.7 5.64
+2,4-dimethylquinoline 2.4 1.5 -3.2 5.62
+1-naphthol 3.2 2.4 -4.0 5.49
+2,6-dimethylquinoline 3.3 2.7 -3.9 5.48
+1,4-dimethylnaphthalene 3.6 2.8 -4.2 5.44
+2,7-dimethylquinoline 4.4 3.5 -5.3 5.36
+1,2-dimethylnaphthalene 5.5 3.4 -7.6 5.26
+1,7-dimethylnaphthalene 7.5 4.5 -11 5.12
+1,3-dimethylnaphthalene 7.9 5.9 -9.8 5.10
+2-methoxynaphthalene 13 11 -15 4.89
+3-methylquinoline 13 9.7 -17 4.89
+1,5-dichloronaphthalenea14 8.0 -19 4.85
+2-naphthol 17 15 -18 4.77
+2-ethylnaphthalene 19 12 -26 4.72
+3-methylisoquinoline 21 18 -24 4.68
+1,6-dimethylnaphthalene 25 17 -33 4.60
+quinaldine 40 34 -45 4.40
+1,5-dimethylnaphthalenea42 29 -56 4.38
+2-fluoronaphthalene 49 34 -64 4.31
+1-chloronaphthalene 50 44 -56 4.30
+2,6-dimethylnaphthalene 52 33 -72 4.28
+2,7-dimethylnaphthalene 65 36 -91 4.19
+1-methylnaphthalene 110 81 -150 3.96
+2-methylnaphthalene 120 106 -130 3.92
+naphthalene 700 3.15
+aUsed only in the external set of test compounds.
+Table 2. Inhibition Potencies of Lactones and Other
+Compounds for CYP1A2
+compdIC50
+(íM)95% confidence
+intervals pIC 50
+2-(p-tolyl)ethylaminea14 12 -17 4.85
+undecanoic- ç-lactone 45 34 -56 4.35
+4-chlorobiphenyla49 29 -69 4.30
+butylcyclohexane 55 45 -66 4.26
+ç-dodecanolactone 58 49 -68 4.24
+(()-undecaonic- ä-lactone 72 53 -90 4.14
+2-indanone 80 51 -110 4.10
+ç-decanolactone 110 75 -150 3.96
+biphenyl 160 74 -240 3.80
+ä-decanolactone 230 190 -270 3.64
+2-chlorobiphenyla230 150 -310 3.64
+2-coumarone 260 170 -340 3.59
+4-methoxybenzaldehydea270 180 -350 3.57
+ç-nonanoiclactone 310 230 -390 3.51
+2-benzoxazolinone 370 230 -510 3.43
+indan 550 430 -660 3.26
+2,3-dihydrobenzofuran 1200 880 -1500 2.92
+ç-phenyl- ç-butyrolactone 2300 1600 -3000 2.64
+butylbenzyl 3700 2400 -4900 2.43
+nicotine 4100 2600 -5600 2.39
+4,6-dimethyl- R-pyron 4500 3300 -5600 2.35
+ç-heptalactone 4500 3300 -5700 2.35
+cotinine 5400 2400 -8400 2.27
+ç-caprolactone 9900 5600 -14000 2.00
+ç-valerolactone 15000 11000 -20000 1.82
+-caprolactone >40000 >1.40
+4-methoxyfuran-2(5 H)-one >40000 >1.40
+aUsed only in the external set of test compounds.Table 3. Statistics from the CoMFA and GRID/GOLPE
+Analysesa
+model q2r2SPRESS /SDEP N
+CoMFA 0.69 0.87 0.67 3
+GRID/GOLPE 0.79 0.90 0.52 3
+aq2)the cross-validated correlation coefficient with five
+random groups; r2)correlation coefficient; SPRESS (Sybyl), SDEP
+(GOLPE) )standard deviations for the error of predictions; N)
+number of PLS components.
+Figure 4. Plots for the training set (actual/predicted IC 50
+values) of the CoMFA model ( r2)0.87, left panel) and the
+GOLPE/GRID model ( r2)0.90, right panel).3810 Journal of Medicinal Chemistry, 2005, Vol. 48, No. 11 Korhonen et al.
+
+substrates and inhibitors of CYP enzymes were obtained
+from ref 17 (Figure 7). As summarized in Table 4, thepredictions of pIC
+50values for the external set of
+molecules differed by less than 0.1 log units from theactual values for biphenyls, 1,5-dichloronaphthalene,
+and 4-methoxybenzaldehyde. The predictions of pIC 50
+values for the other molecules were within 0.13 -0.67
+log unit of the actual values.
+Figure 5. Stereofigure of color contour maps of CYP1A2 CoMFA. Red and green represent areas where more negative partial
+charge and bulkier groups increase inhibition potency, respectively. Blue and yellow represent areas where more negative partialcharge and bulkier groups decrease inhibition potency, respectively. The reference structure is 2,7-dimethylquinoline.
+Figure 6. Stereofigure of GOLPE coefficient map with 2,7-dimethylquinoline as the reference structure. The cyan regions describe
+favorable interactions and the purple regions unfavorable interactions between the hydroxyl probe and the molecules.
+Figure 7. Structures of the external set of test compounds.QSAR of CYP1A2 Inhibitors Journal of Medicinal Chemistry, 2005, Vol. 48, No. 11 3811
+
+Discussion
+The main purpose of this study was to create a QSAR
+model to understand in greater detail the structuralproperties of inhibitors of the human CYP1A2 enzyme.The inhibition potency of a series of 52 chemicals wasdetermined against the CYP1A2 enzyme. With this dataset, CoMFA and GRID/GOLPE models were createdthat yielded novel structural information about theinteraction between inhibitory molecules and theCYP1A2 active site. In addition, the developed CYP1A2CoMFA model accurately predicted the inhibition po-tencies of several structurally unrelated compounds.
+Some disubstituted naphthalene and quinoline de-
+rivatives were found to be potent inhibitors of CYP1A2.Quinoline derivatives had lower IC
+50values than the
+corresponding naphthalene derivatives, indicating thata heterocyclic nitrogen atom increases inhibition po-tency. Also, hydrophobic substituents at position 1 ofthe naphthalene ring increase inhibition potency. Hy-droxyl, halogen, and methyl substitutions of the naph-thalene ring decreased the IC
+50values. The IC 50values
+of molecules decreased as the molecular volume oflactones and the length of alkyl side chain increased.
+Previously published QSAR studies on the CYP1A2
+enzyme were based on a limited number of structurallydiverse compounds and have not been used to predictthe inhibition potency of new compounds. One of thefirst human CYP1A2 3D-QSAR studies was carried outon quinolone antibacterials.
+9Four pharmacophore fea-
+tures were suggested to be involved in the binding ofquinolone-type CYP1A2 inhibitors in the active site. Nocorrelation between lipophilicity and the inhibitoryeffect could be observed in this study.
+9On the basis of
+the experimental finding that a methyl group at position8 of the xanthine ring is important for CYP1A2 inhibi-tion, a subsequent theoretical model was created usinga molecular electrostatic potential approach.
+10A QSAR
+analysis using inhibition data of 16 naturally occurringflavonoids showed that planar molecules with a smallvolume to surface area were the most potent inhibitors,the number of hydroxyl groups being inversely propor-tional to inhibition potency, and glycosylation of the freehydroxyls could reduce the inhibition potency.
+11
+Two different studies docked selected substrates into
+the active site of homology models of the CYP1A2protein and analyzed the binding mode of the ligand -
+enzyme complex in terms of molecular mechanics cal-culations.
+12,13Lozano et al.13used the COMBINE method
+for energy partition and adjacent 3D-QSAR analysis.Subsequently they performed a GRID/GOLPE analysis
+using the phenylic OH group. The combination of bothmethods provided useful insights into the positions oflikely hydrogen bonding or placement of hydrophobicor bulky groups. A previous study suggested thatCYP1A2 substrates are generally neutral or protonatedmolecules.
+14
+The correlation between electrostatic interactions and
+pIC 50values appeared in the CoMFA maps as negative-
+charge-favored areas that are near the nitrogen atomof the quinoline ring. Also, electronegative substituentsat position 1 of the naphthalene ring are important forinhibition. This explains the finding that 1,4-dichlo-ronaphthalene and 1-naphthol are quite potent inhibi-tors compared with the naphthalenes with halogen orother electronegative substituent at position 2. In ad-dition, there is an attractive interaction between thehydroxyl probe and an inhibitor favorable area locatedaround position 1 of the quinoline ring near the nitrogenatom. The hydroxyl probe is capable of donating andaccepting one hydrogen bond with a hydrogen acceptoror donor atom or with the ð-system of the aromatic ring.
+GRID/GOLPE maps can describe interactions betweennitrogen and the hydroxyl group or dipole-induceddipole interactions between the aromatic ring and theprobe.
+16The nitrogen atom can act as a hydrogen-
+bonding acceptor atom, which indicates that hydrogenbonding is an important interaction between quinoline-type inhibitors and the CYP1A2 enzyme.
+Most of the CYP1A2 substrates are hydrophobic with
+high log Pvalues, suggesting that hydrophobic interac-
+tions play an important role in binding to CYP1A2. Thecreated CoMFA model confirms this because the CoMFAmodel shows that alkyl substitutions at position 7increase the inhibitory potency. The alkyl side chain oflactones can interact with hydrophobic amino acids inthe CYP1A2 protein. A large steric-favored region islocated near the 7-position in the CoMFA map. Also,substitution of naphthalene with hydrophobic substit-uents such as halogen or methyl groups increases theinhibition potency. These data suggest that the bindingpocket of the CYP1A2 enzyme is composed of mostlyhydrophobic and aromatic amino acids, with polaramino acids for hydrogen bonding being present nearthe heme center.
+18In addition to the use of steric and
+electrostatic fields, a CoMFA model was created usinglogPvalues as an additional variable. This did not
+improve in the model.
+The created CoMFA model predicted very well the
+inhibitory potencies of the test set of compounds. Thebest predictions were obtained for biphenyls and 1,5-dichloronaphthalene, with predicted pIC
+50values being
+within 0.05 log units of the actual values. The modelalso predicted well the CYP1A2 pIC
+50values of several
+well-known inhibitors of other cytochrome P450 forms,ketoconazole (CYP3A4), tranylcypromine (CYP2A6),quinidine (CYP2D6), quercetin (CYP2C8), and sul-faphenazole (CYP2C9).
+7This is remarkable because the
+structures of these compounds differ considerably fromthe ones used in the training set.
+The current CoMFA model takes into account both
+steric and electrostatic interactions. The CoMFA ap-proach described in this report represents a robustmethod to screen for inhibitory properties of compoundsTable 4. Validation of CYP1A2 Model
+pIC 50
+inhibitor experimental predicted residual
+2-(p-tolyl)ethylamine 4.85 4.53 0.32
+4-chlorobiphenyl 4.30 4.30 02-chlorobiphenyl 3.64 3.59 0.054-methoxybenzaldehyde 3.57 3.51 0.061,5-dichloronaphthalene 4.85 4.80 0.051,5-dimethylnaphthalene 4.38 4.80 0.42ketoconazole
+a4.12 4.30 0.18
+quercetina5.18 5.05 0.13
+quinidinea4.59 3.92 0.67
+sulfaphenazolea>4 4.05
+tranylcyprominea4.01 4.30 0.29
+aExperimental data from ref 17.3812 Journal of Medicinal Chemistry, 2005, Vol. 48, No. 11 Korhonen et al.
+
+toward CYP1A2. A similar approach will be applicable
+to other xenobiotic metabolizing cytochrome P450 com-pounds as well. We have shown earlier that CoMFAmodeling can predict reasonably well the actual inhibi-tion characteristics of lactones and naphthalenes towardthe human CYP2A6 and mouse CYP2A5 enzymes andthat naphthalene is metabolized by these CYP forms.
+19,20
+A CoMFA method similar to the one described here hasbeen used for modeling the CYP2A6 enzyme.
+21In the
+present CYP1A2 QSAR study, the GRID/GOLPE analy-sis was also applied, which improved the precision ofthe model through exclusion of variables that were notsignificant.
+The model presented here is clearly superior to
+previously published QSAR models of CYP1A2. Thecurrent training set is large and contains structurallydiverse compounds. All biological data used in thetraining set are generated with internally fully consis-tent methods. The model is reasonably predictive evenfor compounds that differ in structure from the ones inthe training set. Using the hydroxyl probe yieldedinformation about the importance of dipole-induceddipole interaction in the active site of CYP1A2. TheGRID/GOLPE analysis gave insight into the shape ofthe interaction regions. The presented CoMFA andGRID/GOLPE models are in agreement with previousstudies concerning areas of H-bonds and electrostaticfield.
+9-13However, from the statistical analysis of a
+large training set with structurally diverse compounds,the present model is more general and predictive thanthe previous ones. In particular, the spatial orientationin the regions where H-bonds are likely to occur andthe regions where bulky groups enhance the inhibitorypotential could be determined in both a qualitative anda quantitative way.
+There are two major reasons for studying inhibitory
+potencies of drug candidates and other xenobiotics.First, potent inhibition by a drug candidate gives anearly warning about potential drug -drug interactions
+during its clinical use. Second, evidence of inhibitioncapabilities suggests that the compound may be asubstrate for the cytochrome P450 studied. This appliesespecially to competitive inhibitors. Because competitiveinhibitors are usually also substrates of cytochrome
+P450, screening of inhibitory properties serves as a goodstarting point for substrate specificity studies for anychemical compound. Inhibitor orientation in the CoMFAmodel provides clues on how it is coordinated towardthe cytochrome P450 heme iron if the oxidation patternof at least one molecule in the training set is known.Thus, a CoMFA model based on inhibition data canrepresent a starting point to the much more complextask of predicting the metabolism of novel compounds.
+A recent report has described a computational filter
+for prediction of inhibitory properties of compoundstoward CYP2D6 and CYP3A4 enzymes. The filter, basedon training sets of more than 1700 molecules, yielded astatistically significant rank ordering of test set mol-ecules.
+22There is now considerable interest in the
+development of computational methods to assess cyto-chrome P450 mediated metabolic properties of drugcandidates and other xenobiotics. Initial attempts arebeing made to create databases combining differentapproaches for the prediction of metabolism.
+23In the future these kinds of computer models may
+become very efficient for predicting the structuralrequirements of inhibitors of cytochrome P450. Inparticular, the combination of QSAR and protein modelsoffers a potentially very powerful approach for predict-ing cytochrome P450 mediated metabolism.
+Experimental Section
+Chemicals. ç-Heptalactone, -caprolactone, ç-decanolac-
+tone, ç-dodecanolactone, ç-caprolactone, 4,6-dimethyl- R-py-
+rone, 1,3-dimethylnaphthalene, and 1,4-dimethylnaphthalenewere purchased from Sigma-Aldrich (St. Louis, MO). Unde-canoic- ç-lactone, ç-valerolactone, ä-decanolactone, ç-phenyl-
+ç-butyrolactone, ( ()-undecaonic- ä-lactone, ç-nonanoic-lactone,
+2,3-dihydrobenzofuran, 4-methoxyfuran-2(5 H)-one, 2-benzox-
+azolinone, butylbenzyl, 2-indanone, 2-coumarone, indan, bu-tylcyclohexane, 2,7-dimethylnaphthalene, 2-methoxynaphtha-lene, 2-( p-tolyl)ethylamine, 1-methylnaphthalene, quinaldine,
+2-ethylnaphthalene, 1,5-dimethylnaphthalene, 2,6-dimeth-ylquinoline, 2-methylnaphthalene, 1,6-dimethylnaphthalene,3-methylisoquinoline, 2,6-dimethylnaphthalene, 2,7-dimeth-ylquinoline, 3-methylquinoline, 1,2-dimethylnaphthalene, 2,4-dimethylquinoline, 2-naphthol, and naphthalene were pur-chased from Aldrich-Chemie GmbH & Co. (Heidenheim,Germany). Biphenyl and 1,7-dimethylnaphthalene were pur-chased from Fluka Chemie AG (Buchs, Switzerland). 2-Chlo-robiphenyl, 4-chlorobiphenyl, 1,4-dichloronaphthalene, 1,5-dichloronaphthalene, and 1-chloronaphthalene were fromPromochem (Boras, Sweden). 4-Methoxybenzaldehyde, 1-naph-thol, nicotine, cotinine, and 7-ethoxyresorufin were from SigmaChemical Co. (St. Louis, MO). 2-Fluoronaphthalene wasfrom Supelco (St. Louis, MO). NADP was from Roche Diag-nostic GmbH (Mannheim, Germany). The purity of all com-pounds used was higher than 95% according to the manufac-turers.
+Biological Material. Human liver samples used in this
+study were obtained from the University Hospital of Oulu assurplus from kidney transplantation donors. The collection ofsurplus tissue was approved by the Ethics Committee of theMedical Faculty of the University of Oulu, Oulu, Finland. Thelivers were transferred to ice immediately after surgicalexcision, cut into pieces, snap-frozen in liquid nitrogen, andstored at -80 °C until the microsomes were prepared by
+standard differential ultracentrifugation. A weight-balancedmicrosomal pool of seven liver microsomal preparations thathave been extensively characterized for primary metabolicscreening was employed.
+Baculovirus-insect cell expressed human CYP1A2 was
+purchased from Gentest Corp. (Woburn, MA).
+Biochemical Assays. The 7-ethoxyresorufin O-dealkyla-
+tion assay is based on the detection of fluorescence emittedby resorufin.
+24The assay was adapted to the 96-well plate
+format. In each well, a 150 íL incubation volume contained
+100 mM Tris-HCl buffer (pH 7.4), 4.2 mM MgCl 2,1 íM
+7-ethoxyresorufin, 0.5 pmol of cDNA expressed CYP1A2, 0 -40
+mM inhibitor, and a NADPH-generating system.24All inhibi-
+tors were dissolved in ethanol, and the final concentration ofethanol was 2% in all incubations. The reaction was initiatedby adding the NADPH-regenerating system after a 10 minpreincubation at 37°C, and after a 20 min incubation, thereaction was terminated by the addition of 110 íLo f8 0 %
+acetonitrile/20% 0.5 M Tris base. The formed fluorescence wasmeasured with a Victor
+2plate counter (Perkin-Elmer Life
+Sciences Wallac, Turku, Finland) at 570 nm excitation and616 nm emission. The linearity of the reaction with respect toincubation time and protein concentration was determined.Several control incubations were carried out to determine theeffect of quenching by the inhibitors and other interferingfactors. Each inhibitor was prescreened using pooled humanliver microsomes at inhibitor concentrations ranging from 0.1to 40 000 íM. The actual IC
+50values were determined using
+expressed human CYP1A2 enzyme and seven inhibitor con-centrations. The IC
+50values were calculated using nonlinearQSAR of CYP1A2 Inhibitors Journal of Medicinal Chemistry, 2005, Vol. 48, No. 11 3813
+
+regression analysis with Prism 4.0 software (San Diego, CA)
+from the results of two separate experiments.
+Because the purpose of this study was to create a model for
+CYP1A2 enzyme inhibition, IC 50values (measuring relative
+inhibition potency) rather than the absolute Kivalues were
+determined. This is justified because all measurements weremade under standardized conditions, and the results are thusfully comparable with each other.
+CoMFA and GRID/GOLPE Models. The construction of
+the molecules, superimposition, and CoMFA modeling wereperformed using the Sybyl 6.9 (Tripos Associates Inc., St.Louis, MO) molecular modeling software. The biological datawas transformed to pIC
+50(-log IC 50) values.
+Atomic point charges were calculated using the MMFF94
+method. Standard CoMFA analysis included steric and elec-trostatic fields that were calculated using the sp
+3carbon probe
+atom with a +1 charge an da2Å grid spacing. The standard
+derivation threshold for exclusion of columns from the partialleast squares (PLS) analysis was set at 2 kcal/mol. The PLSmethod with five random group cross-validations was used forstatistical analyses, and this calculation was repeated 20 timesto verify the stability of the obtained q
+2values. The optimum
+number of components for the nonvalidated analyses waschosen using the lowest S
+PRESS value and the highest q2value.
+The predictive capacity of the generated model was testedusing an external set of compounds (Table 6).
+In addition to the standard CoMFA model, another model
+was created using the GRID/GOLPE method. GRID fields werecreated using a phenolic hydroxyl probe wit h 1 Å grid spacing,
+and the positive cutoff was set to 5 kcal/mol. The phenolichydroxyl probe was chosen because it represents a hydrogenbond donor or acceptor that was found to be suitable forexamining aromatic systems. GRID fields of the moleculeswere analyzed with GOLPE.
+25,26
+Initially the GRID/GOLPE analysis included several vari-
+ables that did not describe interactions between inhibitorymolecules and the GOLPE hydroxyl probes. Therefore, theSRD and the F.Factorial Selection procedures were used toreduce the number of variables in the final GOLPE model.Data pretreatment was done using the zeroing option correc-tion. To diminish the amount of noise in the data, positivevalues smaller than 0.10 and negative values greater than-0.01 were zeroed. The SRD analysis was performed to select
+important variables for the interaction using a maximumdimensionality of 5 with a critical distance cutoff value of 1 Åand with a collapsing distance cutoff value of 2 Å. TheF.Factorial Selection procedure was used with a maximumdimensionality of 2, and the Random Groups method was usedwith five groups to separate a variable that significantlyimproves predictability. The final model was validated byusing PLS cross-validation with five random groups.
+Acknowledgment. We thank Hannele Jaatinen for
+expert technical assistance, Toni Ro ¨nkko ¨, M.Sc., and
+Outi Salo, M.Sc., for advice on QSAR methods, and Dr.Ewen MacDonald for comments on the manuscript.Human liver microsomes and some of the chemicalsused were provided by Dr. Miia Turpeinen and Prof.Olavi Pelkonen (Department of Pharmacology andToxicology, University of Oulu). This work was sup-ported by grants from the National Technology Agencyof Finland, TEKES (Projects 40187/04 and 40002/04).
+References
+(1) Eaton, D. L.; Gallagher, E. P.; Bammler, T. K.; Kunze, K. L.
+Role of cytochrome P4501A2 in chemical carcinogenesis: Im-plications for human variability in expression and enzymeactivity. Pharmacogenetics 1995 ,5, 259 -274.
+(2) Guengerich, F.; Parikh, A.; Turesky, R.; Josephy, P. Inter-
+individual differences in the metabolism of environmentaltoxicants: Cytochrome P450 1A2 as a prototype. Mutat. Res.
+1999 ,428, 115 -124.(3) Butler, M. A.; Iwasaki, M.; Guengerich, F. P.; Kadlubar, F. F.
+Human cytochrome P-450PA (P-450IA2), the phenacetin O-
+deethylase, is primarily responsible for the hepatic 3-demethy-lation of caffeine and N-oxidation of carcinogenic arylamines.Proc. Natl. Acad. Sci. U.S.A. 1989 ,86, 7696 -7700.
+(4) Robson, R. A.; Matthews, A. P.; Miners, J. O.; McManus, M. E.;
+Meyer, U. A.; Hall, P. M.; Birkett, D. J. Characterisation oftheophylline metabolism in human liver microsomes. Br. J. Clin.
+Pharmacol. 1987 ,24, 293 -300.
+(5) Sesardic, D.; Boobis, A. R.; Murray, B. P.; Murray, S.; Segura,
+J.; de la Torre, R.; Davies, D. S. Furafylline is a potent andselective inhibitor of cytochrome P450IA2 in man. Br. J. Clin.
+Pharmacol. 1990 ,29, 651 -663.
+(6) Brosen, K.; Skjelbo, E.; Rasmussen, B. B.; Poulsen, H. E.; Loft,
+S. Fluvoxamine is a potent inhibitor of cytochrome P4501A2.Biochem. Pharmacol. 1993 ,45, 1211 -1214.
+(7) Pelkonen, O.; Maenpaa, J.; Taavitsainen, P.; Rautio, A.; Raunio,
+H. Inhibition and induction of human cytochrome P450 (CYP)enzymes. Xenobiotica 1998 ,28, 1203 -1253.
+(8) Ekins, S.; de Groot, M. J.; Jones, J. P. Pharmacophore and three-
+dimensional quantitative structure activity relationship methodsfor modeling cytochrome p450 active sites. Drug Metab. Dispos.
+2001 ,29, 936 -944.
+(9) Fuhr, U.; Strobl, G.; Manaut, F.; Anders, E. M.; Sorgel, F.; Lopez-
+de-Brinas, E.; Chu, D. T.; Pernet, A. G.; Mahr, G.; Sanz, F.Quinolone antibacterial agents: Relationship between structureand in vitro inhibition of the human cytochrome P450 isoformCYP1A2. Mol. Pharmacol. 1993 ,43, 191 -199.
+(10) Sanz, F.; Lopez-de-Brinas, E.; Rodriques, J.; Manaut, F. Theo-
+retical study on the metabolism of caffeine by cytochrome P-4501A2 and its inhibition. Quant. Struct. -Act. Relat. 1994 ,13, 281 -
+284.
+(11) Lee, H.; Yeom, H.; Kim, Y. G.; Yoon, C. N.; Jin, C.; Choi, J. S.;
+Kim, B. R.; Kim, D. H. Structure-related inhibition of humanhepatic caffeine N3-demethylation by naturally occurring fla-vonoids. Biochem. Pharmacol. 1998 ,55, 1369 -1375.
+(12) De Rienzo, F.; Fanelli, F.; Menziani, M. C.; De Benedetti, P. G.
+Theoretical investigation of substrate specificity for cytochromesP450 IA2, P450 IID6 and P450 IIIA4. J. Comput.-Aided Mol.
+Des. 2000 ,14,9 3-116.
+(13) Lozano, J. J.; Pastor, M.; Cruciani, G.; Gaedt, K.; Centeno, N.
+B.; Gago, F.; Sanz, F. 3D-QSAR methods on the basis of ligand -
+receptor complexes. Application of COMBINE and GRID/GOLPEmethodologies to a series of CYP1A2 ligands. J. Comput.-Aided
+Mol. Des. 2000 ,14, 341 -353.
+(14) Lewis, D. F. V. On the recognition of mammalian microsomal
+cytochrome P450 substrates and their characteristics. Biochem.
+Pharmacol. 2000 ,60, 293 -306.
+(15) Moon, T.; Chi, M. H.; Kim, D.; Yoon, C. N.; Choi, Y. Quantitative
+structure -activity relationship (QSAR) study of flavonoid de-
+rivatives for inhibition of cytochrome P450 1A2. Quant. Struct. -
+Act. Relat. 2000 ,19, 257 -263.
+(16) Pastor, M.; Cruciani, G.; Clementi, S. Smart region definition:
+A new way to improve the predictive ability and interpretabilityof three-dimensional quantitative structure -activity relation-
+ships. J. Med. Chem. 1997 ,40, 1455 -1464.
+(17) Turpeinen, M.; Uusitalo, J.; Jalonen, J.; Pelkonen, O. Multiple
+P450 substrates in a single run: rapid and comprehensive invitro interaction assay. Eur. J. Pharm. Sci. 2005 ,24, 123 -132
+(18) Dai, R.; Pincus, M. R.; Friedman, F. K. Molecular modeling of
+mammalian cytochrome P450s. Cell. Mol. Life Sci. 2000 ,57,
+487-499.
+(19) Juvonen, R. O.; Gynther, J.; Pasanen, M.; Alhava, E.; Poso, A.
+Pronounced differences in inhibition potency of lactone and non-lactone compounds for mouse and human coumarin 7-hydroxy-lases (CYP2A5 and CYP2A6). Xenobiotica 2000 ,30,8 1-92.
+(20) Asikainen, A.; Tarhanen, J.; Poso, A.; Pasanen, M.; Alhava, E.;
+Juvonen, R. O. Predictive value of comparative molecular fieldanalysis modelling of naphthalene inhibition of human CYP2A6and mouse CYP2A5 enzymes. Toxicol. in Vitro 2003 ,17, 449 -
+455.
+(21) Rahnasto, M.; Raunio, H.; Poso, A.; Wittekindt, C.; Juvonen, R.
+O. Quantitative structure -activity relationship analysis of
+inhibitors of the nicotine metabolizing CYP2A6 enzyme. J. Med.
+Chem. 2005 ,48, 440 -449.
+(22) Ekins, S.; Berbaum, J.; Harrison, R. K. Generation and valida-
+tion of rapid computational filters for cyp2d6 and cyp3a4. Drug
+Metab. Dispos. 2003 ,31, 1077 -1080.
+(23) Erhardt, P. W. A human drug metabolism database: Potential
+roles in the quantitative predictions of drug metabolism andmetabolism-related drug -drug interactions. Curr. Drug Metab.
+2003 ,4, 411 -422.
+(24) Burke, M. D.; Thompson, S.; Elcombe, C. R.; Halpert, J.;
+Haaparanta, T.; Mayer, R. T. Ethoxy-, pentoxy- and benzyloxy-phenoxazones and homologues: A series of substrates to dis-tinguish between different induced cytochromes P-450. Biochem.
+Pharmacol. 1985 ,34, 3337 -3345.3814 Journal of Medicinal Chemistry, 2005, Vol. 48, No. 11 Korhonen et al.
+
+(25) Wade, R. C.; Clark, K. J.; Goodford, P. J. Further development
+of hydrogen bond functions for use in determining energetically
+favorable binding sites on molecules of known structure. 1.Ligand probe groups with the ability to form two hydrogenbonds. J. Med. Chem. 1993 ,36, 140 -147.(26) Baroni, M.; Constantino, G.; Cruciani, G.; Riganelli, D.; Valigi,
+R.; Clementi, S. Generating optimal linear PLS estimations(GOLPE): An advanced chemometric tool for handling 3D-QSARproblems. Quant. Struct. -Act. Relat. 1993 ,12,9-20.
+JM0489713QSAR of CYP1A2 Inhibitors Journal of Medicinal Chemistry, 2005, Vol. 48, No. 11 3815
+

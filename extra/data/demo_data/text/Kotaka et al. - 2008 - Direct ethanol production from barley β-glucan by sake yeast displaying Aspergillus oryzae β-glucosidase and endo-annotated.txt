@@ -1,0 +1,457 @@
+622JOURNAL  OF BIOSCIENCE  AND BIOENGINEERING © 2008, The Society for Biotechnology, Japan
+V ol. 105, No. 6, 622–627. 2008
+DOI: 10.1263/jbb.105.622
+Direct Ethanol Production from Barley β-Glucan
+by Sake Yeast Displaying Aspergillus oryzae
+β-Glucosidase and Endoglucanase
+Atsushi Kotaka,1* Hiroki Bando,1Masahiko Kaya,1Michiko Kato-Murai,2Kouichi Kuroda,2
+Hiroshi Sahara,1Yoji Hata,1Akihiko Kondo,3and Mitsuyoshi Ueda2
+Research Institute, Gekkeikan Sake Co. Ltd., 101 Shimotoba-koyanagi-cho, Fushimi-ku, Kyoto 612-8385,
+Japan,1Division of Applied Life Sciences, Graduate School of Agriculture, Kyoto University,
+Kitashirakawa-oiwake-cho, Sakyo-ku, Kyoto 606-8502, Japan,2and Department of
+Chemical Science and Engineering, Graduate School of Engineering, Kobe
+University, 1-1 Rokkodai-cho, Nada-ku, Kobe 657-8501, Japan3
+Received 26 December 2007/Accepted 29 February 2008
+Three β-glucosidase- and two endoglucanase-encoding genes were cloned from Aspergillus
+oryzae , and their gene products were displayed on the cell surface of the sake yeast, Saccharomyces
+cerevisiae  GRI-117-UK. GRI-117-UK/pUDB7 displaying β-glucosidase AO090009000356 showed
+the highest activity against various substrates and efficiently produced ethanol from cellobiose.
+On the other hand, GRI-117-UK/pUDCB displaying endoglucanase AO090010000314 efficiently
+degraded barley β-glucan to glucose and smaller cellooligosaccharides. GRI-117-UK/pUDB7CB
+codisplaying both β-glucosidase AO090009000356 and endoglucanase AO090010000314 was con-
+structed. When direct ethanol fermentation from 20 g/ l barley β-glucan as a model substrate was
+performed with the codisplaying strain, the ethanol concentration reached 7.94 g/ l after 24 h of
+fermentation. The conversion ratio of ethanol from β-glucan was 69.6% of the theoretical ethanol
+concentration produced from 20 g/ l barley β-glucan. These results showed that sake yeast display-
+ing A. oryzae  cellulolytic enzymes can be used to produce ethanol from cellulosic materials. Our
+constructs have higher ethanol production potential than the laboratory constructs previously re-
+ported.
+[Key words: sake yeast, Aspergillus oryzae , β-glucosidase, endoglucanase, cell surface engineering, cellulosic 
+materials]
+Ethanol from biomass is called bioethanol, a substitute
+for fossil  fuels  (1). Particularly, cellulosic biomass, such as
+agricultural and forestry residues, exists in huge quantitiesand is remarkable because it is not a food material. Ethanol
+production from cellulose is performed via the degradation
+of cellulose to cellooligosaccharides and glucose, followedby the conversion of glucose to ethanol by microorganisms
+such as yeast.
+Generally, to degrade cellulose, acid treatment with sul-
+fate is carried out, and then the solution is neutralized andused for ethanol fermentation. However, the residues by neu-
+tralization generate environmental load. On the other hand,degradation by enzymes, such as endoglucanase (EC. 3.2.1.4),
+β-glucosidase (EC. 3.2.1.21) and others, proceeds under mild
+conditions and emits less residues. The fermentation of glu-
+cose to ethanol is performed by various microorganisms in-
+cluding yeast. To date, the direct production of ethanol from
+cellulosic materials has been under development; the labo-ratory strain of Saccharomyces cerevisiae  displays cellu-lolytic enzymes on its cell surface and can simultaneously
+saccharify and ferment  (2). However, the growth  and etha-
+nol productivity of laboratory yeasts are inferior to those of
+practical strains, including sake yeasts.
+In Japanese sake brewing, koji mold ( Aspergillus oryzae )
+and sake yeast ( S. cerevisiae ) are used. Koji mold sacchari-
+fies rice starch and sake yeast ferments glucose to ethanol.
+This method is called simultaneous saccharification and fer-
+mentation. The enzymes that the koji mold secretes are used
+in making Japanese sake, soy sauce, miso, and so on. Koji
+mold produces a large amount and many types of enzymeunder various conditions. On the other hand, sake yeast rap-idly proliferates, vigorously ferments, has high ethanol re-
+sistance, and is stable in terms of quality. Particularly, sake
+yeast can produce ethanol until the ethanol concentrationreaches approximately 20% (v/v). However, S. cerevisiae
+cannot utilize cellulosic materials.
+Previously, two endoglucanases were cloned from A.
+oryzae , and their gene products were overproduced in A.
+oryzae  and characterized (3, 4), whereas two β-glucosidases
+produced by A. oryzae  were also purified and characterized
+(5, 6). Recently, it has been revealed that A. oryzae  has
+* Corresponding author. e-mail:  a_kotaka@gekkeikan.co.jp
+phone: +81-(0)75-623-2130 fax: +81-(0)75-623-2132
+SAKE YEAST DISPLAYING CELLULOLYTIC ENZYMES VOL. 105, 2008 623
+many cellulose degradation enzymes, because genomic in-
+formation  on A. oryzae  had been disclosed (7).
+In this study, the genes of A. oryzae  cellulolytic enzymes
+were cloned on the basis of genomic information. In addi-tion, the cell surface display technique is applied to sake
+yeast, and then the ethanol production was achieved using
+constructed strains that display β-glucosidase and endoglu-
+canase from A. oryzae  on their cell surface.
+MATERIALS AND METHODS
+Strains and media The microbial strains and plasmids used
+in this study  are listed in Table 1. The sake yeast strain GRI-117-UK
+was obtained by ethyl methane sulphonate mutagenesis of the wild
+type of sake yeast Kyokai no. 9 (Brewing Society of Japan), and
+then selected using the 5-fluoroorotic acid medium  (8) and α-amino-
+adipate medium  (9). E. coli was grown in Luria–Bertani medium
+containing 10 g/ l Polypepton, 5 g/ l yeast extract, 10 g/ l sodium chlo-
+ride and 100 mg/ l ampicillin. Yeast was cultivated aerobically at
+30°C in YPD medium (10 g/ l yeast extract, 20 g/ l Polypepton and
+20 g/ l glucose) or SD medium (6.7 g/ l yeast nitrogen base without
+amino acids, 20 g/ l glucose and appropriate supplements).
+Construction of plasmids To acquire the genes whose in-
+trons were eliminated, junction PCR was performed using theprimers  listed  in Table 2. At first, each  set of primers and A. oryzae
+chromosomal DNA were used to amplify a part of the gene by
+PCR. Next, the first PCR products and the primers annealing the
+5′-end and 3 ′-end of the gene were used to amplify the full length
+of the gene. The second PCR product was digested with SalI and
+HpaI and then inserted into plasmid pK113, containing the SED1
+promoter (10),  the secretion signal  sequence of Rhizopus oryzae
+glucoamylase gene, 3 ′-half of α-agglutinin gene  as the  anchor (11)
+and URA3  selectable marker, which was digested with SalI and SmaI.
+The plasmid for displaying both β-glucosidase B7 and endoglucanase
+CelB was constructed as follows. A DNA fragment containing the
+SED1  promoter, CelB gene and 3 ′-half of α-agglutinin was ampli-
+fied from pUDCB by PCR, using the primers, Psed800(AatII)F (5 ′-
+GGCGACGTCTTGGATATAGAAAATTAA-3 ′) and CAS1(AatII)R
+(5′-CGGCGACGTCTTTGATTATGTTCTTTCTA-3 ′), and then di-
+gested with AatII. The resulting fragment was inserted into plas-
+mid pUDB7 digested with AatII, yielding pUDB7CB.
+Yeast transformation The expression plasmids were intro-
+duced into S. cerevisiae  GRI-117-UK by the lithium acetate method
+(12). We selected the transformants  that showed the highest activ-
+ity using p-nitrophenyl 
+β-D-glucopyranoside or barley β-glucan asthe substrate.
+Enzyme  assays β-Glucosidase activity was measured in
+50 mM sodium acetate buffer (pH 5.0) at 37 °C with 1 mM p-nitro-
+phenyl β-D-glucopyranoside, p-nitrophenyl β-D-cellobioside, p-nitro-
+phenyl β-D-cellotrioside, cellobiose, gentiobiose and laminaribiose
+as the substrates. The cells were aerobically cultivated in YPD me-dium at 30 °C for 48 h, harvested by centrifugation, washed with
+distilled water, and resuspended in a reaction mixture with the op-
+tical density of 1.0 at 600 nm. After the reaction, the supernatants
+were separated by centrifugation, and the p-nitrophenol released or
+the reducing sugar remaining was determined by measuring the ab-
+sorbance  at 415 nm or by  the Somogyi–Nelson method (13), re-
+spectively. One unit of enzyme activity was defined as the amount
+of enzyme that released 1 μmol of p-nitrophenol or glucose from
+the substrate per min.
+Endoglucanase activity was confirmed by analyzing the prod-
+ucts released from barley β-glucan by the sake yeast displaying en-
+doglucanases. After cultivation in YPD medium for 48 h at 30 °C,
+the cells were collected by centrifugation and washed with distilledwater. Then the cells were disrupted using CelLytic-Y (Sigma-
+Aldrich, St. Louis, MO, USA) and resuspended in a reaction mix-
+ture containing 20 g/ l barley β-glucan (Sigma-Aldrich) and 50 mM
+sodium acetate buffer (pH 5.0). After the hydrolysis reaction at
+37°C, the supernatants were separated by centrifugation. The prod-
+ucts were detected by  thin-layer chromatography (TLC) (14).
+Ethanol production The transformants were aerobically
+precultivated for 24 h and then cultivated in YPD medium at 30 °C
+for 48 h. The cells were harvested by centrifugation and resus-
+pended in 50 g/ l cellobiose (pH 5.0) or 20 g/ l barley β-glucan (pH
+5.0) with the optical density of 5.0 or 20 at 600 nm, respectively.The small-scale fermentation (100 ml of cellobiose solution in a250-ml closed bottle or 20 ml of barley β-glucan solution in a 50-ml
+closed bottle) was carried out anaerobically at 30 °C. The ethanol
+concentration was measured by gas chromatography. The gas chro-matograph (model GC-8A; Shimadzu, Kyoto) was operated under
+the following conditions: Gasukuropack54; temperatures of col-
+umn and injector, 180 and 250 °C, respectively; N
+2 carrier gas flow
+rate, 60 ml/min.
+RESULTS
+Display of β-glucosidase and endoglucanase A. oryzae
+β-glucosidase (B3, B6 and B7) and endoglucanase (CelA
+and CelB) genes were selected on the basis of A. oryzae  ge-
+nomic  information (http://www.bio.nite.go.jp/dogan/).  ThereTABLE 1. Characteristics of microbial strains and plasmids
+Strain or plasmid Features
+Strains
+E. coli  DH5 α F– endA1  hsdR17  (rK–/mK–) supE44 thi-1  λ– recA1  gyrA96  ΔlacU169  (φ80lacZ ΔM15)
+GRI-117-UK Mutant of sake yeast Kyokai No. 9, MATa/α ura3 /ura3 lys2 /lys2
+GRI-117-UK/pUDB3 GRI-117-UK displaying β-glucosidase B3
+GRI-117-UK/pUDB6 GRI-117-UK displaying β-glucosidase B6
+GRI-117-UK/pUDB7 GRI-117-UK displaying β-glucosidase B7
+GRI-117-UK/pUDCA GRI-117-UK displaying endo-1,4-glucanase CelAGRI-117-UK/pUDCB GRI-117-UK displaying endo-1,4-glucanase CelBGRI-117-UK/pUDB7CB GRI-117-UK displaying both β-glucosidase B7 and endo-1,4-glucanase CelB
+PlasmidspUDB3 URA3 , cell surface expression of A. oryzae  β-glucosidase B3 gene
+pUDB6 URA3 , cell surface expression of A. oryzae  β-glucosidase B6 gene
+pUDB7 URA3 , cell surface expression of A. oryzae  β-glucosidase B7 gene
+pUDCA URA3 , cell surface expression of A. oryzae celA
+pUDCB URA3 , cell surface expression of A. oryzae celB
+pUDB7CB URA3 , cell surface expression of both A. oryzae  β-glucosidase B7 gene and celB
+KOTAKA ET AL. J. BIOSCI . BIOENG ., 624
+are three A. oryzae  β-glucosidase genes in the glycoside hy-
+drolases family 1 (GH1). For one of them, the initiation
+codon and intron could not be determined. We selected two
+β-glucosidases of GH1, β-glucosidases B3 and B6. β-Glu-
+cosidase B7 was selected as one of the GH3 enzymes that
+were homologous to the well-known β-glucosidase from A.
+aculeatus  (15, 16). On the other  hand, we cloned two endo-
+glucanase genes, CelA and CelB, as previously reported forthe enzymes that A. oryzae  secretes. All of the cloned genes
+in this study except for celB were interrupted by introns. Wecloned these genes by fusing each exon because the introns
+of A. oryzae  cannot be removed in yeast cells. The lengths
+of the genes of the intronless β-glucosidases B3, B6 and B7,
+and endoglucanases CelA and CelB were 1317, 1521, 2586,720 and 1251 bp, respectively. These gene fragments were
+inserted into the expression vector pK113 (Fig. 1), and then,
+to transform S. cerevisiae  GRI-117-UK, the constructed plas-
+mids were digested with StuI. Each linear DNA fragment
+was introduced into the yeast chromosomal DNA by homol-ogous recombination using the lithium acetate method.TABLE 2. PCR primers used in this study
+Protein Primer Sequence (5 ′-3′)
+β-Glucosidase B3 
+(AO090003000497)B3-1F GAACGTCGACATGGGTTCCACTTCAACATC
+B3-1R AATCTGGTAACTCGCTGTTGCGAATCCCCAB3-2F CAACAGCGAGTTACCAGATTGAAGGAGCCG
+B3-2R AATGCGGGACCAAGAGAGTGAGAAACGGTA
+B3-3F CACTCTCTTGGTCCCGCATTATTCCACTCGB3-3R AGGTCGTCCACGAACTTTATATAATATTGC
+B3-4F ATAAAGTTCGTGGACGACCTGCATGCTGCT
+B3-4R GCCCAATCACCATTAAGAGTGATGCCAATCB3-5F ACTCTTAATGGTGATTGGGCCGAGCCTTGG
+B3-5R TTCGAAGTTATCCATCAAACTCCAAGCCAT
+B3-6F GTTTGATGGATAACTTCGAATGGGCCGAGGB3-6R CGTAGTCCACGTAAGTCACTCCGAATCGTG
+B3-7F AGTGACTTACGTGGACTACGAGAATAACCA
+B3-7R CTTAGTTAACCAGCTTTCTCAATGTATTGG
+β-Glucosidase B6 
+(AO090113000148)B6-1F AGCAGTCGACATGAACGTGAATATGTTCAAGGCCGGGGACGACATCCTCCAG
+GATGTGGACCAATCATGTAAAGACCG
+B6-1R AAAGGGAGGATTCTGGCCCAGGCGATCGAGB6-2F GGGCCAGAATCCTCCCTTTAGGCGGGCGTGB6-2R CGTCGCGTACGCCTGCACAGCAGCTGTATG
+B6-3F CTGTGCAGGCGTACGCGACGGACTTTCAAC
+B6-3R GATTGGTCGCCGATAGCGATCCCAGACCCAB6-4F TCGCTATCGGCGACCAATCGTAGTCACGGA
+B6-4R GCAGACCATTCAAAATTATCCATCAATGAC
+B6-5F GATAATTTTGAATGGTCTGCTGGATATGGTB6-5R AACCTCTAAGGCTTGTTGCCCTCCGTTTAT
+β-Glucosidase B7 
+(AO090009000356)B7-1F CCACGTCGACATGAAGCTTGGTTGGATCGAGGB7-1R CGAGATCATCCTTGGCACTGACTACTGAGGB7-2F CAGTGCCAAGGATGATCTCGCGTACTCCCC
+B7-2R TAGTTGCCATCCTGTTCCAGTCGTTAAGTT
+B7-3F CTGGAACAGGATGGCAACTAGAGAGGTGTGB7-3R GATGTTGAGTCTGGGAACACTGCCAGTTTG
+B7-4F GTGTTCCCAGACTCAACATCCCCAGCTTGT
+B7-4R TTGTAGTCCGAGAAACGAATACCAAGAGGAB7-5F ATTCGTTTCTCGGACTACAATTCAGCTTTC
+B7-5R CACGAACTCGTTGACCCTCTCGTAAGCACC
+B7-6F AGAGGGTCAACGAGTTCGTGGACGTGCAACB7-6R ATAAACTCATGGATTCTTTCCAGCCCCTCC
+B7-7F CTGGAAAGAATCCATGAGTTTATCTATCCC
+B7-7R GGGAAACGTACAGCTGAGGAACTTCATCACB7-8F TCCTCAGCTGTACGTTTCCCTAGGCGGCCCGAA
+B7-8R AACCCTGGGCCTTAGGCAGCGACGCCTGGAGCGGCAGTTT
+Endoglucanase CelA 
+(AO090026000102)CA-1F CCGCGTCGACATGAAGCTCTCATTGGCACT
+CA-1R GCGTGCGAGCCAAATCATCAGTTCATAATC
+CA-2F TGATGATTTGGCTCGCACGCTACGGTACTACA-2R AACTGCATATTGATCAAGTACTGGGCAGAA
+CA-3F TACTTGATCAATATGCAGTTCGGAACTGAG
+CA-3R CCGCGTTAACCGTTGACACTGGCAGTCCAG
+Endoglucanase CelB 
+(AO090010000314)CB-1F CCGCGTCGACATGATCTGGACACTCGCTCC
+CB-1R GGAGGCGTCAACATCGAAGGTGAATTCCTG
+CB-2F CTTCGATGTTGACGCCTCCACCCTCGTCTGCB-2R GATTGAGTCAACAGTTTTTCCTCCAGAGGT
+CB-3F AAAAACTGTTGACTCAATCACAAAGGACTT
+CB-3R CCGCGTTAACCATGCCTGTAGGTAGATCCA
+SAKE YEAST DISPLAYING CELLULOLYTIC ENZYMES VOL. 105, 2008 625
+Enzyme activities The β-glucosidase activities on the
+cell surface of the yeast transformants are listed in Table 3.
+The β-glucosidase activity was determined using synthetic
+substrates and glucobioses. After the yeast transformants
+were cultivated aerobically at 30 °C for 48 h in YPD me-
+dium, the yeast strain displaying β-glucosidase B7 (GRI-
+117-UK/pUDB7) showed the highest activity among thesetransformants against various substrates, particularly p-ni-
+trophenyl β-
+D-glucopyranoside, cellobiose and gentiobiose,
+while no activity was detected in strain GRI-117-UK/pK113
+used as a control  (Table 3). In  the experiments on ethanol
+production, we decided to use strain GRI-117-UK/pUDB7
+that displays β-glucosidase B7.
+ To confirm the endoglucanase activity, TLC analysis was
+performed. We measured the endoglucanase activity after
+the disruption of the harvested cells because glucose re-
+leased from barley β-glucan was taken up by yeast cells assoon as degradation occurred. After the yeast transformants
+were cultivated aerobically in YPD medium at 30 °C for
+48 h, the disrupted cells (OD600=5.0) were used in the re-
+action at 16 h, and the degradation of barley β-glucan to the
+smaller oligosaccharides and glucose was detected (Fig. 2).
+The yeast strain displaying CelB (GRI-117-UK/pUDCB)produced more cellobiose and glucose than the yeast strain
+displaying CelA (GRI-117-UK/pUDCA). No activity was
+detected in the yeast strain harboring the control plasmid(GRI-117-UK/pK113). To produce ethanol from cellulose,
+we decided to use strain GRI-117-UK/pUDCB that displays
+endoglucanase CelB.
+Ethanol production from cellobiose Direct fermenta-
+tion from cellobiose to ethanol was performed using the yeaststrain displaying β-glucosidase B7 (GRI-117-UK/pUDB7).
+The highest ethanol concentration was approximately 21.6 g/ l
+after 48 h of fermentation  (Fig. 3). The ethanol  yield was
+0.432 g/g of cellobiose added. This value corresponded to
+80.3% of the theoretical ethanol concentration produced from
+50 g/ l cellobiose. No ethanol was produced by GRI-117-
+UK/pK113 used as the control.
+Ethanol
+ production  from barley  β-glucan Barley
+β-glucan was used as the model biomass of cellulosic mate-
+rial. For the direct fermentation of barley β-glucan to etha-
+nol, a cellulose-utilizing yeast strain was constructed by in-tegrating plasmid pUDB7CB, which made the yeast codis-FIG. 1. Expression plasmids for cell surface display of β-glucosi-
+dase and/or endoglucanase. (A) Cell surface expression plasmid of
+β-glucosidase or endoglucanase; (B) pUDB7CB, cell surface expres-
+sion plasmid of both β-glucosidase and endoglucanase.
+FIG. 2. TLC analysis of hydrolysis products released from barley
+β-glucan. Lane 1, Standards of glucose, cellobiose and cellotriose; lane 2,
+blank sample; lane 3, products after reaction with GRI-117-UK/pK113;lane 4, GRI-117-UK/pUDCA; lane 5, GRI-117-UK/pUDCB.
+TABLE 3. Substrate specificity of each yeast strain displaying β-glucosidase
+Substrate (1 mM)Specific activity of enzyme (mU/g dry cell weight)
+GRI-117-UK
+/pK113GRI-117-UK
+/pUDB3GRI-117-UK
+/pUDB6GRI-117-UK
+/pUDB7
+p-Nitrophenyl β-D-glucopyranoside n.d. 1.92 1.91 20.9
+p-Nitrophenyl β-D-cellobioside n.d. 0.147 0.0421 7.65
+p-Nitrophenyl β-D-cellotrioside n.d. 0.0496 0.0230 4.91
+o-Nitrophenyl β-D-xylopyranoside n.d. n.d. n.d. 4.08
+Cellobiose ( β-1,4) n.d. 6.24 5.30 52.0
+Laminaribiose ( β-1,3) n.d. 2.78 1.64 11.7
+Gentiobiose ( β-1,6) n.d. 6.65 6.96 73.7
+Values represent the averages of three independent experiments. n.d., Not detected.
+KOTAKA ET AL. J. BIOSCI . BIOENG ., 626
+play β-glucosidase B7 and endoglucanase CelB on the cell
+surface. With the resulting cellulose-utilizing yeast strain,
+GRI-117-UK/pUDB7CB, direct ethanol fermentation from
+cellulose was performed. The highest ethanol concentrationwas 7.94 g/l after  24 h of fermentation (Fig.  4). This corre-
+sponded to 69.6% of the theoretical ethanol concentrationproduced from 20 g/ l barley β-glucan. A similar result was
+obtained when the yeast strains, GRI-117-UK/pUDB7 and
+GRI-117-UK/pUDCB were simultaneously used. GRI-117-
+UK/pUDCB produced 0.59 g/ l ethanol, while GRI-117-
+UK/pK113 and GRI-117-UK/pUDB7 produced no ethanol.
+DISCUSSION
+Three genes encoding β-glucosidase were cloned from A.
+oryzae  and the gene products were displayed on the yeast
+cell surface. We could obtain the useful genes efficiently byexploiting the A. oryzae  genomic information. According to
+the genomic information, there are 26 β-glucosidase-encod-
+ing genes. However, only a few β-glucosidases were reported
+before (5, 6),  and others are not  considered  to be produced
+by A. oryzae  cells. β-Glucosidases displayed on the yeast
+cell surface showed various substrate specificities. The activ-ity of GRI-117-UK/pUDB7 was higher than those of GRI-117-UK/pUDB3 and GRI-117-UK/pUDB6. β-Glucosidases
+B3 and B6 belong to GH1, and β-glucosidase B7 belongs to
+GH3. The structural difference among these enzymes wouldaffect the activity. β-Glucosidase B7 shows high homology
+with A. aculeatus  β-glucosidase 1 (79%) and A. niger  β-glu-
+cosidase (77%), which have very high β-glucosidase activi-
+ties (15–17). β-Glucosidase B7 showed high activities for
+all the substrates used in this study. Because β-glucosidase
+B7 showed high activity for cellobiose, it is considered suit-able for degrading cellooligosaccharides. In contrast, there
+are some endoglucanase-encoding genes in the A. oryzae
+genomic DNA. The endoglucanases CelA and CelB could
+degrade barley β-glucan to cellooligosaccharides and glu-
+cose. CelB can degrade more efficiently than CelA (Fig. 2).
+GH7 enzymes, to which CelB belongs, exist only in eukary-otes, but GH12 enzymes, to which CelA belongs, are widely
+expressed in various species. It was reported that Tricho-derma viride  endoglucanase I, a GH7 enzyme, (18) and
+Thermotoga neapolitana  endo-1,4-glucanase B, a GH12 en-
+zyme,  (19) can degrade cellooligosaccharides to glucose. In
+this study, A. oryzae  CelB also produced smaller cellooligo-
+saccharides and glucose, and it was considered that A. oryzae
+CelB is comparable to other enzymes such as the T. viride
+endoglucanase I. The sake yeasts displaying CelB showed
+high activity for barley β-glucan. This strain is expected to
+degrade cellulose.
+Yeast S. cerevisiae  cannot decompose and assimilate cel-
+lulose. To address these problems, the cell surface engineer-
+ing was applied to an industrial strain, sake yeast. In our
+study, sake yeast strains displaying β-glucosidase and endo-
+glucanase from A. oryzae  on the cell surface were constructed.
+Displaying multiple types of enzyme on the cell surface is
+useful. We could use only one strain to degrade barley β-glu-
+can because a codisplaying strain was constructed. GRI-
+117-UK/pUDB7CB, displaying both β-glucosidase B7 and
+endoglucanase CelB, had as much β-glucosidase activity as
+GRI-117-UK/pUDB7, but the endoglucanase activity wasnot determined because the degradation products of barley
+β-glucan (cellooligosaccharides and glucose) were not found
+(data not shown). It is assumed that the cellooligosaccha-
+rides were degraded to glucose by the β-glucosidase on the
+cell surface and the yeast immediately consumed glucose.
+The endoglucanase of GRI-117-UK/pUDB7CB indirectly
+showed ethanol  production from  barley β-glucan (Fig.  4).
+In the previous report (20), the laboratory yeast  MT8-1
+displaying A. aculeatus  β-glucosidase (MT8-1/BGL) was
+constructed. The transformant (OD
+600 of 20) produced 19.3 g/ l
+ethanol from 50 g/ l cellobiose in 24 h. In contrast, in this
+study, the sake yeast GRI-117-UK/pUDB7 (OD600 of 5.0)
+produced 21.6 g/ l ethanol from 50 g/ l cellobiose in 48 h. The
+theoretical ethanol productions from 50 g/ l cellobiose were
+71.7% (MT8-1/BGL) and 80.3% (GRI-117-UK/pUDB7).The conversion rate of ethanol from cellobiose was higher
+using GRI-117-UK/pUDB7. In another report, MT8-1 dis-
+playing both A. aculeatus  β-glucosidase and TrichodermaFIG. 3. Production of ethanol from 50 g/ l cellobiose. Symbols: circles,
+GRI-117-UK; squares, GRI-117-UK/pUDB7.
+FIG. 4. Production of ethanol from 20 g/ l β-glucan. Symbols: closed
+circles,  GRI-117-UK;  open triangles,  GRI-117-UK/pUDB7;  closed
+triangles, GRI-117-UK/pUDCB; open squares, mixture of GRI-117-
+UK/pUDB7 and GRI-117-UK/pUDCB; closed squares, GRI-117-UK/pUDB7CB.
+
+SAKE YEAST DISPLAYING CELLULOLYTIC ENZYMES VOL. 105, 2008 627
+reesei  endoglucanase (MT8-1/pBG211/pEG23u31H6 ）was
+constructed (2).  The transformant produced 16.5 g/l ethanol
+from 45 g/ l barley β-glucan in 50 h, and this corresponded
+to 64.2% of the ethanol concentration theoretically produced
+from 45 g/ l β-glucan. In contrast, in this study, the sake yeast
+we constructed (GRI-117-UK/pUDB7CB) produced 7.94 g/ l
+ethanol from 20 g/ l barley β-glucan in 24 h, and this corre-
+sponded to 69.6% of the ethanol concentration theoreticallyproduced from 20 g/ l β-glucan. The conversion rate of etha-
+nol
+ from barley  β-glucan  was higher  using  GRI-117-UK/
+pUDB7CB. These results raise the possibility that cellulose-utilizing sake yeasts are useful for ethanol production. GRI-
+117-UK/pUDCB displaying CelB produced only 0.59 g/ l
+ethanol from 20 g/ l barley β-glucan because it could not re-
+lease glucose sufficiently. Therefore, the codisplaying strainGRI-117-UK/pUDB7CB was demonstrated to be useful for
+the direct ethanol production from cellulose.
+Now, in the United States and Brazil, ethanol is produced
+from sugarcane and corn, and used as fuel on a large scale.However, these carbon sources could be eaten, so it is hopedthat the biomass that could not be eaten, such as cellulose, is
+used. Actually, food prices are rising because bioethanol is
+produced from starch. In this study, our results revealed thatthe combination of sake yeast and koji mold enzymes is very
+attractive for biomass conversion to energy. In addition, thecellulose-utilizing sake yeast GRI-117-UK/pUDB7CB stillhas lysine auxotrophy that can be used for displaying more
+β-glucosidases and endoglucanases, or other glycoside hy-
+drolases. The genes encoding other cellulose-degrading en-
+zymes such as cellobiohydrolase and exoglucanase also exist
+in the A. oryzae  genome. We now attempt to display cello-
+biohydrolase and/or exoglucanase on the cell surface of GRI-
+117-UK/pUDB7CB. The enhancement of cellulose-degrad-
+ing enzyme activities will lead more efficient ethanol pro-
+duction. The cellulose-utilizing sake yeasts constructed inthis study are expected to produce ethanol from cellulose
+efficiently.
+ACKNOWLEDGMENTS
+This work was financed by the Japan Science and Technology
+Agency (JST).
+REFERENCES
+1.Lin, Y. and Tanaka, S.:  Ethanol fermentation from biomass
+resources: current state and prospects. Appl. Microbiol.
+Biotechnol., 69, 627–642 (2006).
+2.Fujita, Y., Takahashi, S., Ueda, M., Tanaka, A., Okada,H., Morikawa, Y., Kawaguchi, T., Arai, M., Fukuda, H.,and Kondo, A.:  Direct and efficient production of ethanol
+from cellulosic material with a yeast strain displaying cellulo-lytic enzymes. Appl. Environ. Microbiol., 68, 5136–5141
+(2002).
+3.Kitamoto, N., Go, M., Shibayama, T., Kimura, T., Kito, Y.,Ohmiya, K., and Tsukagoshi, N.:  Molecular cloning, purifi-
+cation and characterization of two endo-1,4- β-glucanases from
+Aspergillus oryzae  KBN616. Appl. Microbiol. Biotechnol.,
+46, 538–544 (1996).4.de Vries, R. P. and Visser, J.: Aspergillus  enzymes involved
+in degradation of plant cell wall polysaccharides. Microbiol.Mol. Biol. Rev., 65, 497–522 (2001).
+5.Mega, T. and Matsushima, Y.:  Comparative studies of three
+exo-β-glycosidases of Aspergillus oryzae . J. Biochem., 85,
+335–341 (1979)
+6.Riou, C., Salmon, J. M., Vallier, M. J., Günata, Z., and
+Barre, P.:  Purification, characterization, and substrate speci-
+ficity of a novel highly glucose-tolerant β-glucosidase from
+Aspergillus oryzae . Appl. Environ. Microbiol., 64, 3607–3614
+(1998).
+7.Machida, M., Asai, K., Sano, M., Tanaka, T., Kumagai, T.,Terai, G., Kusumoto, K., Arima, T., Akita, O., Kashiwagi,
+Y., and other 54 authors:  Genome sequencing and analysis
+of Aspergillus oryzae . Nature, 438, 1157–1161 (2005).
+8.Boeke, J. D., LaCroute, F., and Fink, G. R.:  A positive se-
+lection for mutants lacking orotidine-5 ′-phosphate decarboxy-
+lase activity in yeast: 5-fluoro-orotic acid resistance. Mol. Gen.
+Genet., 197, 345–346 (1984).
+9.Zaret, K. S. and Sherman, F.:  α-Aminoadipate as a primary
+nitrogen source for Saccharomyces cerevisiae  mutants. J.
+Bacteriol., 162, 579–583 (1985).
+10. Wu, H., Zheng, X., Araki, Y., Sahara, H., Takagi, H., and
+Shimoi, H.:  Global gene expression analysis of yeast cells
+during sake brewing. Appl. Environ. Microbiol., 72, 7353–
+7358 (2006).
+11. Murai, T., Ueda, M., Yamamura, M., Atomi, H., Shibasaki,
+Y., Kamasaka, N., Osumi, M., Amachi, T., and Tanaka,
+A.: Construction of starch-utilizing yeast by cell surface engi-
+neering. Appl. Environ. Microbiol., 63, 1362–1366 (1997).
+12. Ito, H., Fukuda, K., Murata, K., and Kimura, H.:  Trans-
+formation of intact yeast cells treated with alkali cations. J.Bacteriol., 153, 163–168 (1983).
+13. Wood, T. M. and Bhat, K. M.:  Methods for measuring cellu-
+lase activities. Methods Enzymol., 160, 87–112 (1988).
+14. Murai, T., Ueda, M., Kawaguchi, T., Arai, M., and Tanaka,
+A.: Assimilation of cellooligosaccharides by a cell surface-
+engineered yeast expressing β-glucosidase and carboxymethyl-
+cellulase from Aspergillus aculeatus . Appl. Environ. Microbiol.,
+64, 4857–4861 (1998).
+15. Sakamoto, R., Arai, M., and Murao, S.:  Enzymic properties
+of three β-glucosidases from Aspergillus aculeatus . Agric.
+Biol. Chem., 49, 1283–1290 (1985).
+16. Kawaguchi, T., Enoki, T., Tsurumaki, S., Sumitani, J.,
+Ueda, M., Ooi, T., and Arai, M.:  Cloning and sequencing of
+the cDNA encoding β-glucosidase 1 from Aspergillus aculeatus .
+Gene, 173, 287–288 (1996).
+17. Dan, S., Marton, I., Dekel, M., Bravdo, B. A., He, S.,
+Withers, S. G., and Shoseyov, O.:  Cloning, expression, char-
+acterization, and nucleophile identification of family 3, Asper-
+gillus niger  β-glucosidase. J. Biol. Chem., 275, 4973–4980
+(2000).
+18. Kwon, I., Ekino, K., Goto, M., and Furukawa, K.:  Heterol-
+ogous expression and characterization of endoglucanase I(EGI) from Trichoderma viride  HK-75. Biosci. Biotechnol.
+Biochem., 63, 1714–1720 (1999).
+19. Bok, J. D., Yernool, D. A., and Eveleigh, D. E.:  Purification,
+characterization, and molecular analysis of thermostable cel-
+lulases CelA and CelB from Thermotoga neapolitana . Appl.
+Environ. Microbiol., 64, 4774–4781 (1998).
+20. Katahira, S., Mizuike, A., Fukuda, H., and Kondo, A.:Ethanol fermentation from lignocellulosic hydrolysate by a
+recombinant xylose- and cellooligosaccharide-assimilating
+yeast strain. Appl. Microbiol. Biotechnol., 72, 1136–1143
+(2006).

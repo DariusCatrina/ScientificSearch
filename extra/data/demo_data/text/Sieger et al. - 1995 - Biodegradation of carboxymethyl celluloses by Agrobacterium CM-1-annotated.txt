@@ -1,0 +1,596 @@
+ELSEVIER Carbohydrate Poi_vmers 27 (1995) 137-143 
+Elsevier Science Limited. 
+Printed in Great Britain. 
+0144-8617(95)00039-9 0l44-8617/95/%09.50+.00 
+Biodegradation of carboxymethyl celluloses by 
+Agrobacterium CM-l 
+C.H.N. Sieger,” A.G.M. Kroon, J.G. Batelaan & C.G. van Ginkel 
+Akzo Nobel Central Research, Analytical and Environmental Chemistry Department, Velperweg 76, 6824 BM Arnhem 
+The Netherlands 
+(Received 1 November 1994: revised version received 20 January 1995; accepted 30 January 1995) 
+A Gram-negative rod tentatively identified as an Agrobacterium sp. was isolated 
+from activated sludge with carboxymethyl cellulose (CMC) with a degree of 
+substitution as the of 0.6 sole carbon and energy source. Not only did CMC DS 
+(degree of substitution) 0.60 support the growth of this strain but also CMC DS 
+0.75, CMC DS 1.12, glucose and cellobiose. Agrobacterium CM-l did not utilize 
+cellulose. The metabolism of CMC is initiated by hydrolytic reactions catalysed 
+by free and cell-bound endoglucanases. CMCs are only partially degraded by 
+Agrobacterium CM-l. The extent of biodegradation of CMC DS 0.60, CMC DS 
+0.75 and CMC DS 1.12 determined in chemostat cultures increased with 
+decreasing DS. The monomer compositions of CMCs and their biodegradation 
+products revealed that only glucose and, remarkably, monosubstituted 6-glucose 
+units are mineralized. As a consequence biodegradation of CMC by Agrobacter- 
+ium CM-I results in the formation of carboxymethylated oligomers with DS 
+values greater than those of the original CMC. The DS of the original CMC also 
+determined the chain length of the resulting oligomers. 
+INTRODUCTION 
+Water-soluble polymers can be divided into three 
+groups: natural, synthetic and semisynthetic like cellu- 
+lose ethers. The cellulose ethers are the most abundant 
+of the semisynthetic polymers, with sodium carbox- 
+ymethyl cellulose (CMC) as the most important repre- 
+sentative. CMC is a colourless-to-cream coloured 
+material, produced by the reaction of cellulose hydro- 
+xyls with chloroacetate. The average number of hydro- 
+xyls in the glucose unit which have reacted is called the 
+degree of substitution (DS) and CMCs are categorized 
+accordingly (Stelzer & Klug, 1980). Because it is only 
+partially carboxymethylated, CMC may be regarded as 
+a copolymer of eight monomers: unsubstituted glucose, 
+monosubstituted (2-, 3- and 6-), disubstituted (2,3-, 2,6- 
+and 3,6-) and trisubstituted (2, 3, 6-) glucose (Reuben, 
+1986). 
+CMC, a protective colloid, emulsifying and binding 
+agent, is used in many fields including coatings, 
+cosmetics, detergents, foods, textiles, pharmaceuticals 
+and the oil industry. Because of the water-solubility of 
+the compound, it eventually finds its way into waste 
+streams and ultimately into surface water. Therefore, 
+*Author to whom correspondence should be addressed. knowledge about the biodegradability of CMC is desir- 
+able in order to assess the impact on the environment. 
+The initial biodegradation of CMC probably involves 
+the enzymatic hydrolysis of the glycosidic linkages by 
+cellulases (Batelaan et al., 1992). The enzyme system can 
+be roughly subdivided into three enzyme groups: P-D- 
+glucosidases or cellobiases (EC 3.2.1.21) cellobiohy- 
+drolases or exoglucanases (EC 3.2.1.91) and 1,4-D- 
+glucanohydrolases or endoglucanases (EC 3.2.1.4). /3- 
+Glucosidases hydrolyse cellobiose and some soluble 
+cello-oligosaccharides to give glucose. Exoglucanases 
+release terminal cellobioses from the non-reducing end 
+of the cellulose chain and are active on the crystalline 
+parts whereas the endoglucanases hydrolyse amorphous 
+cellulose randomly to give glucose, cellobiose and cello- 
+dextrins (Beguin & Aubert, 1994; Wood & Garcia- 
+Campayo, 1994). 
+The carboxymethylation of cellulose makes the mate- 
+rial soluble in water. Carboxymethylation influences the 
+mode of action of cellulases, enabling only endogluca- 
+nases to act on the CMC chain. The degree of substitu- 
+tion is the predominant parameter governing the 
+enzyme reaction, whereas the degree of polymerization 
+of the cellulose derivatives does not significantly affect 
+enzymatic hydrolysis. The presence of one carbox- 
+ymethyl group on each glucose unit makes the molecule 
+137 
+138 C.H.N. Sieger et al. 
+completely resistant to enzymatic attack (Reese et al., 
+1950; Reese, 1957; Wirick, ,196s). Wirick (1968) found 
+that enzyme-induced chain scission occurred only at 
+sites with three or more adjacent unsubstituted glucose 
+units. Kalsulke et al. (1988) extended this finding by 
+demonstrating the enzyme attack takes place at sequen- 
+ces of three or more unsubstituted glucose units, leaving 
+CMC chains ending with unsubstituted glucose units. 
+All these investigations are based on work with 
+partially purified cellulases usually derived from fungi. 
+The purpose of this study was to elucidate a possible 
+mechanism of CMC breakdown by isolated bacteria. To 
+this end a bacterium capable of degrading CMC was 
+isolated and characterized, and the initial biodegrada- 
+tion of CMCs varying in degree of substitution was 
+studied. Finally, an attempt was made to correlate the 
+extent of CMC biodegradation by the isolated bacter- 
+ium with the theoretically calculated frequencies and 
+distribution of substituted and unsubstituted glucose 
+units. fers in fresh medium, serial dilutions of the enrichment 
+culture were streaked onto agar plates. One strain was 
+isolated from the agar plates. The bacterium was routi- 
+nely grown in chemostats (Applikon, Schiedam, The 
+Netherlands). The chemostat cultures were supplied 
+with mineral salts medium to which CMC DS 0.60, 
+CMC DS 0.75 or CMC DS 1.12 had been added at a 
+dilution rate of 0.04 h-‘. The temperature was main- 
+tained at 30°C. 
+Bacterial characterization 
+The bacterium was characterized by Gram staining and 
+by determining the biochemical properties using a 
+commercially taxonomic kit, API NE 20 (Biomerieux, 
+Marcy-l’Etoile, France). 
+Growth experiments 
+MATERIALS AND METHODS 
+Chemicals 
+CMC DS 1.12, 0.75 and 0.60 were supplied by Akzo 
+Nobel Functional Chemicals, Amersfoort, The Nether- 
+lands. The other chemicals were obtained from Janssen 
+Chimica, Beerse, Belgium and Sigma Chemical Co., St. 
+Louis, USA. The ability of the isolated strain to utilize various 
+substrates for growth was tested in lOOm1 Erlenmeyer 
+flasks containing 20ml of mineral salt medium with 
+growth substrate. After inoculation, the Erlenmeyer 
+flasks were incubated for 20 days at 30°C. Growth was 
+determined visually by comparing the increase of 
+turbidity of the cultures with a control without 
+substrate. Growth rates of the isolated strain at 30°C 
+were determined by following the increase of turbidity 
+using a nephelometer (Hach, Loveland, USA). 
+Preparation of washed cell suspension and supernatant 
+Crystalline cellulose (ex Sigma) was swollen in 10% 
+NaOH in water for 5 h. Next the water was partially 
+removed using a Biichner funnel. The residue in the 
+funnel was suspended in 200 ml of 10% H2S04 and 
+neutralized. Finally, the resulting product was filtered 
+through a 12-pm paper filter. The isolated bacterium was grown on CMC DS 0.60 
+and glucose. Cells were harvested in the exponential 
+growth phase by centrifugation (Suprafuge 22, Heraeus 
+Sepatech GmbH, Osterode, Germany) at 10,OOOg at 
+4°C for 15 min, washed with phosphate buffer (pH 7.0, 
+50mM) and suspended in the same buffer. 
+Growth media, isolation and maintenance of the 
+bacterium Oxygen uptake experiments 
+The liquid mineral salt medium contained per litre of 
+deionized water: 0.85g of NaH2P04.2H20, 1.55g of 
+K2HP04, 0.5 g of NH&l, 0.1 g of MgS04.7H20, 0.01 g 
+of FeS04.7H20, 0.01 g of CaC12.2H20, 0.01 g of NaED- 
+TA.2H20, and 0.1 ml of a trace element solution (Vish- 
+niac & Santer, 1957). All growth media were prepared by 
+adding 1 g 1-l growth substrate to the mineral salt 
+medium with the exception of the CMCs (0.4 g I-‘). Agar 
+plates were prepared by the addition of 4gl-’ of CMC 
+DS 0.6 and 15 g I-’ of agar to the above mineral salt 
+medium. The ph of the medium was approximately 7.0. The oxygen uptake rates of washed cell suspensions 
+were measured using a biological oxygen monitor 
+(Yellow Springs Instruments Inc, Yellow Springs, USA) 
+equipped with an oxygen electrode. Endogenous oxygen 
+uptake by washed cells (total volume, 5 ml) was 
+measured for 5 min at 30°C. Subsequently 100~1 of a 
+substrate solution (1 gll’) was added and the substrate- 
+dependent respiration was monitored for at least 5 min. 
+Enzymatic assays 
+Isolation of CMC-degrading bacteria was carried out Endoglucanase (EC 3.2.1.4), exoglucanase (EC 3.2.1.91) 
+by aerobically incubating activated sludge obtained and /3-glucosidase (EC 3.2.1.21) activities were 
+from a plant treating domestic waste water in liquid measured in both supernatant and pellet from a culture 
+mineral salts media containing CMC DS 0.60 as sole grown on 4gll’ of CMC DS 0.60. A portion (20ml) of 
+carbon and energy source. After three successive trans- the culture was centrifuged (15 min, lO,OOOg, 4°C) after 
+Biodegradation of carboxymethyl celluloses 139 
+which the pellet was suspended in 20ml of phosphate 
+buffer (pH 7.0, 50 mM). 
+Endoglucanase activity was determined by measuring 
+reducing sugars from the hydrolysis of 1 ml of 0.5% 
+CMC DS 0.60 solution. A quantity of 0.02% sodium 
+azide was added as a preservative to inhibit the utiliza- 
+tion of sugars released by endoglucanase activity. 
+Portions (1 ml) of the resuspended pellet were incubated 
+at 30°C for 1 h. After the incubation period the reaction 
+was stopped by placing the mixture tubes in ice water. 
+The amount of reducing sugars was determined using 
+the 3,5-dinitrosalicylic acid method of Miller (1959). 
+The enzyme activities in the supernatant were deter- 
+mined in the same way. 
+Exoglucanase and p-glucosidase activity were deter- 
+mined according to the method of Deshpande et al. 
+(1984) with some modifications. p-Nitrophenyl$-D- 
+cellobioside (pNPC) and p-nitrophenyl-p-D-glucopyr- 
+anoside (pNPG) were employed for the determination 
+of exoglucanase and /$glucosidase activity, respectively. 
+The assay mixtures contained 0.9 mg ml-’ of pNPC or 
+pNPG in phosphate buffer (pH 7.0, 50mM) and 0.2 ml 
+of culture fluid in a total volume of 2ml. Exoglucanase 
+activity was determined in the presence of D-glUCOnO- 
+1.5~&lactone (0.5 mg mll’) to inhibit /?-glucosidase 
+activity. Incubation conditions were the same as descri- 
+bed above. The amounts of p-nitrophenol released were 
+calculated using the molar extinction coefficient of 
+18.5 ml pmoll’cm-’ for p-nitrophenol at 410 nm. 
+Preparation of degradation products 
+The extent as well as the mode of biodegradation of 
+CMC was determined by analysing the original CMCs 
+and the biodegradation products formed in chemostat 
+cultures. To prepare the degradation products for 
+analysis, 21 of effluent of the chemostat cultures were 
+collected and centrifuged (15 min, lO,OOOg, 4°C). Next 
+the supernatant was concentrated by evaporation using 
+a Rotavap (Heidolph, model W2000) and finally the 
+product was freeze-dried (Virtis Company, New York, 
+USA). 
+Analyses 
+The non-purgeable organic carbon (NPOC) contents of 
+the influent and effluent of the chemostat cultures were 
+determined using a Dohrmann DC-190 TOC apparatus 
+(Rosemount Analytical Inc., Santa Clara, USA). Prior 
+to injection all samples were acidified to enable removal 
+of carbon dioxide by purging. 
+Gas-liquid chromatography (GLC) analysis was used 
+to determine the substituent distribution in CMCs and 
+their biodegradation products. The samples were 
+methanolysed in an acidified methanol solution. During 
+the methanolysis the B- 1 ,Cglucosidic linkages were 
+broken, resulting in a mixture of carboxymethylated glucose residues and glucose. GLC analyses were 
+carried out on a Perkin-Elmer Model 8410 gas chroma- 
+tograph equipped with an SE-30 bounded-phase, fused 
+silica capillary column (25 m x 0.32 mm I.D. Pierce) and 
+a flame ionization detector connected to a Shimadzu C- 
+R3A integrator. The temperature of the column was set 
+from 150 to 250”~ with an increase of 4°C min-‘, and 
+kept at 250°C for 5min. 
+High-performance size exclusion chromatography 
+(HPSEC) was used to determine the relative molecular 
+weight distribution of CMC. Prior to analysis the CMC 
+samples were dissolved in 0.2 M ammonium acetate and 
+filtered (Spartan 30/B, 0.45pm, Schleicher & Schtill). 
+HPSEC was performed on an ultrahydrogel linear 
+column (300 x 7.8mm, Waters) with a flow rate of 
+0.7 ml min-’ The eluent was monitored with a Waters 
+411 refractive index (RF: 32 x 20) detector. The 
+temperature of the column was 30°C and the running 
+time was 45min. The amount of cell protein in the cell 
+suspensions was determined using the bicinchoninic acid 
+method, with serum albumin as a standard (Pierce, 
+Rockford, USA). 
+RESULTS 
+Isolation and characterization 
+CMC-degrading bacteria were enriched from secondary 
+activated sludge of a sewage plant treating predomi- 
+nantly domestic waste water. Serial dilutions of the 
+enrichment culture were streaked onto CMC plates. A 
+colony excessively present was isolated and designated 
+as CM-l. Strain CM-l was a Gram-negative motile rod, 
+which formed round, slimy cream-coloured colonies 
+when plated on solidified medium containing 1 gl-’ of 
+glucose. The strain was able to oxidize cytochrome c, to 
+reduce nitrates, to hydrolyse aesculin and p-nitrophenyl- 
+fl-D-galactopyranoside (PNGP), but not gelatin. It 
+produced neither indole, arginine dihydrolase nor acid 
+from glucose. Strain CM-l assimilated arabinose, 
+mannose, mannitol, N-acetylglucosamine, citrate, 
+phenylacetate, adipate, caprate, acetate, lactose, 
+maltose, mannose, and starch. On the basis of the above 
+characteristics the organism was tentatively classilied as 
+an Agrobacterium sp. 
+Growth and whole cell studies 
+CMC DS 0.60, CMC DS 0.75 and CMC DS 1.12 serve 
+as growth substrates for Agrobacterium CM-l. The 
+doubling time on CMC DS 0.60 amounts to approxi- 
+mately 4h. Other cellulose ethers i.e. hydro- 
+xyethylcellulose MC 1.2 DS 0.9 and methylcellulose DS 
+0.9 also support growth but celluloses, i.e. Avicel and 
+Sigmacell type 100 did not. Moreover, no growth was 
+observed on cellulose pretreated with NaOH to improve 
+140 C.H.N. Sieger et al. 
+the bioavailability. The strain was capable of growing 
+on glucose and cellobiose. The generation time on 
+glucose and cellobiose is 1.5 h. 
+In addition, the respiration by strain CM-l pregrown 
+on glucose and on CMC DS 0.60 was measured. 
+Comparing the oxygen uptake it is clear that CM-l 
+pregrown on glucose medium is not able to respire 
+CMCs (Table 1). The oxygen uptake of substituted 
+glucose was not tested because such compounds were 
+not available. 
+Chemostats were supplied with influent containing 
+CMCs with different DS. The NPOC concentration of 
+the influent and steady-state effluent of the chemostat 
+cultures and the calculated removal percentages are 
+presented in Table 2. Biodegradation expressed as 
+removal percentage decreases with increasing DS. 
+Exoglucanases (EC 3.2.1.91), endoglucanases 
+(EC 3.2.1.4) and fi-glucosidases (EC 3.2.1.4) 
+The inability of the isolated bacterium to grow on 
+cellulose may be explained by the lack of exogluca- 
+nases. Indeed, no exoglucanase activity was observed. 
+Subsequently, the assumption that biodegradation of 
+CMC proceeded by an initial hydrolytic reaction cata- 
+lysed by endoglucanases was investigated. Endogluca- 
+nases are extracellular enzymes either bound or free 
+(Wood & Garcia-Campayo, 1994). At least part of the 
+endoglucanases are anchored to the cell surface 
+because a washed cell suspension of CMC-grown 
+bacteria was capable of oxidizing CMC (Table 1). 
+Therefore the endoglucanase production by Agro- 
+bacterium CM-l growing on CMC DS 0.60 in a batch 
+culture was measured in supernatant and pellet 
+cultures. The total endoglucanase activity which 
+increased during growth, was distributed over the 
+pellet and the supernatant of the culture. During 
+growth of Agrobacterium CM-l in the batch culture 
+70-80% of the endoglucanase activity was found in 
+the pellet (Fig. 1). The endoglucanase activity of the 
+pellet was approximately 20pmol glucose mg cell 
+protein-’ h-’ . 
+The utilization of cellobiose for growth suggested 
+P-glucosidase activity. /I-glucosidase activity was detec- 
+ted using p-nitrophenol-/I-D-glucopyranoside as 
+substrate. The estimated a-glucosidase activity of the Table 1. Rates of oxygen uptake by washed cell suspeusious of 
+Agrobacterium CM-1 grown on glucose and CMC DS 060 
+Substrate 
+Glucose 
+Cellobiose 
+CMC DS 0.60 
+CMC DS 0.75 O2 nmol min-’ (mg protein-‘) 
+Glucose CMC DS 0.60 
+28.5 12.9 
+14.9 20.4 
+0.0 10.5 
+0.0 11.7 
+pellet was 0.4pmolmg cell protein-’ h-‘. In the super- 
+natant no p-glucosidase activity was detected. 
+Identification of the degradation products 
+Glucose and cellobiose released by endoglucanase 
+activity are metabolized by Agrobacterium CM-l (Table 
+1). The utilization of these carbohydrates probably 
+results in the formation of carboxymethylated oligo- 
+mers. This assumption agrees with the incomplete 
+biodegradation of CMCs in the chemostate cultures 
+(Table 2). To study and identify these oligomers, CMC 
+DS 0.60, CMC DS 0.75 and CMC DS 1.12 were degra- 
+ded in chemostat cultures. The CMCs and their degra- 
+dation products were characterized using gas-liquid 
+chromatography (GLC) and high-performance size 
+exclusion chromatography (HPSEC). The DS of the 
+CMC before and after subjection to biodegradation was 
+calculated using the measured monomer composition. 
+Biodegradation of CMC resulted in an increase of the 
+DS (Table 2). 
+Assuming that the di- and tricarboxymethylated 
+glucose units are resistant to biodegradation, degrada- 
+tion of glucose and monosubstituted glucose can be 
+estimated with the di- and trisubstituted glucoses as 
+internal standard. The biodegradation of glucose and 
+monosubstituted glucoses expressed in percentages is 
+shown in Table 3. Although primarily glucose was 
+utilized during the biodegradation of CMCs, it is clear 
+that also monosubstituted 6-glucose units were utilized 
+by Agrobacterium CM-l. 12 and 15% of the carbon 
+removed by biodegradation in the chemostats fed with 
+CMC DS 0.60 and CMC DS 0.75, respectively, is 
+derived from the monosubstituted 6-glucose units. The 
+calculated biodegradation percentages of all CMCs are 
+Table 2. The NPOC concentrations of influent and steady-state effluent of cbemostat cultures fed 
+with different CMCs 
+CMC NPOC Influent 
+(mg 1-l) NPOC Effluent 
+(mgt-‘) Biodegradation 
+W) DS of the 
+biodegradation 
+products 
+DS 0.60 1268.4 1060.2 16.4 0.68 
+DS 0.75 1304.6 1141.9 12.5 0.84 
+DS 1.12 1293.6 1232.2 5.0 1.16 
+The removal percentages are calculated from the NPOC values. 
+Biodegradation of carboxymethyl celluloses 141 
+25, 
+20 =‘ 
+k 
+i 
+? 15 
+7! 
+.3 
+x 10 .5 > .- 
+t; 
+Q 
+5 
+0 
+0 2 4 6 8 IO 
+Time (days) 
+Fig. 1. Growth of Agrobacterium CM-l measured as an increase of cell protein (0) and endoglucanase activity in the supernatant 
+(0) and bound to the cell (m). 
+Table 3. Mol percentages of glucose and monosubstituted glucose of CMC DS 0.60, CMC DS 
+0.75 and CMC DS 1.12 and the mol percentages degraded by Agrobacterium CM-1 
+Sample Glucose 
+mol (X) Mono-3 Mono-2 Mono-6 
+CMC DS 0.60 50.0 8.5 18.0 14.0 
+Monomers of CMC DS 0.60 degraded 14.2 0.2 0.5 2.3 
+CMC DS 0.75 41.0 10.0 20.0 14.0 
+Monomers of CMC DS 0.75 degraded Il.1 0.0 0.0 1.7 
+CMC DS 1.12 23.0 11.0 24.0 12.0 
+Monomers of CMC DS 1.12 degraded 4.0 0.6 0.3 0.6 
+in agreement with the removal percentages in the 
+chemostat cultures (Table 4). 
+In order to investigate the depolymerization of the 
+CMCs by Agrobacterium CM-l, the elution patterns 
+and the average molecular number (Mn) of the degra- 
+dation products were determined. The CMCs used as 
+substrate have the same degree of polymerization. The 
+elution patterns of the degradation products show that 
+with decreasing DS the average elution time substan- 
+tially increases. Absolute average molecular weights 
+cannot be estimated because the hydrodynamic volume 
+of the anionic CMC is not equal to the cello-oligomers 
+and the dextran standard used in the calibration plot 
+(Hamacher & Sahm, 1985). However, an estimate of 
+the ratio of the number of chain scissions can be 
+made: 
+Mnos o,6/Mnproduct DS o6o:MnDs od”$rociuct DS 0.75: 
+i%lDs ,.,#i’fIlpro~uct DS 1.12 = 3.4: 2.6: 1.0. Table 4. Predicted degradation percentages assuming that 
+glucose or glucose and monosubstituted 6-glucose are liberated 
+according to the model of Kalsulke et 111. (1988) in comparison 
+with the percentages determined with GLC and NPOC 
+CMC Predicted Experimental 
+Glucose Glucose and mono GLC NPOC 
+substituted 6-glucose 
+DS 0.60 13 26 16 16 
+DS 0.75 7 13 13 13 
+DS I.12 1 4 4 5 
+The polymer chain lengths of the degradation 
+products demonstrate that cleavage by Agrobacterium 
+CM-l was less effective at higher DS values leaving 
+fragments with a higher degree of polymerization. This 
+is consistent with the results found in the carbon and 
+GLC analyses. 
+142 C.H.N. Sieger et al. 
+DISCUSSION 
+Agrobacterium CM-l used in this study was isolated 
+with CMC DS 0.6 as sole carbon and energy source 
+from sludge taken from a plant treating domestic waste 
+water. Agrobacterium CM-l was chosen because it was 
+excessively present in the enrichment culture. The 
+growth rate of the bacterium on CMC DS 0.6 and 
+glucose is 0.2 and 0.5 h-’ , respectively. Comparing these 
+generation times, it is conceivable that the liberation of 
+carbohydrates is the rate limiting step in the biode- 
+gradation of CMC. Oxygen uptake rates monitored for 
+glucose and cellobiose (Table 1) demonstrate, as postu- 
+lated by Bhattacharjee & Perlin (1971), that these 
+compounds are utilized as carbon and energy sources 
+during growth on CMC. 
+Agrobacterium CM-l cannot grow on cellulose. The 
+absence of exoglucanase activity accounts for the 
+inability to grow on cellulose. This is consistent with 
+other observations because most bacteria producing 
+cellulases appear to release only endoglucanases which 
+show little activity to crystalline cellulose (Wood & 
+Garcia-Campayo, 1994). 
+Biodegradation of CMCs by strain CM-l is initiated 
+through hydrolysis catalysed by endoglucanases exist- 
+ing in bound and in free form (Fig. 1). The endogluca- 
+nases involved in the hydrolysis of CMCs are inducible 
+because washed cell suspensions of glucose-grown 
+Agvobacterium CM-l do not respire CMCs. Finally, 
+only bound a-glucosidase was detected. Wood & 
+Garcia-Campayo (1994) stated that there may be 
+certain situations where cell-bound enzymes will be 
+more efficient in the degradation of macromolecules. 
+This includes the situation where the microorganisms 
+are in an aquatic environment such as waste water 
+treatment plants. Biodegradation of the CMCs in 
+chemostat cultures was followed by determining the 
+NPOC content of the influent and the effluent. All 
+CMCs are partially degraded and the extent of biode- 
+gradation of the CMCs depends upon the DS of these 
+substrates. The polymer stability increases with 
+increasing DS. This relationship was also established in 
+previous studies with fungal cellulases (Philip & 
+Stscherbina, 1992). 
+To identify the organic carbon in the effluent of the 
+chemostat cultures, the monomer composition and the 
+substituent distribution over the monomeric units of the 
+degradation products were determined using GLC 
+analysis. The DS of the biodegradation products of the 
+CMCs is greater than the original CMCs (Table 2). The 
+extent of biodegradation of CMC reflects the degrada- 
+tion of glucose and monosubstituted 6-glucose units, 
+resulting in an increase of the DS. The carbox- 
+ymethylated oligomers formed vary in the degree of 
+polymerization due to biodegradation of varying 
+amounts of glucose and monosubstituted 6-glucose 
+(Table 3). An explanation of the mode of biodegradation of 
+CMC by Agrobacterium CM-l may be obtained by 
+correlating the measured amount of unsubstituted 
+glucose units with a statistical analysis. If a random 
+distribution is assumed for the unsubstituted glucose 
+units in CMC, it is possible to predict the probable 
+frequency of two or more adjacent unsubstituted 
+glucose units. In studies with fungal cellulases the 
+probability of three adjacent unsubstituted glucose 
+units is an indication of the extent of hydrolysis of 
+CMC (Wirick, 1968). In view of this, Kalsulke et al. 
+(1988) developed a model to predict the release of 
+unsubstituted glucose. The release of unsubstituted 
+glucose was predicted by assuming that the enzyme 
+attack takes place at sequences of three or more 
+unsubstituted glucose units, leaving CMC chains 
+ending with unsubstituted glucose units. The predicted 
+release of unsubstituted glucose from the CMC samples 
+is compared with the measured degradation percen- 
+tages. It is obvious that the former are much too low. 
+However, not only unsubstituted glucose units were 
+degraded but also monosubstituted 6-glucose units 
+(Table 3). On the basis of the assumption that all 
+monosubstituted 6-glucose units are viewed as unsub- 
+stituted glucose by exoglucanases, the release of 
+unsubstituted glucose and monosubstituted 6-glucose 
+can be predicted using the model developed by 
+Kalsulke et al. (1988). Although the predicted releases 
+of CMC DS 0.75 and CMC DS 1.12 are similar to those 
+actually found, this mode of attack is not valid because 
+a much higher release is predicted for CMC DS 0.60 
+than actually measured (Table 4). The mode of biode- 
+gradation by Agrobacterium CM-l cannot be predicted 
+using the model developed by Kalsulke et al. (1988). It 
+appears that for the liberation of glucose and mono- 
+substituted 6-glucose, the presence of special groupings 
+is required. 
+Although carboxymethylated oligomers persist in 
+pure cultures of Agrobacterium CM-l, these 
+compounds are subject to biodegradation by other 
+microorganisms. A high biodegradation percentage 
+achieved in a prolonged Closed Bottle test suggests 
+complete mineralization of CMC DS 0.7 (van Ginkel 
+& Stroo, 1993). In further studies we intend to assess 
+the biodegradation of CMC in simulation tests of 
+waste water treatment plants and to determine the 
+toxicity of CMC and the biodegradation products to 
+aquatic organisms. 
+ACKNOWLEDGEMENTS 
+We are grateful to C. ‘t Hart, L. Riemers and M. 
+Nyenhuis- de Lange for performing analyses. This 
+investigation was supported by the Akzo Nobel Tech- 
+nology and Environment Department, Arnhem, The 
+Netherlands. 
+Biodegradation of carboxymethyl celluloses 143 
+REFERENCES 
+Batelaan, J.G., van Ginkel, C.G. & Balk, F. (1992). Carboxy- 
+methylcellulose (CMC). In The Handbook of Environmental 
+Chemistry, Volume 3 Part F, ed. 0. Hutzingev. pp. 329- 
+336. 
+Beguin, P. & Aubert, J. P. (1994). The biological degradation 
+of cellulose. FEMS Microbial. Rev., 13, 25-58. 
+Bhattacharjee, S.S. & Perlin, A.S. (1971). Enzymatic degrada- 
+tion of carboxymethylcellulose and other cellulose 
+derivatives. J. Polymer Sci., 36, 509-521. 
+Deshpande, M.V., Erikson, K.E. & Petterson, L.G. (i984). An 
+assay for selective determination of exo- 1.4+glucanase in 
+a mixture of cellulolytic enzymes. Analyt. Biochem., 138, 
+481487. 
+Hamacher, K. & Sahm, H. (1985). Characterization of 
+enzymatic degradation products of carboxymethyl cellu- 
+lose by gel chromatography. Carbohydr. Polym., 5, 319- 
+327. 
+Kalsulke, U., Linow, K.J., Philip, B. & Dautzenberg, H. 
+(1988). Untersuchungen zum hydrolytischen Abbau 
+wasserloslicher Cellulosederivate unter homogenen 
+Reaktionsbedingungen. 4. Mitteillung: Mechanismus 
+der enzymatischen Hydrolyse. Acta Polym., 39, 127- 
+130. 
+Miller, G.L. (1959). Use of dinitrosalicylic acid reagent for 
+determination of reducing sugar. Analyt. Chem., 31, 426 
+428. 
+Philip, B. & Stscherbina, D. (1992). Enzymatischer Abbau von Cellulosederivaten im Vergleich zu Cellulose und 
+Lignocellulose. Das Papier 12, 71@721. 
+Reese, E.T. (1957). Biological degradation of cellulose 
+derivatives. Industrial Eng. Chem., 49, 89-93. 
+Reese, E.T., Siu, R.G.H. & Levinson, H.S. (1950). The biolo- 
+gical degradation of soluble cellulose derivatives and its 
+relationship to the mechanism of cellulose hydrolysis, J. 
+Bacterial.. 59, 485497. 
+Reuben, J. (1986). Analysis of the 13C-N.M.R. spectra of 
+hydrolyzed and methanolysed 0-methylcelluloses: mono- 
+mer compositions and models for their description. Carbo- 
+hydr. Res., 157, 201-213. 
+Stelzer, G.I. & Klug, E.D. (1980). Carboxymethyl cellu- 
+lose. In Handbook of Water-soluble Gums and Resins, 
+ed. R.L. Davidson. McGraw-Hill, New York, pp.4/1- 
+4/28. 
+van Ginkel, C.G. & Stroo, C.A. (1993). Simple method to 
+prolong the Closed Bottle test for the determination of the 
+inherent biodegradability. Ecotoxic. Environ. Safety, 24, 
+3 19-327. 
+Vishniac, W. & Santer, M. (1957). The thiobacilli. Bacreriol. 
+Rev., 21, 195-213. 
+Wirick, M.G. (1968). A study of the enzymic degradation of 
+CMC and other cellulose ethers. J. Po/_ym. Sci., 6, 19655 
+1974. 
+Wood, T.M. & Garcia-Campayo, V. (1994). Enzymes and 
+mechanisms involved in microbial cellulolysis. In Biochem- 
+istry of’ Microbial Degradation, ed. C. Ratledge. pp. 1977 
+231. 

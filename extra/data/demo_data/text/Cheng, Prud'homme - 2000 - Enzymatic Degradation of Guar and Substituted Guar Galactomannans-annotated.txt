@@ -1,0 +1,394 @@
+Enzymatic Degradation of Guar and Substituted Guar
+Galactomannans
+Yu Cheng* and Robert K. Prud’homme
+Department of Chemical Engineering, Princeton University, Princeton, New Jersey 08544
+Received September 26, 2000; Revised Manuscript Received September 26, 2000
+Enzymatic degradation of guar galactomannan is studied using gel permeation chromatography (GPC) and
+steady shear viscometry. In very dilute polymer solutions, reaction rate increases with first-order kineticswithsubstrateconcentration.Intheintermediateconcentrationregime,theenzyme/polymerbindingsaturates,andthedegradationkineticsiszero-order.TheobservationsareinaccordwithaMichaelis -Mentonkinetics
+model. The Michaelis -Menton parameter, K
+mandVmax, were determined to be 0.6 mM and 7.8 10-10
+mol/(mL s) for guar at pH )7, where the maximal velocity of the reaction, Vmax, was measured in terms
+of the molar concentration of glycosidic bonds broken per unit time. However, as the solution increases inconcentration, the reaction rate decreases and the enzyme diffusion through the concentrated polymer gelbecomes a limiting factor. A reaction -diffusion model is presented to express the competition between
+enzyme reaction and diffusion. The scaling theory and kinetic data are used to define the boundaries of thepolymer concentration regimes between substrate (i.e., polymer strand) limited reactions, enzyme limitedreactions,andhindereddiffusionlimitedreactions.Theinfluenceofpolymerderivatizationonthedegradationkinetics was also explored. The degradation rate was shown to be greatly affected by the type of substituentgroups as well as the degree of substitution. The triggering mechanism and controlled degradation werefound for the enzymatic hydrolysis of cationically derivatized guar solutions.
+Introduction
+Guar galactomannan is a naturally occurring polysaccha-
+rideconsistingofalinearbackboneof â-1,4-linkedmannose
+units with R-1,6-lined galactose units randomly attached as
+side chains (Figure 1). The ratio of mannose to galactoseunits is 1.6:1 to 1.8:1.
+1Guar is widely used as a rheology
+modifier due to its excellent thickening ability.2One of the
+major applications is in the hydraulic fracturing process inoil and gas recovery. During the process, a guar-basedfracturingfluidisblendedwithsand(proppant)andpumpeddown the wellhole to the oil formation under high pressureup to 20 000 psi. As a result, fractures are created radiallyfrom the wellbore and the proppants keep the fracture fromclosing once the pressure is released. After the fracture isformed, a breaker is applied to degrade the guar to a lowviscosity fluid so that it can be pumped back out of theformation. Finally pressure is released from the well, andthe fractures provide a network of channels for the flow ofoil out of the rock with decreased flow resistance, therebyenhancing the rate of recovery.
+3
+Enzymatic breakers have proven to be an efficient and
+environmentally benign method for the degradation of frac-turing fluids.
+4,5The enzyme breakers are preferable to oxi-
+dative breakers, because (a) they are true “catalysts”, andtherefore can be used at low concentrations; (b) they arerelatively high in molecular weight and they remain trappedwith the guar polymer rather than being filtered off into therock formation as is the case with low molecular weight
+oxidizers; (c) they are environmental benign; and (d) theyare less susceptible to dramatic changes in activity by tracecontaminants. Three kinds of bonds in guar are susceptibleto enzymatic hydrolysis: the endo- and exo- â-1,4 linkages
+on the
+D-mannose backbone and the R-1,6 linkage between
+themannoseunitandthegalactoseside-chain.Theenzymesthat cleave these bonds are respectively endo- and exo- â-
+mannanase and R-galactosidase. To improve the efficiency
+of oil recovery and design enzymes with better properties,it is important to understand the enzymatic degradationkinetics in guar solutions as well as the correlation betweenthe kinetics and the rheological properties of the fracturingfluids during the degradation.
+Various studies have investigated the enzymatic depo-
+lymerization of polysaccharides due to the great utilization
+* To whom correspondence should be addressed. Fax: 609-258-0211.
+E-mail: yucheng@princeton.edu.
+Figure 1. Structure of guar. Guar has a linear backbone of â-1,4-
+linked mannose units with R-1,6-lined galactose units randomly
+attached as side chains. The ratio of mannose to galactose units is1.6:1 to 1.8:1.782 Biomacromolecules 2000,1,782-788
+10.1021/bm005616v CCC: $19.00 © 2000 American Chemical Society
+Published on Web 11/03/2000
+Downloaded via THE PROCTER & GAMBLE US on September 14, 2020 at 17:55:41 (UTC).
+See https://pubs.acs.org/sharingguidelines for options on how to legitimately share published articles.
+
+ofnewpolysaccharidematerialsfortheproductionoffoods,
+fuels and specialty chemicals.6However, most of these
+studies concentrated on the degradation of cellulose, starch,and dextran.
+7-9â-D-Mannanases are produced by plants,
+bacteria and fungi. They catalyze the hydrolysis of 1,4- â-
+D-mannosidic linkages in galactomannan polymers. Their
+abilitytodegradethesesubstratesdependsbothonthedegreeofpolymerizationandgalactosesubstitutionlevels.
+10Bulpin
+etal.useda R-galactosidasetomodifythesidechaincontent
+of natural guar. The modified guar has applications in foodindustry by forming synergistic gels with xanthan and-carageenan.
+11Tayaletal.studiedtheenzymaticdegradation
+kineticsofhighmolecularweightnativeguar.5Guarsolution
+viscosity was found to be very sensitive to the enzymatichydrolysis and decreased by several orders of magnitudeduring the course of degradation. An empirical zero-orderkinetics is recently reported by using Gammanase, a com-mercial mixed enzymatic system, to cleave the guar back-bone.
+12However, they only studied the degradation over a
+certain range of polymer concentrations. There is no reporton the degradation kinetics at very low and high polymerconcentration ranges. In addition, they studied only nativeguar and did not consider guar substitution effects.
+In standard laboratory practice guar/enzyme reactions are
+monitored by studying viscosity reductions of
+1/2-1w t%
+polymer solutions.13However, no data appears in the
+literature on the degradation rate in high concentration guarfluids such as occur in the actual field operation where theguar filter cake has 3 -7 wt % polymer.
+14Also, a range of
+substitutedguarsareusedinhydraulicfracturingoperations.But there has been no published data on the effect ofsubstitution on reactivity. In this study, we followed theenzymaticdegradationprocessoverawiderangeofsubstrateconcentrations by using gel permeation chromatography(GPC) and steady shear viscometry. A Michaelis -Menton
+modelisusedtoexplaintheresultsbasedonpreviousstudiesofSugaetal.
+8Wealsoproposedareaction -diffusionmodel
+to further discuss the competition between enzyme reactionand diffusion in all concentration ranges. In addition, guarcan be modified by grafting side-groups ( -R) onto the hy-
+droxylsites.Threecommerciallyavailablederivatizedguarswere used in this study: hydroxypropyl guar (HPG), car-boxymethyl guar (CMG), and hydroxypropyl trimethylam-moniumguar(HPTMAG)(Figure2).HPGisaneutralpoly-mer,whilebothCMGandHPTMAGareionizedinsolution.The â-mannanase enzyme we used in the experiment has
+an isoelectric point (pI) of 3.5,
+15so in a polymer solution at
+pH 7 the enzyme is negative charged. Therefore, by addingeither neutral or charged groups on guar, we studied boththestericandcolumbicinteractionsbetweentheenzymeandthe substrate for the three derivatized guars, and exploredthe effect of side groups on the degradation kinetics.
+Experimental Section
+Materials. The polymers we used in this study are guar
+(Rhone-Poulenc, Inc., Cranbury, NJ, SCN13835), HPG(Rhone-Poulenc, Inc., Cranbury, NJ, SCN13833), CMG(Rhone-Poulenc, Inc., Cranbury, NJ, SCN13834) and HPT-MAG (Rhone-Poulenc, Inc., Cranbury, NJ). The guar solu-tions are prepared by the following procedure: a 1000 mL
+wide mouth jar containing 150 mL of deionized water isstirred using a mixing impeller with speed adjusted to 1000rpm to form a deep vortex. The n1go f guar powder is
+sprinkled slowly onto the liquid-free surface over a 3-min
+interval to produce a uniform dispersion and stirring con-tinuesfor5min.Another49mLofdeionizedwaterisaddedto wash all the residual powder on the beaker walls into thesolution. The mixing speed is then reduced to 500 rpm foran additional 60 min. After the speed is reduced, 100 ppmofsodiumazide(FisherChemical)isaddedasapreservative.The solution pH is adjusted to 7.0 using HCl (EM Science).Finally, the polymer solution is transferred to a containerand placed on a low shear roller for approximately 20 -24 h
+to complete hydration. To clarify solutions and remove celldebris, polymer solutions were centrifuged at 16 000 gfor 4
+h.Thefinalpolymerconcentrationismeasuredbydryweightanalysis. The endo- â-mannanase extracted from Aspergillus
+nigerwas obtained from Megazyme Inc. The enzyme was
+suppliedasanammonimsulfatesuspensionin0.02%sodiumazide. A 1.35 íL aliquot of this suspension was diluted in 2
+mL of 0.1 M sodium acetate (EM Science)/acetic acid(Glacial, FisherChemical) buffer solution with pH adjustedto 6.
+Enzymatic Degradation. The enzymatic degradation
+reaction was run in a sealed jar at room temperature. ThepH of the guar solution was adjusted 7.0. The 0.2 mL ofenzyme buffer solution was injected into 200 mL of guarsolutionusingamicrosyringe.Themixturewasmagneticallystirredduringthereaction.Afterthereactionbegan,aliquotsof the guar and enzyme mixture were taken out at varioustimes. Each aliquot was immediately heated to 100 °C for
+20 min to denature the enzyme and stop the reaction. Bio-chemical analyses reveal that the half-life of endo â-man-
+nanase is 6 min at 85 °C.
+12The viscosity of the solution
+doesnotchangeaftertheenzymeisdenatured.Experimentswere also done to show that this denaturing protocol (i.e.,heat treatment) did not produce a viscosity reduction forpolymer solutions in the absence of enzymes (data notshown).Tocompareresultsfromdifferentexperiments,equalendo â-mannanase concentration was used as a basis.
+Figure 2. Side groups of derivatized guars. The hydrogen atom of
+hydroxyl group of guar can be substituted by a side group ( -R) to
+form different derivatized guars: hydroxypropyl guar (HPG), car-boxymethylguar(CMG),andhydroxypropyltrimethylammoniumguar(HPTMAG).Enzymatic Degradation of Guar Biomacromolecules, Vol. 1, No. 4, 2000 783
+
+At high guar concentrations ( >1.5 wt %), the high
+viscosity of the polymer solution makes (rapid) homogeniza-tion of the guar and enzyme difficult. As a result, highsubstrateconcentrationsamplesweremadebyconcentratingthe 1 wt % guar solution and enzyme mixture by dialysis at0°C where enzyme activity is low. A control experiment
+was run to show there is a negligible molecular weightreduction at this low temperature. The reaction rate is seventimes faster at 25 °C than at 0 °C. For example, to study the
+degradation experiment at 3 wt % substrate concentration,5íL enzyme buffer solution was added to 15 g of 1 wt %
+guarsolutionandmixedwell.Themixturewasimmediatelytransferred into a Spectra/Por dialysis bag with a molecularweight cutoff of 3500. Then the dialysis bag was concen-trated by placing it in a bed of absorbent silica gel (FisherScientific). After around 2 h, the guar solution was concen-trated to 3 wt % with a total mass of 5 g. Finally, thesubstrate -enzyme mixture was heated in a microwave for
+3 s. The temperature increased from 0 to 25 °C, and the
+reaction began.
+GPC Measurement. Gel permeation chromatography
+(GPC) was carried out with two columns in series (TSKG3000PW
+XLandTSKG6000PW XL).Forprotection,aguard
+column (TSK GDNA-PW) was used. All columns werethermostatedat40 °Ctodecreasesolventviscosityandpeak
+broadening.TheHPLCsystemconsistedofapump(WatersM510), a differential refractometer (Waters 410) and aninjector (Valco SSA C12P). The mobile phase was 55 mMNa
+2SO4and 0.02% NaN 3aqueous solution. Flow rate was
+0.6 mL/min. Degraded guar samples were diluted to 0.05wt % and filtered through a 0.45 ím filter (Whatman
+Autovial)beforeinjection.Bothpullulanandguarstandardswereusedtocalibratethecolumns.Ninefractionsofpullulanstandardswithaveragemolecularweight(MW)rangingfrom5900 to 1.6 million were used (Shodex Corp., Japan). Twofractionatedguarstandards,Meyprogat7( M
+p)58000)and
+CSAA 200 ( Mp)2 000 000), were used as secondary
+standards.16TheMark -Houwink -Sakuradarelationship[ Ł]
+)K(Mw)aof guar and pullulan are as follows: K)3.8
+10-4dL/g,a)0.723 (guar); K)1.910-4dL/g,a)
+0.67(pullulan).17,18Auniversalcalibrationcurvewasplotted
+for guar and pullulan and all points fall on a single straightline.
+19The molecular weight (MW) and molecular weight
+distribution (MWD) of degraded guar samples were deter-mined based on the universal calibration curve.
+SteadyShearViscometry. Steadyshearrheologicaltests
+on a strain-controlled rheometer (RFS -II, Rheometrics,
+Piscataway, NJ) were used to characterize the samples. ACouette geometry, with inner bob and outer cup radii of 16mm and 16.925 mm, respectively, and a bob length of 33.3mm, was chosen. Samples without enzyme were also testedas controls to assess the initial rheology of the solutions.All viscosity measurements were made at 25 °C.
+Results and Discussion
+Enzymatic Degradation Kinetics. Figure 3 is a typical
+viscosity vs shear rate plot of six guar solutions uponexposure to â-mannanase enzyme at room temperature andap Ho f7 .T h e â-mannanase, which cleaves the mannose
+backbone, is very effective in reducing the viscosity of guarsolutions.Underenzymatichydrolysis,thesolutionviscositydecreasedbyover2ordersofmagnitudeafter20h.Foreachsample we observed a Newtonian region at low shear ratesandashearthinningregionathighershearrates,ashasbeenobservedinpreviousstudies.
+12Figure4showstheevolution
+ofmolecularweightdistributions(MWD)ofguarduringtheenzymatichydrolysis.Thenumber-averagemolecularweight(M
+n) and weight-average molecular weight ( Mw) were
+obtained by integrating the MWD curve and using theuniversalcalibrationcurve.TheMWDbroadensconsiderablywith time and shifts to lower molecular weight.
+The reaction between enzyme and substrate is asssumed
+to be of the common Michaelis -Menton type:
+20
+i.e., first, the enzyme (E) attaches to the polymer substrate
+(S)andformsanenzyme -substratecomplex(ES).Thenthe
+enzyme cuts the substrate, followed by a release of theproduct (P) and enzyme itself. If we consider the substrateas every breakable bond in the system Land the scission of
+these bonds on a polymer chain to be random, the degrada-tion kinetics are
+8
+Figure 3. Viscosity of 0.5 wt % guar solution as a function of shear
+rate plotted at different periods during enzymatic degradation. ThereactionisrunatambienttemperatureandpHof7.Theconcentrationofâ-mannanase is 0.0002 units/mL polymer solution.
+Figure 4. Evolution of molecular weight distribution (MWD) during
+the enzymatic degradation of guar at room temperature and a pH of7. The weight fraction vs molecular weight is shown for five reactiontimes. The guar concentration is 0.5 wt %. The concentration ofâ-mannanase is 0.0002 units/mL polymer solution.
+S+Ey\zk1
+k2ES98kcatP+E784Biomacromolecules, Vol. 1, No. 4, 2000 Cheng and Prud’homme
+
+wherekcatandKmare the rate constant and the Michaelis -
+Mentonconstant,respectively. Ceistheconcentrationofthe
+enzyme.Lrepresents the molar concentration of cleavable
+bonds in the system.
+WhenL,Km, eq 1 reduces to a first-order reaction
+WhenL.Km, eq 1 reduces to a zero-order reaction
+To get the reaction rate, we can let
+and rewrite eq 1 in a first-order form as
+in which kdenotes the apparent rate constant.
+Sincethereare( Mn/m-1)linkagesperpolymermolecule,
+whereMnis the number-average molecular weight of the
+chain and mis the molecular weight of a monomeric unit
+(for guar, m266), we can express L, the total number of
+hydrolyzable bonds, as N(Mn/m-1).Nis the total number
+of molecules. If Mn.mduring the degradation, the
+followingrelationbetweenmolecularweightanddegradationtime can be derived:
+in which M
+nois the initial Mnof the polymer. Therefore, we
+followed the change of Mnwith reaction time by GPC and
+plotted 1/ Mnas a function of degradation time at different
+guar concentrations (Figure 5). The inverse Mnwas shown
+to change linearly with time, consistent with eq 6. Accord-ingly, the apparent rate constant kcan be obtained from the
+slope of the straight line. We can see that the apparent rateconstantkdecreases with guar concentration. On the basis
+of the obtained rate constant and eq 5, the enzymaticdegradation rate can be calculated and plotted vs polymerconcentration (Figure 6). At very low guar concentration(<0.03 wt %), the reaction rate increases with substrate
+concentration.Thisisthefirst-orderregimepredictedbytheMichaelis -Menton kinetics. In this regime, polymer con-
+centration is much lower than the overlap concentration ofnativeguar( C*0.1wt%).
+21Guarappearsasrandomcoils
+in solution,18and its molar concentration is extremely low.
+At intermediate concentrations (0.05 -3 wt %), the degrada-
+tion rate becomes independent of substrate concentration:this is the predicted zero-order regime. This arises becauseathighpolymerconcentrations,therearesufficientsubstratesites for the enzyme to bind. Therefore, the increasing ofsubstrate concentration does not increase the number of
+enzyme -substrate complexes. The reaction rate is limited
+by the enzyme cleavage kinetics and not by the enzymediffusion to the substrate: the reaction becomes zero-orderin polymer substrate. At very high polymer concentrations(>5 wt %), the degradation rate begins to decrease with
+substrate concentration, corresponding to a diffusionalresistance to the enzyme mobility in the concentratedpolymer mesh. To our knowledge, this study is the first toshow the three transitions from substrate limited, to enzymelimited, to diffusion-controlled. The experimental results inthefirsttworegimeswerefittedaccordingtotheMichaelis -
+Menton model to yield K
+mandVmax.22In this study, Vmaxis
+measured in terms of the molar concentration of glycosidicbonds broken per unit time. K
+mandVmaxwere determined
+to be 0.6 mM and 7.8 10-10mol/(mL s).
+It was mentioned that a low temperature mixing process
+was used to achieve homogeneous enzyme and polymerconcentrations in the diffusion-limited regime. Figure 7shows that the change in molecular weight (plotted as 1/ M
+n)
+vs time at 25 and 0 °C. Clearly over th e 2 h required for
+osmotic concentration of the polymer there is a minimalamount of degradation at 0 °C. For samples prepared in this
+way the initial molecular weight for the degradation experi-ment was taken as the value obtained from the 0 °C
+calibration curve in Figure 7.dL
+dt)-kcatCeL
+Km+L(1)
+dL
+dt)-kcatCeL
+Km(2)
+dL
+dt)-kcatCe (3)
+k)kcatCe
+Km+L(4)
+dL
+dt)-kL (5)
+1
+Mn(t))1
+Mno+kt
+m(6)
+Figure 5. Inverse of number-average molecular weight, Mn, plotted
+vsenzymaticdegradationtimeatdifferentguarconcentrations: 0.25,0.75, and 1.5 wt %.
+Figure 6. Enzymatic degradation rate at pH 7 is plotted vs sub-
+strate concentration. At very low concentration regime, reactionrate increases in a first-order manner with polymer concentration.In the intermediate regime, the reaction rate is independent ofsubstrate concentration and the kinetics is zero-order. At highconcentration regime, the reaction becomes diffusion limited. Theconcentration of â-mannanase is 0.0002 units/mL polymer solu-
+tion.Enzymatic Degradation of Guar Biomacromolecules, Vol. 1, No. 4, 2000 785
+
+Reaction -Diffusion Model. The enzymatic degradation
+ofpolymerscanbedividedintoatwo-stateprocess,amobilestateandaboundstate.Themobilestateisthefreediffusionofenzymemoleculesthroughapolymersolution;theboundstate consists of the binding of enzyme to polysaccharidechain, the cleavage of glycosidic bonds and the release ofthe enzyme from the binding site. The time of the mobilestate and the bound state are denoted as t
+d(diffusion) and tr
+(reaction),respectively.Thetotaltimeperenzymemolecule
+per cut of bond is ( td+tr). Since the polymer is uncharged,
+weassumetheinteractionsbetweenenzymeandthepolymersubstrate are short-ranged. As a result, the diffusion of anenzyme molecule can be treated as a random diffusiveprocess, where the time to diffuse a distance betweenpolymerstrands, Œ(i.e.,thepolymercorrelationorscreening
+length
+23), istŒ)(Œ2/D).Dis the self-diffusion coefficient
+of the enzyme molecule. However, the diffusion time td
+between binding/reaction steps is greater than the time to
+diffusethedistancebetweenpolymerstrands.Mostcollisionsbetween the enzyme and polymer chains do not result inbinding because the molecular recognition for bindingrequires that the collision event occurs at the enzyme activesite, and has the proper spatial configuration. Therefore, thetime for free diffusion, t
+d, is longer than tŒby a “collision
+efficiency factor”, R, such that td)R(Œ2/D).24The polymer
+mesh size Œdefines the network through which the enzyme
+diffuses. In the entanglement regime and good solvents themesh size Œdecreases with polymer concentration C
+pby23
+whereRgandc* are the radius of gyration and the overlap
+concentration of guar, respectively.
+Enzymes are compact globular macromolecules. The
+diffusion of solid spherical particles in polymer solutionshasbeenwidelystudied.
+25-28Inmanysystems,thediffusion
+coefficient decreases with concentration as a stretchedexponential, D/D
+o)exp(-Rcç),inwhich Doisthediffusion
+coefficient of the probe in pure solvent, and çis a constant
+which varies from 0.5 to 127(Figure 8a). de Gennes also
+arguedthatwhenthehydrodynamicdiameteroftheenzyme,d, is much smaller than the mesh size. Œ, we expect the
+enzymes to move rather easily, with a friction coefficientrelatedtotheviscosityofthepuresolvent;when disgreaterthan Œ, the enzymes experience high frictions from the
+polymer and the friction is related the viscosity of theentangled solution.
+29
+Parts a and b of Figure 8 qualitatively explain the
+competition between diffusion and reaction. The diffusioncoefficient decreases with polymer concentration c
+pas a
+stretched exponential, while mesh size Œchanges with cpas
+a power law through eq 7. In the dilute range (Figure 8c),theaveragedistancebetweenpolymerchainsissolargethatthe diffusion time t
+dis long for the enzyme to diffuse from
+one chain to another. At low enough concentration, tdis
+bigger than tr(an intrinsic property of the enzyme), and the
+reactionisenzymediffusioncontrolled.Inthedilutesolutionregime, as the concentration increases, the average distancebetween chains decreases as a power law. However, thediffusion coefficient of the enzyme, D, does not decrease
+significantly because the enzyme molecule diffuses throughessentially solvents. As a result, t
+ddecreases, and reaction
+rate increases with concentration. With increasing concentra-tiont
+ddecreases until tdtrwhich we denote as concentra-
+tionc1.Forconcentrationsgreaterthan c1,tdbecomessmaller
+thantr, and the reaction is reaction-controlled. Therefore, in
+the intermediate range (Figure 8d), the reaction rate isdetermined by the enzyme cleavage kinetics and is indepen-dent of polymer concentration (zero order). As the polymerconcentrationcontinuestoincrease,thestretchedexponentialfunction drops faster than a power law (Figure 8a). So D
+decreases faster than Œ
+2, andtdbegins to increase again.
+Eventually, at some high concentration c2,tdwill reach the
+value of tr. Whenc>c2, the reaction rate will decrease,
+andthereactionbecomesdiffusion-limitedagain(Figure8e).
+Figure 7. Influence of temperature on the degradation rate. The
+reaction rate is more than seven times faster at 25 °C than at 0 °C.
+Overthe2hrequiredforosmoticconcentrationofthepolymer,there
+is a minimal amount of degradation at 0 °C.
+Œ)Rg(c
+c*)-3/4
+(c>c*) (7)
+Figure 8. (a) Changes of the enzyme diffusion coefficient ( D) and
+polymermeshsize( Œ)withthematrixpolymerconcentration( cp).(b)
+Changes of the enzyme diffusion time with polymer concentration.The reaction time has a constant value at given conditions, and isshown as the dashed line. (c) Dilute regime (
+c<c1): diffusion time
+td.reaction time tr. The black dots denote enzyme molecules. (d)
+Intermediate regime ( c1<c<c2):tr.td. (e) Concentrated regime
+(c>c2):td.tr.786Biomacromolecules, Vol. 1, No. 4, 2000 Cheng and Prud’homme
+
+A simple scaling estimation can be constructed to give
+insight into the high concentration regime. The correlationlength Œcan be calculated by eq 7. Both R
+gandc* for guar
+have been measured by previous studies. Taking Rg150
+nmandc*0.1wt%,21wecancalculatethatthecorrelation
+length at 5 wt % guar concentration is about 8 nm. Theâ-mannanase has a molecular weight of 45 000.
+15By
+assuming the enzyme molecule is a sphere in solution andits density is F)0.7 g/mL, which is a standard value for
+density of globular protein in solution,
+30we can estimate
+the size of the enzyme molecules. The diameter of theenzyme is approximately 6 nm. So at 5 wt % guar concen-tration, the correlation length of the polymer mesh is aboutthesameasthediameteroftheenzymemolecule.Thisgivesrisetothelargedecreaseintheeffectivediffusioncoefficientoftheenzyme,correspondingtoadecreaseofthedegradationreaction rate.
+According to Figure 6, the degradation rate begins to
+decrease at a polymer concentration of 5 wt %. Therefore,this is approximately the concentration c
+2wheretdtr. The
+reaction time trcan be evaluated from the catalytic constant
+of the enzyme, kcat, which is defined as
+This quantity is also known as the turnover number of an
+enzyme because it is the number of reaction processes(turnovers) that each active site catalyzes per unit time. Thereactiontimeoftheenzymemolecule, t
+r1/kcat.Theenzyme
+concentration ceused in the reaction is approximately 10-10
+M. On the basis of eq 8, tris calculated to be 0.1 s. At 5
+wt%,themeshsize Œ10nm,andthediffusioncoefficient
+of the enzyme molecule is on the order of 10-8cm2/s,
+according to diffusion experiments.28The diffusion time for
+one collision between the enzyme molecule and polymerchain is approximately Œ
+2/D)10-4s. Hence, we can
+estimate the collision efficiency, R, to be about 1000. This
+suggests that there are nearly 1000 collisions between theenzyme and the polymer for each reaction (effective colli-sion) to occur.
+Effect of Substrate Structure. During the enzymatic
+hydrolysis process, the binding event involves molecularrecognitionbetweentheenzymeandthesubstrate.Achangeof structure of the substrate changes the ability of enzymeto recognize and attach to the substrate, which will cause analterationinthedegradationrate.Sixdifferentsystemswerechosen to study the effect of substituent groups on guarpolymerchain: guar,HPG(MS )0.18),HPG(MS )1.53),
+CMG (DS )0.1), CMG (DS )0.6) and HPTMAG (DS )
+0.14). For HPG, the addition of hydroxypropyl groups toguarisdescribedbythetermmolarsubstitution(MS)whichisdefinedastheaveragenumberofmolesofhydroxypropylgroups substituted per mole of anhydro sugar units and thusisameasureofthetotalnumberofmolesofpropyleneoxidewhichhavebeenaddedtotheguarpolymerchain.ForCMGandHPTMAG,theadditionofsubstitutinggroupstotheguarpolymerchainisdescribedbythetermdegreeofsubstitution(DS),whichistheaveragenumberofcarboxymethylgroupssubstituted per sugar unit. All reactions are run at a pH of 7.Therefore,HPGisneutralinsolution.HPTMAGispositivelycharged,andCMGisnegativelycharged.The â-mannanase
+enzyme we used in the experiment has a pI of 3.5. So in thepolymer solution at pH of 7, the enzymes are negativelycharged.
+Because of the complications of determining MW of
+polyelectrolytepolymersCMGandHPTMAG,steadyshearrheometry was used to follow the degradation. Morris et al.
+2have shown that random coil polymers obey a universal
+log(Łsp)log(c[Ł]) master curve, where Łspis the specific
+viscosity, cis the solution concentration, and [ Ł] denotes
+theintrinsicviscosity.Becauseofthe“hyperentanglements”between polymer chains, they showed that galactomannans(guar) fall on a master curve with a lower overlap concentra-tion and somewhat greater concentration dependence there-after. Therefore, based on the master curve by Morris et al.and the Mark -Houwink -Sakurada equation given by Rob-
+inson et al.,
+18we can calculate the molecular weight change
+withthereactionfromthezeroshearviscosityofthesolution.Since the initial molecular weights of the polymers aredifferent, we chose the normalized molecular weight as ourbasis of comparison. The normalized molecular weight isdefined as the ratio of the molecular weight of the polymersolution incubated with enzyme to that of the initial,nondegraded polymer. Figure 9 shows the normalizedmolecular weight changes with time during the degradationreaction. After incubation with enzyme for the same timeperiod, the average molecular weights of HPG and CMGare both higher than that of guar. The addition of hydroxy-propyl groups on the polymer chain sterically hinder theattachment of enzymes to the polymer molecules, whichdecreases the total enzymatic degradation rate. For CMG atpH 7, the electrostatic repulsion between the enzyme andthe carboxyl groups on the polymer backbone also slowsdown the degradation. Figure 10 shows the normalizedmolecularweightofguarasafunctionsubstitutionlevelafterreaction for 5 h. As the substitution level increases, thedegradation rate decreases.
+Surprisingly, for cationic guar, the molecular weight did
+not change with time: there was no enzymatic degradation.Since the cationic polymer and the enzyme have oppositecharges, the ionic attractions immobilize the enzyme mol-ecules on the polymer chain to form an enzyme -polymerk
+cat)Vmax/ce (8)
+Figure 9. Normalized molecular weight changes with time during
+thedegradationreactionfornaturalguar,HPGwithmolarsubstitutionsof 0.18 and 1.53, CMG with degrees of substitution of 0.1 and 0.6,and HPTMAG. The concentration of â-mannanase is 0.0002 units/
+mL polymer solution (pH )7).Enzymatic Degradation of Guar Biomacromolecules, Vol. 1, No. 4, 2000 787
+
+complex. This interaction is the basis for ion-exchange
+separations of proteins.31Because enzymes have both car-
+boxyl and amine groups, their net charges can be altered bychanging the solution pH. Therefore, a novel triggereddegradation mechanism is discovered by which we can turnon and off the reaction by shifting the solution pH or ionicstrength. We have reported on these results in more detailelsewhere.
+32This should be an important trigger to control
+enzyme reactions with polyelectrolyte polymers.
+Conclusion
+The reaction kinetics and mechanism of enzymatic deg-
+radation of guar and substituted guar over a wide range ofpolymer(i.e.,substrate)concentrationshasbeenstudied.BothGPC and steady shear viscometry were applied to followthe degradation process. In dilute and semidilute guarconcentrations,aMichaelis -Mentonkineticsmodelwasused
+to analyze the results, and for native guar at pH )7, the
+Michaelis -Menton parameters are K
+m)0.6 mM and Vmax
+)7.810-10mol/(mLs).Aspredictedbythekineticmodel,
+in the very dilute regime, the reaction rate is first-order withsubstrate concentration. In the intermediate regime, theenzyme is saturated and the degradation kinetics is zero-order. Our new observation is the onset of diffusion-controlled reaction at higher polymer concentrations. Thereaction rate decreases by 50% between 5% and 7.5%polymer. We proposed a reaction -diffusion model to
+describe the enzymatic degradation in all substrate concen-tration ranges. The onset of diffusion control is shown tooccur when the enzyme size is comparable to the polymermesh size.
+The influence of substrate structure on the degradation
+kinetics was also explored. The degradation rate was foundtobegreatlyaffectedbythetypeofsubstituentgroupsaddedand the degree of substitution. Increasing either carboxy-methyl or hydroxypropyl groups cause a 3-fold decrease in
+enzymaticdegradationrate.Stericandelectrostaticblockingof enzyme docking onto the polymer chain accounts for thedecrease. The triggering mechanism was found for theenzymatic hydrolysis of cationically derivatized guar solu-tions. At high pH the enzyme is complexed with the guarandinactive;atlowpHtheenzymeisreleasedandactivated.Thismechanismholdspromiseforthecontrolleddegradationofelectrolytebiopolymersinindustry,andprovidesamodelfor studying the enzyme -polymer interactions.
+References and Notes
+(1) McCleary, B. V.; Clark, A. H.; Dea, I. C. M.; et al. Carbohydr. Res.
+1985,139, 237.
+(2) Morris, E. R.; Cutler, A. N.; Ross-Murphy, S. B.; et al. Carbohydr.
+Polym.1981,1,5 .
+(3) Gidley,J.L.;Holditch,S.A.;Nierode,D.E.;etal. RecentAd Vances
+in Hydraulic Fracturing ; Society of Petroleum Engineers, Inc.:
+Richardson, TX, 1989.
+(4) Kelly, R. M.; Khan, S. A.; Ledue, P.; et al. US Patent 5,421,412,
+1995.
+(5) Tayal, A.; Khan, S. A. In Abstracts of Papers of the American
+Chemical Society ; American Chemical Society: Washington, DC,
+1995; Vol. 209, p 28.
+(6) Rollings, J. Carbohydr. Polym. 1985,5, 37.
+(7) Marc,A.;Engasser,J.M.;Moll,M.;etal. Biotechnol.Bioeng. 1983,
+25, 481.
+(8) Suga,K.;vanDedem,G.;Moo-Young,M. Biotechnol.Bioeng. 1975,
+17, 185.
+(9) Wald, S.; Wilke, C. R.; Blanch, H. W. Biotechnol. Bioeng. 1984,
+26, 221.
+(10) McCleary, B. V.; Matheson, N. K. Carbohydr. Res. 1983,119, 191.
+(11) Bulpin, P. V.; Gidley, M. J.; Jeffcoat, R.; et al. Carbohydr. Polym.
+1990,12, 155.
+(12) Tayal,A.;Kelly,R.M.;Khan,S.A. Macromolecules 1999,32,294.
+(13) Goswami, A. (Rhodia Inc.).(14) Constein, V. (Dowell-Schlumberger, Inc.).(15) Megazyme International Ireland Ltd.(16) Rhodia Inc.(17) Kato,T.;Okamoto,T.;Tokuya,T.;etal. Biopolymers 1982,21,1623.
+(18) Robinson, G.; Ross-Murphy, S. B.;Morris, E. R. Carbohydr. Res.
+1982,107, 17.
+(19) Cheng, Y.; Prud’homme, R. K. Polym. Prepr. 2000,41(2), 1711.
+(20) Michaelis, L.; Menten, M. L. Biochem. Z. 1913,49, 533.
+(21) Goycoolea, F. M.; Morris, E. R.; Gidley, M. J. Carbohydr. Polym.
+1995,27, 69.
+(22) Cornish-Bowden, A. Fundamentals of Enzyme Kinetics ; Portland
+Press: London, 1995.
+(23) de Gennes, P. G. Scaling Concepts in Polymer Physics ; Cornell
+University Press: Ithaca, NY, 1979).
+(24) Cantor, C. R.; Schimmel, P. R. Biophysical Chemistry ;W .H .
+Freeman Co.: San Francisco, CA, 1980.
+(25) Ogston, A. G.; Preston, B. N.; Wells, J. D. Proc. R. Soc. London, A
+1973,333, 297.
+(26) Altenberger, A. R. Tirrell, M. J. Chem. Phys. 1984,80, 2208.
+(27) Phillies, G. D. J. J. Phys. Chem. 1989,93, 5029.
+(28) Cheng, Y.; Thomas, J. L.; Prud’homme, R. K. Macromolecules ,
+submitted for publication 2000.
+(29) Langevin, D.; Rondelez, F. Polymer1978,19, 875.
+(30) Tanford, C. Physical Chemistry of Macromolecules ; John Wiley &
+Sons: New York, London, and Sydney, Australia, 1961.
+(31) Garcia, A. A.; Bonen, M. R.; Ramirez-Vick, J.; et al. Bioseparation
+Process Science ; Blackwell Science, Inc.: Oxford, England, 1999.
+(32) Cheng, Y.; Prud’homme, R. K. Carbohydr. Polym., in press.
+BM005616V
+Figure 10. Normalized molecular weight of HPG and CMG as a
+function substitution level after incubated with enzyme for 5 h. Asthesubstitutionlevelincreases,thedegradationrategetsslower.Theconcentration of â-mannanase is 0.0002 units/mL polymer solution
+(pH )7).788Biomacromolecules, Vol. 1, No. 4, 2000 Cheng and Prud’homme
+

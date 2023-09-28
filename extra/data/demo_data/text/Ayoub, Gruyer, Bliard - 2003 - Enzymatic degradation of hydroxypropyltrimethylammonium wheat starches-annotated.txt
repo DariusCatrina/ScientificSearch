@@ -1,0 +1,359 @@
+International Journal of Biological Macromolecules 32 (2003) 209–216
+Enzymatic degradation of hydroxypropyltrimethylammonium
+wheat starches
+Ali Ayouba, Sebastien Gruyerb, Christophe Bliarda,∗
+aLaboratoire de Pharmacognosie, Faculté de Pharmacie, UMR 6013 CNRS, Bˆ at 18 Europol’Agro, Moulin de la Housse, URCA,
+51687 Reims Cedex 2, BP 1039, France (UE)
+bLaboratoire de Microbiologie Industrielle, Faculté de Sciences, 51687 Reims Cedex 2, France (UE)
+Received 14 March 2003; received in revised form 4 June 2003; accepted 27 June 2003
+Abstract
+Theenzymaticdegradationofhydroxypropyltrimethylammoniummodiﬁedstarchessynthesisedbydryprocesswascomparedwiththatof
+hydroxypropyltrimethylammoniummodiﬁedstarchessynthesisedinglycerol–waterplasticisedmoltenmedium.Theenzymaticdegradationrateofproductsfrombothoriginsdecreasedasthedegreeofsubstitutionincreased.However,twodistinctenzymaticdegradationproﬁleswere obtained. Dry process products displayed a regular decrease pattern as DS increased. Molten medium synthesised cationic starchesdisplayed a constant degradation level on a wide DS range with
+/H9251,/H9252-amylase and amyloglucosidase, whereas isoamylase degradation
+rapidlyreacheditsdegradationlimitatDSs0.05.Thevariousplasticisingconditionsusedtosynthesisecationicstarchinmoltenmediumshow no inﬂuence on the enzymatic degradation.
+By measuring the afﬁnity of
+/H9251-amylase, /H9252-amylase and isoamylase for native, extruded non-modiﬁed and hydroxypropyltrimethyl-
+ammonium-modiﬁedstarches.Itwasevidentthattheenzymes’afﬁnityforthesubstratediminisheswithincreasingchemicalmodiﬁcation,particularly in the case of
+/H9251-amylase, suggesting that the location of cationic groups impairs the enzyme’s recognition of the substrate.
+Structural elements of limit dextrins were analysed by1HN M R .
+© 2003 Elsevier B.V. All rights reserved.
+Keywords: Cationic starch; Enzymatic degradation; Kinetics
+1. Introduction
+Chemicallymodiﬁedstarcheshavefoundnumerousappli-
+cations in food and non-food industries. Functional groupsare introduced on the macromolecules by reaction on thehydroxyls groups [1,2]. Cationic starches are widely used
+in industrial paper-making process [3], where they bind to
+negatively charged cellulose ﬁbres by ionic association.
+Hydroxypropyltrimethylammonium (HPTMA) is one of
+the most widely used cationic modifying groups. In indus-trial process, the chemical modiﬁcation is performed eitherin solution or by dry process [2]. In a previous paper we
+described an alternative chemical modiﬁcation procedurein microhydric molten medium using glycerol-plasticisedstarch[4].
+Hydrolysis has been widely used to study the molecular
+architecture of complex carbohydrate polymers. Hydrolysis
+∗Corresponding author. Tel.: +33-3-2691-3495; fax: +33-3-2691-3596.
+E-mail address: christophe.bliard@univ-reims.fr (C. Bliard).of starch can be performed by acidic treatment [5],o rb y
+enzymatic degradation [6,7]. Enzymatic degradation is the
+base of the largest starch transformation industries. Hamdiand Ponchel [8]have studied the inﬂuence and the sensi-
+tivity to enzymatic degradation of starch microspheres with/H9251-amylase.Brandametal. [9]describethe /H9251-and/H9252-amylase
+activities on starch.
+Several research groups have investigated the enzymatic
+degradationofstarchinordertodeterminethelocationofthechemical modiﬁcations. Based on the results of speciﬁc en-zymatic degradations, Kavitha and BeMiller [10]concluded
+that hydroxypropyl modiﬁcation was preferentially locatedin amorphous regions as opposed to crystalline regions.Steeneken and Woortman [11]reported that the polymers
+obtained by methylation of granular starches were substi-tuted in a more block-wise manner, while starch polymersmethylated in solution were substituted in a more randomfashion.
+We used a similar selective degradation procedure to
+investigate structural differences between cationic starches
+0141-8130/$ – see front matter © 2003 Elsevier B.V. All rights reserved.
+doi:10.1016/S0141-8130(03)00057-6
+210 A. Ayoub et al./International Journal of Biological Macromolecules 32 (2003) 209–216
+obtained by different processes. This paper describes the
+results of enzymatic degradation /H9251,/H9252-amylase, amyloglu-
+cosidase and isoamylase on cationic starches with variousdegrees of substitution, obtained from both dry process andmolten medium.
+/H9252-Amylase is an exoenzyme, which degrades /H9251-(1-4)-
+d-glucopyranoside molecules by cleaving maltose units
+from the non-reducing ends. The action of the enzymeis stopped by the presence of /H9251-(1-6) branch or substi-
+tuting groups on /H9251-(1-4) glucose residues. The resulting
+products of /H9252-amylase actions on polysaccharides macro-
+molecules are maltose and /H9252-limit dextrins. Amyloglucosi-
+dase is also an exoenzyme cleaving /H9251-(1-4) bounds from
+the non-reducing end of the polysaccharides chain withliberation of glucose This enzyme hydrolyses /H9251-(1-6) as
+well, but at a much lower rate. Isoamylase speciﬁcallycleaves branching /H9251-(1-6) bonds (5% in wheat amylopectin
+and less than 1% in amylose) releasing linear poly- /H9251-(1-4)
+chains from starch branched polysaccharides. /H9251-Amylase
+is an endoenzyme cleaving /H9251-(1-4) bonds of starches with
+liberation of linear oligosaccharides and /H9251-(1-6) branched
+dextrins.Thehydrolysisproductsofstarcharecharacterisedby their reducing power, measured as dextrose equivalent.
+A comparative degradation kinetics study between modi-
+ﬁed and non-modiﬁed starches obtained in molten mediumwas undertaken in order to determine the inﬂuence of thechemical modiﬁcation on the enzyme afﬁnity by determina-tion of the constants K
+MandVmax.
+2. Materials and methods
+2.1. Polysaccharides samples
+Native wheat starch (12.5% humidity) was provided by
+Chamtor, Bazancourt, France. Commercial cationic wheatstarches synthesised by dry process with various degrees ofsubstitution[(DS)0.015,0.05,0.08and0.18]wereprovidedby Crespel and Dieters, Ibbenbüren, Germany. The fused,non-modiﬁed and hydroxypropyltrimethylammonium mod-iﬁed starches, obtained in glycerol–water plasticised moltenmedium as previously described [4], are listed in Table 1.
+The plasticiser ratio was 30% in all formulations. They aredivided into three categories as follows: group A (15% w/wglycerol and 15% w/w water), group B (7% w/w glyceroland 23% w/w water) and group C (30% water).
+Table 1
+Plasticiser content of groups A, B and C cationic starches obtained by molten medium
+Sample
+A-1 A-2 A-3 A-4 A-5 A-6 B-1 B-2 C-1 C-2
+% Glycerol (G) 15 15 15 15 15 15 7 7 0 0% Water (W) 15 15 15 15 15 15 23 23 30 30DS 0.020 0.028 0.034 0.045 0.130 0.160 0.02 0.045 0.02 0.045Thedialysistubesusedtopurifythe /H9252-limitdextrinsafter
+the enzymatic degradation with /H9252-amylase were purchased
+fromMembranesFiltrationProductsInc.,Seguin,TX,USA.
+2.2. Viscosity measurement
+Viscositymeasurementwascarriedoutat25( +/−0.1)◦C
+with a 100mm length and 1mm diameter capillary using anAVS 400 semi-automatic viscosimeter from Shott, Mainz,Germany.Theproductsweresuspendedina1MKOHsolu-tionfor24hfollowedbymagneticstirringsforanother24h.KOHwasusedtolimittheelectrostaticinteractionsbetweenthe polyelectrolyte chains. The solutions were then ﬁlteredat 0.2 /H9262m. The concentrations of the solutions were in the
+1–5g/l range. Five consecutive measurements were carriedout on each sample. The measurements were performed atﬁve different concentrations starting with the lower. The re-sults were within 3% relative accuracy.
+2.3. Substitution degree
+Modiﬁed cationic starches and /H9252-limit dextrins are char-
+acterised by their DS corresponding to the average num-ber of hydroxypropyltrimethylammonium cationic groups,branched through ether bonds per glucose monomer. DSwere determined by proton NMR or elementary analysis aspreviously described [4].
+2.4. Measurement of reducing sugar
+The enzymatic hydrolysis rates were determined by the
+colorimetric method developed by Park–Johnson and modi-ﬁed by Porro et al. [12]; maltose, /H9252-limit dextrins and linear
+oligosaccharides were analysed by measuring the reducingpower obtained after sample degradation.
+A1 0/H9262l aliquot of the solution containing the reducing
+sugar (2 /H9262l in case of maltose) was added to 10 /H9262lo f1N
+NaOH and 380 /H9262l of distilled water. 200 /H9262l of a 0.1% w/v
+potassium ferricyanide solution and 200 /H9262l of a 0.065%
+w/v potassium cyanide, 0.92% w/v sodium bicarbonate and0.48% w/v sodium carbonate solution were added to thismixture. The resulting mixtures were incubated at 100
+◦C
+for 15min, then left for 10min at room temperature beforeadding 1000 /H9262l of 0.3% w/v ammonium ferric sulphate in
+a 50mM sulphuric acid solution. 15min after the additionof this last solution, the absorption was recorded at 715nm
+A. Ayoub et al./International Journal of Biological Macromolecules 32 (2003) 209–216 211
+with a spectrophotometer UVIKON, Milan, Italy. The re-
+sults were obtained with 5% accuracy.
+The glucose was measured using the Trinder enzymatic
+method by adding 1ml of the Trinder reagent (Sigma Di-agnostics, St. Louis, MO, USA) to a 150 /H9262l aliquot of the
+mixture to analyse. The absorption was recorded at 505nmwith 5% accuracy.
+2.5.β-Amylase degradation
+Twenty-ﬁve milligrams of samples were dispersed in
+10ml of pH 4.8, 50mM sodium acetate buffer stabilisedwith 0.01% w/v NaN
+3. Ten units of powdered /H9252-amylase
+(Sigma, A 7130) were added and the mixture was incu-bated at 20
+◦C for 24h. The enzyme was then inactivated
+by heating the samples at 100◦C for 15min. The carbo-
+hydrate content of each fraction was determined by thePark–Johnson method as described above.
+2.6. Glucose liberation
+Twenty-ﬁve milligrams of samples were dispersed in
+25ml of pH 4.5, 50mM sodium acetate buffer stabilizedwith 0.01% w/v NaN
+3. Ten units of amyloglucosidase
+(Sigma, A 7420) were then added, and the mixture was in-cubated at 55
+◦C for 3h. The enzyme was then inactivated
+at 100◦C for 15min. Analysis of the liberated glucose was
+determined by the Trinder method as described above butusing normalized glucose solutions.
+2.7. Isoamylase degradation
+Cationicwheatstarchesfrombothdryprocessandmolten
+medium were debranched using isoamylase (Sigma, I 2758)in a buffered solution, stabilised with 0.01% w/v NaN
+3.
+25mg samples were dispersed in 10ml of pH 3.5, 0.2Msodium acetate buffer. Ten units of isoamylase units wereadded, and the mixture was incubated for 24h at 45
+◦C. The
+enzymewastheninactivatedbyheatingthereactionmixtureat 100
+◦C for 15min. The reducing power was determined
+foreachsampleusingthePark–Johnsonmethodasdescribedabove.
+2.8. Enzyme kinetics and estimation of the K
+Mand V max
+Kinetics were analysed on native, non-modiﬁed melted
+starch and two samples from group A A-1 (DS 0.02) andA-5 (DS 0.13) for /H9252-,/H9251-, and isoamylase. The incubation
+timeforeachsamplewasdeterminedusing0.1and0.25en-zyme units with 0.6% substrate. The afﬁnity constant andthe catalysis rate of the enzymes was then determined foreach substrate by measuring the reaction evolution after en-zyme pre-incubation, using 0.1 enzyme unit at different ini-tial concentrations (0.2, 0.6, 1 and 2% w/v).
+ThereducingpowerwasdeterminedbythePark–Johnson
+method as described above. The kinetic parameters ( V
+max:maximal rate and K M: Michaelis constant ) were obtained
+usingthe LineweaverandBurk modeofrepresentation [13].
+The values of −1/KM, representing the enzyme afﬁnity for
+the substrate, were obtained from the graphs where thecurves intercept the 1/[S] axis .The values of −1/V
+maxwere
+obtainedfromthegraphswherethecurvesinterceptthe1/ U
+axis. For each series of amylolytic degradation, measure-ments were repeated at low, high and mean DS with a rela-tive difference of less than 10%.
+3. Results and discussion
+3.1.β-Amylolytic degradation
+The results of the /H9252-amylase degradation on cationic
+starches from dry process and molten medium showed thatthe two starch types followed two different degradationmodes.
+The enzymatic degradation ratio obtained with the dry
+process products displayed a linear decrease as DSs in-creased, suggesting that the increase in the number ofcationic groups decreases the enzymatic degradability asexpected from a regular modiﬁcation pattern. The resultsof group A starches enzymatic degradation ( Figs. 1 and 2 )
+show that the levels of degradability were lower than theones obtained with the dry process samples at the lowestDSs (33% less degradation than with non-modiﬁed starchesat DS 0.02). This result suggests that some of the chemicalgrafting happens on external /H9251-(1-4) chains. The enzymatic
+action was not affected when the number of cationic groupswere increased up to 0.13. The degradation level remainedclose to 30% on a wide DS range (0.02–0.13), decreasingdown to 10% only at DS greater than 0.13. This suggeststhat the subsequent modiﬁcations occur almost exclusivelyon the internal chains beyond the initial modiﬁcation.These results indicate that the chemical modiﬁcation inmolten medium exhibits a more speciﬁc pattern than in dryprocess.
+Fig. 1. Starch enzymatic hydrolysis scheme.
+212 A. Ayoub et al./International Journal of Biological Macromolecules 32 (2003) 209–216
++
++
++
+++
+036 
+0.02 0.06 0.1 0.14 0.18Dry Process 
+24 
+12Degradation rate (%)48 
+Group-A
+Degree of Substitution 
+Fig. 2. /H9252-Amylolytic degradation of group A and dry process samples.
+3.1.1. NMR spectra
+TheNMRspectraofsampleA-5(DS0.13)andthecorre-
+sponding /H9252-limit dextrin are shown in Fig. 3. The spectrum
+of the A-5 limit dextrin ( Fig. 3B), shows an increase of the
+integration values for both /H9251-(1-6) branched glucose H-1
+and HPTMA protons as compared to the values from A-5sample spectrum ( Fig. 3A), this increase being proportional
+to the degradation ratio.
+The DS value is obtained by comparing either the rel-
+ative integrations of the quaternary trimethylammoniumprotons (nine protons at 3.35ppm) or from the integralvalues of the C H
+(OH)proton from the HPTMA group at
+4.6ppm, with those of the anydroglucose anomeric protons(one proton, from 4.8 to 5.9ppm). The ratio of 2-O- to(3-O+6-O)-substitution ( Tables 2 and 3 ) was calculated by
+comparing the integral value of the 2-O-substituted anhy-droglucose residue H1 signal shifted downﬁeld to 5.77ppmwith the one of HPTMA protons signals, conﬁrming boththedegradationlevelandtheretentionofallcationicgroupson the /H9252-limit dextrin.
+(ppm)2.6 3.0 3.4 3.8 4.2 4.6 5.0 5.4 5.8HOD
+(A)
+(B)H-3H-5
+H-6,6’H-4
+H-2
+N(CH3)3 H-1
+CH(OH)CH2+
+Fig. 3.1H NMR spectra of sample A-5 (A) and its corresponding /H9252-limit
+dextrin (B). 15mg samples were dissolved in 100 /H9262l NaOD and 500 /H9262l
+D2O. The spectra were recorded at 313K with 124 scans.Table 2
+DS and substitution percentage in position 2 of group Astarch samplesand of the corresponding /H9252-limit dextrins as measured by
+1HN M R
+Sample Before degradation After degradation
+DS Substitution
+percentage inposition 2DS Substitution
+percentage inposition 2
+A-1 0.02 29.38 0.027 30.46A-2 0.028 27.62 0.035 30.00A-3 0.034 26.66 0.046 27.43A-4 0.045 25.00 0.059 25.22A-5 0.13 20.00 0.176 20.00
+Table 3Maximum rate ( V
+max) and Michaelis constant ( KM) obtained after
+/H9252-amylase pre-incubation on native, melted, A-1 and A-5 starch samples
+Sample Vmax(mg/lmin) KM(g/100ml)
+Native starch 1.42 0.110
+Melted starch 2.04 0.095A-1 1.92 0.155A-5 2.08 0.178
+3.1.2. Viscosity measurement
+The viscosity measurements were performed on the
+/H9252-limit dextrins in order to observe the inﬂuence of the
+/H9252-amylase degradation on the molecular size. Fig. 4dis-
+plays the intrinsic viscosity values of various starch sam-ples: native (N), fused under standard conditions (M) andtwo cationic starch samples with low and high DS (A-1 andA-5)withthecorresponding /H9252dextrins.Theresultsindicate
+that the melting process causes a 63% drop in viscositywhereas /H9252amylolytic degradation results in only a 23%
+drop in viscosity for both non-modiﬁed starch samples.Chemically modiﬁed /H9252dextrins display slightly higher val-
+ues depending on the DS (18% for A-1 and 14% for A-5).
+Fig.4.Intrinsicviscositymeasurementsofnative(N),non-modiﬁedmelted
+starches (M) and two modiﬁed samples A-1 and A-5 before and after/H9252-amylolytic degradation.
+A. Ayoub et al./International Journal of Biological Macromolecules 32 (2003) 209–216 213
+355065
+0 0.04 0.08 0.12 0.16
+Degree of Substitution+
+++
++
+Degradation rate (%)+Group-A
+Dry Process 
+20
+Fig.5.AmyloglucosidasedegradationofgroupAanddryprocessstarches.
+3.2. Amyloglucosidase degradation
+A 67% degradation value was obtained by action of amy-
+loglucosidase on both unmodiﬁed native and fused starch(Figs. 5 and 6 ).
+As for the /H9252-amylolysis, the amyloglucosidase degrada-
+tion of cationic starches obtained by dry process display agradual decrease with increasing modiﬁcation, whereas thegroupAstarchdegradationislower(48%versus65%)atlowDSs and is constant up to DS 0.13. Since amyloglucosidaseis also an exoenzyme, these values tend to conﬁrm the re-sultsobtainedwith /H9252-amylolysis,thatthedistributionofsub-
+stituting cationic groups grafted on wheat starch in molten
+Fig. 6. Inﬂuence of various plasticising conditions ( Table 1)o n/H9252-amylase
+(A) and amyloglucosidase degradation (B).medium are located close or beyond /H9251-(1-6) branched glu-
+cose of the external chains.
+3.3. Inﬂuence of plasticising conditions
+The inﬂuence of three different plasticiser amounts and
+types in the molten-medium chemical modiﬁcation on theenzymatic degradation was studied on both exoenzymes(/H9252-amylase and amyloglucosidase). Both glycerol and wa-
+ter plasticise the formulation. Three formulations were used(Table1)A-1,A-4,B-1,B-2,C-1andC-2.ThetwoDSval-
+ues (0.02 and 0.045) were chosen because they correspondtotheextremeDSvaluesshowingasimilardegradationratioin bothFigs. 2 and 5 . The degradation ratios obtained in all
+formulations are at the same level, showing that the cationicgroupdistributionwithinthemacromoleculesisverysimilarin all molten medium products.
+3.4.α-Amylase degradation
+Theenzymaticdegradationofnative,melted,groupAand
+dry process starches using /H9251-amylase was undertaken. The
+results are displayed in Fig. 7. The degradation proﬁles for
+both dry process and melted cationic starches were strik-ingly similar to the ones obtained with both exoenzymes(/H9252-amylaseandamyloglucosidase).AnincreaseofDS,from
+0.02to0.13,didnotseemtoinﬂuencetheenzymaticdegrad-ability level of molten medium cationic starches. But in-creasing the DS from 0.13 to 0.16 led to a 50% drop in thedegradation level. Since /H9251-amylase is an endoenzyme de-
+grading regular /H9251-(1-4) chains, this result tends to indicate
+that in molten medium, the linear parts of internal chainsare less susceptible to chemical modiﬁcation and that thesemodiﬁcations are concentrated near the branching zones.
+3.5. Isoamylase degradation
+The inﬂuence of the cationisation on the degradation rate
+with isoamylase was studied with both commercial product
+Degree of Substitution0.50.70.9
+0 0.03 0.07 0.11 0.15 0.19+
+++
++Optic Density at 715 nm+Group-A
+Dry-Process 
+Fig. 7. /H9251-Amylase degradation of group A and dry process starches.
+214 A. Ayoub et al./International Journal of Biological Macromolecules 32 (2003) 209–216
+Degree of Substitution 00.40.81.2
+0 0.04 0.08 0.12 0.16+
++
++
++Optic density at 715 nm+Group-A
+Dry Process 
+Fig. 8. Isoamylase degradation of group A and dry process starches.
+0.20.611.41.8
+0 2 4681 0Native starch
+Melted starch
+1/[S] (mM)1/U (mg-1.l.min)
+++++++
++(A)
+A-5
+A-1
+0.20.611.41.8
+0 2 46 8 1 0
+1/[S] (mM)1/U (mg-1.l.min)(B)
+Fig. 9. Determination of /H9252-amylase kinetic parameters KMandVmaxfor
+native and non-modiﬁed melted starches (A); samples A-1 and A-5 (B). U
+corresponds to the quantity of liberated maltose (mg/lmin). [S]: substrateconcentration in the buffer medium.and group A starches. The comparative results ( Fig. 8), in-
+dicate that dry process samples follow a smooth dumpingof the enzymatic activity with increasing DS whereas groupA starches show a more brutal drop of the degradation levelup to DS 0.05 (50%). But for DSs higher than 0.05, thereappears to be no further inﬂuence on the enzymatic activityin the studied DS range. This binary degradation mode forless than and greater than DS 0.05 using isoamylase seemsto show that at low DSs ( <0.05), the chemical modiﬁcation
+happensselectivelyinthevicinityofthebranchingarea,hin-dering the action of isoamylase. Even when increasing thenumberofcationicgroupsfromDS0.05to0.16,theenzymecontinue to debranch the same amount of linear chains. Theisoamylase degraded A-5 proton NMR spectrum conﬁrmsthe presence of reducing end H-1 protons and 2.5% remain-ing/H9251-(1-6) glucose H-1 proton.
+3.6. Estimation of kinetic parameters of enzymatic
+degradation with α-,β-amylase and isoamylase enzyme
+Figs. 9–11 display the comparative results of kinetics
+obtained with native, non-modiﬁed melted starch and twocationic starch products at low and high DS A-1 and A-5.
+1/[S] (mM)0.040.080.120.160.2
+0246 8 10Native starch
+Melted starch1/U (mg-1.l.min)(A)
+++++++
+0.10.30.50.70.9
+0 2 468 10
+1/[S] (mM) A-1A-5(B)1/U (mg-1.l.min)
+Fig. 10. Determination of /H9251-amylase kinetic parameters KMandVmaxfor
+native and non-modiﬁed melted starches (A); samples A-1 and A-5 (B).Ucorresponds to the quantity of liberated reducing end (normalised as
+maltose) in mg/lmin. [S]: substrate concentration in the buffer medium.
+A. Ayoub et al./International Journal of Biological Macromolecules 32 (2003) 209–216 215
+1/[S] (mM)0.40.81.2
+0 24 68 1 0Native starch
+Melted starch(A)
++++++1/U (mg-1.l.min) 1/U (mg-1.l.min)
+123
+0 2 4681 0
+1/[S] (mM)A-1A-5(B)
+Fig. 11. Determination of isoamylase kinetic parameters KMandVmaxfor
+native and non-modiﬁed melted starches (A); samples A-1 and A-5 (B).Ucorresponds to the quantity of liberated reducing end (normalised as
+maltose) in mg/lmin. [S]: substrate concentration in the buffer medium.
+3.6.1. β-Amylase degradation
+TheKMforbothnon-modiﬁednativeandmeltedstarches
+were similar (0.11 and 0.095%). KMvalues of group A
+starches are slightly higher, suggesting a slight decrease ofthe enzyme afﬁnity for the modiﬁed substrate. Furthermore,when the results obtained for starch modiﬁed in moltenmedium are compared with those of the reference (meltedstarch), it can be noted that the cationisation, though weak,seems to affect the afﬁnity of the enzyme for its substrate.There was a 40% increases of V
+maxwith melted starch but
+nofurtherincreasewasnoticedwithchemicalmodiﬁcations.
+3.6.2. α-Amylase degradation
+The results obtained with /H9251-amylase ( Table 4) are similar
+to those of /H9252-amylase, the melting process having no inﬂu-
+Table 4
+Maximum rate ( Vmax) and Michaelis constant ( KM) obtained after
+/H9251-amylase pre-incubation on native, melted, A-1 and A-5 starch samples
+Sample Vmax(mg/lmin) KM(g/100ml)
+Native starch 12 0.123
+Melted starch 12.82 0.090A-1 22.40 1.724A-5 26 5Table 5Maximum rate ( V
+max) and Michaelis constant ( KM) obtained after isoamy-
+lase pre-incubation on native, melted, A-1 and A-5 starch samples
+Sample Vmax(mg/lmin) KM(g/100ml)
+Native starch 4.62 0.418
+Melted starch 5.62 0.491A-1 5.64 0.781A-5 7.32 1.785
+enceontheenzymeafﬁnityfornon-modiﬁedstarches.How-
+ever, with increasing chemical modiﬁcation, the /H9251-amylase
+afﬁnity for the substrate decreases greatly, much more sothan that observed with /H9252-amylase. These results conﬁrm
+that the chemical modiﬁcation takes place preferentiallywithinthemacromoleculeandnotatthenon-reducingends.The melting process does not appear to have a noticeableinﬂuence on the V
+max. In contrast, the Vmaxdoubles with
+the chemical modiﬁcation ( +103% from melted starch to
+A-5).
+3.6.3. Isoamylase degradation
+In the case of the isoamylase ( Table 5), the melting pro-
+cessseemstocausesaslightdecreaseinthedebranchingen-zyme afﬁnity for the substrate, the decrease becoming morepronounced when the chemical modiﬁcation increases. Themelting process causes a 21% increase in the V
+maxand a
+further increase of 30% is observed with the chemical mod-iﬁcation from melted starch to A-5.
+4. Conclusions
+Enzymatic degradation of cationic starches, synthesised
+by dry process and under molten conditions displayed dis-tinct degradation proﬁles. The results obtained with exoen-zymes show that the chemical modiﬁcation ﬁrst happens onsome external /H9251-(1-4) chains with a more speciﬁc pattern
+in molten medium products. With the former, much lowerdegradabilitylevelswereobtainedatthelowestDSs.Never-theless, these degradability levels remain constant until DS0.13,indicatingthatfurtherchemicalmodiﬁcationsoccuroninternalchainstowardsthereducingend,exclusivelybeyondthe initial modiﬁcations. /H9251-Amylase degradation displayed
+identical proﬁles, suggesting that regular /H9251-(1-4) internal
+as well as external chains, are less susceptible to chemicalmodiﬁcation.Chemicalmodiﬁcationhadaverystronginﬂu-ence on isoamylase activity, particularly in molten mediumproducts, showing that the grafted groups are located inthe close vicinity of the /H9251-(1-6) branched glucose residues.
+Chemical modiﬁcation had an impact on the kinetic pa-rameters of each enzyme ( K
+MandVmax), particularly on
+/H9251-amylase. Further investigation into the structural charac-
+terisationofcationicstarches,usingNMRspectroscopy,arein process to determine the exact location of these graftedgroups.
+216 A. Ayoub et al./International Journal of Biological Macromolecules 32 (2003) 209–216
+Acknowledgements
+The authors wish to thank Crespels & Dieters for pro-
+viding the dry process cationic starches, G. Stockton forthethorough revision of this manuscript and Europol’Agro forﬁnancial support via the Amival project.
+References
+[1] Teramoto N, Motoyoma T, Yosomiva R, Shibata M. Eur Polym J
+2003;39:255–61.
+[2] Solarek DB. In: Wurzburg OD, editor. Modiﬁed starches: properties
+and uses. Boca Raton, FL: CRC Press; 1986.[3] Natchtergaele W. Starch/Stärke 1989;41:310–2.
+[4] Ayoub A, Bliard C. Starch/Stärke 2003, in press.[5] Robin JP, Mercier C, Duprat F, Chambonnière R, Guilbot A.
+Starch/Stärke 1975;2:36–45.
+[6] Kishikawa T, Yohida M, Yamashita T, Matsuo J. Starch/Stärke
+1973;11:373–6.
+[7] Vesterinen E, Myllärinen P, Autio K, Söderling E, Forssell P. Food
+Hydrocolloids 2002;16:161–7.
+[8] Hamdi G, Ponchel G. Pharm Res 1999;16:867–75.[9] Brandam C, Meyer XM, Proth J, Strehaiano P, Pingaud H. Biochem
+Eng J 2003;13:43–52.
+[10] Kavitha R, BeMiller JN. Carbohydr Polym 1998;37:115–21.[11] Steeneken PAM, Woortman AJJ. Carbohydr Res 1994;258:207–21.[12] Porro M, Viti S, Antoni G, Neri P. Anal Biochem 1981;118:301–6.[13] Cornish-Bowden A, Butter-Worths, editors. Principles of enzyme
+kinetics, London; 1979.

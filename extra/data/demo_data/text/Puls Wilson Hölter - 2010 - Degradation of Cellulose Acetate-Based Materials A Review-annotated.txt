@@ -1,0 +1,594 @@
+ORIGINAL PAPER 
+Degradation of Cellulose Acetate-Based Materials: A Review 
+Juergen Puls • Steven A. Wilson • Dirk Ho¨lter 
+
+Published online: 20 November 2010  The Author(s) 2010. This article is published with open access at Springerlink.com 
+Abstract Cellulose acetate polymer is used to make a variety of consumer products including textiles, plastic .lms, and cigarette .lters. A review of degradation mechanisms, and the possible approaches to diminish the environmental persistence of these materials, will clarify the current and potential degradation rates of these prod­ucts after disposal. Various studies have been conducted on the biodegradability of cellulose acetate, but no review has been compiled which includes biological, chemical, and photo chemical degradation mechanisms. Cellulose acetate is prepared by acetylating cellulose, the most abundant natural polymer. Cellulose is readily biodegraded by organisms that utilize cellulase enzymes, but due to the additional acetyl groups cellulose acetate requires the presence of esterases for the .rst step in biodegradation. Once partial deacetylation has been accomplished either by enzymes, or by partial chemical hydrolysis, the polymer’s cellulose backbone is readily biodegraded. Cellulose ace­tate is photo chemically degraded by UV wavelengths shorter than 280 nm, but has limited photo degradability in sunlight due to the lack of chromophores for absorbing ultraviolet light. Photo degradability can be signi.cantly 
+J. Puls vTI Institute of Wood Technology and Wood Biology, Hamburg, Germany e-mail: juergen.puls@vti.bund.de 
+S. A. Wilson (&) Eastman Chemical Company, Kingsport, TN, USA e-mail: sawilson@eastman.com 
+D. Ho¨lter Rhodia Acetow GmbH, Freiburg, Germany e-mail: dirk.hoelter@eu.rhodia.com 
+enhanced by the addition of titanium dioxide, which is used as a whitening agent in many consumer products. Photo degradation with TiO2 causes surface pitting, thus increasing a material’s surface area which enhances bio-degradation. The combination of both photo and biodeg­radation allows a synergy that enhances the overall degradation rate. The physical design of a consumer product can also facilitate enhanced degradation rate, since rates are highly in.uenced by the exposure to environ­mental conditions. The patent literature contains an abun­dance of ideas for designing consumer products that are less persistent in the outdoors environment, and this review will include insights into enhanced degradability designs. 
+Keywords Biodegradation  Photo degradation  Disintegration 
+Introduction 
+Cellulose acetate (CA) is a modi.ed natural polymer with a wide range of properties [1, 2]. Although CA can be pro­duced with a range of degrees of substitution (DS), the most common level is a DS of 2.5 due to good solubility in common solvents, molecular weights, and melt properties. These properties facilitate CA’s use in a variety of con­sumer products including textiles, plastics, .lms, and cig­arette .lters that can be discarded and become litter. Considering that the global production for CA materials was over 800,000 metric tons per year in 2008 (Table 1), and many items are disposed of as surface litter or into composting facilities, it is important to understand the fate of discarded CA-based products. An increased awareness of routes of degradation could prove useful to understand the ultimate environmental impact. 
+123 
+
+
+Table 1 Global production of cellulose acetate-based products reported that natural organisms could not degrade CA with a DS of greater than 1.5 [3, 9], while other researchers 
+Cellulose diacetate Degree of 2008 Global materials substitution production 
+
+determined that CA with DS of 2.5 had limited utility due (DS) (metric tons) to its degradation [10, 11]. Later experiments identi.ed that 
+Coatings, plastics and .lms 2.5 41,000 Textile .ber 2.5 49,000 Filter tow 2.5 690,000 LCDs, photo .lms, and textiles 3.0 41,000 
+
+Sharon Scott 
+Source Chemical Economics Handbook (CEH) Marketing Report 
+Initially the assessments of the biodegradability of CA reached the incorrect conclusion that the polymer is not biodegradable, due to evaluations being performed only with cellulose degrading organisms like fungi [3]. Later the importance of the deacetylation step was shown, when it was learned that acetyl esterase enzymes are common in microorganisms. Currently CA is generally recognized as a biodegradable polymer within the scienti.c community [4– 8]. Recent work has allowed a considerable increase in the knowledge of the enzymology of non-substituted and acetylated polysaccharides, thus illuminating the biodeg­radation mechanism. 
+Photo degradation is another common mechanism for many polymers. Although CA polymer alone has limited photo degradation in sunlight, many consumer products have additives that allow enhanced photo degradation. Titanium dioxide is commonly added to enhance the whiteness of CA materials, and is a photo oxidation cata­lyst that causes degradation in sunlight. 
+The .nal section of this review will cover design approaches that propose to further enhance the degradation mechanisms. Research has shown that the combination of both bio and photo degradation allows a synergism that improves the overall degradation rate. This synergy is a result of photo degradation causing pitting and thereby increasing the material’s surface area, and enhancing bio-degradation. Research has shown that the environmental conditions have a strong impact on a material’s degradation rate. The patent literature contains many ideas disclosed for making consumer products which can be designed to optimize the degradation environment. A review of key patent disclosures will illustrate highlights of this diversity of ideas for enhancing degradation rates. 
+This paper will review each topic and bring together the subject, allowing a more complete understanding of the ultimate environmental impact of CA based products. 
+Biological Degradation 
+The early research into the biodegradation of CA polymer produced some con.icting conclusions. Some researchers the key mechanism for degradation 
+is an initial deacety­lation step by chemical hydrolysis and acetylesterases, thereby allowing the degradation of the cellulose backbone with cellulase [12]. In hindsight, perhaps it is self-evident that the mechanisms for biodegradation should be different for cellulose versus CA polymers. 
+In 1957 Reese published the .rst study on the biological degradation of various cellulose derivatives and concluded that just one acetyl per glucose was suf.cient to ensure resistance to degradation by cellulase enzymes [9]. There was no deacetylation step in this study. In 1972 EPA Report No EPA-R2-72-046 was published investigating the biodegradability of packaging plastics. The study consisted of exposing the polymers to fungi using ASTM Method D­1924-63 and judged the growth rates after exposure times of up to 3 weeks [3]. Under these limited test conditions, the authors reached the conclusion that CA is not biodegradable. 
+Biodegradation was shown in early investigations, where CA-based reverse osmosis membranes of DS 2.5 were incubated with a variety of microorganisms [11]. Some sources of microorganisms were more successful in attacking the CA membranes than others. After 2 months of incubation some CA samples lost their semi-perme­ability with up to 50% loss of acetyl groups. 
+It is noteworthy that there has been some debate about the de.nition of biodegradation. One view is that biodeg­radation is de.ned as microbial initiated conversion of a substrate in a biologically active environment into carbon dioxide (aerobically), methane (anaerobically), cell wall material, and other biological products. Another view is a requirement of a certain rate of degradation, such as weight loss versus time. 
+One novel study was the .ndings by forensic science researchers Northrop and Rowe in 1987, who studied the effect of the soil environment on the biodeterioration of man-made textiles [13]. They found that cellulose acetate .bers were signi.cantly deteriorated after 2 months in moist soil and were completely destroyed after 4–9 months. In this study, the other synthetic textile .bers (nylon, polyester and acrylics) showed no signi.cant changes at the end of the 12 month study. 
+Since these early mixed results, several studies have con.rmed that CA is indeed biodegraded in a natural environment as measured by a variety of methods. One of the more convincing degradation studies was the aerobic biodegradation of radiolabelled CA by Komarek, Gardner, and Buchanan where they monitored the evolution of CO2 from in vitro samples with the acetyl carbons labeled with 
+123 
+(GPC), proton nuclear magnetic resonance (1H NMR), and scanning electron microscopy (SEM) to understand the degradation mechanisms [14]. Noteworthy observations were the pitting of the .lms by microbes and the limited changes in DS and molecular weights as the polymer degraded. It was proposed that the random cleavage of the polymer caused low molecular weight degradation prod­ucts that would diffuse away from the bulk materials and be rapidly assimilated by the microorganisms. In the same study Gu et al. disclosed the results of placing cellophane and a CA .lm with DS = 1.7 in a bioreactor under anaerobic conditions. After 30 days, the CA .lm had been degraded completely [8]. The authors of this study stressed that both aerobic and anaerobic microorganisms are known to produce 
+the complete set of hydrolases, including esterases, which are necessary to degrade naturally occur­ring acetylated polysaccharides. This includes acetyl-4­O-methylglucuronoxylan, acetylgalactoglucomannan, and chitin. In the same group, Nelson et al. [15] isolated a series of CA degrading Pseudomonas strains as a part of the degradation study. In 1994, Gu et al. [16] demonstrated that the time required for CA degradation under laboratory composting conditions was dependent on the variation in the mixture composition of the compost especially the water content. These researchers also determined the DS of the CA material after 35–50% weight loss and found that there was no signi.cant change in DS of the residual material. From 
+this result they concluded that the degra­dation was completely biological and not induced by a chemical deacetylation. 
+Sakai et al. [17] found two strains of the bacterium Neisseria sicca that degrade cellulose acetate with DS 1.8 and DS 2.3. The highest degradation rates reported were 60 and 45%, both within 20 days. Alcaligenes xylosoxidans was identi.ed as another CA degrading microorganism. 
+CA .bers with DS 2.45 also proved to be anaerobically degradable measured according to ASTM D 5210-91 and ISO 11734 [18]. The determination of anaerobic degrada­bility is based on the liberation of biogas using diluted digested sludge as the inoculums. Note the principal dif­ference between the two test methods is the buffer system with the ASTM method using a bicarbonate buffer versus the ISO method using a hydrogen phosphate buffer. The study demonstrated that after 3 weeks in the ASTM med­ium 60–70% of the initial CA as well as of the reference material cotton was degraded. In contrast to cotton where degradation had already begun after 4 days, the lag time for CA was 11 days, followed by similar degradation kinetics. The anaerobic degradation of cigarette .lter tips made with CA tow with DS 2.45 was veri.ed in the paper of Zenjian et al. [19]. 
+Within their review on cellulose ester performance and application, Edgar and coworkers identi.ed commercially 
+123 
+
+Sharon Scott 
+
+03 
+Sharon Scott 
+
+04 
+Sharon Scott 
+14C[5]. The study compared CA with degrees of substi­tutions of 1.85, 2.07 and 2.57, and found the biodegrada­tion rates were reduced, but not inhibited, by the higher levels of acetyl (Fig. 1). 
+Buchanan, Gardner, and Komarek in 1993 [4] studied two aerobic assay systems for degrading CA .lms: an in vitro enrichment cultivation technique and an activated sludge wastewater treatment system. The enrichment cul­ture was able to degrade CA .lms within 2–3 weeks, as indicated by 67% weight loss. The industrial wastewater treatment system provided the same degradation, however, it occurred at slower rates with 10 weeks required for signi.cant changes in the .lms. The authors stressed the point that the accelerated degradation systems only inclu­ded an increase in concentration and not a change in the abilities of the naturally occurring microorganisms; thus when CA materials are placed in a natural environment the potential for biodegradation is maintained and only the speed of degradation is changed. 
+CA has also been shown to be degraded under anaerobic conditions. Rivard et al. in 1992 [7] studied CA of increasing DS (0.82–2.4) by incubating them with a special culture for a period of 98 days, and found that CA of DS \1.25 were signi.cantly degraded. The samples with DS 
+[1.7 were also degraded, but to a lesser extent. 
+In 1993, Gu, Eberiel, McCarthy and Gross studied the biodegradability of CA .lms with DS between 1.7 and 2.5 under controlled composting conditions. The materials were exposed to biologically active laboratory aerobic test vessels at 53 C[8]. They found that the .lms completely disappeared after incubation for 7 and 18 days, respec­tively. In a related paper, the researchers evaluated the above degraded .lms by gel permeation chromatography with an aquatic biodegradation test [23]. It was found that CA was indeed biodegraded under composting conditions; however surprisingly in their work CA biodegradation was not observed in the aquatic test. 
+
+One of the earliest approaches to making CA-based plastics with enhanced biodegradability was published by Ach in 1993 [24]. Biodegradable plastics were prepared and evaluated, using low-molecular weight liquid addi­tives that are biodegradable and blended with CA at a 2:1 ratio. 
+In 2000, Yoshioka and Shiraishi [25] described their development 
+of biodegradable plastics based upon the reaction of cellulose acetate with dibasic acid anhydrides and monoepoxides. In addition to good thermoplastic properties, they found better biodegradability compared to unmodi.ed cellulose diacetate. 
+The patent literature is a source of information on how materials or products might be changed to enhance bio-degradation. For example, commercial .bers are made with CA with a DS 2.5, but research has shown that CA polymer with lower DS biodegrades faster. In US Patent 5,427,852 Teufel [26] discloses hydrolyzing the 
+of CA .bers to enhance the biodegradation. In US Patent 5,462,801 Willmund [27] discloses an improved rate of degradation by adding cellulose chain-splitting enzymes to the .ber’s surface. In US Patent 5,495,860 Teufel discloses CA .bers containing nitrogenous organic compounds which enhance degradation after microorganisms form basic decomposi­tion products [28]. These basic compounds, e.g., ammonia, are said to enhance the hydrolysis of acetyl groups and accelerate degradation. 
+In US Patent 5,512,230 Cannon discloses that low DS CA .bers can be spun on commercial acetone-solvent spinning equipment by using more water in the acetone solvent and thus shift the solvent’s polarity [29]. This invention allows the spinning of CA polymer with DS 1.9 to 2.2 which are not readily soluble in acetone. Using this process one could make cigarette .lters with enhanced biodegradation without using polymer additives. In related research, Buchanan et al. [30] explored the miscibility and biodegradation of CA blends with DS of 2.0 and 2.5 for 
+
+
+05 
+Sharon Scott 
+
+6-7 
+2 notes: 
+used cellulose acetates to be biodegradable, especially under composting conditions [20]. It is worth noting that composting is a sequence of appearance of microorganisms with a constant shift from the acid to the neutral and alkaline pH region, in which the pH may reach values as high as pH 9. These are also the conditions, under which at least partly, acetyl substituents start to be cleaved off. The temperature in naturally progressing composting may rise up to 70 C and higher by self-heating, which are intended composting conditions for the sterilization of the soil [21], (see Fig. 2). 
+In an attempt to degrade .lter tow with a DS of 2.5 under natural composting conditions at the laboratory scale, a temperature of 75 C was reached. In this experi­ment the thermophilic phase ([50 C) lasted for 6–12 days [6]. After one cycle, the samples showed a weight loss of ­8%. But after a second run-through, the .laments of the samples had disappeared without any detectable trace. Gardner et al. examined CA .lms in another laboratory scale test with a thermophilic phase of approximately 5 days. They found, that the weight loss is highly depen­dent upon 
+with a signi.cantly retarded degradation at DS greater than 2.1 [6]. It should be noted that, in contrast to the laboratory tests, in commercial composting the thermophilic phase normally lasts longer and the compost is mechanically treated. 
+A DS 1.7 CA .lm was completely disintegrated after 7 days composting, whereas a DS 2.5 CA .lm required 18 days biological degradation of cellulose acetate. The biodegradability of CA with DS 2.5 was also assayed applying the modi.ed Sturm method for aerobic degrada­bility. Within 9 weeks the degradation rate varied between 51 and 87%, based on CO2-liberation [22]. 
+Van der Zee and coworkers compared CA biodegrad­ability under laboratory controlled composting conditions 
+80 
+8,5 
+70 
+8,0
+60 
+
+
+plastics. They found that the optically clear blends with
+7,5
+50 
+useful physical properties would also have good biode­
+temperature (°C) 
+pH
+7,0 
+gradability. The addition of a polyethylene glycol (MW
+40 
+400) plasticizer also disclosed to enhance the degradation 
+6,5
+30 
+rate. 
+6,0
+20 
+Itoh et al. [31], disclose in US Patent 5,478,386 that a 
+cellulose ester blend with at least 10% low DS CA
+5,5
+10 
+(DS \ 2.15) with the CA polymer having a ratio of sulfate 
+0 5 101520 
+to residual alkali metals or alkali earth metals of 0.1 to 1.1 
+time (weeks) 
+would provide enhanced biodegradation. The residual sulfate groups are the result of using sulfuric acid using the 
+
+Fig. 2 Changes of temperature and pH value during composting with difference air streams (from [21] modi.ed) esteri.cation process. 
+123 
+
+
+08 
+Sharon Scott 
+
+9-10 
+2 notes: 
+
+11 
+Sharon Scott 
+
+12 
+Sharon Scott 
+
+13 
+Sharon Scott 
+Enzymology of Cellulose Acetate Biodegradation 
+In recent years there has been signi.cant research into the enzymes that degrade CA. Non-derivatized cellulose can be hydrolyzed very ef.ciently by 
+the cellulolytic enzyme system consisting of several cellobiohydrolases (CBH), acting from the reducing and non-reducing end of the cellulose chain, and endoglucanases (EG) which acts ran­domly within the chain. This enzyme system is being used commercially for the production of 2nd generation ethanol from lignocellulosic material. 
+Cellobiohydrolases are able to attack amorphous and crystalline 
+cellulose regions, but are rather sensitive to all types of cellulose substituents, including acetyl groups, due to the fact that the active site of this enzyme class is in a tunnel formed by stable surface loops [32]. The tunnel-shaped active site restricts the hydrolysis to occurring 
+at the ends of the cellulose chain. Because hydrolysis continues progressively, it may be stopped at the .rst substitution encountered. Indeed cellobiohydrolases are believed to be unable 
+to attack cellulose derivatives, and the existence of the active site inside a tunnel could explain that cellulose derivatives would get stuck, depending on their size and their charge (Fig. 3). 
+Cellobiohydrolase I (CBHI) cleaves ß-1,4-glycosidic bonds with retention of con.guration, yielding the ß-ano­mer as reaction product [33]. It starts its attack from the reducing end, whereas cellobiohydrolase II (CBHII), attacks the cellulose chain from the non-reducing end. CBHII inverts the con.guration at the glycosidic bond, so that the .rst-formed cellobiose is the a-anomer [34]. Tak­ing the structure of cellobiohydrolases into account it was no wonder that a mixture of pure CBHI:CBHII:EGI:E­GII = 6:2:1:1 was unable to degrade CA DS 2.5, since acetyl cleaving enzymes were not present in this arti.cial mixture [35]. However, 78% of cellophane and 43% of unbleached kraft pulp were hydrolyzed within 6 h. 
+In contrast to exo-acting cellobiohydrolases, endoglu­canases are only able to degrade disordered, amorphous 
+regions of cellulose, cutting at internal glycosidic bonds [36]. However, advantageously their active site is more open arranged 
+and placed in a cleft, allowing a random hydrolysis of the cellulose chain [37] (Fig. 4). Corre­spondingly endoglucanase-initiated hydrolysis of cellulose derivatives is possible, the extent not only being dependent on the degree of substitution, but also on the substituent distribution along the cellulose chain [38] and the archi­tecture of the enzyme protein [39]. For an effective hydrolysis of CA, endoglucanase would be the most favored especially if non-substituted or partly substituted anhydroglucose units are present (Table 2). 
+In a careful study, the ability of TR Cel7B (endoglu­canase I from Trichoderma reesei) to fragment CA of increasing DS was described by Saake et al. [40]. The degree of CA substitution ranged from 0.9 to 2.9, and the degree of polymerization varied from 16,000 to 201,000. 
+
+
+Fig. 3 Water-soluble CA (DS 0.7) oligosaccharides (* DP12) after incubation with cellobiohydrolases (CBH) of Trichoderma reesei,as analyzed by anion exchange chromatography in NaOH medium combined with pulsed amperometric detection. Upper left CBH I alone. Upper right CBH I and CBH II acting together from reducing and non-reducing end. Bottom left CBH II alone. Bottom right 
+123 
+Reference substrate. Retention time (RT) of substrates and products: Glucose = 3 min; cellobiose = 5 min; cellotriose = 7 min; cellotet­raose = 10 min; cellopentaose = 12 min; cellohexaose = 14 min; celloheptaose = 15 min; cellooctaose = 16 min; cellononaose = 18 min; cellodecaose = 19 min; cello-undecaose = 20 min; cello­dodecaose (DP12) = 21 min 
+
+Fig. 4 Active site topology of endoglucanase Cel7B from Humicola insolens [89] 
+Table 2 Potential of endoglucanase Cel7B to degrade cellulose acetate dependent on the degree of substitution (DS) 
+DS DPw 
+Starting material  Cel7B-fragmented  
+0.9  31  4  
+1.2  85  5  
+1.6  138  27  
+1.9  189  100  
+2.5  316  306  
+2.9  387  394  
+
+All samples were intensively incubated with an endoglu­canase free of acetylesterase activity, and the degradation was monitored using size exclusion chromatography (SEC). The DS 0.9 sample was readily degraded from DP 31 to DP 4. With up to DS 1.7 a 50% reduction in DP could be observed under the experimental conditions. For the DS 
+1.9 sample the DP reduction was considerably retarded, namely from DP = 189 to 100, while CA of DS 2.5 was more or less resistant to Cel 7B action (DP reduction from 316 to 306). The accessibility for the endoglucanase was a clear function of the DS distribution pattern. The decrease in chain reduction was certainly caused by two factors: the water-insolubility of the material, and the shielding by increased amounts of acetyl substituents. In a separate study, an endoglucanase from N. sicca SB did not hydro­lyze the CA main chain with DS of 1.77, but when the degree of substitution was low (\1.0), the endoglucanase hydrolyzed the CA main chain [40]. 
+It has been known for a long time that in addition to cellulose main chain degrading enzymes, acetyl esterases 
+
+Fig. 5 Size exclusion chromatography (SEC) pro.les of water-soluble cellulose acetate (DS 0.7) fragmented by endoglucanase Cel7B alone (a) and an Aspergillus enzyme mix including acetylest­erase activity (b). Note the different scale in RT of Fig. 5a, b due to the extended degradation by the endoglucanase and acetylesterase mix (Fig. 5b) in contrast to fragmentation by endoglucanase alone (Fig. 5a) 
+play a key role in the biological degradation of CA. Reese in 1957 speculated on the existence of an esterase, active on cellobiose octaacetate [9]. A cellulose acetate-deacety­lating microorganism for degradation of cellulosic was described by Yamauchi and Sakai in 1994 [41]. Sakai et al. 
+[42] observed enzyme activity that released acetic acid from CA, when a culture supernatant from Neisseria sicca was incubated with this substrate. The synergistic action of acetylesterase and endoglucanase was demonstrated by incubating a CA of DS 0.7 exclusively with an endoglu­canase and in parallel with an endoglucanase and an esterase (Fig. 5). Acting alone the endoglucanase required at least 72 h to fragment CA with DS 0.7 to a certain end. When both enzymes were present a drastic reduction in chain length occurred within the .rst hour, and no further reduction in chain length was seen after 24 h. The synergy in CA degradation between endoglucanase and acetylest­erase was also reported by Moriyoshi et al. [43, 44]. 
+Ishigaki and coworkers [45] reported on a bacterial lipase from Bacillus sp. S2055, which was partly puri.ed together with cellulase activity. Both enzymes together were able degrade CA plastic .lm of DS 1.7. The bacterial enzymes were compared in their ability to degrade CA with commercial lipases and esterases. It is interesting to note that none of the commercial enzymes were able to degrade CA. The lipase activity was tested with olive oil and the esterase activity with p-nitrophenyl acetate. Unfortunately none of the naturally occurring acetylated polysaccharides were used as reference substrates. 
+Altaner et al. (2003) [46] isolated an acetyl esterase from a commercial enzyme preparation. The enzyme released acetic acid from water-soluble and water-insoluble cellulose acetates, native and chemically acetylated xylan as well as acetylated starch. The acetyl esterase speci.cally 
+123 
+
+cleaved off the acetyl substituents from the C2-and C3­positions from CAs of DS \ 1.8 and left the acetyl sub­stituents at the C6-positions intact without degrading the polysaccharide (Fig. 6). The acetyl esterase derived no advantage from the presence of an endoglucanase; it was able to function independently from endoglucanase activity. 
+Moriyoshi, et al. in 2005 coined the term cellulose acetate esterase, based on their study on an isolated ester­ase from Neisseria sicca [44]. The authors investigated the mode of action by incubation with the model compounds acetyl-ß-D-glucopyranosides and –galactopyranosides, substituted in different positions. The main target of the enzyme was the position C-3 of the glucopyranoside, fol­lowed by position C-2. The positions C-4 and C-6 were deacetylated at slower rates. It is noteworthy that the deacetylation also included the C-6 position, which somehow justi.es the term cellulose acetate esterase. When the 2,3,4,6-tetra-O-acetyl-ß-D-galactopyranoside was incu­bated, the positions C-3 and C-6 were preferably liberated from their acetyl substituents, and the enzyme exhibited clear regioselectivity in its deacetylation. The investigation was not extended by including polymeric CA. 
+Cellulose acetate was found to be a substrate of several acetyl xylan esterases (AXE) [47]. Eight AXEs from dif­ferent carbohydrate esterase (CE) families were tested on their activity against CA with a degree of substitution of 
+0.7 and 1.4. The classi.cation of the AXEs into CE fami­lies according to their structure by hydrophobic cluster analysis followed clearly their activity against CA. Within the same CE family similar and between the CE families different deacetylation behaviors could be observed. Fur­thermore, each esterase family showed a distinct regiose­lective mode of action. The CE1 family enzymes regioselectively cleaved the substituents in C2-and C3­position, while CE 5 family enzymes only cleaved the acetyl groups in C2-position. CE 4 family enzymes seemed to interact only with the substituents in C3-position. Evi­dence was found that the deacetylation reaction of the CE 1 family enzymes proceeded faster in C2-than in C3-posi­tion of CA. The enzymes were able to cleave acetyl groups from fully substituted anhydroglucose units. 
+In another study, the substrate speci.city of selected enzymes classi.ed under CE family 4 (CE4) have been examined. Chitin deacetylase from Mucor rouxii and both a native and a truncated form of acetyl xylan esterase from Streptomyces lividans were found to be active on both xylan and several soluble chitinous substrates (Fig. 7). An acetyl xylan esterase from Bacillus pumilus, classi.ed under CE family 7, was found to be inactive towards all chitinous substrates tested [47]. 
+In a combined view on the work of Altaner et al. [46] and Caufrier et al. [48], one could come to the conclusion that CE4 enzymes seem to be the most versatile esterases, since CE4 enzymes act as acetyl xylan esterases, as chitin deacetylases, and as cellulose acetate esterases, although they only liberate acetyl substitutents from C3. A closer look to the conformation of the arti.cially and naturally occurring acetylated polysaccharides, cellulose acetate, acetylxylan and chitin reveals that the acetyl substituents of these polysaccharides are identically arranged in the equatorial plane. Accordingly it would be conceivable that the active site of the same enzyme, specialized for deacetylation of naturally occurring acetylxylan and chitin, would also be able to accommodate cellulose acetate, in situations where it has been partly deacetylated before. This prior step could be achieved under the conditions of heat and high pH, as they occur during composting or by photo degradation. Once a certain loss of acetyl substitu­ents has occurred, naturally occurring microorganisms with extracellular enzyme systems designed by nature for cel­lulose, xylan, and chitin degradation can also utilize cel­lulose acetate. 
+Besides hydrolases like cellulases and acetylesterases, many microorganisms produce cellobiose oxidizing enzymes like quinone oxidoreductase (CBQ) and cellobi­ose oxidase [49, 50]. During oxidation of cellobiose both enzymes reduce quinones to the corresponding phenols. Cellobiose oxidase also reduces Fe(III), together with hydrogen peroxide which is also produced by this enzyme, thus forming a Fenton’s reagent resulting in a hydroxyl radical production [51]. 
+Photo Degradation 
+Besides biological degradation, photo degradation is an important route for decomposing cellulose acetate 
+123 
+
+
+materials in the environment. There are different ways to induce photo degradation, which have in common the formation of radicals initiated by the absorption of light. 
+Cellulose acetate is made from raw materials with a high content of a-cellulose, but still contains some impurities which might be responsible for the absorption of light in the far UV light region with wavelengths shorter than 280 nm range [52–54]. Cellulose acetate has an absorption at approximately 260 nm which is attributed to ketonic carbonyl groups [53]. In consideration of the fact, that the sunlight reaching earth’s surface after being .ltered by the atmosphere has a lower cut-off of approximately 300 nm, one might conclude that cellulose acetate does not signif­icantly photo degrade in a natural environment. This is only valid if other factors like air, water and contamina­tions are neglected. Secondary mechanisms are important in the photo degradation of cellulose acetate, which com­prise other substances absorbing light and generating rad­icals for reacting with the cellulose acetate structure, these include photocatalytic oxidation or photosensitized degra­dation. The two latter routes can enhance the photo deg­radation of cellulose acetate signi.cantly if suitable additives are applied. The degradation of pure cellulose acetate by irradiation with light in the far UV-range (k \ 300 nm) and the regarding studies are helpful in obtaining an understanding of the general photo degrada­tion mechanism. 
+Degradation by Far UV-Light 
+The degradation by direct irradiation of the solid material has been studied on powder, .lm and .bers. Several analytical methods have been applied to study degradation, for example, ESR spectroscopy for the identi.cation of the radical intermediates, mass spectroscopy for the identi.­cation of decomposition products, viscosity measurement, and various measures of substitution degree. 
+Early studies of photo degradation investigated the parameters in deteriorating cellulosic materials and .bers for achieving a better photo stability. The photo degrada­tion was analyzed under normal (oxygen containing) atmosphere with bright .bers (i.e. without pigments) by following the effects on the tensile strength [55], or with powders by following the effects on the intrinsic viscosity [52]. Under similar conditions the acetate .bers were more stable than rayon .bers. Note that Jortner [52] was not aware that deacetylation was a main result of the irradia­tion and this makes a bias in his calculation of the quantum yield from the results of viscosity measurements. 
+The studies by Hon [53] provided insight into the mechanisms, which comprises both a polymer chain scis­sion of the glucosidic bond and a cleavage of side groups. Acetate .bers were irradiated in quartz tubes within the ESR cavity under vacuum at 77 K with far UV-light. The ESR spectra were recorded at different temperatures which allow one to differentiate the individual signals due to the different stabilities and decays of the radicals. By this method four different radicals were identi.ed: the methyl radical as results of the cleavage of the acetate side groups and the three radical types which are generated also from the irradiation of un-substituted cellulose: the alkoxy rad­ical at C4 and the radical at C1 from the cleavage of the glucosidic bonds and also the radicals from hydrogen abstraction from ring-carbons. 
+123 
+The analyses of the gaseous products (methane, carbon monoxide and dioxide) and the analyses of the DS con­.rmed and supported the interpretation, that the cleavage of the side groups is playing a major role in the direct photodegradation. Interestingly, during the irradiation the degree of substitution decayed initially rapidly up to a level of 30% bound acetic acid which corresponds to a degree of substitution of approximately 1 and slows down thereafter, see Fig. 8. 
+If the irradiation was performed through a glass window with near UV-light ([340 nm) only, no ESR signal could be detected and the .bers were stable and materials remained nearly unchanged (tensile strength, intrinsic vis­cosity, weight loss). 
+The interpretation of the mechanism with the initial free-radical intermediates was con.rmed by Merlin and Fouassier in 1982 who performed similar ESR studies on acetate .lms [56] and compared the resulting spectra with those from cellulose and similar monomeric reference substances. 
+Degradation by Near UV-Light: Use of Photo Sensitizers 
+Although far-UV light which is able to deteriorate pure cellulosic materials is not present in normal sunlight, the use of photosensitizers will allow and enhance the degra­dation with near UV-light. These photosensitizers are act­ing either by energy transfer or by initial radical abstraction. 
+Endo and coworkers from the Yamagata University explored the use of different additives, as photo sensitizers and so called photo acid generators on the photo degra­dation of cellulose acetates [54, 57–59]. Acetate .lms (40 lm thickness) containing different additives in various 
+60 
+50 
+40 
+30 
+20 
+10 
+0 
+
+Irradiation time [h]
+
+ >340 nm
+
+ >280 nm 
+Fig. 8 Decrease of bound acetic acid content of cellulose acetate .bers irradiated with far (k [ 280 nm) and near UV light (k [ 340 nm), taken from Fig. 7 in [53] (recalculated from bound acetic acid with corrections) 
+Content of bound acetic acid [%] 
+concentrations were irradiated in glass vials with a xenon arc light (k [ 275 nm) simulating solar exposure. 
+The irradiations of the photosensitizer benzophenone in concentration of 1–16% embedded in acetate .lms were examined with various analytical techniques [54]. The yield of the decomposition products of CO, CO2, and acetic acid increased with higher concentration of benzophenone in the .lm. The decrease of the polymeric molecular weight and the increase of the polydispersity indicated the scission of the glucosic bonds [59]. The authors concluded that the irradiation starts with the hydrogen abstraction from the polymer by the excited triplet state in benzo­phenone, and passes through similar radical intermediates as by far UV-light (Fig. 9). 
+Additional additives explored by this group were so called ‘‘photoacid generators,’’ substances which generate strong acids after irradiation (triphenylsulphonium tri­.uoromethanesulfonate (TPS) [57], and diphenyliodonium tri.uoromethynsulfonate (DPI) [58] which were embedded in CA .lms and irradiated with UV light (k [ 275 nm) for the release of sulfonic acid. DPI was more effective than TPS and contributes to an effective release of acetic acid after irradiation [57, 59] and could further be enhanced by the use of benzophenone, which acts as triplet state sen­sitizer for DPI. 
+Degradation by Near UV-Light: Catalytic Photo Oxidation 
+The most common photo catalyst is titanium dioxide. Commercial TiO2 pigments are manufactured in two morphological crystalline forms (anatase or rutile). The non-modi.ed anatase form exhibits photo oxidative reac­tivity at irradiation up to 390 nm (*3.2 eV). Photocata­lysts based on titanium dioxide are meanwhile broadly used for different applications, such as water puri.cation, water cleavage, air cleaning or even ‘‘self’’ cleaning of surfaces [60]. 
+Pigments of titanium dioxide with a particle size of 0.2–0.3 lm are the common delustering and whitening agents in .bers and in plastic materials. For these appli­cations, with some outdoor exposure, these pigments need to be modi.ed to reduce their activity which is done by dense coating of the surface of the pigments with inert oxides, by inclusion of other elements in the crystalline matrix of titanium dioxide, or by doping of different ele­ments on the pigment surface. Without these modi.cations the anatase pigment is responsible for oxidative degrada­tion which is understood as radical chain reaction after electron transfer for which the semi-conductor model is usually used [61, 62]. 
+The photo activity of TiO2 types has been extensively studied [55, 60, 62–65]. Figure 10 provides a description of 
+123 
+
+Fig. 9 Scheme of photo sensitized degradation of cellulose acetate (CA) according to [54] 
+
+(1) Ph2-C=O h. ___> [Ph2-C=O]T ___ +CA ___> Ph2-C 
+-OH  + CA 
+__ +O2 ____> 
+___+CA ___>
+
+(2) CA
+ CA-OO CA-OO-H + CA 
+
+
+Fig. 10 Schematic description of the photo oxidation mechanism of anatase titanium dioxide in the semiconductor model according to [61] 
+
+(3)  CA-O-O-H  __  
+h.  
+(1)  TiO2  _______>  
+. <390nm  
+(2)  e -+ TiO2 – O2ads  
+(3)  hVB + + TiO2 - H2Oads  
+(4) . CA + HO. / HO2 
+
+the photo oxidation mechanism of anatase titanium dioxide in the semiconductor model according to [61]. Irradiation of the anatase crystal with near UV-light (\390 nm) excites electrons from the valence band in the conductivity band (1); which could reduce oxygen by electron transfer 
+(2) and the remaining ‘‘holes’’ in the valence band (hVB ? ) might oxidize water adsorbed on the surface (3) generating various radicals. These formed radicals might start any degradation of the surrounding polymer by hydrogen abstraction with subsequent radical chain reaction of the polymer, particularly at higher temperatures if the activa­tion energy for the cleavage of peroxides is achieved. 
+The in.uence of temperature and humidity on the tita­nium dioxide catalyzed degradation of acetate yarns was studied by Egerton et al. [55] who found that higher tem­peratures and particularly a high humidity will enhance the degradation. These .ndings can be understood with the above mentioned mechanism which includes the tempera­ture required for the cleavage of peroxides in the chain radical mechanism, the moisture adsorbed on the titanium dioxide surface to be oxidized, and to avoid the recombi­nation of the excited states. 
+Degradation catalyzed by titanium dioxide pigments can be identi.ed with microscopy as shown by the holes in .lms, see Fig. 11a, or .bers irradiated in a weatherometer (see Fig. 11b). 
+Haynes and coworkers [66] studied the photo degrada­tion of cigarette .lters with a conventional TiO2 pigment. The .lters were placed in wired mesh cages a few inches 
+
+____> CA-O + HO
+
+ ___+CA –H2O ___> CA-OH 
+TiO2 ( hVB+ + eCB-) 
+______ -. __+H+___> .
+> TiO2 + O2 HO2 
+> TiO2 - H+ + HO. 
+
+__ -H2O/H2O2 ____> CA. __ +O2 __> ___> CA-O-O-H .... 
+above a .at roof in Tennessee, where they were exposed to sun, wind and rain. There was no soil contact or standing water in this study. Although the biodegradation was minimized, a weight loss between 10 and 20% was recor­ded after the .rst year, and 20 to 40% weight loss was measured after 2 years. The DS and molecular weight determinations of exposed CA .ber samples showed that the polymer was partly deacetylated, and its molecular weight was decreased during the photo degradation process. 
+A working group of CORESTA (Centre de Coope´ration pour les Recherches Scienti.ques relatives au Tabac) developed an accelerated test to monitor the degradability of cigarette .lters, which was described by Brodof [67]. A commercial bench-top near-UV weathering instruments was used in which the butts could be soaked with water in de.ned intervals and the degradation was followed by weight determinations. 
+Various ideas have been disclosed to utilize and enhance the photoactivity of TiO2s. In 1993, Irick showed that surface treatment of pigmentary anatase TiO2 with barium phosphate could provide enhanced photodegradation [68]. 
+The photo reactivity of titanium dioxide pigments can also be improved by using nano-structured ultra.ne anatase pigments which have a much larger speci.c surface area. This approach has been used in acetate .lms [69] and .bers [70]. Jang demonstrated that ultra.ne titanium dioxide could be used in acetate .lms for enhancing the enzymatic degradation utilized in biodegradation [69]. Brodof used 
+123 
+
+Sharon Scott 
+
+Sharon Scott Electron Microscopy (SEM) of acetate .bers from cigarette .lters after few months outdoor exposure 
+ultra.ne titanium dioxide in .bers and demonstrated the enhanced degradation in the accelerated test and under outdoor exposure conditions. In the humid and sunny cli­mate of South Florida a weight loss of 65% for acetate cigarette .lters (without wrapping paper) could be achieved within 6 months exposure using 0.7% ultra.ne titanium dioxide in the .bers, compared to 17% for the standard material [70, 71]. 
+Itoh et al. have also evaluated the use of TiO2 to enhance CA degradation with a DS\2.15 adding TiO2 with particle sizes 0.01 to 1 lm which will provide more degradable material [72]. In US Patent 5,804,296, Itoh et al. disclose the bene.ts of CA .bers with high surface area TiO2 additives, (C50 m2/g) that provide enhanced photo degra­dation rates [73]. 
+Mechanism Synergy and Disintegration 
+In the outdoors environment, the degradation of CA materials can include multiple mechanisms. Deacetylation seems to be the .rst step in both, photochemical and bio­logical degradation [69]. In cases where the DS is too high for esterases, the .rst step of biodegradation can be initi­ated by UV light irradiation or by chemical hydrolysis, with the latter being subject to pH change. Also in already partly hydrolyzed 
+CA, like commercial acetate with a DS of 2.5, the critical deacetylation step can be accelerated by non-biological mechanisms under the in.uence of sunlight, temperature and water. With decreasing DS there is a better chance for biological systems to attack CA, especially if the DS reaches a region of about 1.5 to 1.8. Acetyl ester­ases, designed by nature for acetylxylan and chitin bio-degradation, are the .rst enzymes which remove the acetyl substituents until a DS *1 is reached. When the DS approaches a region B0.9, CA becomes water-soluble and the polymer readily disperses [2]. In addition, at this point CA becomes available to endoglucanases, shortening the CA chain in a random fashion preferably at those regions where acetyl substituents do not hinder the contact to the substrate. A synergistic process between acetylesterases and endoglucanases starts with the result of a quick liber­ation of free sugars and acetic acid. 
+Since deacetylation is the rate determining step in bio-degradation of CA, followed by the comparatively faster enzymatic hydrolysis of the cellulose backbone, the overall DS of the remaining material will stay nearly unchanged during degradation. But the speci.c surface area of the material increases 
+with ongoing degradation, due to pitting caused by different rates of degradation at different spots depending on local conditions at micro scale. This increased surface area exposed to environment and acces­sible for microorganisms facilitates further degradation [69]. 
+One approach to enhancing biodegradation is to add a water soluble or dispersible additive. Ito et al., in US patent 5,913,311 describe ideas for this approach for making CA .bers containing various water soluble materials including hydroxypropyl cellulose, polyethylene glycol, starch, and dextrin with the expectation that when the .bers are placed in water the additive(s) would dissolve away and increase the .bers surface area [74]. 
+CA is known to naturally hydrolyze at rates that are dependent on the temperature and moisture level [75]. Decomposition accelerating agents added to CA .bers can serve to facilitate the chemical hydrolysis of CA. These concepts are challenging to implement, because one wouldn’t want the CA material to degrade before the polymer has been discarded and the material should have the same qualities compared to the non-modi.ed polymer. To be successful, the overall formulation may have decomposition accelerating agents combined with a reac­tion controlling agent, which stabilizes the material before disposal. Yamashita evaluated the addition of using various 
+123 
+acids to CA .lms for enhancing the biodegradation [76]. In US Patent 6,571,802 Yamashita proposed combining the acid with a stabilizing agent which releases the acid upon contact with water, thus preventing the additives from deacetylating the CA and generating acetic acid before disposal [77]. Robertson in US Patent Application 2009/ 0151738 disclosed the idea of making an enhanced degradable cigarette .lter by adding a hydrolysis causing additive to the .lter. The idea is said to require the use of a coating or pill to hold the hydrolysis agent until the .lter is discarded, then the additive would be released upon contact with water [78]. 
+In US Patent 6,133,439 Buchanan et al. described environmentally non-persistent cellulose ester .bers based upon using a low DS polymer (DS = 2.0–2.2) and anatase TiO2 [79]. The bene.t of this blend was to enhance both biodegradation and photodegradation in .bers simulta­neously and allow synergy between the two mechanisms. Ishigaki et al. explored this synergy further by evaluating the bene.ts of UV irradiation on the enzymatic degradation of CA .bers without the presence of a photocatalyst like TiO2 [80]. The UV light resulted in a decrease in the molecular weight of CA, but did not affect the DS. The removal of the lower molecular weight material allowed an increase in surface area, and thus better assess for the cellulase enzyme. Jang et al. [69] studied the effect of cellulase degradation on .lms with anatase TiO2 nano­particles with UV irradiation. They found that the UV light signi.cantly changed the surface properties by increasing the hydrophilicity and lowering the DS. Both these changes are believed to enhance the enzymatic degradation. 
+In addition to mixed modes of degradation, one could choose optimum product designs to enhance disintegration. A large amount of CA polymer is used to make cigarette .lters, which are often discarded and become litter. Dis­integration can be in.uenced by many factors including: rainfall, sunlight, biological agents, temperature, atmo­spheric oxidants, air pollutants, and mechanical agitation. Various ideas for enhancing smoke .lter disintegration have been patented. Rapid disintegration is a key step in the disappearance of a discarded litter item, and it also allows enhanced degradation rates. For example, rapid water disintegration can be designed directly into consumer products, and thus reduce visible litter while enhancing degradation [81–86]. 
+The disintegration of conventional .lter cigarettes is impeded due to the highly entangled network of the .bers, plus the structure is reinforced by the addition of plasti­cizers fusing the .bers together. When investigating the effect of triacetin plasticizer on degradation Haynes and coworkers came to the conclusion that there was no effect on the percentage weight loss of the .lter due to the presence or absence of the plasticizer when exposed to the environment [66]. There was only a visible difference in appearance between the two samples. The sample without the plasticizer had a less de.ned shape resembling a dis­carded cotton ball. 
+Early disclosures of the concept of a disintegratable cigarette .lter were in US Patents 4,022,740 and 4,074,724 by Morie and Sloan. The concept was to bond the indi­vidual .bers in a .lter with water soluble polyester poly­mers which would dissolve upon prolonged exposure to water and release individual .bers [81, 82]. Tsugaya et al. 
+[83] disclosed in US Patent 5,947,127 the bonding of individual .bers with particulate hot-melt adhesive in place of conventional plasticizers, thus allowing water disintegratability. 
+In 1996, new .lter designs were disclosed that would allow enhanced .lter disintegration when exposed to water [84]. In the absence of plasticizer, a bundle of CA .bers could be made less entangled by reducing the .ber lengths, .ber crimp level, and increasing the individual .ber size. One approach is to reduce the entanglement by construct­ing a multi-segmented .lter consisting of short cut seg­ments instead of a single .lter segment. This minimum size of a short cut .lter segment is roughly 5 mm for a 7 mm diameter .lter, and research has shown that complete water dispersibility is possible with 8-denier per .lament .bers at 5-mm lengths. When the denier of the individual .bers is increased, .bers become stiffer, reducing the amount of .ber entanglement. In addition to .ber length, it has been shown that reducing the crimp level is another approach to improve the mechanical disintegration of discarded ciga­rette .lters. Another approach disclosed by Wilson and Harris [85] was to perform a series of partial cuts on a .lter which would result in the individual .bers all being short cut, while the .lter is not cut completely. This approach provides the advantage that shorter .ber lengths can be cut, thus allowing smaller denier-per-.lament .bers which would reduce cost and allow optimal .lter performance. The .lter making process for producing partial cut .lter is not commercial, but has been envisioned and disclosed [86]. 
+A .lter making process which constructs .lter from short-cut randomly-oriented .bers was disclosed by Berger and Sproull in 1972 [87]. Although .lter disintegration was not the intention of the design, Clarke and Araujo disclosed that .lter made using the randomly-oriented .ber process would be twice as likely to degrade (46%) after 1 year of weathering versus conventional .lters degradation (23–30%) [88]. 
+This review highlights that CA polymer based consumer products have good potential for environmental degrada­tion. There is also potential for increasing the degradation with accelerated disintegration by redesigning commercial products. 
+123 
+Acknowledgments This research was supported by the Global Acetate Manufacturers Association (GAMA) as a group project with support from all acetate manufacturers. 
+Open Access This article is distributed under the terms of the Creative Commons Attribution Noncommercial License which per­mits any noncommercial use, distribution, and reproduction in any medium, provided the original author(s) and source are credited. 
+References 
+1. 
+Edgar K (2004) Organic cellulose esters. In: Mark HF (ed) Encyclopedia of polymer science and technology, vol 9, 3rd edn. Wiley, New York, pp 129–158 
+
+2. 
+Rustemeyer P (2004) Macromol Symp 208:1–394 
+
+3. 
+Potts JE, Clendinning RA, Ackart WB (1972) An investigation of the biodegradability of packaging plastics. EPA Study EPA-R2­72-046 
+
+4. 
+Buchanan CM, Gardner RM, Komarek RJ (1993) J Appl Polym Sci 47:1709–1719 
+
+5. 
+Komarek RJ, Gardner RM, Buchanan CM, Gedon S (1993) J Appl Polym Sci 50:1739–1746 
+
+6. 
+Gardner RM, Buchanan CM, Komarek R, Dorschel D, Boggs C, White AW (1994) J Appl Polym Sci 52:1477–1488 
+
+7. 
+Rivard CJ, Adney WS, Himmel ME, Mitchell DJ, Vinzant TB, Grohmann K, Moens L, Chum H (1992) Appl Biochem Bio­technol 34–35:725–736 
+
+8. 
+Gu J-D, Eberiel DT, McCarthy SP, Gross RA (1993) J Environ Polym Degr 1:143–153 
+
+9. 
+Reese ET (1957) Ind Eng Chem 49:89–93 
+
+10. 
+Nuttall FE, Cantor PA (1968) US Patent 3,398,834 
+
+11. 
+Cantor PA, Mechalas BJ (1969) J Polym Sci Part C 28:225–241 
+
+12. 
+Ho LCW, Martin DD, Lindemann WC (1983) Appl Environ Microbiol 45:418–427 
+
+13. 
+Northrop DM, Rowe WF (1987) Effect of the soil environment on the biodeterioration of man-made textiles. In: Llewellyn GC, O’Rear CE (eds) Biodeterioration research 1. Plenum Press, New York, pp 7–16 
+
+14. 
+Gu J-D, Eberiel D, McCarthy SP, Gross RA (1993) J Environ Polym Degrad 1:281–291 
+
+15. 
+Nelson M, McCarthy SP, Gross RA (1992) Polym Mater Sci Eng 67:139–140 
+
+16. 
+Gu J-D, Yang S, Welton R, Eberiel DT, McCarthy SP, Gross RA (1994) J Environ Polym Degrad 2:129–135 
+
+17. 
+Sakai K, Yamauchi T, Nakasu F, Ohe T (1996) Biosci Biotechnol Biochem 60:1617–1622 
+
+18. 
+Gartiser S, Wallrabenstein M, Stiene G (1998) J Environ Polym Degrad 6:159–173 
+
+19. 
+Zenjian L, Hibi T, Hamano Fl, Shibata T, Furuichi K (2003) Preprints of the 10th annual meeting of the Cellulose Society of Japan, p 97 
+
+20. 
+Edgar KJ, Buchanan CM, Debenham JS, Rundquist PA, Seiler BD, Shelton MC, Tindall D (2001) Progr Polym Sci 26:1605–1688 
+
+21. 
+Ko¨rner I, Stegmann R (1998) Acta Hortic 469:97–110 
+
+22. 
+Rhodia customer support information 3/97—(1997) The biolog­ical degradability and compostability of Rhodia .lter tow. http://www.acetateweb.com/techinfo.htm. Accessed on 18 June 2010 
+
+23. 
+van der Zee M, Stoutjesdijk JH, Feil H, Feijen J (1998) Che­mosphere 36:461–473 
+
+24. 
+Ach A (1993) JMS—Pure Appl Chem A 30:733–740 
+
+25. 
+Yoshioka M, Shiraishi N (2000) Mol Cryst Liq Cryst 353:59–73 
+
+
+26. 
+Teufel E, Wilmund R (1995) US Patent 5,427,852 
+
+27. 
+Willmund R (1995) US Patent 5,462,801 
+
+28. 
+Teufel E, Wilmund R (1996) US Patent 5,495,860 
+
+29. 
+Cannon JN (1996) US Patent 5,512,230 
+
+30. 
+Buchanan CM, Dorschel D, Gardner RM, Romarek RJ, Matosky AJ, White AW, Wood MD (1996) J Environ Polym Degrad 4:179–195 
+
+31. 
+Itoh M, Kiyose A, Hirao K, (1995) US Patent 5,478,386 
+
+32. 
+Divne C, Stahlberg J, Reinikainen T, Ruohonen L, Pettersson G, Knowles JKC, Teeri TT, Jones TA (1994) Science 265:524– 528 
+
+33. 
+Knowles JKC, Lentovaara P, Murray M, Sinnott ML (1988) J Chem Soc Chem Commun 21:1401–1402 
+
+34. 
+Rouvinen J, Bergfors T, Teeri T, Knowles JKC, Jones TA (1990) Science 249:380–386 
+
+35. 
+Ita¨vaara M, Siika-aho M, Viikari L (1999) J Environm Polym Degrad 7:67–73 
+
+36. 
+Montenecourt BS, Eveleigh DE (1983) Trends Biotechnol 1:156–161 
+
+37. 
+Spezio M, Wilson DB, Karplus PA (1993) Biochemistry 32:9906–9916 
+
+38. 
+Puls J, Horner S, Kruse Th, Saake B, Heinze T (1998) Das Papier 52:743–748 
+
+39. 
+Karlsson J, Momcilovic D, Wittgren B, Schu¨lein M, Tjerneld F, Brinkmalm G (2002) Biopolymers 63:32–40 
+
+40. 
+Saake B, Horner St, Puls J (1998) ACS Symp Ser 688:201– 216 
+
+41. 
+Yamauchi T, Sakai K (1994) JP 07289243 Teijin Ltd, Japan, Osaka 
+
+42. 
+Sakai K, Yamauchi T, Nakasu F, Ohe T (1996) Biosci Biotechnol Biochem 60:1617–1622 
+
+43. 
+Moriyoshi K, Ohmoto T, Ohe T, Sakai K (2003) Biosci Bio­technol Biochem 67:250–257 
+
+44. 
+Moriyoshi K, Yamanaka H, Ohe T, Sakai K (2005) Biosci Bio­technol Biochem 69:1292–1299 
+
+45. 
+Ishigaki T, Sugano W, Ike M, Fujita M (2000) J Biosci Bioeng 90:400–405 
+
+46. 
+Altaner C, Saake B, Puls J (2003) Cellulose 10:85–95 
+
+47. 
+Altaner C, Saake B, Tenkanen M, Eyzaguirre J, Faulds CB, Biely P, Viikari L, Siika-aho M, Puls J (2003) J Biotechnol 105:95–104 
+
+48. 
+Caufrier F, Martinou A, Dupont C, Bouriotis V (2003) Carbohydr Res 338:687–692 
+
+49. 
+Eriksson K-E, Pettersson B, Westermark U (1974) FEBS Lett 49:282–285 
+
+50. 
+Ayers AR, Ayers SB, Eriksson K-E (1978) Eur J Biochem 90:171–181 
+
+51. 
+Ander P (1994) FEMS Microbiol Rev 13:297–312 
+
+52. 
+Jortner J (1959) J Polym Sci 37:199–214 
+
+53. 
+Hon NS (1977) J Polym Sci 15:725–744 
+
+54. 
+Hosono K, Kanazawa A, Mori H, Endo T (2007) J Appl Polym Sci 105(6):3235–3239 
+
+55. 
+Egerton GS, Shah KM (1968) Tex Res J 38(2):130–135 
+
+56. 
+Merlin A, Fouassier JP (1982) Angew Makromol Chem 108:185–195 
+
+57. 
+Hosono K, Kanazawa A, Mori H, Endo T (2006) J Adhes Soc Jpn 42:350–355 
+
+58. 
+Hosono K, Kanazawa A, Mori H, Endo T (2007) Cellulose 14:529–537 
+
+59. 
+Hosono K, Kanazawa A, Mori H, Endo T (2008) J Appl Polym Sci 109:3157–3164 
+
+60. 
+Carp O, Huisman CL, Reller A (2004) Prog Solid State Chem 32:33–177 
+
+61. 
+Allen NS (1994) Photofading and light stability of dyed and pigmented polymers. Polym Degrad Stab 44:357–374 
+
+62. 
+Rabek JF (1995) Polymer photodegradation—mechanisms and experimental methods. In: Chapter 5—Role of metal compounds 
+
+
+123 
+in the photodegradation of polymers, Chapman and Hall, New York, pp. 353–365 
+63. 
+Irick G Jr (1972) J Appl Polym Sci 16:2387–2395 
+
+64. 
+Linsebigler AL, Guangquan l, Yates JT Jr (1995) Chem Rev 95:735–758 
+
+65. 
+Allen NS, McKellar JF (1980) Photosensitized degradation of polymers by dyes and pigments. In: Photochemistry of dyed and pigmented polymers. Elsevier Science and Technology, p 247 
+
+66. 
+Haynes SK, Wilson SA, Strickler DV (1991) Study of the envi­ronmental degradation of cigarette .lters: a simulation of the roadside or parking lot environment. Eastman Chemical customer service technical report. http://www.acetateweb.com/techinfo. htm. Accessed on 18 June 2010 
+
+67. 
+Brodof TA (1999) Tobacco reporter: 82–85 
+
+68. 
+Irick G Jr (1993) US 5,242,880 
+
+69. 
+Jang J, Lee HS, Lyoo WS (2007) Fibers Polym 8:19–24 
+
+70. 
+Brodof TA, Hopkins JB Jr (1996) US Patent 5,491,024 
+
+71. 
+Brodof TA, Hopkins JB Jr (1997) US Patent 5,647,383 
+
+72. 
+Itoh M, Kiyose A, Hirao T (1998) US Patent 5,720,803 
+
+73. 
+Itoh M, Miyazawa A, Aoe T, Ikemoto 0, (1998) US Patent 5,804,296 
+
+74. 
+Ito K, Matsumoto T, Tokida A, Shibata T, Yamashita Y, (1999) US Patent 5,913,311 
+
+
+75. 
+Vos KD, Burris FO, Riley RL (1966) J Appl Polym Sci 10: 825–832 
+
+76. 
+Yamashita Y, Endo T (2005) J Appl Polym Sci 98:466–473 
+
+77. 
+Yamashita Y (2003) US Patent 6,571,802 
+
+78. 
+Robertson RM, Thomas WC (2009) US Patent Appl 2009/ 0151738 
+
+79. 
+Buchanan CM, Gardner RM, Harris JE, Irick G, Strickler DV (2000) US Patent 6,133,439 
+
+80. 
+Ishigaki T, Sugano W, Ike M, Taniguchi H, Goto T, Fujita M (2002) Polym Degrad Stab 78:505–510 
+
+81. 
+Morie GP, Sloan CH (1977) US Patent 4,022,740 
+
+82. 
+Morie GP, Sloan CH (1978) US Patent 4,074,724 
+
+83. 
+Tsugaya H, Taniguchi H, Oji N, Nishimura K (1999) US Patent 5,947,127 
+
+84. 
+Research Disclosure (Eastman Chemical) (1996) Environmen­tally Disintegradable Cigarette Filters. 386: 375–377 
+
+85. 
+Wilson SA, Harris JE (1999) US Patent 5,947,126 
+
+86. 
+Garthaffner MT (2008) US Patent 7,435,208 
+
+87. 
+Berger RM, Sproull RC (1972) US Patent 3,658,626 
+
+88. 
+Clarke PF, Araujo DS (2009) Patent Appl WO 2009/093051 
+
+89. 
+MacKenzie LF, Sulzenbacher G, Divne C, Jones TA, Wo¨ldike HF, Schu¨lein M, Withers SG, Davies GJ (1998) Biochem J 335:409–416 
+
+
+123 
+
+Annotations 
+
+
+
+Degradation of Cellulose Acetate-Based Materials: A Review 
+Puls, Juergen; Wilson, Steven A; Hölter, Dirk 
+01  Sharon Scott  Page 2  
+15/10/2020 18:46  
+02  Sharon Scott  Page 3  
+15/10/2020 17:06  
+03  Sharon Scott  Page 3  
+15/10/2020 17:09  
+04  Sharon Scott  Page 3  
+15/10/2020 17:09  
+05  Sharon Scott  Page 4  
+15/10/2020 17:23  
+06  Sharon Scott  Page 4  
+15/10/2020 17:21  
+07  Sharon Scott  Page 4  
+15/10/2020 17:25  
+08  Sharon Scott  Page 5  
+15/10/2020 18:06  
+09  Sharon Scott  Page 5  
+15/10/2020 18:45  
+10  Sharon Scott  Page 5  
+
+15/10/2020 18:07 
+11  Sharon Scott 15/10/2020 18:45  Page 5  
+12  Sharon Scott 15/10/2020 18:37  Page 5  
+13  Sharon Scott 21/10/2020 17:45  Page 5  
+14  Sharon Scott 21/10/2020 17:38  Page 11  
+15  Sharon Scott  Page 11  
+
+21/10/2020 17:40 
+
+

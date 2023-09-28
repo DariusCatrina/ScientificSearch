@@ -1,0 +1,471 @@
+LFERs for Soil Organic
+Carbon-Water Distribution
+Coefficients ( KOC) at Environmentally
+Relevant Sorbate Concentrations
+SATOSHI ENDO,*,†PETER GRATHWOHL,†
+STEFAN B. HADERLEIN,†AND
+TORSTEN C. SCHMIDT†,‡
+Center for Applied Geoscience (ZAG),Eberhard-Karls-University of Tu ¨bingen, Sigwartstrasse 10,
+D-72076 Tu ¨bingen, Germany, and Instrumental Analytical
+Chemistry, University of Duisburg-Essen, Lotharstrasse 1,D-47048 Duisburg, Germany
+Received November 7, 2008. Revised manuscript received
+February 10, 2009. Accepted March 5, 2009.
+Organic carbon -water distribution coefﬁcients, KOC, for
+organic compounds at environmentally relevant, low sorbateconcentrations may substantially differ from those at higherconcentrations due to nonlinear sorption to soil organic matter.However, prediction methods for K
+OCsuch as linear free
+energy relationships (LFERs) are currently only available forhigh sorbate concentrations (i.e., near solubility limits), reﬂectingthe lack of a set of consistent experimental data in anenvironmentally more relevant concentration range (i.e.,orders of magnitude lower than solubilities). In this study, wedetermined K
+OCfor two model sorbents of soil organic matter,
+peat and lignite, at sorbate concentrations of 4.3 and 19 mg/kg-organic-carbon, respectively, in batch suspensions. Themeasured K
+OCvalues for organic sorbates (51 for peat, 58 for
+lignite) of varying sizes and polarities were modeled successfullywith polyparameter linear free energy relationships (PP-LFERs). The resulting PP-LFER for peat was signiﬁcantly differentfrom the PP-LFERs in the literature determined at nearaqueous solubility limits of sorbates. The literature PP-LFERswere found to underestimate the measured K
+OCvalues for peat
+at the low concentration by up to 1 order of magnitude. Theextent of underestimation highly depends on the sorbate propertiesand can be explained by differing sorption nonlinearities ofthe sorbates as predicted by a reported empirical relationshipbetween the nonlinearity in peat and the sorbate dipolarity/polarizability parameter S. Lignite appears to be a stronger sorbent
+toward many sorbates than typical soil organic matterirrespective of the concentration range and thus may not berepresentative for organic matter with regard to the magnitudeofK
+OC. The present study offers the ﬁrst PP-LFER equation
+for log KOCin soil organic matter at typical environmental sorbate
+concentrations.Introduction
+Assessing the environmental behavior, distribution, and fate
+of contaminants that typically exist at low concentrations inthe environment is a major challenge in environmentalchemistry ( 1). Contaminant concentrations may be particu-
+larly critical in the quantitative evaluation of sorptionbehavior of contaminants to soils and sediments, becausesorption isotherms from water to these matrices are oftenreported to be nonlinear ( 2-5); i.e., the extent of sorption at
+high sorbate concentrations may substantially differ fromthat at low concentrations. Here, “high” concentrations referto those near the aqueous solubility limits, whereas “low”concentrations refer to orders of magnitude lower concen-trations. The near solubility concentrations have often beenapplied in laboratory experiments, and estimation methodsfor the sorption behavior at such concentrations have beenestablished fairly well. However, such high concentrationlevels may occur only in source zones of contaminated sitesand in the central part of contaminant plumes in ground-water. Much lower concentration levels are of concern inmost other contamination cases including spreading ofcontaminants away from sources, contamination fromnonpoint sources, and migration of chemicals on regionaland global scales. Therefore, it is of high importance to studythe sorption at lower, more environmentally relevantconcentrations.
+The extent of the soil sorption for a given sorbate is
+commonly described by the organic carbon -water distribu-
+tion coefﬁcient ( K
+OC) deﬁned as
+where Csand Cware the solid phase and the aqueous phase
+concentrations, respectively, of the sorbate at equilibrium,and f
+OCis the fraction of organic carbon in soil. In the case
+of nonlinear sorption, KOCdepends on the concentration.
+Nonlinear sorption in soil organic matter typically showsincreasing K
+OCwith decreasing concentration. The stronger
+sorption at lower concentrations is thought to occur due tothe presence of carbonaceous geosorbents (e.g., soot, char)that have high afﬁnity for organic sorbates ( 6, 7) and/or due
+to glassiness of organic matter itself ( 8, 9).
+For estimating K
+OCof a diverse set of organic compounds
+showing various sizes and polarities, polyparameter linearfree energy relationships (PP-LFERs) have been proposed asa useful method ( 10, 11 ). The most widely used PP-LFER
+model may be the linear solvation energy relationships(LSERs) developed by Abraham ( 12, 13 ), which appear for
+logK
+OC
+The following notations are used for sorbate descriptors: E,
+the excess molar refraction; S, the dipolarity/polarizability
+parameter; A, the solute hydrogen (H)-bond acidity; B, the
+solute H-bond basicity; and V, the molar volume. The
+regression coefﬁcients e,s,a,b, and vand the constant care
+determined by the linear multiple regression analysis. Ifthe regression coefﬁcients are accurately calibrated, PP-LFERmodels can provide reasonable predictions (usually withina factor of 2 for organic solvents and chromatographic phases)of partitioning coefﬁcients over a broad range of neutralorganic compounds with varying polarities. This high ap-plicability is a strong advantage over simple regression * Corresponding author phone: +49 341 235 1434; fax: +49 341
+235 1443; e-mail: satoshi.endo@ufz.de. Current address: Departmentof Analytical Environmental Chemistry, Helmholtz Centre forEnvironmental Research UFZ, Permoserstrasse 15, D-04318 Leipzig,Germany.
+†Eberhard-Karls-University of Tu ¨bingen.
+‡University of Duisburg-Essen.KOC)CsfOC-1Cw-1(1)
+logKOC)c+eE+sS+aA+bB+vV (2)Environ. Sci. Technol. 2009, 43,3094–3100
+3094 9ENVIRONMENTAL SCIENCE & TECHNOLOGY / VOL. 43, NO. 9, 2009 10.1021/es803157e CCC: $40.75 2009 American Chemical Society
+Published on Web 03/26/2009
+Downloaded via THE PROCTER & GAMBLE US on November 4, 2021 at 22:58:39 (UTC).
+See https://pubs.acs.org/sharingguidelines for options on how to legitimately share published articles.
+
+approaches using, e.g., the log of octanol -water partitioning
+coefﬁcients ( KOW).
+So far, only a few studies have applied PP-LFERs for
+modeling a large set of experimental KOCdata. Poole and
+Poole ( 10) derived a PP-LFER equation (i.e., eq 2) using
+experimental log KOCfor soils and sediments tabulated in
+the literature. Later, Nguyen et al. ( 11) conducted a critical
+evaluation on the literature KOCdata and derived a PP-LFER
+equation again. It is important to note that KOCvalues listed
+in these studies and elsewhere in the literature are in mostcases measured at high sorbate concentrations (i.e., >10% of
+the solubility limits). Because of nonlinear sorption, the PP-LFER system parameters (i.e., regression coefﬁcients) mightwell depend on the sorbate concentration in organic matter,as demonstrated in our previous study ( 5). Consequently,
+PP-LFERs calibrated on the log K
+OCfrom such high con-
+centrations might be inappropriate to predict the soil -water
+distribution of organic contaminants in the environment,where contaminant concentrations are typically much lower.
+This study aims to evaluate the PP-LFER model for K
+OC
+in soils at environmentally relevant concentrations. To this
+end, batch sorption experiments were performed using twotypes of terrestrial natural organic matter speat and lignite.
+K
+OCvalues of diverse neutral organic sorbates were deter-
+mined for each sorbent at relatively low sorbate concentra-tions, i.e., 2 mg/kg-dry or 4.3 mg/kg-OC (OC: organic carbon)for peat and 10 mg/kg-dry or 19 mg/kg-OC for lignite. Theseconcentrations correspond to ng/L to high µg/L levels in
+water if compounds with log K
+OCvalues of 1 to 6 are
+considered. The measured log KOCvalues for 51 (peat) and
+58 (lignite) sorbates were regressed with the LSER sorbatedescriptors. The obtained PP-LFER equations for log K
+OC
+under these low-sorbate-loading conditions are compared
+with the literature PP-LFER equations for log KOCunder the
+high-sorbate-loading conditions. The observed differencesare related to sorption nonlinearities for individual sorbatesin both sorbents.
+Materials and Methods
+Sorbents. Peat (Pahokee peat, PP; fOC)0.461) obtained from
+the International Humic Substances Society (IHSS) and lignite(BK-II; f
+OC)0.535) sampled from the Oberlausitz area
+(Saxony, Germany) were used as sorbent. These highlyhumiﬁed materials were pulverised to 20 µm on average using
+a planet ball mill (pulverisette 5, Fritsch) to shorten sorptionperiods necessary for equilibration. Further details of prop-erties of the sorbents have been described previously ( 5, 14 ).
+There are several indications that absorption (or parti-
+tioning) to organic matter instead of adsorption to carbon-
+aceous geosorbents is the main sorption mechanism to thepeat and lignite samples used, at least for nonpolar sorbates.First, the content of carbonaceous geosorbents in bothsorbents determined by a combustion method is low ( <2
+wt%) ( 14). Second, the n-octane-to-cyclooctane sorption
+coefﬁcient ratios ( K
+n/Kc) suggest that the sorption mode of
+alkanes to both sorbents is absorption ( 14). Third, condi-
+tioning-annealing effects on sorption behavior of 1,2,4-trichlorobenzene in the peat ( 15) agrees with the hypothesis
+of sorption to “glassy polymer-like organic matter” ratherthan to rigid carbonaceous sorbents. However, elucidationof the sorption mode is not the scope of this study.
+Probe Chemicals. The probe chemicals considered in this
+study range over many classes of neutral organic compoundsincluding the following: apolar aliphatic (alkanes), weaklypolar aliphatic (halogenated alkanes/alkenes), monopolaraliphatic (e.g., ethers, nitrile), bipolar aliphatic (alcohols),non- or weakly polar aromatic (alkyl benzenes, PAHs,thiophene, furans), monopolar aromatic (e.g., acetophenone,anisole, benzonitrile), and bipolar aromatic (phenols) com-pounds. Here, monopolar compounds represent those thatserve as H-bond acceptor and bipolar compounds as both
+H-bond donor and acceptor. A list of the probe chemicalsand their LSER descriptors is presented in the SupportingInformation (SI-1).
+Batch Sorption Experiments. Some K
+OCdata (16 sorbates
+for peat, 23 sorbates for lignite) were taken from measuredsorption isotherms reported in our previous contribution(5). For each sorbent, K
+OCfor 35 additional sorbates were
+determined in this study. The methods of batch sorptionexperiments follow those reported previously ( 5) with minor
+modiﬁcation. Sorbent suspensions were prepared in crimp-top glass vials. Sorbents (0.01 -1 g) were weighed into the
+vials and mixed with water (10 -110 mL) containing 5 mM
+CaCl
+2as ionic strength regulator and 200 mg/L NaN 3to inhibit
+microbial activity. The vials were horizontally shaken for atleast 20 h to wet the sorbent. Probe sorbates dissolved inmethanol stock solutions were added into the suspensions.Methanol content in water was less than 0.22 vol% to avoid
+signiﬁcant cosolvent effects on sorbate partitioning (ref 16,
+p 165). The vials were closed with PTFE- or aluminum-linedsepta and were shaken at 20 °C for 10 days (or 20 days for
+large, highly sorptive compounds, i.e., γ-hexachlorocyclo-
+hexane, phenanthrene, ﬂuoranthene, 1-nitronaphthalene,dibenzofuran). Other studies ( 4, 5, 17, 18 ) reported that these
+sorption periods are sufﬁciently long for typical organicsorbates to reach equilibrium in pulverized humiﬁed ma-terials. Sorbent-to-water ratios varied between 0.1 and 100mg/mL, depending on the expected K
+OCof sorbates. Con-
+sequently, 20 -94% of the added sorbates were sorbed after
+equilibration, except for ﬂuoranthene (95 -99%). Background
+concentrations of analytes from sorbents and proceduralcontaminations were monitored by preparing batches with-out sorbate spike.
+The equilibrium aqueous phase concentrations of the
+sorbates were measured by gas chromatography/massspectrometry (GC/MS). TraceGC/TraceDSQ (ThermoFinni-gan) equipped with a PAL autosampler (Chromtech) and anRTX-VMS column (60 m ×0.32 mm i.d., 1.8 µm ﬁlm thickness,
+Restek) or 7890A GC/5975C VL MSD (Agilent Technologies)equipped with a PAL autosampler (Gerstel) and an HP-5MScolumn (30 m ×0.25 mm i.d., 1.0 µm ﬁlm thickness, Agilent
+Technologies) was used, depending on the compounds.Calibration standards were prepared by adding methanolstock solutions into water. Volatile sorbates were measuredby headspace injection methods, in which 250 -2000 µLo f
+the gas phase in the batches were withdrawn using a gastightsyringe and introduced into GC/MS. The other sorbates wereanalyzed by the solid phase microextraction (SPME) tech-niques. Prior to the SPME-ﬁber extraction, the sorptionbatches were centrifuged (2500 rpm, ∼1120 ×g, 30 min;
+Megafuge 1.0R, Heraeus Sepatech). The supernatants weretransferred to other vials and spiked with an internal stan-dard. SPME ﬁbers coated with polyacrylate (ﬁlm thickness,85µm; Supelco) were used to extract bipolar sorbates. The
+other sorbates were analyzed by poly(dimethylsiloxane)-coated ﬁbers (ﬁlm thickness, 100 µm; Supelco). SPME ﬁbers
+were immersed in the water for 5 -15 min either statically
+on the sample tray or under agitation. Analytical variabilitieswere typically within 5% and at worst within 10%, as reportedpreviously ( 5). Note that pH in the aqueous phase was 4.2
+to 5.7 with the sorbent-to-water ratios used for phenol probes;thus more than 98% are in their neutral forms in the aqueousphase. For SPME analysis of the chlorophenols (p K
+a)
+7.4-9.5), the standard solutions and the supernatants
+transferred from sorption batches were acidiﬁed by adding0.01 M HCl to ensure further that these phenols are in theneutral forms during extraction.
+Depletion of the aqueous phase concentration due to the
+SPME extraction was tested for phenanthrene and ﬂuoran-thene by repeated extractions (8 -10 times) of an aqueous
+VOL. 43, NO. 9, 2009 / ENVIRONMENTAL SCIENCE & TECHNOLOGY 93095
+
+solution of each compound in the absence of sorbent. The
+results indicate that a single extraction causes on average 4%and 9% reductions in the concentrations of phenanthreneand ﬂuoranthene, respectively, in our experimental setting.Concentration decreases of these levels are too small toinﬂuence signiﬁcantly the distribution of compounds in thesorbent suspensions. Therefore, the concentrations measuredby SPME are not affected by dissolved organic matter orremaining colloidal particles and thus reﬂect the freelydissolved fraction of the compounds ( 19, 20 ).
+The sorbed concentrations were determined by mass
+balance calculations. K
+OCwas determined by eq 1. To obtain
+the values of KOCat the target concentrations, ﬁve batches
+at differing concentrations (with a factor of 2.0 -2.3 incre-
+ments) were prepared. KOCwas determined from each batch
+as mentioned above. Then, log KOCvalues were plotted against
+logCs, and the value of log KOCat the target log Cs(i.e.,
+Cs)2 and 10 mg/kg-dry for peat and lignite, respectively)
+was linearly interpolated. Short-range ( <0.3 of log Cs)
+extrapolations had to be made for phenanthrene, ﬂuoran-thene, and 1-nitronaphthalene in the peat. In some cases,up to four sorbates in similar amounts were mixed into stocksolutions and added to suspensions together to facilitate K
+OC
+determination. In this case, individual log KOCvalues were
+interpolated at concentration levels corresponding to thesum of mixed sorbate concentrations equal to 2 or 10 mg/kg-dry. SI-10 in the Supporting Information presents a listof the mixed sorbates and experimental data showing thatmeasured log K
+OCvalues do not signiﬁcantly differ between
+single and mixture sorbate cases.
+Conservation of the sorbates was tested by recovering
+the added sorbates from extra batches using organic solvents.Details of the recovery experiments are described in SI-2.More than 90% recovery was achieved for most of thesorbates. For some sorbates, however, moderate to sub-stantial loss was observed. If the loss was so high that itwould cause an error of >0.3 in log K
+OC, the corresponding
+sorbate was removed from the data set. Some sorbates in thepeat suspensions showed 70 -90% recoveries that could lead
+to overestimations of log K
+OCby 0.05 -0.25. To assess the
+signiﬁcance of these errors, we compared the PP-LFERequations derived using the recovery-corrected and theuncorrected log K
+OCdata. It was found that the coefﬁcients
+are rarely inﬂuenced by these minor errors (Table S3 in SI-2). Therefore, we simply use the uncorrected data in thefollowing discussions.
+Results and Discussion
+PP-LFER Fitting. Abraham’s PP-LFER (eq 2) was ﬁtted to
+the measured log KOCvalues for peat and lignite. The resultingcoefﬁcients are shown in Table 1. Note that the log KOCvalues
+measured in this study and calculated from the PP-LFERsthat were calibrated on these measured values are hereafterreferred to as log K
+OC,Low , to make a clear distinction from log
+KOCvalues measured or calculated principally for near-
+solubility concentrations (the latter referred to as log KOC,High
+from here on). The measured and calculated log KOC,Low values
+are compared in Figure 1 and listed in SI-3. For peat,differences between calculated and measured log K
+OC,Low
+values were within 0.3 log units (i.e., a factor of 2 difference
+inKOC,Low ) for 42 out of the 51 sorbates studied. Fitting was
+slightly better for lignite, for which 52 out of the 58 sorbatesexhibited deviations of less than 0.3 log units. This ﬁndingshows that the PP-LFER model can reasonably ﬁt to log K
+OC
+of diverse sorbates at environmentally relevant concentra-
+tions. For comparison, the measured log KOC,Low values were
+correlated with the log octanol -water partitioning coef-
+ﬁcients ( KOW) in the literature (SI-4 in the Supporting
+Information). It is evident that the correlations with log KOW
+(R2)0.53 for peat and 0.74 for lignite) were substantially
+worse than those obtained with the PP-LFER model. More-over, SI-4 shows that correlations between log K
+OCand the
+logKOWmay be more scattered at environmentally relevant
+concentrations than at higher concentrations, which stronglydiscourages the use of log K
+OW to predict log KOCat
+environmental concentrations.
+The correlations for peat and lignite show slightly more
+scatter compared to well-deﬁned liquid or solid phases suchas organic solvents ( 21) and chromatographic sorbents ( 22),
+although the log K
+OCvalues used were measured in a
+consistent experimental condition using a single material,and much care was taken to avoid signiﬁcant experimentalartifacts. The larger scatter is probably due to the hetero-geneous organic matter, in which different sorbates mayundergo different sorption mechanisms. Moreover, peatshows appreciably larger scatter than lignite, suggesting thata greater heterogeneity of sorbing organic matter is presentin peat. This greater heterogeneity agrees with the previousﬁnding that sorption nonlinearity to the peat is more sorbate-dependent and is higher for the majority of the tested sorbatesthan to the lignite ( 5). The PP-LFER equations from refs 10
+and 11are also listed in Table 1. Regression coefﬁcients of
+these equations were recalculated in this study usingconsistent solute descriptors so that these equations can becompared with ours (see SI-5 for details). The standarddeviations and R
+2for these literature PP-LFERs were better
+than peat and comparable to lignite. It is reasonable thatsuch a ﬁtting is better at high sorbate concentrations, because
+the signiﬁcance of heterogeneity is expected to be lower athigh concentrations where all high-energy sites are ﬁlled upTABLE 1 .PP-LFERs for log KOCin Peat and Lignite at Sorbate Concentrations of, Respectively, 4.3 and 19 mg/kg-OC (Referred to
+as log K OC,Low ), in Peat at 430 mg/kg-OC (Referred to as log KOC,High ),aand in Soils and Sediments at High Concentrations
+Reported in the Cited References (also as log KOC,High )
+ces a bv R2SD N
+logKOC,Low for peat -1.04 0.31 1.27 -0.10 -3.94 3.71 0.91 0.34 51
+SE 0.24 0.20 0.29 0.25 0.35 0.22logK
+OC,High for peata-0.82 0.43 0.19 0.02 -3.83 3.51 0.90 0.34 51
+SE 0.24 0.21 0.29 0.25 0.35 0.22logK
+OC,Low for lignite -0.28 0.44 0.45 -0.26 -3.43 3.74 0.95 0.24 58
+SE 0.15 0.13 0.18 0.17 0.23 0.15logK
+OC,High (Nguyen et al.)b-0.05 0.88 -0.53 0.08 -2.16 2.54 0.97 0.26 74
+SE 0.11 0.11 0.16 0.17 0.18 0.15logK
+OC,High (Poole and Poole)b0.25 0.81 -0.16 -0.20 -2.34 2.11 0.95 0.26 130
+SE 0.10 0.07 0.12 0.09 0.14 0.11
+aLog KOC,High for peat was calculated through eqs 3 and 4 using measured log KOC,Low . See the text for details.
+bCoefﬁcients were recalculated using the log KOCdata from refs 10and 11. See SI-5 for details. N)number of
+compounds; SE )standard error of the coefﬁcient; SD )standard deviation of the estimations.
+3096 9ENVIRONMENTAL SCIENCE & TECHNOLOGY / VOL. 43, NO. 9, 2009
+
+with the sorbate. Note, however, that the quality of the
+regression statistics is also inﬂuenced by the diversity of thetest sorbates.
+In the Supporting Information, additional comparison
+between peat and lignite with regard to their sorptionproperties is presented (SI-6). As reported previously with asmaller data set ( 5), lignite tended to show higher K
+OCvalues
+for individual sorbates than peat. Moreover, comparison withliterature data (SI-7) suggests that the lignite used is a strongersorbent than typical organic matter regardless of the con-centration range. It appears that coaliﬁcation to lignitesigniﬁcantly alters its sorbent properties from youngerorganic matter including peat. Hence, for assessment ofmagnitude of K
+OCin soils, lignite may not be a representative
+sorbent, and thus we focus on the peat in the followingdiscussions.
+Comparison between PP-LFERs at Differing Concentra-
+tions. The PP-LFER for log K
+OC,Low in peat derived in this
+study is compared to the literature PP-LFER from Nguyen etal. (11). These authors carefully selected literature K
+OCvalues
+measured at high sorbate concentrations. Therefore, their
+data set and PP-LFER may be regarded as representative ofpublished K
+OCfor high concentrations (thus referred to as
+KOC,High here). Note that comparison of our PP-LFER with
+that from Poole and Poole ( 10) (discussed in SI-8) leads to
+very similar results to that from Nguyen et al., as might beexpected from the numerical similarity between these twoequations.
+Table 1 shows that values of some regression coefﬁcients
+from the literature are apparently different to those fromthis study. However, direct comparison of regression coef-ﬁcients that were calibrated from limited and differing sorbatesets may not be speciﬁc enough, as such regression coef-ﬁcients can be inﬂuenced by the diversity of test sorbatesand statistical artifacts. Furthermore, some coefﬁcients maydiffer in the opposite directions which can be canceled andbecome insigniﬁcant in predicted log K
+OC. Therefore, in this
+study comparison of the PP-LFER equations was performedby means of mutual prediction, i.e., experimental log K
+OC
+data from this study were predicted by the PP-LFER equations
+from the literature, and vice versa.
+Figure 2A compares the measured log KOC,Low for peat
+with the predictions by Nguyen’s PP-LFER. The literaturePP-LFER adequately predicted log K
+OC,Low of non- and weakly
+polar aliphatic sorbates, whereas it consistently underpre-dicted log K
+OC,Low of aromatic and some polar aliphatic
+sorbates by around one log unit. This ﬁnding indicates thatthe PP-LFER equation from Nguyen et al. is, indeed, for highconcentrations and can cause substantial errors for particular
+compounds if used to predict K
+OCat typical environmental
+concentrations.
+We subsequently compare the experimental log KOC,High
+collected by Nguyen et al. ( 11) to the predictions by the PP-
+LFER equation calibrated on the experimental log KOC,Low
+values for peat (Figure 2B). The results show that the PP-
+LFER for log KOC,Low overestimates the experimental KOC,High
+values by 1.4 log units on average. This disagreement is
+consistent with the results from the inverse comparisonshown above, which re-emphasizes that there are signiﬁcantdifferences between the PP-LFERs from both concentrationlevels. Deviations of the data points from the 1:1 line seenin Figure 2B are even clearer than Figure 2A. This is becausethe experimental data set collected by Nguyen et al. consistsmostly of aromatic compounds, for which the deviationswere found to be large. Noteworthy is that log K
+OC,Low values
+for PCBs 194 and 202 are predicted as 10.6, which is 4 log-units higher than the experimental log K
+OC,High values in ref
+11. Such a large deviation would be extremely important.
+However, this deviation is based on the extrapolations of ourPP-LFER to the PCBs that are outside the calibration domainwith regard to the Sand Vdescriptors and thus may be
+somewhat biased. Therefore, further experimental data arerecommended at low concentrations for compounds ex-hibiting such large log K
+OC.
+Prediction of Sorption Nonlinearities for Peat. In our
+previous contribution ( 5), we reported that sorption isotherms
+of 16 sorbates in the studied peat follow the Freundlich modeland that there is a correlation between the sorption non-linearity (expressed by the Freundlich exponent, 1/ n) and
+the sorbate dipolarity/polarizability descriptor S
+This relationship may allow for estimating log K
+OCvalues at
+varying concentrations based on a log KOCvalue determined
+at a single concentration. Thus, if eq 3 also holds for the 35additional, more diverse sorbates measured in this study,then one should be able to estimate log K
+OCvalues at higher
+concentration that agree better with the log KOC,High predicted
+by the literature PP-LFER. Accordingly, the deviations seenin Figure 2A should diminish. To assess this hypothesis, logK
+OCvalues at a higher sorbed concentration (i.e., log KOC,High )
+for the used peat were calculated using the measured KOC,Low ,
+the Freundlich model, and eq 3; thus
+FIGURE 1. Comparison between calculated and measured log KOCvalues for peat and lignite. Experimental concentrations were 4.3
+and 19 mg/kg-OC for peat and lignite, respectively. Solid lines represent the 1:1 ﬁt, and dashed lines indicate 0.3 log-unit deviations(a factor of 2 for K
+OC) from measured values. N)number of data points; SD )standard deviation; RMSE )root mean squared error.
+1/n)0.97((0.01)-0.27((0.02) S
+(R2)0.90; for Pahokee peat) (3)
+VOL. 43, NO. 9, 2009 / ENVIRONMENTAL SCIENCE & TECHNOLOGY 93097
+
+∆(log Cs) is the difference in sorbed concentration from the
+measured level (here: 2 mg/kg-dry). The value of 1/ nis
+calculated from eq 3 for each sorbate, and the value of ∆(log
+Cs) is ﬁxed to 2 here (i.e., 100 times higher Cs; 200 mg/kg-dry,
+or 430 mg/kg-OC). This value of ∆(log Cs) chosen for the
+calculation is rather arbitrary, and the inﬂuence of theconcentration on the results is brieﬂy discussed in SI-9.
+The estimated log K
+OC,High for peat by eq 4 and the predicted
+logKOC,High by the literature PP-LFER are compared in Figure
+2C. Compared to Figure 2A, these two sets of log KOCagree
+much better with deviations mostly within 0.5 log units (afactor of 3 for K
+OC). Basically, the data points for polar and/or
+aromatic sorbates have shifted to the 1:1 line in Figure 2Ccompared to Figure 2A because of the relatively high Svalues
+of these sorbates, whereas nonpolar aliphatic compounds(alkanes, halo-aliphatic compounds) remain around the 1:1line reﬂecting their low Svalues. The excellent agreement in
+Figure 2C suggests that the 1/ n-Srelationship (eq 3) used
+to estimate K
+OC,High for peat is valid for the extended test
+sorbates and that the deviations observed in Figure 2A canbe quantitatively explained by the varying sorption nonlin-earities for individual sorbates.Note that some systematic underpredictions of K
+OCstill
+exist for n-alkanes in Figure 2C. Moreover, the data points
+forn-alkanes are not parallel to the 1:1 line. The concentration
+difference does not explain these trends, as sorption ofn-alkanes for this peat is extensively linear ( 5). Since a -CH
+2-
+increment to molecular structure increases only the V
+parameter in eq 2, the deviation from parallel indicates thatthe contribution of the molecular size to log K
+OCis differently
+evaluated. This is likely because Eand Vvalues of Nguyen’s
+sorbate set are correlated with each other ( R2)0.75), mainly
+due to the large number of nonpolar aromatic compoundsin their data set (see SI-5), which can lead to distribution of
+the statistical information to eand vand affect the predict-
+ability. Our data set contains both aliphatic and aromaticsorbates and does not have a correlation between Eand V
+(R
+2)0.01). A similar discussion has been presented by
+Niederer et al. ( 23) using humic acid -air distribution
+coefﬁcients. Note that this is not a problem speciﬁc to thecited reference, but there is a general lack of K
+OCdata for
+aliphatic compounds (except for small chlorinated com-pounds) in the literature (also see SI-5 for the probe set ofPoole and Poole ( 10)).
+A PP-LFER equation was derived based on the estimated
+logK
+OC,High for peat (Table 1). This PP-LFER predicts the
+FIGURE 2. Comparison between calculated (predicted) and measured log KOC. (A) Predictions by the PP-LFER from ref 11vs
+measured log KOC,Low for peat. (B) Predictions by the PP-LFER calibrated on log KOC,Low for peat vs measured log KOC,High collected by
+ref11. (C) Predictions by the PP-LFER from ref 11vs log KOC,High for peat*. (D) Predictions by the PP-LFER calibrated on log KOC,High for
+peat vs measured log KOC,High collected by ref 11. Solid lines represent the 1:1 agreements, and dashed lines indicate 0.3 log-unit
+deviations (a factor of 2 for KOC).N)number of data points; RMSE )root mean squared error. *Estimated values based on
+experimental data; see the text for details.logKOC,High )logKOC,Low-(1
+1/n-1)∆(log Cs) (4)
+3098 9ENVIRONMENTAL SCIENCE & TECHNOLOGY / VOL. 43, NO. 9, 2009
+
+literature experimental log KOC,High much better (Figure 2D)
+than the PP-LFER for log KOC,Low does (Figure 2B), indicating
+again the validity of the 1/ n-Srelationship. The PP-LFER
+based on the estimated log KOC,High still tend to overpredict
+the experimental log KOC,High for large PCBs (see the deviations
+at measured log KOC,High >5 in Figure 2D). As mentioned
+above, one reason may be that our sorbate set does notinclude such large compounds. However, another possiblecause lies in the concentration chosen; we rather arbitrarilydeﬁned K
+OC,High for peat as the values at 200 mg/kg-dry, but
+ifKOCvalues at 2000 mg/kg-dry instead are taken, the resultant
+PP-LFER would provide excellent predictions for the largePCBs (data not shown). The calculations of K
+OC,High for
+sorbates with large Svalues are sensitive to the choice of
+concentration, as sorption for these sorbates is predicted tobe strongly nonlinear by eq 3. Therefore, the level ofagreement shown in Figure 2D for PCBs seems reasonable.
+Niederer et al. ( 24) measured organic carbon -air distri-
+bution coefﬁcients for diverse compounds in 10 humicsubstances. Based on these data, they estimated log K
+OCvalues
+through a thermodynamic cycle and derived PP-LFERequations for each sorbent. Their experimental and predictedvalues of log K
+OCare compared with ours in SI-11, Supporting
+Information. Overall, our results from peat and lignite are ingood agreement with those reported in ref 24for two humic
+acids from terrestrial environments (Leonadite, Amherstpeat). Agreement is less substantial with humic acids fromaquatic environments and fulvic acids in general. Anotherinteresting trend is that Niederer’s experimental/predictedlogK
+OCgenerally agree better with log KOC,High compared to
+logKOC,Low for peat. However, since there are many differences
+in experimental settings between ref 24and this study (see
+SI-11), these comparisons are not conclusive.
+Noteworthy is that apparently different PP-LFER equa-
+tions (compare PP-LFERs for “log KOC,High for peat” and
+“KOC,High (Nguyen et al.)” in Table 1) led to a fairly good
+agreement for many sorbates at high concentrations (Figure2C,D). Deviations may become recognizable only if oneequation is applied to types of compounds that are notcovered by the test sorbate set, as shown above with n-alkanes
+and large PCBs as examples. Predicting log K
+OCof compounds
+that are out of the application domain can lead to large errors.Thus, it is essential to bear in mind the application domainof the model. Examples of such compounds for the PP-LFERsderived in this study are (i) large hydrophobic compounds(e.g., ﬁve-ring or larger PAHs), (ii) acids, bases, and ioniccompounds, (iii) highly polar, multifunctional compounds(e.g., some pesticides, pharmaceuticals), and (iv) perﬂuori-nated compounds.
+This study provided the ﬁrst well-calibrated PP-LFER
+equation for log K
+OCat sorbate concentrations of high
+environmental relevance. Using this PP-LFER equation andthe 1/ n-Srelationship, we are now able to predict log K
+OC
+for a wide variety of neutral organic compounds at varying
+concentrations, at least for the peat used in this work. Theapproaches using PP-LFERs with diverse molecular probespresented in this and previous work ( 5) are evidentially useful
+to comprehend the sorption of organic matter that showsnonlinearity and to establish prediction methods for log K
+OC
+at varying concentrations. Therefore, these approaches
+should be extended to other representative soils and sedi-ments from various environments.
+Acknowledgments
+This work was supported by the European Union FP6Integrated Project AquaTerra (GOCE 505428).
+Supporting Information Available
+Lists of the probe sorbates and of the measured and calculatedlogK
+OCvalues and discussions on simple regressions with
+log KOW, conservation of sorbates, recalculation of theliterature PP-LFERs, comparison between lignite and peat,
+comparison between lignite data and the literature PP-LFERs,PP-LFERs from refs 10and 24, and the choice of ∆(log C
+s).
+This material is available free of charge via the Internet athttp://pubs.acs.org.
+Literature Cited
+(1) Schwarzenbach, R. P.; Escher, B. I.; Fenner, K.; Hofstetter, T. B.;
+Johnson, C. A.; von Gunten, U.; Wehrli, B. The challenge ofmicropollutants in aquatic systems. Science 2006 ,313, 1072–
+1077.
+(2) Huang, W.; Young, T. M.; Schlautman, M. A.; Yu, H.; Weber,
+W. J., Jr. A distributed reactivity model for sorption by soils andsediments. 9. General isotherm nonlinearity and applicabilityof the dual reactive domain model. Environ. Sci. Technol. 1997 ,
+31, 1703–1710.
+(3) Xia, G.; Ball, W. P. Adsorption-partitioning uptake of nine low-
+polarity organic chemicals on a natural sorbent. Environ. Sci.
+Technol. 1999 ,33, 262–269.
+(4) Xia, G.; Pignatello, J. J. Detailed sorption isotherms of polar and
+apolar compounds in a high-organic soil. Environ. Sci. Technol.
+2001 ,35, 84–94.
+(5) Endo, S.; Grathwohl, P.; Haderlein, S. B.; Schmidt, T. C.
+Compound-speciﬁc factors inﬂuencing sorption nonlinearityin natural organic matter. Environ. Sci. Technol. 2008 ,42, 5897–
+5903.
+(6) Allen-King, R. M.; Grathwohl, P.; Ball, W. P. New modeling
+paradigms for the sorption of hydrophobic organic chemicalsto heterogeneous carbonaceous matter in soils, sediments, androcks. Adv. Water Res. 2002 ,25, 985–1016.
+(7) Cornelissen, G.; Gustafsson, O ¨.; Bucheli, T. D.; Jonker, M. T. O.;
+Koelmans, A. A.; van Noort, P. C. M. Extensive sorption of organiccompounds to black carbon, coal, and kerogen in sedimentsand soils: Mechanisms and consequences for distribution,bioaccumulation, and biodegradation. Environ. Sci. Technol.
+2005 ,39, 6881–6895.
+(8) Weber, W. J., Jr.; LeBoeuf, E. J.; Young, T. M.; Huang, W.
+Contaminant interactions with geosorbent organic matter:Insights drawn from polymer sciences. Water Res. 2001 ,35,
+853–868.
+(9) Pignatello, J. J.; Lu, Y.; LeBoeuf, E. J.; Huang, W.; Song, J.; Xing,
+B. Nonlinear and competitive sorption of apolar compounds inblack carbon-free natural organic materials. J. Environ. Qual.
+2006 ,35, 1049–1059.
+(10) Poole, S. K.; Poole, C. F. Chromatographic models for the sorption
+of neutral organic compounds by soil from water and air.J. Chromatogr., A 1999 ,845, 381–400.
+(11) Nguyen, T. H.; Goss, K.-U.; Ball, W. P. Polyparameter linear free
+energy relationships for estimating the equilibrium partition oforganic compounds between water and the natural organicmatter in soils and sediments. Environ. Sci. Technol. 2005 ,39,
+913–924.
+(12) Abraham, M. H. Scales of solute hydrogen-bonding: Their
+construction and application to physicochemical and bio-chemical processes. Chem. Soc. Rev. 1993 ,22, 73–83.
+(13) Abraham, M. H.; Ibrahim, A.; Zissimos, A. M. Determination of
+sets of solute descriptors from chromatographic measurements.J. Chromatogr., A 2004 ,1037 , 29–47.
+(14) Endo, S.; Grathwohl, P.; Haderlein, S. B.; Schmidt, T. C. Charac-
+terization of sorption properties of soil organic matter andcarbonaceous geosorbents using n-alkanes and cycloalkanes as
+molecular probes. Environ. Sci. Technol. 2009 ,43, 393–400.
+(15) Sander, M.; Lu, Y.; Pignatello, J. J. Conditioning-annealing studies
+of natural organic matter solids linking irreversible sorption toirreversible structural expansion. Environ. Sci. Technol. 2006 ,
+40, 170–178.
+(16) Schwarzenbach, R. P.; Gschwend, P. M.; Imboden, D. M.
+Environmental Organic Chemistry , 2nd ed.; John Wiley & Sons:
+New York, 2003.
+(17) Kleineidam, S.; Schu ¨th, C.; Grathwohl, P. Solubility-normalized
+combined adsorption-partitioning sorption isotherms for or-ganic pollutants. Environ. Sci. Technol. 2002 ,36, 4689–4697.
+(18) Zhu, D.; Pignatello, J. J. A concentration-dependent multi-term
+linear free energy relationship for sorption of organic com-pounds to soils based on the hexadecane dilute-solutionreference state. Environ. Sci. Technol. 2005 ,39, 8817–8828.
+(19) ter Laak, T. L.; Mayer, P.; Busser, F. J. M.; Klamer, H. J. C.;
+Hermens, J. L. M. Sediment dilution method to determinesorption coefﬁcients of hydrophobic organic chemicals. Environ.
+Sci. Technol. 2005 ,39, 4220–4225.
+VOL. 43, NO. 9, 2009 / ENVIRONMENTAL SCIENCE & TECHNOLOGY 93099
+
+(20) Georgi, A.; Reichl, A.; Trommler, U.; Kopinke, F.-D. Inﬂuence
+of sorption to dissolved humic substances on transformationreactions of hydrophobic organic compounds in water. I.Chlorination of PAHs. Environ. Sci. Technol. 2007 ,41, 7003–
+7009.
+(21) Abraham, M. H.; Gola, J. M. R.; Cometto-Muniz, J. E.; Cain, W. S.
+Solvation properties of refrigerants, and the estimation of theirwater-solvent and gas-solvent partitions. Fluid Phase Equilib.
+2001 ,180, 41–58.
+(22) Poole, C. F.; Kiridena, W.; Dekay, C.; Koziol, W. W.; Rosencrans,
+R. D. Insights into the retention mechanism on an octadecyl-siloxane-bonded silica stationary phase (Hypurity C
+18)i nreversed-phase liquid chromatography. J. Chromatogr., A 2006 ,
+1115 , 133–141.
+(23) Niederer, C.; Goss, K.-U.; Schwarzenbach, R. P. Sorption
+equilibrium of a wide spectrum of organic vapors in Leonarditehumic acid: Modeling of experimental data. Environ. Sci.
+Technol. 2006 ,40, 5374–5379.
+(24) Niederer, C.; Schwarzenbach, R. P.; Goss, K.-U. Elucidating
+differences in the sorption properties of 10 humic and fulvicacids for polar and nonpolar organic chemicals. Environ. Sci.
+Technol. 2007 ,41, 6711–6717.
+ES803157E
+3100 9ENVIRONMENTAL SCIENCE & TECHNOLOGY / VOL. 43, NO. 9, 2009
+
